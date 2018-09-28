@@ -3,8 +3,8 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-url: "http://JoshuaFox.github.io/beautiful-jekyll"
-baseurl: "/beautiful-jekyll"
+url: "http://www.joshuafox.com"
+baseurl: "/"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -84,7 +84,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "joshuafox.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "joshuafox.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
