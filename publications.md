@@ -1,8 +1,9 @@
 ---
-title: 'Publications &#038; Talks'
+title: "Publications &#038; Talks"
 author: Joshua T. Fox
 layout: page
 ---
+
 **On Software**
 
 • “Google App Engine Flexible Environment: Beyond the Bounds of PaaS” ([Video](https://www.youtube.com/watch?v=QmmzUbX7IEY&t=22s)).  The first ever talk or article dedicated to this new Google PaaS. _Multicloud Engineering,_ 2017.
@@ -63,11 +64,11 @@ layout: page
 
 • “Approaches for Modeling Metadata in XML”, industry experts panel, _XML Conference_, Boston, 2007
 
-• “[The Portal as People-Centric SOA](http://www.joshuafox.com/wp-content/uploads/2017/05/ThePortalAsPeopleCentricSOA.pdf),” MainSoft Corporation White Paper, 2007.
+• “[The Portal as People-Centric SOA](/wp-content/uploads/2017/05/ThePortalAsPeopleCentricSOA.pdf),” MainSoft Corporation White Paper, 2007.
 
 > As a consultant for a leading provider of Java-.NET interoperability software, I wrote a white paper evangelizing the company’s IBM WebSphere Portal product, showing how it functions as a user-facing on-ramp to SOA.
 
-• “[The Hub and the Edge: Balancing the Responsibilities](http://www.joshuafox.com/wp-content/uploads/2014/10/Hub-and-the-Edge.pdf),” _Architecture and Governance Magazine_,  2007.
+• “[The Hub and the Edge: Balancing the Responsibilities](/wp-content/uploads/2014/10/Hub-and-the-Edge.pdf),” _Architecture and Governance Magazine_,  2007.
 
 > Architecture is as much about the organization as about technology. This article explains how to divide responsibilities in Service Oriented Integration to let each team do what they do best.
 
@@ -107,7 +108,7 @@ layout: page
 
 > Schemas control the structure of information, But they don’t specify what a field means. Is that “salary” field monthly or annual? Semantic data management helps you keep track and avoid expensive mistakes.
 
-• “[Active Information Models for Data Transformation](http://www.joshuafox.com/wp-content/uploads/2014/10/Active_Information_Models_for_Data_Transformation_-_May_2003_-_Joshua_Fox.pdf),” _eAI Journal_ (later renamed to _Business Integration Journal_ and _Align Journal_), 2003.
+• “[Active Information Models for Data Transformation](/wp-content/uploads/2014/10/Active_Information_Models_for_Data_Transformation_-_May_2003_-_Joshua_Fox.pdf),” _eAI Journal_ (later renamed to _Business Integration Journal_ and _Align Journal_), 2003.
 
 > EAI gives _O(n)_ complexity for connecting _n_ applications on the network, but there remains an _O(n2)_ complexity for integrating the message formats that the applications use as input and output. With an ontology-based approach, however, this too can be reduced to _O(n)_.
 
@@ -115,7 +116,7 @@ layout: page
 
 > Web Services lookup with UDDI requires client and server to agree on the exact syntax of the interaction. Using the principles of ontology, providers can publish and clients can discover Services based on the desired functionality rather than the syntactic details.
 
-• “[Generating XSLT with a Semantic Hub](http://www.joshuafox.com/wp-content/uploads/2014/10/Generating-XSLT-with-a-Semantic-Hub.pdf),”  _XML Conference_,  2002.
+• “[Generating XSLT with a Semantic Hub](/wp-content/uploads/2014/10/Generating-XSLT-with-a-Semantic-Hub.pdf),”  _XML Conference_,  2002.
 
 > XLST was a promising XML technology that never fulfilled its promise because it was so hard to write and maintain. But when generated automatically from semantic information about what data is used for, XSLT becomes an automated information interchange language.
 
@@ -139,7 +140,7 @@ layout: page
 
 • “Distributed Garbage Collection and Socket Option Keep-Alive,” _JavaOne_, San Francisco, 2000.
 
-• “[Opaque Bodies, Transparent Envelopes](http://www.joshuafox.com/wp-content/uploads/2014/10/XML_OpaqueTransparent.pdf),” _XML-Journal_, 2000.
+• “[Opaque Bodies, Transparent Envelopes](/wp-content/uploads/2014/10/XML_OpaqueTransparent.pdf),” _XML-Journal_, 2000.
 
 > Separating layers of abstraction by packaging a body of one layer in an envelope of another layer is one of the fundamental design principles in data transfer. This principle holds for XML just as for any data transfer format, but implementing a system that observes layer separation can be difficult. This article describes how to do it.
 
