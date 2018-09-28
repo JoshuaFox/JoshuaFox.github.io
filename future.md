@@ -35,7 +35,7 @@ But I still do what I can, where I think I can make a different. A lecture “[W
     *   “[Unintended Consequences: 19th Century Socialism and 21st Century Transhumanism](http://hplusmagazine.com/2011/07/07/unintended-consequences-19th-century-socialism-and-21st-century-transhumanism/).”
     *   “[Beyond Otaku: Transhumanism and Judaism](http://hplusmagazine.com/2011/08/18/beyond-otaku-transhumanism-and-judaism/).”
     *   “[Planning for the End of an Era](http://hplusmagazine.com/2011/11/18/planning-for-the-end-of-the-era/).” How to plan for retirement when the end of civilization-as-you-know-it is nigh.
-*   An  article on [acausal trade](http://wiki.lesswrong.com/wiki/Acausal_trade) at LessWrong Wiki (also [here](http://www.joshuafox.com/more/the-human-future/acausal-trade/ "Acausal Trade")), apparently the only existing intro to the topic.
+*   An  article on [acausal trade](http://wiki.lesswrong.com/wiki/Acausal_trade) at LessWrong Wiki, apparently the only existing intro to the topic.
 *   Other LessWrong Wiki articles:  [AIXI](http://wiki.lesswrong.com/wiki/AIXI), [Paperclip Maximizer](http://wiki.lesswrong.com/wiki/Paperclip_maximizer), [Subgoal Stomp](http://wiki.lesswrong.com/wiki/Subgoal_stomp), [Terminal Value,](http://wiki.lesswrong.com/wiki/Terminal_value) [Anvil Problem](http://wiki.lesswrong.com/wiki/Anvil_problem),  [Computronium,](http://wiki.lesswrong.com/wiki/Computronium) and [Benevolence](http://wiki.lesswrong.com/wiki/Benevolence)**.**
 *   [Blog posts](http://adarti.blogspot.com/search/label/singularity)
 *    [LessWrong posts](http://lesswrong.com/user/JoshuaFox/submitted/)
