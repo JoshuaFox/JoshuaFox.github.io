@@ -159,11 +159,11 @@ layout: page
 
 **Recruiting and Career**
 
-*   [On informational interviews](http://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, for **ERE**, the leading  site for tech recruiters. It [also appeared](http://www.gius.co.il/%D7%90%D7%99%D7%9A-%D7%96%D7%94-%D7%9C%D7%A2%D7%91%D7%95%D7%93-%D7%A9%D7%9D/) at Israel’s top news site for recruiters, gius.co.il.
+*   [On informational interviews](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, for **ERE**, the leading  site for tech recruiters. It [also appeared](http://www.gius.co.il/%D7%90%D7%99%D7%9A-%D7%96%D7%94-%D7%9C%D7%A2%D7%91%D7%95%D7%93-%D7%A9%D7%9D/) at Israel’s top news site for recruiters, gius.co.il.
 *   On the game-theoretical perspective on [kegerators](http://pando.com/2013/12/21/in-praise-of-the-office-kegerator-the-future-of-better-jobs/) for **Pando**
 *   On building [ open-source communities](https://opensource.com/business/13/7/four-tips-project-to-business)  by recruiting top tech talent from among the members, at **OpenSource.com**
 *   Career tips [for Generation Y professionals](http://blog.brazencareerist.com/author/joshfox/) at **Brazen Careerist**
 *   [The rise of the anti-recruiter](http://readwrite.com/2013/08/23/recruiters-jobs-matchmakers-developers) at **ReadWrite**
-*   On [a new approach to recruiting](http://www.informationweek.com/strategic-cio/executive-insights-and-innovation/stop-recruiting-start-connecting/a/d-id/1297627?)  at **Information Week,** written with our advisor, Jack Perkins
-*   On effective [employer branding](http://www.ere.net/2014/06/18/not-too-expensive-employer-branding/) for **ERE**
+*   On [a new approach to recruiting](http://www.informationweek.com/strategic-cio/executive-insights-and-innovation/stop-recruiting-start-connecting/a/d-id/1297627?)  at **Information Week,**  with Jack Perkins
+*   On effective [employer branding](https://web.archive.org/web/20140624045748/https://www.ere.net/2014/06/18/not-too-expensive-employer-branding/) for **ERE**
 *   [On informational Interviews](http://www.businessinsider.com/a-networking-trick-that-could-help-you-find-your-next-job-2014-2), from the professional’s perspective, for **Business Insider**
