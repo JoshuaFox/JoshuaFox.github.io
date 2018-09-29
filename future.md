@@ -8,13 +8,13 @@ AI Risk
 
 Once artificial general intelligence is developed, it will put humanity at tremendous risk. Yet if done right, it can make people’s lives much better. If you’d like to learn more, read [_Superintelligence_](http://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies), by Professor Nick Bostrom of the Future of Humanity Institute at Oxford University.
 
-In 2010, I noticed that the[Machine Intelligence Research Institute](http://www.intelligence.org) (then known as SIAI) desperately needed to engage with academia and the wider community. So, I published and spoke on MIRI topics. They saw what I was doing, and in 2011 asked me to join them with the title Research Associate. My work contributed to a tremendous strengthening of the organization: In a year we published more peer-reviewed papers, than in all previous years combined.
+In 2010, I noticed that the [Machine Intelligence Research Institute](http://www.intelligence.org) (then known as SIAI) desperately needed to engage with academia and the wider community. So, I published and spoke on MIRI topics. They saw what I was doing, and in 2011 asked me to join them with the title Research Associate. My work contributed to a tremendous strengthening of the organization: In a year we published more peer-reviewed papers, than in all previous years combined.
 
 I also saw that Israel, though a strong force in computer science, artificial intelligence, and entrepreneurship, is weakly represented in the AI-risk community. So, I took on the role of reaching out to professors and technology leaders to spread AI-risk ideas.
 
 I served in that role until I was confident in MIRI’s ability to move ahead without my help, in early 2014.
 
-But I still do what I can, where I think I can make a different. A lecture “[What’s Worrying Elon Musk,](https://youtu.be/rkN2iIozniw)” May 2016, at a meetup that attracts some of Israel’s stronger engineers.
+But I still do what I can, where I think I can make a difference. A lecture “[What’s Worrying Elon Musk,](https://youtu.be/rkN2iIozniw)” May 2016, at a meetup that attracts some of Israel’s stronger engineers.
 
 **Peer-reviewed articles and lectures**
 
