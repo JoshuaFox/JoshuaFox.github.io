@@ -16,9 +16,6 @@ Harvard Semitic Museum / Eisenbrauns, 2003.
 
 See also: [Articles](../philology) in philology
 
-**Feedback:**
-
-Contact me at ![info at joshuafox dot com](/img/info_at_joshuafox_com.png) for comments or errata to share with other readers at this page.
 
 **Reviews:**
 

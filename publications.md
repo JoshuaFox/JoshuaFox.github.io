@@ -12,7 +12,7 @@ layout: page
 
 > Running heavy-duty graph algorithms against a very large dataset require some unusual design principles. Freightos may not be the only company doing it, but no cloud platform today is optimized for this; in fact, the usual design assumptions in cloud platforms are quite the opposite of what we needed. Here is how we did it.
 
-• “Modeling Retail Products: A Big Data Approach”, _The Software Generalist_.
+• “Modeling Retail Products: A Big Data Approach,” _The Software Generalist_.
 
 • “[Search and You Shall Find](https://medium.com/@Twiggle/search-and-you-shall-find-c2d2c3c43cf2),” _Medium_.
 
