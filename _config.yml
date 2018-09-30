@@ -19,7 +19,6 @@ description: JTF
 # List of links in the navigation bar
 navbar-links:
   Software:
-    - My LinkedIn: "https://www.linkedin.com/in/joshuafox/"
     - Patents: "patents"
     - Public Speaking and Articles: "publications"
   Our Human Future: "future"
