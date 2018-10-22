@@ -8,7 +8,7 @@ subtitle:
   © 1999 by Joshua Fox
 </p>
 
-> _Note added 2012: Leading doctors in Britain&#8217;s National Health Service are now advocating Naso-Gastric Feeding as the preferred nutritional approach to better health. (The <em>Daily Mail</em></span>](http://www.dailymail.co.uk/femail/article-2110165/Ketogenic-Enteral-Nutrition-diet-NHS-specialist-recommends-fed-drip-lose-weight.html) _.) Remember, you read it here first&#8211;way back in 1999!_
+> _Note added 2012: Leading doctors in Britain&#8217;s National Health Service are now advocating Naso-Gastric Feeding as the preferred nutritional approach to better health. (The [Daily Mail](http://www.dailymail.co.uk/femail/article-2110165/Ketogenic-Enteral-Nutrition-diet-NHS-specialist-recommends-fed-drip-lose-weight.html).) Remember, you read it here first&#8211;way back in 1999!_
 
 As modern science provides ever more efficient ways to nurture our bodies and preserve our health, exciting new nutritional methods have developed. In particular, Nasogastric Feeding has rapidly gained popularity as the best, most healthful way for us to get our full nutritional needs.
 
