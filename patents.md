@@ -17,7 +17,7 @@ Here are my patents and patents pending.
 *   [Focused Personal Identifying Information Redaction](https://patents.google.com/patent/US9892278B2/en) (US 9892278)
 *   [Tracking Stale Comments in Source Code Listings](https://www.google.com/patents/US8607193) (US8607193)
 *   [Automated document redaction](http://www.google.com/patents/US9195853) (US9195853)
-*   [Minimizing sensitive data exposure during preparation of redacted documents](https://www.google.com/patents/US8959654)  (US 8959654; also [US 8959654](https://patents.google.com/patent/US8959654B2))
+*   [Minimizing sensitive data exposure during preparation of redacted documents](https://www.google.com/patents/US8959654)  (US 8959654; also [US10216958B2](https://patents.google.com/patent/US10216958B2))
 *   [Distributed, non-intrusive code review in a development environment](https://www.google.com/patents/US8627279) (US 8627279; also [US 8843886](https://patents.google.com/patent/US8843886B2/en))
 *   [Iterative Refinement of Search Results Based on User Feedback](https://patents.google.com/patent/US9069843B2)  (US9069843; also [US 9158836](https://patents.google.com/patent/US9158836B2/en))
 *   [Selecting Portions of Computer-Accessible Documents for Post-Selection Processing](https://www.google.com/patents/US9600134) (US 9600134; also [US 9886159](https://patents.google.com/patent/US9886159B2/en))
