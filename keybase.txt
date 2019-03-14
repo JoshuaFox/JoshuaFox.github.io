@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/joshuafox
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://joshuafox.com
+  * I am joshuafox (https://keybase.io/joshuafox) on keybase.
+  * I have a public key ASA7NpqoM0BdtWHpgHjB6Ik6N0BEku6OCSVgwgq3BIAnBwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203b369aa833405db561e98078c1e8893a37404492ee8e092560c20ab7048027070a",
+      "host": "keybase.io",
+      "kid": "01203b369aa833405db561e98078c1e8893a37404492ee8e092560c20ab7048027070a",
+      "uid": "9e2336337a1eb88b8353aaeab448cd19",
+      "username": "joshuafox"
+    },
+    "merkle_root": {
+      "ctime": 1552555565,
+      "hash": "930d6644a72c7690e30ad35acd218e52094cc1ff7772104c9e8206e5f9863feba0a7309fa52f5a8bb324fb25ad7c0c216f33863a132da10eeeaee758967a486f",
+      "hash_meta": "e7d9c77215b045a3a7d4609d401400fbcbed4cfa904ef7544453d69730e18fcf",
+      "seqno": 4946461
+    },
+    "service": {
+      "entropy": "DGnZfwcabOmO8qtXLqzZr6lK",
+      "hostname": "joshuafox.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1552555575,
+  "expire_in": 504576000,
+  "prev": "a1c267cb1c5d1cb1f7b0f42f42589621210b2d6768bcbc55d34a53f083532532",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOzaaqDNAXbVh6YB4weiJOjdARJLujgklYMIKtwSAJwcKp3BheWxvYWTESpcCB8QgocJnyxxdHLH3sPQvQliWISELLWdovLxV00pT8INTJTLEIHzlOse9ViVPhm8x9d0JFKVAdROFBdyHV0tlzu8zE/vLAgHCo3NpZ8RALsY4I7z/+BRH5hFKGUjdwjA7VRJ1CwmJ1uqyUCBEtytZV/HWZ6+9k1p/AC0Ej8bVySIc63pr9sM33RFWmOrsC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJGmM6WTVxsTzdziXSAVMdyj+DoYt/Ai3emNmYb4FAu1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joshuafox
+
+==================================================================
