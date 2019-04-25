@@ -121,12 +121,5 @@
   {% if site.matomo %}
   {% include matomo.html %}
   {% endif %}
-	<script>
-		var w=window.location.href;
-		if (w.includes("//www.")) {
-		  	var new_url=w.replace("//www.", "//");
-			window.location.replace(new_url);
-	        }
-	</script>
 
 </head>
