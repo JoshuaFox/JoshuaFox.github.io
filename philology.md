@@ -14,6 +14,6 @@ Publications in Semitic Philology (Google Scholar [shows citations.](http://sc
 *   “[Gemination of C2 in Noun Patterns in Hebrew and Other Semitic Languages](/wp-content/uploads/2014/10/Fox-Gemination.pdf)” (Hebrew), [מכפל ב-ע’ הפועל במשקלי שמות בעברית ובשאר השפות השמיות](/wp-content/uploads/2014/10/Fox-Gemination.pdf) _Lešonénu_ 61, 1998, pp. 19-30.
 *   [The Ugaritic Divine Epithet](/wp-content/uploads/2014/10/Fox-Emim.pdf) _ybmt limm_ and the Biblical _‘êmîm_,” _Ugarit Forschungen_ 30, 1998, pp. 279-88.
 *   “[Isolated Nouns in the Semitic Languages](/wp-content/uploads/2014/10/Fox-Isolated.pdf) ,” _Zeitschrift für Althebraistik_ 11, 1998, 1-31.
-*   “[A Sequence of Vowel Shifts in Phoenician and Related Languages](/wp-content/uploads/2014/10/Fox-Phoenician.pdf),” _Journal of Near Eastern Studies 55,_ 1996, pp. 37-47.
+*   “[A Sequence of Vowel Shifts in Phoenician and Related Languages](/wp-content/uploads/2014/10/FoxPhoenician.pdf),” _Journal of Near Eastern Studies 55,_ 1996, pp. 37-47.
 *   _Noun Patterns in the Semitic Languages_, Dissertation, Harvard University, 1996.
 *   “[A Sequence of Vowel Shifts in Phoenician and Other Languages](http://linguistlist.org/issues/5/5-305.html),” _Joint Session of the American Oriental Society and the North American Afro-Asiatic Linguistics Association_, 1994.
