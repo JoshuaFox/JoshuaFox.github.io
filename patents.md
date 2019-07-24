@@ -4,7 +4,7 @@ title: Patents
 subtitle: Patents & Patents Pending
 ---
 
-The patent system is deeply broken. But creating patents is an essential part of the technology business.
+The patent system is deeply broken.
 
 Here are my patents and patents pending.
 
