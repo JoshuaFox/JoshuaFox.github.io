@@ -4,11 +4,8 @@ title: Patents
 subtitle: Patents & Patents Pending
 ---
 
-The patent system is deeply broken.
 
-Here are my patents and patents pending.
-
-[Google Scholar](http://scholar.google.com/citations?hl=en&user=d0FLp-q9vFEC&view_op=list_works&pagesize=100) shows the citations.
+See [Google Scholar](http://scholar.google.com/citations?hl=en&user=d0FLp-q9vFEC&view_op=list_works&pagesize=100) for the citations.
 
 *   [Identifying and Scoring Data Values](https://patents.google.com/patent/US9684694B2/) (US 9684694B2)
 *   [Desktop Redaction and Masking](https://www.google.com/patents/US9519794) (US 9519794; also [US 9613446](https://patents.google.com/patent/US9613446B2/en))
