@@ -12,6 +12,10 @@ body {
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
+  margin-left: 60px;
+  margin-right: 60px
+  
+
   {% if site.page-img %}
   background-image: url({{ site.page-img }});
   background-attachment: fixed;
