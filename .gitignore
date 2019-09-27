@@ -7,3 +7,11 @@ _site
 .DS_Store
 Thumbs.db
 ehthumbs.db
+
+_posts/2015-01-04-first-post.md
+_posts/2015-01-15-pirates.md
+_posts/2015-01-19-soccer.md
+_posts/2015-01-27-dear-diary.md
+_posts/2015-02-13-hamlet-monologue.md
+_posts/2015-02-26-flake-it-till-you-make-it.md
+_posts/2015-02-28-test-markdown.md
