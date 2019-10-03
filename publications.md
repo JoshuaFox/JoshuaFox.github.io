@@ -40,7 +40,7 @@ layout: page
 
 • “Openness and Privacy for Regulatory Compliance,” with Michael Pelts, _Information on Demand Europe_.
 
-• “[IBM Optim Data Redaction: Reconciling Openness with Privacy](ftp://public.dhe.ibm.com/common/ssi/ecm/en/imw14307usen/IMW14307USEN.PDF),” IBM White Paper.
+• “[IBM Optim Data Redaction: Reconciling Openness with Privacy](/wp-content/uploads/2019/10/IMW14307USEN.PDF),” IBM White Paper.
 
 > The White Paper for the product which I launched in IBM.
 
