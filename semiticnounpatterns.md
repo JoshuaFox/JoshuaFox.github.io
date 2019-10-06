@@ -6,7 +6,9 @@ subtitle:
 
 Book: Semitic Noun Patterns
 ===========================
-![Semitic Noun Patterns](https://static.hwpi.harvard.edu/files/styles/book_cover/public/semitic/files/foxsemiti.jpg)
+ 
+
+<img src="https://static.hwpi.harvard.edu/files/styles/book_cover/public/semitic/files/foxsemiti.jpg" width='200' height='320' alt='Semitic Noun Patterns, cover' align='right' /> 
 
 [Book available at Amazon](https://www.amazon.com/Semitic-Noun-Patterns-Harvard-Studies/dp/1575069091) and [online](http://bit.ly/2qK8mC0)
 
