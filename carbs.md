@@ -10,7 +10,7 @@ The Torah gives us true guidance in preserving our bodies and souls. The holy bo
 
 Thus saith the L-rd: ולחם וקלי וכרמל לא תאכלו, עד עצם היום הזה. חקת עולם לדרתיכם בכל משבתיכם  &ldquo;Ye shall eat neither bread, nor parched wheat, nor caramels (sugar-globs yechhh!). It is a statute _forever_ throughout your generations in all your dwellings&rdquo; (Vayikra 23:14). (No, that verse does _not_ refer to Pesach.)
 
-The first sin of Adam and Hava was eating from the Tree of Knowledge of Good and Evil which was wheat per Rabbi Yehuda (Berakhot 40a). So it was quite suitable that Adam's curse, the curse which follows us through the generations, was: תאכל לחם &ldquo;Thou shalt eat bread&rdquo; (Breishit 3:19) and Hava's was to prepare bread. That's a curse, not a blessing, folks! As it is written: לא על הלחם יחיה האדם &ldquo;Not by bread may a man live&rdquo; (Dvarim 8:3).
+The first sin of Adam and Hava was eating from the Tree of Knowledge of Good and Evil which was wheat per Rabbi Yehuda (Berakhot 40a; [this article](https://saidels.com/articles/breadtree.htm) by a chutzpahdik breadpusher who knows full well the dangers of his goods). So it was quite apropos that Adam's curse, the curse which follows us through the generations, was: תאכל לחם &ldquo;Thou shalt eat bread&rdquo; (Breishit 3:19) and Hava's was to prepare bread. That's a curse, not a blessing, folks! As it is written: לא על הלחם יחיה האדם &ldquo;Not by bread may a man live&rdquo; (Dvarim 8:3).
 
 **Bread: Evil!**
 
