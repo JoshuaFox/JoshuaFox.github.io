@@ -5,12 +5,12 @@ subtitle:
 ---
 
 The Torah gives us true guidance in preserving our bodies and souls. The holy books teach of the evils of carbohydrates. Keep your soul safe! Avoid bread, grains, and the simple carbohydrates. Dr. Atkins was right: Obesity is the scourge of the sinful!
-
+ 
 **Eat No Bread!**
 
 Thus saith the L-rd: ולחם וקלי וכרמל לא תאכלו, עד עצם היום הזה. חקת עולם לדרתיכם בכל משבתיכם  &ldquo;Ye shall eat neither bread, nor parched wheat, nor caramels (sugar-globs yechhh!). It is a statute _forever_ throughout your generations in all your dwellings&rdquo; (Vayikra 23:14). (No, that verse does _not_ refer to Pesach.)
 
-The first sin of Adam and Hava was eating from the Tree of Knowledge of Good and Evil which was wheat per Rabbi Yehuda (Berakhot 40a; [this article](https://saidels.com/articles/breadtree.htm) by a chutzpahdik breadpusher who knows full well the dangers of his goods). So it was quite apropos that Adam's curse, the curse which follows us through the generations, was: תאכל לחם &ldquo;Thou shalt eat bread&rdquo; (Breishit 3:19) and Hava's was to prepare bread. That's a curse, not a blessing, folks! As it is written: לא על הלחם יחיה האדם &ldquo;Not by bread may a man live&rdquo; (Dvarim 8:3).
+The first issur was wheat and the first sin was eating wheat: The forbidden tree in Gan Eden was wheat!  (per Rabbi Yehuda in Berakhot 40a; see  [this article](https://saidels.com/articles/breadtree.htm) by a chutzpahdik breadpusher who knows full well the dangers of his goods). So it was quite apropos that Adam's curse, the curse which follows us through the generations, was: תאכל לחם &ldquo;Thou shalt eat bread&rdquo; (Breishit 3:19) and Hava's was to prepare bread. That's a curse, not a blessing, folks! As it is written: לא על הלחם יחיה האדם &ldquo;Not by bread may a man live&rdquo; (Dvarim 8:3).
 
 **Bread: Evil!**
 
@@ -203,4 +203,4 @@ P.S.
 
 P.P.S.
 
-> Note: The world is giving this page [the attention it deserves.](http://www.tora.us.fm/tnk1/ktuv/mjly/mj-04-17.html) Even [WikiSource is quoting](http://he.wikisource.org/wiki/ביאור:הרצון_להכשיל_הוא_רעל_נפשי) me. Eventually everyone will be [convinced](http://www.midreshetmoriah.com/alumnae/maor.asp?id=218). Be sure to link all your pages to this page.
+> Note: The world is giving this page [the attention it deserves.](http://www.tora.us.fm/tnk1/ktuv/mjly/mj-04-17.html) Even [WikiSource is quoting](http://he.wikisource.org/wiki/ביאור:הרצון_להכשיל_הוא_רעל_נפשי) me. Eventually everyone will be [convinced](http://www.midreshetmoriah.com/alumnae/maor.asp?id=218). Be sure to link all your pages to this page. 
