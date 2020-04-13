@@ -31,6 +31,9 @@ See [Google Scholar](http://scholar.google.com/citations?hl=en&user=d0FLp-q9vFEC
 
 # Patents Pending (filed)
 
+* [Asynchronous Full-Duplex Request/Response Protocol](http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=WO0221795&F=0) (WO0221795A2, WO0221795A3)
+* [An Improved Audio and Data Collaboration and Coordination System](http://www.wipo.int/patentscope/search/en/WO2001069418) (WO0169418A1)
+* [Audio and Data Collaboration and Coordination System](http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=WO0056050&F=0) (WO0056050A1)
 
 # Trademark
 
