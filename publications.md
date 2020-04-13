@@ -6,6 +6,12 @@ layout: page
 
 **On Software**
 
+---
+
+• “[Build on Your Experience to Earn Cloud Certifications](https://blog.doit-intl.com/bring-your-experience-to-the-cloud-certification-891278df5b5)''
+
+> How to quickly absorb the knowledge that you don't yet have, building on your professional strengths.
+
 • “Google App Engine Flexible Environment: Beyond the Bounds of PaaS” ([Video](https://www.youtube.com/watch?v=QmmzUbX7IEY&t=22s)).  The first ever talk or article dedicated to this new Google PaaS. _Multicloud Engineering,_.
 
 • “[Breaking boundaries: How Freightos achieved high speed graph search in the cloud](http://www.cloudcomputing-news.net/news/2016/oct/06/breaking-boundaries-how-freightos-achieved-high-speed-graph-search-cloud/),” _CloudTech_.
@@ -155,8 +161,10 @@ layout: page
 > I describe and review a toolkit for allowing distributed applications to share objects, and more generally discuss the challenges of managing distributed objects. The JSDT was an official product from Sun, although it never made it to the status of a Java extension. It implemented some interesting ideas for distributing objects. I enjoyed collaborating with the  creator, and some of my suggestions (like one on failure detection), actually made it into the toolkit.
 
 
+
 **Recruiting and Career**
 
+---
 *   [On informational interviews](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, for _ERE_, the leading  site for tech recruiters. It [also appeared](http://www.gius.co.il/%D7%90%D7%99%D7%9A-%D7%96%D7%94-%D7%9C%D7%A2%D7%91%D7%95%D7%93-%D7%A9%D7%9D/) at Israel’s top news site for recruiters, gius.co.il.
 *   On the game-theoretical perspective on [kegerators](http://pando.com/2013/12/21/in-praise-of-the-office-kegerator-the-future-of-better-jobs/) for _Pando_.
 *   On building [ open-source communities](https://opensource.com/business/13/7/four-tips-project-to-business)  by recruiting top tech talent from among the members, at _OpenSource.com_.

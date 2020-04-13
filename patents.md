@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Patents
-subtitle: Approved (granted) patents
 ---
 
 
 See [Google Scholar](http://scholar.google.com/citations?hl=en&user=d0FLp-q9vFEC&view_op=list_works&pagesize=100) for the citations.
+
+
+# Approved (granted) patents
 
 * [Identifying and Scoring Data Values](https://patents.google.com/patent/US9684694B2/) (US 9684694B2)
 * [Desktop Redaction and Masking](https://www.google.com/patents/US9519794) (US 9519794; also [US 9613446](https://patents.google.com/patent/US9613446B2/en))
@@ -27,7 +29,9 @@ See [Google Scholar](http://scholar.google.com/citations?hl=en&user=d0FLp-q9vFEC
 * [Enterprise Information Unification](https://www.google.com/patents/US7673282) (US7673282)
 
 
-Trademark
----------
+# Patents Pending (filed)
+
+
+# Trademark
 
 * For the mark “Cosurfing®” used by Surf and Call Network Services for a system to allow people to browse the web together (the generic terms are “co-navigation” and “co-browsing”)
