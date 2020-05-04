@@ -8,6 +8,11 @@ layout: page
 
 ---
 
+• “[How to Best Prepare for your Cloud Certification Exam](https://blog.doit-intl.com/facing-down-the-cloud-certification-exam-efe154b58190)''
+
+> The best preparation materials for Google and AWS Cloud Architect Certification as you get ready for those critical two or three hours of the exam.
+
+
 • “[Build on Your Experience to Earn Cloud Certifications](https://blog.doit-intl.com/bring-your-experience-to-the-cloud-certification-891278df5b5)''
 
 > How to quickly absorb the knowledge that you don't yet have, building on your professional strengths.
