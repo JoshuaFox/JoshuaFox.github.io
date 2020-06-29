@@ -6,4 +6,5 @@ tags: [iliad yiddish]
 ---
 
 <!--end.excerpt-->
-[Article here](/content/Weinreich-Iliad.pdf)
+- [Article here in large format (more readable but sized for large paper) )](/content/Weinreich-Iliad-A3.pdf)
+- [Article here in normal size](/content/Weinreich-Iliad-A4.pdf)
