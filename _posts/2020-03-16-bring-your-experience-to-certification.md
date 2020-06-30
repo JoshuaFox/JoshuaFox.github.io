@@ -4,7 +4,7 @@ title: Build on Your Experience to Earn Cloud Certifications
 subtitle: How to quickly absorb the knowledge that you don't yet have
 bigimg: 
   - "/img/hippocampus.jpeg"
-tags: [ ]
+tags: [google-cloud-platform, aws, google-cloud, gap ]
 ---
 
  

@@ -4,7 +4,7 @@ title: You can handle pods, but what about clusters?
 subtitle: Introducing a new tool for cloning clusters between the Google, Azure, and Amazon clouds.
 bigimg:
 
-tags: [gke eks aks aws azure googlecloud ]
+tags: [gke, eks, aks, aws, azure, googlecloud ]
 ---
 Kubernetes makes it easy to orchestrate the pods that run your applications. But what about the clusters that the pods run on? These need a lot more hands-on care to configure correctly across the clouds, and in particular, to clone a configuration of a cluster from one cloud to another.
 
