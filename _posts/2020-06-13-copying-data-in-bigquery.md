@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Copying Data in BigQueries
+title: Copying Data in BigQuery
 subtitle:  So many ways
 tags: [bigquery googlecloud]
 ---

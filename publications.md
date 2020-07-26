@@ -8,6 +8,18 @@ layout: page
 
 ---
 
+• “[Safe Scrub: Clean up your Google Cloud projects.](https://blog.doit-intl.com/how-your-web-app-can-serve-the-chinese-market-eddca502b6a9)''
+
+> An open-source tool I wrote for safely deleting the resources cluttering your projects.
+
+• “[You can handle pods, but what about clusters?](https://blog.doit-intl.com/how-your-web-app-can-serve-the-chinese-market-eddca502b6a9)''
+
+> Introducing a new open-source tool that I wrote for cloning clusters between the Google, Azure, and Amazon clouds.
+
+• “[How Your Web App Can Serve the Chinese Market](https://blog.doit-intl.com/how-your-web-app-can-serve-the-chinese-market-eddca502b6a9)''
+
+> For web app developers, serving users in China requires a completely different way of thinking. Here are the key steps you should take.
+
 • “[How to Best Prepare for your Cloud Certification Exam](https://blog.doit-intl.com/facing-down-the-cloud-certification-exam-efe154b58190)''
 
 > The best preparation materials for Google and AWS Cloud Architect Certification as you get ready for those critical two or three hours of the exam.
