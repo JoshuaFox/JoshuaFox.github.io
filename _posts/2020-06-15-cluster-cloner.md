@@ -10,4 +10,4 @@ Kubernetes makes it easy to orchestrate the pods that run your applications. But
 
 In this article, I compare cluster models across Azure, Google, and Amazon and present a tool for cloning clusters within one cloud or cross-cloud.
 
-[More at my article here](https://blog.doit-intl.com/you-can-handle-the-pods-but-what-about-the-clusters-486fbdb5345d).
+[More at my article here](https://blog.doit-intl.com/you-can-handle-the-pods-but-what-about-the-clusters-486fbdb5345d?source=friends_link&sk=7fbf6c973dbfe4554829cac6813df03e).

@@ -4,28 +4,32 @@ author: Joshua T. Fox
 layout: page
 ---
 
-**On Software**
+**On Software and the Cloud**
 
 ---
 
-• “[Safe Scrub: Clean up your Google Cloud projects.](https://blog.doit-intl.com/how-your-web-app-can-serve-the-chinese-market-eddca502b6a9)''
+• “[Safe Scrub: Clean up your Google Cloud projects.](https://blog.doit-intl.com/safe-scrub-clean-up-your-google-cloud-projects-f90f18aca311?source=friends_link&sk=bce56e27b568c8209f3da94eac17099f)''
 
 > An open-source tool I wrote for safely deleting the resources cluttering your projects.
 
-• “[You can handle pods, but what about clusters?](https://blog.doit-intl.com/how-your-web-app-can-serve-the-chinese-market-eddca502b6a9)''
+• “[The Hidden Costs of Datastore](https://blog.doit-intl.com/the-hidden-costs-of-datastore-c04ad354ec50?source=friends_link&sk=64b75ebbf0f17d37a00cbed33f713d74)''
+
+> Datastore export costs don’t show up in Google Cloud Monitoring. Here’s how to set up real-time alerts to better keep track of export costs.
+
+• “[You can handle pods, but what about clusters?](https://blog.doit-intl.com/you-can-handle-the-pods-but-what-about-the-clusters-486fbdb5345d?source=friends_link&sk=7fbf6c973dbfe4554829cac6813df03e)''
 
 > Introducing a new open-source tool that I wrote for cloning clusters between the Google, Azure, and Amazon clouds.
 
-• “[How Your Web App Can Serve the Chinese Market](https://blog.doit-intl.com/how-your-web-app-can-serve-the-chinese-market-eddca502b6a9)''
+• “[How Your Web App Can Serve the Chinese Market](https://blog.doit-intl.com/how-your-web-app-can-serve-the-chinese-market-eddca502b6a9?source=friends_link&sk=84887f539e7cbf8f8f3d86ba75abeb68)''
 
 > For web app developers, serving users in China requires a completely different way of thinking. Here are the key steps you should take.
 
-• “[How to Best Prepare for your Cloud Certification Exam](https://blog.doit-intl.com/facing-down-the-cloud-certification-exam-efe154b58190)''
+• “[How to Best Prepare for your Cloud Certification Exam](https://blog.doit-intl.com/facing-down-the-cloud-certification-exam-efe154b58190?source=friends_link&sk=63e60f33fb058502925b99f54f9e8484)''
 
 > The best preparation materials for Google and AWS Cloud Architect Certification as you get ready for those critical two or three hours of the exam.
 
 
-• “[Build on Your Experience to Earn Cloud Certifications](https://blog.doit-intl.com/bring-your-experience-to-the-cloud-certification-891278df5b5)''
+• “[Build on Your Experience to Earn Cloud Certifications](https://blog.doit-intl.com/bring-your-experience-to-the-cloud-certification-891278df5b5?source=friends_link&sk=3bd23669baed9017741760ae6007135f)''
 
 > How to quickly absorb the knowledge that you don't yet have, building on your professional strengths.
 

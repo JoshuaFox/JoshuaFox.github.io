@@ -8,5 +8,5 @@ tags: [ ]
 ---
 For web app developers, serving users in China requires a completely different way of thinking. I’ll explain how to work in practical steps to achieve good-enough solutions.
 
-[More at my article here](https://blog.doit-intl.com/how-your-web-app-can-serve-the-chinese-market-eddca502b6a9). 
+[More at my article here](https://blog.doit-intl.com/how-your-web-app-can-serve-the-chinese-market-eddca502b6a9?source=friends_link&sk=84887f539e7cbf8f8f3d86ba75abeb68). 
 
