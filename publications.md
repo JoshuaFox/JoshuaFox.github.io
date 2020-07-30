@@ -103,7 +103,7 @@ layout: page
 
 > The article explain Ruby on Rails to Java developers, comparing it to Java web frameworks. It presents an example based on JavaSpaces, which leverages Java from within the Rails application. Even those Java developers who do not adopt Rails will benefit from the design principles built into the framework, as well as the rapidly emerging concept of non-Java languages integrated with Java and the JVM.
 
-• “[Ruby in the Java World](http://www.javaworld.com/javaworld/jw-07-2006/jw-0717-ruby.html),” _JavaWorld_.
+• “[Ruby in the Java World](https://web.archive.org/web/20070223153840/https://www.javaworld.com/javaworld/jw-02-2007/jw-02-jruby.html),” _JavaWorld_.
 
 > Dynamic languages are rapidly gaining in popularity. Ruby in particular has attracted attention, with a big boost from the Ruby on Rails Web framework. In this article, I introduce Java programmers to Ruby, focusing on the similarities, differences, and connectivity between the two languages, and describing the value of JRuby on the Java-platform. The article got some [buzz](http://www.google.com/search?q=%22joshua+fox%22+ruby+java) on the net, including from Frank Sommers at [Artima](http://www.artima.com/forums/flat.jsp?forum=276&thread=168997).
 
@@ -137,7 +137,7 @@ layout: page
 
 > EAI gives _O(n)_ complexity for connecting _n_ applications on the network, but there remains an _O(n2)_ complexity for integrating the message formats that the applications use as input and output. With an ontology-based approach, however, this too can be reduced to _O(n)_.
 
-• “[Semantic Discovery for Web Services](http://webservices.sys-con.com/read/39718.htm),” with Joram Borenstein, _Web Services Journal_.
+• “[Semantic Discovery for Web Services](https://web.archive.org/web/20051025184921/http://webservices.sys-con.com/read/39718.htm),” with Joram Borenstein, _Web Services Journal_.
 
 > Web Services lookup with UDDI requires client and server to agree on the exact syntax of the interaction. Using the principles of ontology, providers can publish and clients can discover Services based on the desired functionality rather than the syntactic details.
 
