@@ -73,7 +73,7 @@ layout: page
 
 • “Openness and Privacy,” with Michael Pelts, _Security and Privacy Symposium_.
 
-• “[Clojure: Challenge your Java Assumptions](http://www.javaworld.com/javaworld/jw-05-2009/jw-05-clojure.html),” _JavaWorld_.
+• “[Clojure: Challenge your Java Assumptions](https://www.javaworld.com/article/2078043/clojure--challenge-your-java-assumptions.amp.html),” _JavaWorld_.
 
 > The article is aimed at senior Java developers, encouraging them to learn more about this exciting language. A dialect of Lisp, Clojure runs on the JVM with excellent integration with Java, and provides new, improved solutions for the biggest challenge to programming languages today: concurrency.
 
@@ -99,11 +99,11 @@ layout: page
 
 > Architecture is as much about the organization as about technology. This article explains how to divide responsibilities in Service Oriented Integration to let each team do what they do best.
 
-• “[JRuby on Rails](http://www.javaworld.com/javaworld/jw-02-2007/jw-02-jruby.html),” _JavaWorld_.
+• “[JRuby on Rails](https://www.javaworld.com/article/2077682/jruby-on-rails--the-power-of-java--the-simplicity-of-ruby-on-rails.amp.html),” _JavaWorld_.
 
 > The article explain Ruby on Rails to Java developers, comparing it to Java web frameworks. It presents an example based on JavaSpaces, which leverages Java from within the Rails application. Even those Java developers who do not adopt Rails will benefit from the design principles built into the framework, as well as the rapidly emerging concept of non-Java languages integrated with Java and the JVM.
 
-• “[Ruby in the Java World](https://web.archive.org/web/20070223153840/https://www.javaworld.com/javaworld/jw-02-2007/jw-02-jruby.html),” _JavaWorld_.
+• “[Ruby for the Java World](https://www.javaworld.com/article/2071794/ruby-for-the-java-world.amp.html),” _JavaWorld_.
 
 > Dynamic languages are rapidly gaining in popularity. Ruby in particular has attracted attention, with a big boost from the Ruby on Rails Web framework. In this article, I introduce Java programmers to Ruby, focusing on the similarities, differences, and connectivity between the two languages, and describing the value of JRuby on the Java-platform. The article got some [buzz](http://www.google.com/search?q=%22joshua+fox%22+ruby+java) on the net, including from Frank Sommers at [Artima](http://www.artima.com/forums/flat.jsp?forum=276&thread=168997).
 
@@ -147,7 +147,7 @@ layout: page
 
 • “Information Quality through Semantic Models ,” _Enterprise Data Forum_, Pittsburgh.
 
-• “[Deploying Jini: HTTP Servers for the Dynamic Download of Code](http://www.javaworld.com/javaworld/jw-12-2001/jw-1221-jiniology.html) ,” _JavaWorld_.
+• “[Deploying Jini: HTTP Servers for the Dynamic Download of Code](https://www.javaworld.com/article/2075942/deploy-code-servers-in-jini-systems.amp.html) ,” _JavaWorld_.
 
 > I’ve found that once new Jini developers learn about the exciting distributed architecture, they often get bogged down by the challenge of simply configuring their system for development. They encounter a yet greater challenge in moving from the development configuration to deployment. Even experienced developers can get confused by the variety of components involved.
 >
