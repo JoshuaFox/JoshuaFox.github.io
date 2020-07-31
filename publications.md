@@ -107,7 +107,7 @@ layout: page
 
 > Dynamic languages are rapidly gaining in popularity. Ruby in particular has attracted attention, with a big boost from the Ruby on Rails Web framework. In this article, I introduce Java programmers to Ruby, focusing on the similarities, differences, and connectivity between the two languages, and describing the value of JRuby on the Java-platform. The article got some [buzz](http://www.google.com/search?q=%22joshua+fox%22+ruby+java) on the net, including from Frank Sommers at [Artima](http://www.artima.com/forums/flat.jsp?forum=276&thread=168997).
 
-• “[Enterprise Semantics: Aligning Service Oriented Architecture with the Business](http://webservices.sys-con.com/read/79276.htm),” with Joram Borenstein, *Web Services Journal*.
+• “Enterprise Semantics: Aligning Service Oriented Architecture with the Business ,” with Joram Borenstein, *Web Services Journal*.
 
 > A business-focused overview of the value that semantics bring to Service Oriented Architectures.
 
@@ -137,7 +137,7 @@ layout: page
 
 > EAI gives _O(n)_ complexity for connecting _n_ applications on the network, but there remains an _O(n2)_ complexity for integrating the message formats that the applications use as input and output. With an ontology-based approach, however, this too can be reduced to _O(n)_.
 
-• “[Semantic Discovery for Web Services](https://web.archive.org/web/20051025184921/http://webservices.sys-con.com/read/39718.htm),” with Joram Borenstein, _Web Services Journal_.
+• [Semantic Discovery for Web Services,” with Joram Borenstein, _Web Services Journal_.
 
 > Web Services lookup with UDDI requires client and server to agree on the exact syntax of the interaction. Using the principles of ontology, providers can publish and clients can discover Services based on the desired functionality rather than the syntactic details.
 
@@ -155,11 +155,11 @@ layout: page
 
 • “Ontology: Automated Integration of Enterprise XML,” _Web Services Edge_, Santa Clara.
 
-• “[Building a Successful Wireless Web Site](http://webservices.sys-con.com/read/40793.htm) ,” _Wireless Business and Technology_.
+• “Building a Successful Wireless Web Site,” _Wireless Business and Technology_.
 
 > If you’re a software development manager with experience leading the development of a three-tier distributed application for the World Wide Web, perhaps you’re about to move on to spearhead the construction of a WAP-site. This article has reuse as its theme: I explain when you can reuse skillsets, infrastructure, and software components from the WWW site, and when you’re better off developing new skills, buying new infrastructure, or building new software.
 
-• “[When is a Singleton not a Singleton](http://www.javaworld.com/javaworld/jw-01-2001/jw-0112-singleton_p.html),” _JavaWorld_.
+• “[When is a Singleton not a Singleton](https://www.javaworld.com/article/2074897/when-is-a-singleton-not-a-singleton-.amp.html),” _JavaWorld_.
 
 > The Sun Java Developer Connection also published the article , which was linked from the JDC front page. Sometimes you implement the Singleton Design Pattern, but mysteriously find that more than one object of the class is instantiated. This article explains how that can happen and how to avoid it.
 
