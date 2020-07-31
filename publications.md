@@ -107,7 +107,7 @@ layout: page
 
 > Dynamic languages are rapidly gaining in popularity. Ruby in particular has attracted attention, with a big boost from the Ruby on Rails Web framework. In this article, I introduce Java programmers to Ruby, focusing on the similarities, differences, and connectivity between the two languages, and describing the value of JRuby on the Java-platform. The article got some [buzz](http://www.google.com/search?q=%22joshua+fox%22+ruby+java) on the net, including from Frank Sommers at [Artima](http://www.artima.com/forums/flat.jsp?forum=276&thread=168997).
 
-• “[Enterprise Semantics: Aligning Service Oriented Architecture with the Business](http://webservices.sys-con.com/read/79276.htm),” with Joram Borenstein_,Web Services Journal_.
+• “[Enterprise Semantics: Aligning Service Oriented Architecture with the Business](http://webservices.sys-con.com/read/79276.htm),” with Joram Borenstein, *Web Services Journal*.
 
 > A business-focused overview of the value that semantics bring to Service Oriented Architectures.
 
