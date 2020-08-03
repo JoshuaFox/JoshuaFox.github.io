@@ -19,7 +19,7 @@ Video links and more, to remind us of the fun we had.
   * [Facebook event](https://www.facebook.com/events/215885892841691/?post_id=215885902841690&view=permalink&notif_id=1593887134620264&notif_t=feedback_reaction_generic&ref=notif) 
 
 * 2020-8-2 Balaji Srinivasan: *Decentralized Media: From centralized media and social media corporations to a million hubs and a billion spokes.*
-  * [Facebook event](https://www.facebook.com/events/953693281775828)
+  * [Video](https://youtu.be/2R7GwTAkInw)
 * 2020-7-19 Joscha Bach:  *AI as an Epistemological Project*
 * 2020-7-5 Anders Sandberg: *Information Hazards*
   * [Video](https://www.youtube.com/watch?v=Wn2vgQGNI_c)
