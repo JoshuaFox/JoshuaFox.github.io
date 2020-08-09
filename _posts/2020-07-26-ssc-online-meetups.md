@@ -8,11 +8,14 @@ tags: [slatestarcodex lesswrong]
 
 ---
 
-Video links and more, to remind us of the fun we had.
+Video links and more, to remind us of the fun we had and anticipate the fun we will have.
 
 <!--end.excerpt-->
 
+* 2020-10-25 Jason Crawford
+* 2020-10-11 David Friedman
 * 2020-9-13 Connor Leahy of EleutherAI on his attempts to replicate GPT3.
+  * [Facebook event](https://www.facebook.com/events/236756484059042)
 * 2020-8-30 David Manheim: *Cooperation for AI*
   * [Facebook event](https://www.facebook.com/events/559030955003889)
 * 2020-8-16 James Miller: *The Fermi Paradox and X-Risk*
