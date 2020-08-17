@@ -19,7 +19,7 @@ Video links and more, to remind us of the fun we had and anticipate the fun we w
 * 2020-8-30 David Manheim: *Cooperation for AI*
   * [Facebook event](https://www.facebook.com/events/559030955003889)
 * 2020-8-16 James Miller: *The Fermi Paradox and X-Risk*
-  * [Facebook event](https://www.facebook.com/events/215885892841691/?post_id=215885902841690&view=permalink&notif_id=1593887134620264&notif_t=feedback_reaction_generic&ref=notif) 
+  * [Video](https://youtu.be/jisNYZpmnmU) 
 * 2020-8-2 Balaji Srinivasan: *Decentralized Media: From centralized media and social media corporations to a million hubs and a billion spokes.*
   * Video: Balaji will be creating a more polished video in place of this talk. Please follow [him on Twitter](https://twitter.com/balajis/) or [sign up]( [balajis.com/            signup](http://balajis.com/signup)) to be notified of its release.
 * 2020-7-19 Joscha Bach:  *AI as an Epistemological Project*
