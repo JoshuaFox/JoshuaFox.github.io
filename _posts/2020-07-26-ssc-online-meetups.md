@@ -14,6 +14,7 @@ Video links and more, to remind us of the fun we had and anticipate the fun we w
 
 * 2020-10-25 Jason Crawford
 * 2020-10-11 David Friedman
+* 2020-09-27 Dianne Fleischman
 * 2020-9-13 Connor Leahy of EleutherAI on his attempts to replicate GPT3.
   * [Facebook event](https://www.facebook.com/events/236756484059042)
 * 2020-8-30 David Manheim: *Cooperation for AI*
