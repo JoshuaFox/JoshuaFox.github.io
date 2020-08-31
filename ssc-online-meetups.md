@@ -14,11 +14,11 @@ Video links and more, to remind us of the fun we had and anticipate the fun we w
 
 * 2020-10-25 Jason Crawford
 * 2020-10-11 David Friedman
-* 2020-09-27 Diana Fleischman
-* 2020-9-13 Connor Leahy of EleutherAI on his attempts to replicate GPT3.
+* 2020-09-27 Diana Fleischman: *Integrating Evolutionary Psychology and Behaviorism*
+* 2020-9-13 Connor Leahy on replicating GPT3: *We Got Our AGI Firealarm, Now What?*
   * [Facebook event](https://www.facebook.com/events/236756484059042)
 * 2020-8-30 David Manheim: *Cooperation for AI*
-  * [Facebook event](https://www.facebook.com/events/559030955003889)
+  * [Video](https://youtu.be/1fCm6Z16leg)
 * 2020-8-16 James Miller: *The Fermi Paradox and X-Risk*
   * [Video](https://youtu.be/jisNYZpmnmU) 
 * 2020-8-2 Balaji Srinivasan: *Decentralized Media: From centralized media and social media corporations to a million hubs and a billion spokes.*
