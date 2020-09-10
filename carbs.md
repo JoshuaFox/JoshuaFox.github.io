@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 'לא על הלחם &ldquo;Not by Bread&rdquo;: The Jewish Approach To Carbs'
+title: 'לא על הלחם "Not by Bread": The Jewish Approach To Carbs'
 subtitle:
 ---
 
 The Torah gives us true guidance in preserving our bodies and souls. The holy books teach of the evils of carbohydrates. Keep your soul safe! Avoid bread, grains, and the simple carbohydrates. Dr. Atkins was right: Obesity is the scourge of the sinful!
- 
+
 **Eat No Bread!**
 
 Thus saith the L-rd: ולחם וקלי וכרמל לא תאכלו, עד עצם היום הזה. חקת עולם לדרתיכם בכל משבתיכם  &ldquo;Ye shall eat neither bread, nor parched wheat, nor caramels (sugar-globs yechhh!). It is a statute _forever_ throughout your generations in all your dwellings&rdquo; (Vayikra 23:14). (No, that verse does _not_ refer to Pesach.)
