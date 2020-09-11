@@ -22,7 +22,7 @@ Video links and more, to remind us of the fun we had and anticipate the fun we w
 * 2020-8-16 James Miller: *The Fermi Paradox and X-Risk*
   * [Video](https://youtu.be/jisNYZpmnmU) 
 * 2020-8-2 Balaji Srinivasan: *Decentralized Media: From centralized media and social media corporations to a million hubs and a billion spokes.*
-  * Video: Balaji will be creating a more polished video in place of this talk. Please follow [him on Twitter](https://twitter.com/balajis/) or [sign up]( [balajis.com/            signup](http://balajis.com/signup)) to be notified of its release.
+  * Video: Balaji will be creating a more polished video in place of this talk. Please follow [him on Twitter](https://twitter.com/balajis/) or [sign up]( [https://balajis.com/            signup](http://balajis.com/signup)) to be notified of its release.
 * 2020-7-19 Joscha Bach:  *AI as an Epistemological Project*
 * 2020-7-5 Anders Sandberg: *Information Hazards*
   * [Video](https://www.youtube.com/watch?v=Wn2vgQGNI_c)

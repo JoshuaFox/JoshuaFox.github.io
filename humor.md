@@ -9,5 +9,5 @@ tags: [humor ]
 * [Conan](../conan )
 * [NGF](../ngf)
 * [Chaordianism](../chaordianism)
-* [Brian of Judah](../judah)
+* [Brian of Judah](../zoo1)
 * [Hashgacha](../hashgacha)

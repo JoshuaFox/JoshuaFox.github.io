@@ -7,9 +7,11 @@ tags: [gke, eks, aks, aws, azure, googlecloud ]
 ---
 Please see [here](/ssc-online-meetups) for the list of past meetups (with video); and future meetups.
 <!--end.excerpt-->
+
 <script>
 window.location.replace("http://www.joshuafox.com/ssc-online-meetups");
 
 </script>
 
-[See here](h/ssc-online-meetups).
+[See here](/ssc-online-meetups).
+
