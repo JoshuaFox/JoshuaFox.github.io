@@ -2,6 +2,7 @@
 layout: page
 title:  Hashgacha Pratit
 subtitle:
+tags: [humor ]
 ---
 Is your kitchen Kosher? Show it proudly with a Kashrus certificate from Hashgocha Pratis.<sup><span style="font-size: small;">TM</span></sup>
 
