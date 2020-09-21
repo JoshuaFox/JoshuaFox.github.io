@@ -3,7 +3,7 @@ layout: page
 title: Conan
 subtitle:
 ---
-![](http://cdn.idigitaltimes.com/sites/idigitaltimes.com/files/2014/11/18/arnold-conan.jpg) Notice Conan's Yiddish accent?
+![](/img/conan.jpg) Notice Conan's Yiddish accent?
 
 Cyrus Adler’s masterful _Short History of the Jewish People_ (3rd ed., 1948, p. 287) tells of Jewish “barbaric tribes and kingdoms” in the “Cimmerian Bosporus” to the north of the Black Sea. Conan came of [ Cimmerian](https://en.wikipedia.org/wiki/Cimmeria_(Conan)) stock. Was he one of these Jewish barbarians? ![](https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Maphyboria.jpg/525px-Maphyboria.jpg)
 
