@@ -15,7 +15,7 @@ Video links and more, to remind us of the fun we had and anticipate the fun we w
 * 2020-10-25 Jason Crawford
 * 2020-10-11 David Friedman
 * 2020-9-27 Diana Fleischman: *Integrating Evolutionary Psychology and Behaviorism*
-  * [Facebook event](https://www.facebook.com/events/351467456007299)
+  * [Audio](https://drive.google.com/file/d/1xa1lC1oT9x63_bxl06JF47KwyeVD_Vyi/view?usp=sharing)
 * 2020-9-13 Connor Leahy on replicating GPT3: *We Got Our AGI Firealarm, Now What?*
   * [Video and links](https://www.youtube.com/watch?v=pGjyiqJZPJo). In particular note the [Eleuther AI Get Involved page](https://www.eleuther.ai/get-involved).
 * 2020-8-30 David Manheim: *Cooperation for AI*
