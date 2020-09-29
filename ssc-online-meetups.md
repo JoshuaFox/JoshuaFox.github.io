@@ -10,10 +10,13 @@ tags: [slatestarcodex lesswrong]
 
 Video links and more, to remind us of the fun we had and anticipate the fun we will have.
 
-<!--end.excerpt-->
+Check out [the Slate Star Codex podcast](https://sscpodcast.libsyn.com/) for the audio (including from the videos)  edited and improved for your enjoyment.
+
+### Past and future meetups
 
 * 2020-10-25 Jason Crawford
 * 2020-10-11 David Friedman
+  * [Facebook Event](https://www.facebook.com/events/804438763720503)
 * 2020-9-27 Diana Fleischman: *Integrating Evolutionary Psychology and Behaviorism*
   * [Audio](https://drive.google.com/file/d/1xa1lC1oT9x63_bxl06JF47KwyeVD_Vyi/view?usp=sharing)
 * 2020-9-13 Connor Leahy on replicating GPT3: *We Got Our AGI Firealarm, Now What?*
