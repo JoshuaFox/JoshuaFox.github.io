@@ -12,10 +12,14 @@ Video links and more, to remind us of the fun we had and anticipate the fun we w
 
 Check out [the Slate Star Codex podcast](https://sscpodcast.libsyn.com/) for the audio (including from the videos)  edited and improved for your enjoyment.
 
-### Past and future meetups
+### Future and Past Meetups
 
-* 2020-10-25 Jason Crawford
-* 2020-10-11 David Friedman
+* 2020-11-22 Sam Altman
+* 2020-11-08 TBD
+* 2020-10-25 Jason Crawford: *The* **Non**-*Linear Model of Innovation*  
+  * [Facebook Event](https://www.facebook.com/events/389065068768739/
+    )
+* 2020-10-11 David Friedman: *Legal Systems Very Different from Ours*
   * [Facebook Event](https://www.facebook.com/events/804438763720503)
 * 2020-9-27 Diana Fleischman: *Integrating Evolutionary Psychology and Behaviorism*
   * [Audio](https://drive.google.com/file/d/1xa1lC1oT9x63_bxl06JF47KwyeVD_Vyi/view?usp=sharing)
