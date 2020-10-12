@@ -20,7 +20,8 @@ Check out [the Slate Star Codex podcast](https://sscpodcast.libsyn.com/) for the
   * [Facebook Event](https://www.facebook.com/events/389065068768739/
     )
 * 2020-10-11 David Friedman: *Legal Systems Very Different from Ours*
-  * [Facebook Event](https://www.facebook.com/events/804438763720503)
+  * [Video](https://www.youtube.com/watch?v=xbqhxCyd2BI)
+  * David announced his [weekly meetups](http://www.daviddfriedman.com/SSC%20Meetups%20announcement.html), each Saturday 13.00 Pacific Time, and now also at 10:00.
 * 2020-9-27 Diana Fleischman: *Integrating Evolutionary Psychology and Behaviorism*
   * [Audio](https://drive.google.com/file/d/1xa1lC1oT9x63_bxl06JF47KwyeVD_Vyi/view?usp=sharing)
 * 2020-9-13 Connor Leahy on replicating GPT3: *We Got Our AGI Firealarm, Now What?*
