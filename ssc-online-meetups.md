@@ -14,8 +14,7 @@ Check out [the Slate Star Codex podcast](https://sscpodcast.libsyn.com/) for the
 
 ### Future and Past Meetups
 
-* 2020-11-22 Sam Altman
-* 2020-11-08 TBD
+* 2020-11-08 Sam Altman
 * 2020-10-25 Jason Crawford: *The* **Non**-*Linear Model of Innovation*  
   * [Facebook Event](https://www.facebook.com/events/389065068768739/
     )
