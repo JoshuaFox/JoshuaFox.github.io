@@ -15,9 +15,9 @@ Check out [the Slate Star Codex podcast](https://sscpodcast.libsyn.com/) for the
 ### Future and Past Meetups
 
 * 2020-11-08 Sam Altman
+  * [LessWrong post here](https://www.lesswrong.com/posts/xwgENfD98sWPoxdXJ/sam-altman-at-slatestarcodex-online-meetup-1)
 * 2020-10-25 Jason Crawford: *The* **Non**-*Linear Model of Innovation*  
-  * [Facebook Event](https://www.facebook.com/events/389065068768739/
-    )
+  * [Video](https://youtu.be/cixvwlC3XCo)
 * 2020-10-11 David Friedman: *Legal Systems Very Different from Ours*
   * [Video](https://www.youtube.com/watch?v=xbqhxCyd2BI)
   * David announced his [weekly meetups](http://www.daviddfriedman.com/SSC%20Meetups%20announcement.html), each Saturday 13.00 Pacific Time, and now also at 10:00.
