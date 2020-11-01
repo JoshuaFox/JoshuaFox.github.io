@@ -10,7 +10,7 @@ tags: [slatestarcodex lesswrong]
 
 Video links and more, to remind us of the fun we had and anticipate the fun we will have.
 
-Check out [the Slate Star Codex podcast](https://linktr.ee/sscpodcast/) for the audio (including from the videos)  edited and improved for your enjoyment.
+Check out [the Slate Star Codex podcast](https://linktr.ee/sscpodcast/) for the audio of these meetups, edited and improved for your enjoyment.
 
 ### Future and Past Meetups
 
