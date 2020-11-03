@@ -17,7 +17,7 @@ Check out [the Slate Star Codex podcast](https://linktr.ee/sscpodcast/) for the 
 * 2020-11-08 Sam Altman
   * [LessWrong post here](https://www.lesswrong.com/posts/xwgENfD98sWPoxdXJ/sam-altman-at-slatestarcodex-online-meetup-1)
 * 2020-10-25 Jason Crawford: *The* **Non**-*Linear Model of Innovation*  
-  * [Video](https://youtu.be/cixvwlC3XCo)
+  * [Video](https://youtu.be/No7OezzFkfo)
   * [Roots of Progress](https://rootsofprogress.org/), Jason's blog.
 * 2020-10-11 David Friedman: *Legal Systems Very Different from Ours*
   * [Video](https://www.youtube.com/watch?v=xbqhxCyd2BI)
