@@ -15,7 +15,6 @@ Check out [the Slate Star Codex podcast](https://linktr.ee/sscpodcast/) for the 
 ### Future and Past Meetups
 
 * 2020-11-22 Michael Vassar
-  * 
 * 2020-11-08 Sam Altman
   * [LessWrong post here](https://www.lesswrong.com/posts/xwgENfD98sWPoxdXJ/sam-altman-at-slatestarcodex-online-meetup-1)
 * 2020-10-25 Jason Crawford: *The* **Non**-*Linear Model of Innovation*  
@@ -40,9 +39,11 @@ Check out [the Slate Star Codex podcast](https://linktr.ee/sscpodcast/) for the 
 * 2020-6-21 Robin Hanson: *Prediction Markets*
   * [Video](https://www.youtube.com/watch?v=uc4W4BlJ-zc)
 * 2020-6-7 Steve Hsu: *Cognitive Genomics*
+  * No recording available
 * 2020-5-24 Bryan Caplan: *Our Moral Obligations to the Poor*
   * [Video](https://www.youtube.com/watch?v=33ACoLXLoHo&feature=youtu.be)
   * [Notes from an audience member](https://www.zappable.com/2020/05/bryan-caplan-on-who-to-blame-for-poverty.html)
 * 2020-5-10 Scott Aaronson: *The Foundations of Quantum Mechanics*
+  * No recording available
 * 2020-3-24 Rump Session (Lightning talks from any and all participants)
   * [Video](https://youtu.be/YdfM45Oyzhk)
