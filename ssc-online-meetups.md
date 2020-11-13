@@ -12,11 +12,15 @@ Video links and more, to remind us of the fun we had and anticipate the fun we w
 
 Check out [the Slate Star Codex podcast](https://linktr.ee/sscpodcast/) for the audio of these meetups, edited and improved for your enjoyment.
 
+We post new meetups below, to LessWrong.com and elsewhere. The posts include   links to sign-up forms to get an invitation and, if you want, to sign up for our mailing list to be notified of new meetups.
+
 ### Future and Past Meetups
 
+* 2020-12-06 Stuart Russell
 * 2020-11-22 Michael Vassar
+  * [LessWrong post](https://www.lesswrong.com/posts/iWWjq5BioRkjxxNKq/michael-vassar-at-the-slatestarcodex-online-meetup)
 * 2020-11-08 Sam Altman
-  * [LessWrong post here](https://www.lesswrong.com/posts/xwgENfD98sWPoxdXJ/sam-altman-at-slatestarcodex-online-meetup-1)
+  * No recording available.
 * 2020-10-25 Jason Crawford: *The* **Non**-*Linear Model of Innovation*  
   * [Video](https://youtu.be/No7OezzFkfo)
   * [Roots of Progress](https://rootsofprogress.org/), Jason's blog.
