@@ -17,6 +17,7 @@ We post new meetups below, to LessWrong.com and elsewhere. The posts include   l
 ### Future and Past Meetups
 
 * 2020-12-06 Stuart Russell
+  * [Facebook post](https://www.facebook.com/events/1401525380188195)
 * 2020-11-22 Michael Vassar
   * [LessWrong post](https://www.lesswrong.com/posts/iWWjq5BioRkjxxNKq/michael-vassar-at-the-slatestarcodex-online-meetup)
 * 2020-11-08 Sam Altman
