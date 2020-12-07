@@ -16,11 +16,12 @@ We post new meetups below, to LessWrong.com and elsewhere. The posts include lin
 
 ### Future and Past Meetups
 
-* 2020-12-06 Stuart Russell
+* 2020-12-06 Stuart Russell: *Human Compatible*
   * [Video](https://youtu.be/lKK9-0d_8sE)
-* 2020-11-22 Michael Vassar
+  * [Book page](https://people.eecs.berkeley.edu/~russell/hc.html)
+* 2020-11-22 Michael Vassar:  *Why Do We Call Ourselves Rationalists?*
   * No recording available
-* 2020-11-08 Sam Altman
+* 2020-11-08 Sam Altman: Q&A on AI, AGI, GPT-N and OpenAI, and more
   * No recording available.
 * 2020-10-25 Jason Crawford: *The* **Non**-*Linear Model of Innovation*  
   * [Video](https://youtu.be/No7OezzFkfo)
