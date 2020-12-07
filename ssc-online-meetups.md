@@ -17,7 +17,7 @@ We post new meetups below, to LessWrong.com and elsewhere. The posts include lin
 ### Future and Past Meetups
 
 * 2020-12-06 Stuart Russell
-  * [Facebook post](https://www.facebook.com/events/1401525380188195)
+  * [Video](https://youtu.be/lKK9-0d_8sE)
 * 2020-11-22 Michael Vassar
   * No recording available
 * 2020-11-08 Sam Altman
@@ -29,7 +29,7 @@ We post new meetups below, to LessWrong.com and elsewhere. The posts include lin
   * [Video](https://www.youtube.com/watch?v=xbqhxCyd2BI)
   * David announced his [weekly meetups](http://www.daviddfriedman.com/SSC%20Meetups%20announcement.html), each Saturday 13.00 Pacific Time, and now also at 10:00.
 * 2020-9-27 Diana Fleischman: *Integrating Evolutionary Psychology and Behaviorism*
-  * [Audio](https://drive.google.com/file/d/1xa1lC1oT9x63_bxl06JF47KwyeVD_Vyi/view?usp=sharing)
+  * [Audio](https://youtu.be/TXPTghSnrn4)
 * 2020-9-13 Connor Leahy on replicating GPT3: *We Got Our AGI Firealarm, Now What?*
   * [Video and links](https://www.youtube.com/watch?v=pGjyiqJZPJo). In particular note the [Eleuther AI Get Involved page](https://www.eleuther.ai/get-involved).
 * 2020-8-30 David Manheim: *Cooperation for AI*
