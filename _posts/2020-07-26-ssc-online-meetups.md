@@ -3,7 +3,7 @@ layout: post
 title: Slate Star Codex Online Meetups
 subtitle: 
 
-tags: [gke, eks, aks, aws, azure, googlecloud ]
+tags: [ssc ]
 ---
 Please see [here](/ssc-online-meetups) for the list of past meetups (with video); and future meetups.
 <!--end.excerpt-->
