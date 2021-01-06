@@ -9,11 +9,11 @@ Please see [here](/mac-nikud) for a list of keys for entering Hbrew pointillatio
 <!--end.excerpt-->
 
 <script>
-window.location.replace("http://www.joshuafox.com/mac-nikud");
+window.location.replace("http://www.joshuafox.com/mac-nikud/");
+
 
 </script>
 
-[See here](/mac-nikud).
+[See here](/mac-nikud/).
 
 
- 
