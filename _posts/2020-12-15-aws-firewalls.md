@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS Firewalls: How and When to Use Each One
+title: AWS Firewalls&#58; How and When to Use Each One
 subtitle: AWS offers a lot of firewall solutions, and now a new one. 
 bigimg: 
 - "/img/relax.jpeg"
