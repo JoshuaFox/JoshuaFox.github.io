@@ -9,7 +9,7 @@ Please see [here](/mac-nikud) for a list of keys for entering Hebrew pointillati
 
    [כאן](/mac-nikud) מופיעה רשימת מקשים להקלדת ניקוד במק
 
- 
+ <!--end.excerpt-->
 
 <script>
 window.location.replace("http://www.joshuafox.com/mac-nikud/");
