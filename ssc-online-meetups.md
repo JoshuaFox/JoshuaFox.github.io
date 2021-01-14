@@ -16,6 +16,8 @@ We post new meetups below, to LessWrong.com and elsewhere. The posts include lin
 
 ### Future and Past Meetups
 
+* 2021-1-31 Connor Leahy: *Open AI's latest multimodal work.*
+  * [Facebook event](https://www.facebook.com/events/1123815641396627/)
 * 2020-12-06 Stuart Russell: *Human Compatible*
   * [Video](https://youtu.be/lKK9-0d_8sE)
   * [Book page](https://people.eecs.berkeley.edu/~russell/hc.html)
