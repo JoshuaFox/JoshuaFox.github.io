@@ -16,8 +16,12 @@ We post new meetups below, to LessWrong.com and elsewhere. The posts include lin
 
 ### Future and Past Meetups
 
-* 2021-1-31 Connor Leahy: *Open AI's latest multimodal work.*
-  * [Facebook event](https://www.facebook.com/events/1123815641396627/)
+* 2021-2-28 Stuart Armstrong
+  * [Signup](https://forms.gle/bkRhP6c9WHJkdWPs5)
+* 2021-2-14 Rohin Shah
+  *  [Signup](  https://forms.gle/YQ39rJ3wfAzATUAt9)
+* 2021-1-31 Connor Leahy: *Moloch Reigns: To Gather an Army or to Forge a Sword?*  
+  * [Video](https://www.youtube.com/watch?v=JSUvx_16zLQ)
 * 2020-12-06 Stuart Russell: *Human Compatible*
   * [Video](https://youtu.be/lKK9-0d_8sE)
   * [Book page](https://people.eecs.berkeley.edu/~russell/hc.html)
