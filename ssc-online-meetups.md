@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SlateStarCodex Online Meetups series
+title: SlateStarCodex Online Meetups
 subtitle: The epidemic makes you smarter
 bigimg:
 
