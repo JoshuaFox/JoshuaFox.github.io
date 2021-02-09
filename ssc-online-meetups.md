@@ -16,6 +16,8 @@ We post new meetups below, to LessWrong.com and elsewhere. The posts include lin
 
 ### Future and Past Meetups
 
+* 2021-3-14 Zvi Mowshowitz
+  * [Signup](https://forms.gle/kgDewbZABWFsTsJy9)
 * 2021-2-28 Stuart Armstrong
   * [Signup](https://forms.gle/bkRhP6c9WHJkdWPs5)
 * 2021-2-14 Rohin Shah
