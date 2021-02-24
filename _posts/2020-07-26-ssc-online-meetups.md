@@ -13,5 +13,5 @@ window.location.replace("http://www.joshuafox.com/ssc-online-meetups");
 
 </script>
 
-[See here](/ssc-online-meetups).
+[See here](/ssc-online-meetups). 
 
