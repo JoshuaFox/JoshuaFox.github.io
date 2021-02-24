@@ -16,12 +16,15 @@ We post new meetups below, to LessWrong.com and elsewhere. The posts include lin
 
 ### Future and Past Meetups
 
+* 202-5-9 Patrick Collison
+* 2021-4-11 Jaan Tallinn 
 * 2021-3-14 Zvi Mowshowitz
   * [Signup](https://forms.gle/kgDewbZABWFsTsJy9)
 * 2021-2-28 Stuart Armstrong
   * [Signup](https://forms.gle/bkRhP6c9WHJkdWPs5)
-* 2021-2-14 Rohin Shah
+* 2021-2-14 Rohin Shah *The Importance of Threat Models for AI Alignment*
   *  [Video](https://youtu.be/VC_J_skJNMs)
+  *  [Slides](https://docs.google.com/presentation/d/1_lZ8RKnXTgYnZXBH80qbNafyh8a-TcIwp_cwbW3m674/edit?urp=gmail_link&gxids=7628#slide=id.p)
 * 2021-1-31 Connor Leahy: *Moloch Reigns: To Gather an Army or to Forge a Sword?*  
   * [Video](https://www.youtube.com/watch?v=JSUvx_16zLQ)
 * 2020-12-06 Stuart Russell: *Human Compatible*
