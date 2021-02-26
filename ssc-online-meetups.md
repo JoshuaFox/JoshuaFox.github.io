@@ -17,7 +17,9 @@ We post new meetups below, to LessWrong.com and elsewhere. The posts include lin
 ### Future and Past Meetups
 
 * 202-5-9 Patrick Collison
+  * [Signup](https://forms.gle/CBJbVBYCjisQcLnN6)
 * 2021-4-11 Jaan Tallinn 
+  * [Signup](https://forms.gle/L5ckb8e7s6SogcbAA)
 * 2021-3-14 Zvi Mowshowitz
   * [Signup](https://forms.gle/kgDewbZABWFsTsJy9)
 * 2021-2-28 Stuart Armstrong
