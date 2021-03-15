@@ -9,6 +9,8 @@ See [Google Scholar](http://scholar.google.com/citations?hl=en&user=d0FLp-q9vFEC
 
 # Approved (granted) patents
 
+These are officially 24 patents; of which some were split off from the original 18 patent applications.
+
 * [Identifying and Scoring Data Values](https://patents.google.com/patent/US9684694B2/) (US 9684694B2)
 * [Desktop Redaction and Masking](https://www.google.com/patents/US9519794) (US 9519794; also [US 9613446](https://patents.google.com/patent/US9613446B2/en))
 * [Accelerated data entry for constrained format input fields](https://www.google.com/patents/US9529529) (US 9529529)

@@ -18,13 +18,17 @@ We post new meetups below, to LessWrong.com and elsewhere. The posts include lin
 
 * 202-5-9 Patrick Collison
   * [Signup](https://forms.gle/CBJbVBYCjisQcLnN6)
+* 2021-4-25 Andrés Gómez Emilsson 
+  * [Signup](https://forms.gle/cU1mw7L2su5HjCTt6)
 * 2021-4-11 Jaan Tallinn 
   * [Signup](https://forms.gle/1sxyb3BzGqmmdqzC7)
-* 2021-3-14 Zvi Mowshowitz
-  * [Signup](https://forms.gle/kgDewbZABWFsTsJy9)
-* 2021-2-28 Stuart Armstrong
+* 2021-4-28  
+  * None planned
+* 2021-3-14 Zvi Mowshowitz: A new game that Zvi is designing & what Zvi has learned from creating his Covid updates.
+  * [Video](https://youtu.be/TXTH8Jg-0PQ)
+* 2021-2-28 Stuart Armstrong: *A path to solving AI alignment*
   * [Video](https://youtu.be/UgwhC8bA74Q)
-* 2021-2-14 Rohin Shah *The Importance of Threat Models for AI Alignment*
+* 2021-2-14 Rohin Shah: *The Importance of Threat Models for AI Alignment*
   *  [Video](https://youtu.be/VC_J_skJNMs)
   *  [Slides](https://docs.google.com/presentation/d/1_lZ8RKnXTgYnZXBH80qbNafyh8a-TcIwp_cwbW3m674/edit?urp=gmail_link&gxids=7628#slide=id.p)
 * 2021-1-31 Connor Leahy: *Moloch Reigns: To Gather an Army or to Forge a Sword?*  
