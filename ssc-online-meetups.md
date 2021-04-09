@@ -16,14 +16,19 @@ We post new meetups below, to LessWrong.com and elsewhere. The posts include lin
 
 ### Future and Past Meetups
 
-* 202-5-9 Patrick Collison
+* 2021-6-20 Daniel M Ingram
+  * [Signup](https://forms.gle/hL5BQ28t2FD2eETU9)
+* 2021-6-6
+  * TBD
+* 2021-5-23
+  * TBD
+* 2021-5-9 Patrick Collison
   * [Signup](https://forms.gle/CBJbVBYCjisQcLnN6)
 * 2021-4-25 Andrés Gómez Emilsson 
   * [Signup](https://forms.gle/cU1mw7L2su5HjCTt6)
 * 2021-4-11 Jaan Tallinn 
   * [Signup](https://forms.gle/1sxyb3BzGqmmdqzC7)
-* 2021-4-28  
-  * None planned
+* 2021-4-28 (None planned)
 * 2021-3-14 Zvi Mowshowitz: A new game that Zvi is designing & what Zvi has learned from creating his Covid updates.
   * [Video](https://youtu.be/TXTH8Jg-0PQ)
 * 2021-2-28 Stuart Armstrong: *A path to solving AI alignment*
