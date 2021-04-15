@@ -22,10 +22,13 @@ We meet 20:30 Israel Time/10:30 Pacific time
   * [Signup](https://forms.gle/hL5BQ28t2FD2eETU9)
 * 2021-6-6
   * TBD
-* 2021-5-23
+* 2021-5-23 Scottt Aaronson
+  * [Signup]( https://forms.gle/7GBLuMb1oeNNF3X69)
+* Date TBD 
+  * Patrick Collison
+    * [Signup](https://forms.gle/CBJbVBYCjisQcLnN6)
+* 2021-5-9 
   * TBD
-* 2021-5-9 Patrick Collison
-  * [Signup](https://forms.gle/CBJbVBYCjisQcLnN6)
 * 2021-4-25 Andrés Gómez Emilsson 
   * [Signup](https://forms.gle/cU1mw7L2su5HjCTt6)
 * 2021-4-11 Jaan Tallinn 
