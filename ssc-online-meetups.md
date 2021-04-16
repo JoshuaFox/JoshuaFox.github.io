@@ -4,25 +4,23 @@ title: SlateStarCodex Online Meetups
 subtitle: The epidemic makes you smarter
 bigimg:
 
-tags: [slatestarcodex lesswrong]
+tags: [slatestarcodex lesswrong astralcodexten∑]
 
 ---
 
 Video links and more, to remind us of the fun we had and anticipate the fun we will have.
 
-Check out [the Slate Star Codex podcast](https://linktr.ee/sscpodcast/) for the audio of these meetups, edited and improved for your enjoyment.
-
-We post new meetups below, to LessWrong.com and elsewhere. The posts include links to sign-up forms to get an invitation and, if you want, to sign up for our mailing list to be notified of new meetups.
+For notifications of meetups, subscribe [here](https://ssconlinemeetup.substack.com/).
 
 ### Future and Past Meetups
 
-We meet 20:30 Israel Time/10:30 Pacific time
+We meet 20:30 Israel time/10:30 Pacific time
 
-* 2021-6-20 Daniel M Ingram
+* 2021-6-20 Daniel M.Ingram
   * [Signup](https://forms.gle/hL5BQ28t2FD2eETU9)
 * 2021-6-6
   * TBD
-* 2021-5-23 Scottt Aaronson
+* 2021-5-23 Scott Aaronson
   * [Signup]( https://forms.gle/7GBLuMb1oeNNF3X69)
 * Date TBD 
   * Patrick Collison
