@@ -1,10 +1,10 @@
 ---
 layout: page
-title: SlateStarCodex Online Meetups
+title: AstralCodexTen Online Meetups
 subtitle: The epidemic makes you smarter
 bigimg:
 
-tags: [slatestarcodex lesswrong astralcodexten∑]
+tags: [slatestarcodex lesswrong astralcodexten]
 
 ---
 
@@ -16,7 +16,7 @@ For notifications of meetups, subscribe [here](https://ssconlinemeetup.substack.
 
 We meet 20:30 Israel time/10:30 Pacific time
 
-* 2021-6-20 Daniel M.Ingram
+* 2021-6-20 Daniel M. Ingram
   * [Signup](https://forms.gle/hL5BQ28t2FD2eETU9)
 * 2021-6-6
   * TBD
