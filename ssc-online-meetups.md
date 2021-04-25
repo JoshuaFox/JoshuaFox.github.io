@@ -16,17 +16,15 @@ For notifications of meetups, subscribe [here](https://ssconlinemeetup.substack.
 
 We meet 20:30 Israel time/10:30 Pacific time
 
-* 2021-6-20 Daniel M. Ingram
-  * [Signup](https://forms.gle/hL5BQ28t2FD2eETU9)
-* 2021-6-6
-  * TBD
-* 2021-5-23 Scott Aaronson
-  * [Signup]( https://forms.gle/7GBLuMb1oeNNF3X69)
+
+
 * Date TBD 
   * Patrick Collison
     * [Signup](https://forms.gle/CBJbVBYCjisQcLnN6)
-* 2021-5-9 
-  * TBD
+* 2021-6-20 Daniel M. Ingram
+  * [Signup](https://forms.gle/hL5BQ28t2FD2eETU9)
+* 2021-5-23 Scott Aaronson
+  * [Signup]( https://forms.gle/7GBLuMb1oeNNF3X69)
 * 2021-4-25 Andrés Gómez Emilsson 
   * [Signup](https://forms.gle/cU1mw7L2su5HjCTt6)
 * 2021-4-11 Jaan Tallinn 
