@@ -4,7 +4,8 @@ title: 'לא על הלחם "Not by Bread": The Jewish Approach To Carbs'
 subtitle:
 tags: [humor ]
 ---
- 
+
+  
 The Torah gives us true guidance in preserving our bodies and souls. The holy books teach of the evils of carbohydrates. Keep your soul safe! Avoid bread, grains, and the simple carbohydrates. Dr. Atkins was right: Obesity is the scourge of the sinful!
 
 **Eat No Bread!**
