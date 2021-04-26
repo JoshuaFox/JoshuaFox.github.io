@@ -31,7 +31,6 @@ We meet 20:30 Israel time/10:30 Pacific time
 * 2021-4-11 Jaan Tallinn 
   * [Video](https://youtu.be/qQCB0geKRUE)
   * [2012 Singularity  Summit talk](https://vimeo.com/54718573)
-* 2021-4-28 (None)
 * 2021-3-14 Zvi Mowshowitz: A new game that Zvi is designing & what Zvi has learned from creating his Covid updates.
   * [Video](https://youtu.be/TXTH8Jg-0PQ)
 * 2021-2-28 Stuart Armstrong: *A path to solving AI alignment*
