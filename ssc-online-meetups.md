@@ -26,7 +26,7 @@ We meet 20:30 Israel time/10:30 Pacific time
 * 2021-5-23 Scott Aaronson
   * [Signup]( https://forms.gle/7GBLuMb1oeNNF3X69)
 * 2021-4-25 Andrés Gómez Emilsson 
-  * [Signup](https://forms.gle/cU1mw7L2su5HjCTt6)
+  * [Video](https://www.youtube.com/watch?v=sxWIy2X0SDw)
 * 2021-4-11 Jaan Tallinn 
   * [Video](https://youtu.be/qQCB0geKRUE)
   * [2012 Singularity  Summit talk](https://vimeo.com/54718573)
