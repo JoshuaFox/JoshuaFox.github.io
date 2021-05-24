@@ -25,7 +25,7 @@ We meet 20:30 Israel time/10:30 Pacific time
 * 2021-6-20 Daniel M. Ingram
   * [Signup](https://forms.gle/hL5BQ28t2FD2eETU9)
 * 2021-5-23 Scott Aaronson
-  * [Signup]( https://forms.gle/7GBLuMb1oeNNF3X69)
+  * [Video](https://www.youtube.com/watch?v=DEYUt1tJlck)
 * 2021-4-25 Andrés Gómez Emilsson 
   * [Video](https://www.youtube.com/watch?v=sxWIy2X0SDw)
 * 2021-4-11 Jaan Tallinn 
