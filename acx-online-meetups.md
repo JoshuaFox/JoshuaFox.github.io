@@ -19,9 +19,10 @@ We meet 20:30 Israel time/10:30 Pacific time
 
 
 
-* Date TBD 
-  * Patrick Collison
-    * [Signup](https://forms.gle/CBJbVBYCjisQcLnN6)
+* Date TBD Patrick Collison
+  * [Signup](https://forms.gle/CBJbVBYCjisQcLnN6)
+* 2021-7-11 Bram Cohen 
+  * [Signup](https://forms.gle/hgqyfFzNLwXZXATC9)
 * 2021-6-20 Daniel M. Ingram
   * [Signup](https://forms.gle/hL5BQ28t2FD2eETU9)
 * 2021-5-23 Scott Aaronson
