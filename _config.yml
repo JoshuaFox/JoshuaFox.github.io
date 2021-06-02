@@ -12,7 +12,7 @@ baseurl: ""
 title: Joshua Fox Home
 
 # Short description of your site
-description: 
+description: " "
 
 # --- Navigation bar options --- #
 
@@ -127,7 +127,7 @@ excerpt_length: 50
 excerpt_separator: <!--end.excerpt-->
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+title-separator: " "
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
