@@ -49,14 +49,13 @@ tags: [yiddish, Mac ]
 <code>Yiddish.bundle</code>
 און קאָפּירט צו דאַס קלאַוויאַטור-בינטל  אזוי:
 <code>sudo cp -r Yiddish.bundle /Library/Keyboard\ Layouts</code>
- 
+
 </li><li>
 מען ווידער הייבט אָן דעם קאַמפּיוטער. 
 </li><li>
 מען עפֿנט  System Settings
 און דערנאָך Keyboards.
 </li><li>
-
 
 מען גיט אַ קװעטש דעם איקון מיט פּלוס צוצוגעבן די קלאַוויאַטור.
 </li><li>
@@ -67,4 +66,8 @@ tags: [yiddish, Mac ]
 גלײַך צו דער העברעאישער, און זי נעמט אַוועק גאַרנישט פֿון איר.‎
 </li>
 </ul>
-</div>ß
+</div> 
+
+
+
+אויב איר געפֿינט פֿאַרבעסערונגן, ביטע שרײַבט צו.
