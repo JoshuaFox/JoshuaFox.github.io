@@ -82,7 +82,7 @@ tags: [yiddish, Mac ]
 <code>sudo cp -r Yiddish.bundle /Library/Keyboard\ Layouts</code>
 
 </li><li>
-מען ווידער הייבט אָן דעם קאַמפּיוטער. 
+מען ווידער הייבט אָן דעם קאָמפּיוטער. 
 </li><li>
 מען עפֿנט
 
