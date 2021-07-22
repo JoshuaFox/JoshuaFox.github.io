@@ -19,8 +19,12 @@ We meet 20:30 Israel time/10:30 Pacific time
 
 
 
+* 29021-9-19 Jon Blow
+  * [Signup](https://forms.gle/8mtzDTisMMJVr8kr5)
+* 2021-9-5 Sam Altman
+  * [Signup](https://forms.gle/Y1EQN7DiZpnJj8GR7)
 * 2021-7-11 Bram Cohen 
-  * [Signup](https://forms.gle/hgqyfFzNLwXZXATC9)
+  * [Video](https://youtu.be/tKP0mnJj4FI)
 * 2021-6-20 Daniel M. Ingram
   * [Video](https://www.youtube.com/watch?v=I1A209wxVow)
 * 2021-5-23 Scott Aaronson
