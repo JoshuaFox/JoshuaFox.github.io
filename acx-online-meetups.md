@@ -17,7 +17,7 @@ For notifications of meetups, subscribe [here](https://ssconlinemeetup.substack.
 
 We meet 20:30 Israel time/10:30 Pacific time
 
-* 29021-9-19 Jonathan Blow
+* 2021-9-19 Jonathan Blow
   * [Signup](https://forms.gle/8mtzDTisMMJVr8kr5)
 * 2021-9-5 Sam Altman
   * [Signup](https://forms.gle/Y1EQN7DiZpnJj8GR7)
