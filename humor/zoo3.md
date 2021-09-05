@@ -22,5 +22,5 @@ Sure, naming the new cub at the Jerusalem zoo after an ancient king in Jerusalem
 
 Sadly, the newborn was afflicted with near-fatal anemia, and no sodium ferric gluconate was in stock.
 
-But don't worry, the veterinary staff is on it.  [They're...](/zoo4)
+But don't worry, the veterinary staff is on it.  [They're...](/humor/zoo4)
 

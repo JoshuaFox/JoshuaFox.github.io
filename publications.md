@@ -7,6 +7,25 @@ layout: page
 **On Software and the Cloud**
 
 ---
+• "[AWS Firewalls: How and When to Use Each One"](https://blog.doit-intl.com/kotlin-gradle-and-the-cloud-4b454701e4b9?source=friends_link&sk=0de9f40992a744bc636b0bd1acc9dc7)"
+
+> When I saw that AWS had a new firewall with the uninformative name “Network Firewall,” I thought “not another one.” This is my attempt to sort them all out. Then Jeff Barr, AWS Chief Evangelist, tweeted it! 
+
+• "[Resource Labeling with Iris3](https://blog.doit-intl.com/iris-3-automatic-labeling-for-cost-control-7451b480ee13?source=friends_link&sk=b934039e5dc35c9d5e377b6a15fb6381)"
+
+>  My Iris 3 open-source project adds labels to resources like VM instances, Pub Sub Topics, and more, making for more detailed cost reports.
+
+• “[The Quickest Quickstarts](https://blog.doit-intl.com/the-quickest-quickstart-9c4111bb0d7a?source=friends_link&sk=0168f8588c7be8d29fe89df13d6881a8])"
+
+>  When I want to use a new technology, I first want a script that gives me a working “Hello World”; I can tweak from there. This article presents nine such solutions for different compute infrastructures on AWS and GCP.
+
+• “[From Notebook to AWS](https://blog.doit-intl.com/from-notebook-to-aws-9bcf29ca0156?source=friends_link&sk=a996e4d15caeff5455f2c1b3cafd3475)''
+
+> Step by step from a research Jupyter Notebook to a AWS distributed Machine Language Deployment.
+
+• "[Looking for an emulator for Google Cloud Tasks?](https://blog.doit-intl.com/looking-for-an-emulator-for-cloud-tasks-45f0ae2c67b5?source=friends_link&sk=05f7c4f7c0c63c2043cd53690ced3df4)
+
+> Though an emulator is often requested, Google does not offer one for developing with Cloud Tasks, comparable to what if offers for Datastore or PubSub. I created one.
 
 • “[Safe Scrub: Clean up your Google Cloud projects.](https://blog.doit-intl.com/safe-scrub-clean-up-your-google-cloud-projects-f90f18aca311?source=friends_link&sk=bce56e27b568c8209f3da94eac17099f)''
 

@@ -22,5 +22,5 @@ After the newborn cub Yikʼin Chan Kʼawiil  arrived from Asunción to the Jerus
 
 Sadly, the little cub was afflicted with anemia. Prone and moaning, it appeared near death, and no sodium ferric gluconate was in stock.
 
-But don't worry, the veterinary staff is on it.  [They're...](/zoo5)
+But don't worry, the veterinary staff is on it.  [They're...](/humor/zoo5)
 

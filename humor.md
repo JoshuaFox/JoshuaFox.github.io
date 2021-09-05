@@ -5,9 +5,9 @@ subtitle:
 tags: [humor ]
 ---
 
-* [Carbs](../carbs) 
-* [Conan](../conan )
-* [NGF](../ngf)
-* [Chaordianism](../chaordianism)
-* [Brian of Judah](../zoo1)
-* [Hashgacha](../hashgacha)
+* [Carbs](/humor/carbs) 
+* [Conan](/humor/conan )
+* [NGF](/humor/ngf)
+* [Chaordianism](/humor/chaordianism)
+* [Brian of Judah](/humor/zoo1)
+* [Hashgacha](/humor/hashgacha)

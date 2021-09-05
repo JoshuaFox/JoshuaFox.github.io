@@ -20,5 +20,5 @@ tags: [humor ]
 
 The new cub at the Jerusalem zoo was afflicted with near-fatal  anemia, and no sodium ferric gluconate was in stock.
 
-But don't worry, the veterinary staff is on it.  [They're ...](/zoo3)
+But don't worry, the veterinary staff is on it.  [They're ...](/humor/zoo3)
 
