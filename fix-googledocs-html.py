@@ -35,6 +35,7 @@ for file in os.listdir(folder):
 
 rtl_style= "body{direction:rtl}</style>"
 
+# Not used
 home = \
 """  <h1 dir="rtl">
     <a href="/">
@@ -43,18 +44,18 @@ home = \
  </h1>"""
 for file in os.listdir(folder):
      filename = './' + folder +'/'+ os.fsdecode(file)
-
      if filename.endswith(".html"):
         with open(filename, 'r') as file:
           data1 = file.read()
           data2 = data1.replace(";text-align:left", "")
-          if data1 != data2:
+          if data2 != data1:
               print("removed text-align:left in", filename)
           else:
               print("did not remove text-align:left in", filename)
 
           if rtl_style not in data2:
-                data3 = data2.replace("</style>",rtl_style)
+                data3 = data2.replace("</style>", rtl_style)
+                print(data2)
                 print("inserted RTL in", filename)
           else:
               data3 = data2
