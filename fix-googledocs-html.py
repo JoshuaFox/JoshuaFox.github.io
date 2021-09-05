@@ -55,7 +55,7 @@ for file in os.listdir(folder):
 
           if rtl_style not in data2:
                 data3 = data2.replace("</style>", rtl_style)
-                print(data2)
+
                 print("inserted RTL in", filename)
           else:
               data3 = data2
