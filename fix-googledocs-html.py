@@ -34,6 +34,13 @@ for file in os.listdir(folder):
             fileout.write(inserted)
 
 rtl_style= "body{direction:rtl}</style>"
+
+home = \
+"""  <h1 dir="rtl">
+    <a href="/">
+	(אַהיים)
+	</a>
+ </h1>"""
 for file in os.listdir(folder):
      filename = './' + folder +'/'+ os.fsdecode(file)
 
@@ -41,17 +48,19 @@ for file in os.listdir(folder):
         with open(filename, 'r') as file:
           data1 = file.read()
           data2 = data1.replace(";text-align:left", "")
-          if data1!=data2:
+          if data1 != data2:
               print("removed text-align:left in", filename)
           else:
               print("did not remove text-align:left in", filename)
 
-          if rtl_style not in data:
+          if rtl_style not in data2:
                 data3 = data2.replace("</style>",rtl_style)
                 print("inserted RTL in", filename)
           else:
               data3 = data2
               print("did not insert RTL in", filename)
+
+
 
         # Do this after filehandle for read is closed
         with open(filename, 'wt') as fileout:
