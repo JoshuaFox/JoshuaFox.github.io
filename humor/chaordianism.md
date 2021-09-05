@@ -21,7 +21,7 @@ You play the Church of Elvis card and discuss  the giant Elvis statue in Neve
 
 And those honey shops? They [really _were_ an al Qaeda front](http://www.nytimes.com/2001/10/11/world/nation-challenged-al-qaeda-honey-trade-said-provide-funds-cover-bin-laden.html).
 
-<img style="padding: 30px; align: left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Great_Seal_of_United_States.jpg/220px-Great_Seal_of_United_States.jpg" alt="" width="400"   />
+<img style="padding: 30px; align: left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Great_Seal_of_the_United_States_%28reverse%29.svg/640px-Great_Seal_of_the_United_States_%28reverse%29.svg.png" alt="" width="400"   />
 
 But today I am going to tell you of a man named Dee. Not [_that_ mystic, inventor, intriguer and philosopher](https://en.wikipedia.org/wiki/John_Dee), the [other one](https://en.wikipedia.org/wiki/Dee_Hock)! The one behind [the world-spanning financial network](http://www.fastcompany.com/27333/trillion-dollar-vision-dee-hock). This terabuck octopus has no head, just tentacles entwined
 through every financial institution in the world banking system. You already knew that the US dollar has the sigil of the [_real_ Illuminati](https://en.wikipedia.org/wiki/Illuminati) on it, but Dee Ward Hock did it one better.
