@@ -8,7 +8,7 @@ tags: [humor ]
 
 ---
 
-[...](/zoo3)
+[...](/humor/zoo3)
 
 They're buyin' the dyin' Zion lion scion Brian iron ions.
 
