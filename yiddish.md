@@ -11,11 +11,8 @@ layout: page
   <blockquote> די בר-מיצווה ווי דער סוד פֿון ייִדישער הצלחה
        </blockquote>
 </li>
-
-
-<ul>
-
-   <li><a href="/yiddish/boyen.html">לאָמיר בויען אַ שול</a>  
+<li>
+ <a href="/yiddish/boyen.html">לאָמיר בויען אַ שול</a>  
   <blockquote>צי וועלן די ייִדן פּון אַדרת באַווײַזן צו בויען אַ שול (למעשׂה, די פֿירטע אָדער זעקסטע שול)
     נאָך צוואַנציק יאָר?
      </blockquote>
