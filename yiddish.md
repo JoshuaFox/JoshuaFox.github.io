@@ -5,6 +5,14 @@ layout: page
 ---
 
 <div dir='rtl'>
+
+<ul>
+   <li><a href="/yiddish/barmitzve.html">הײַנט בין איך אַ מענשט</a>  
+  <blockquote> די בר-מיצווה ווי דער סוד פֿון ייִדישער הצלחה
+       </blockquote>
+</li>
+
+
 <ul>
 
    <li><a href="/yiddish/boyen.html">לאָמיר בויען אַ שול</a>  
@@ -28,7 +36,7 @@ layout: page
  <li>
  <a href="/yiddish/weinreich">אַ קפּיטל
  פֿון דער איליאַדע
- </a> 
+ </a>
  <blockquote>
 מאַקס ווײַנרײַך האָט איבערגעזעצט אַ פּרק פֿון הומערוסעס איליאַדע כּדי צו באַווײַזן אַז ייִדיש איז אַן אמתע, ערליכע שפּראַך.
 </blockquote>
