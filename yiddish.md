@@ -26,15 +26,17 @@ layout: page
 </blockquote>
 </li>
  <li>
- <a href="/yiddish/weinreich">אַ קפּיטל</a>  
+ <a href="/yiddish/weinreich">אַ קפּיטל
  פֿון דער איליאַדע
+ </a> 
  <blockquote>
 מאַקס ווײַנרײַך האָט איבערגעזעצט אַ פּרק פֿון הומערוסעס איליאַדע כּדי צו באַווײַזן אַז ייִדיש איז אַן אמתע, ערליכע שפּראַך.
 </blockquote>
 </li>
 <li>
-<a href="/yiddish/mac-nikud">אַ דערקלערונג</a>
+<a href="/yiddish/mac-nikud">אַ דערקלערונג
 פֿון די העברעאישע קלאַוויאַטור
+</a>
 <blockquote>
   מען קען ניצן דעם געוויינטלעכער העבראישע קלאַוויאַטור אויסצוּוואַרטירן ייִדיש.
 </blockquote>
