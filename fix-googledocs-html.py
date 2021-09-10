@@ -1,10 +1,7 @@
 #!/usr/bin/python3
+#coding utf-8
 import os
 import re
-
-
-
-
 def add_analytics_one_file(filename):
     ua = 'UA-24142341-1'
     analytics = \
