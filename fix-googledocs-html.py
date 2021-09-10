@@ -2,7 +2,7 @@
 import os
 import re
 
-folder = "./yiddish"
+
 
 
 def add_analytics_one_file(filename):
@@ -68,17 +68,17 @@ def add_rtl_one_file(filename):
         fout.write(with_rtl_div)
 
 
-def generate_md_one_file(html_filename):
-    title = os.path.basename(html_filename).split('.')[:-1][0]
+def generate_md_one_file(html_filepath, folder_out):
+    title = os.path.basename(html_filepath).split('.')[:-1][0]
     if not re.match(r'[א-ת]+', title):
-        print('Not making markdown from', html_filename)
+        print('Not making markdown from', html_filepath)
     else:
-        md_filename = '.'.join(html_filename.split('.')[:-1]) + '.md'
-        if os.path.exists(md_filename):
-            os.remove(md_filename)
-            print('Deleted', md_filename)
+        md_filepath = folder_out+"/"+title+ '.md'
+        if os.path.exists(md_filepath):
+            os.remove(md_filepath)
+            print('Deleted', md_filepath)
         else:
-            print('Markdown', md_filename, "does not exist")
+            print('Markdown', md_filepath, "does not exist")
 
         md_header = \
             f"""---
@@ -89,20 +89,21 @@ tags: [ yiddish]
 ---
 
 """
-        with open(html_filename, 'r') as f:
+        with open(html_filepath, 'r') as f:
             html = f.read()
 
         md_header += html
 
-        with open(md_filename, 'w') as fout:
+        with open(md_filepath, 'w') as fout:
             fout.write(md_header)
-            print("Wrote", md_filename)
+            print("Wrote", md_filepath)
 
+folder_out= "./yiddish"
+folder_in= "./yiddish_from_google_docs"
 
-for file in os.listdir(folder):
-    html_filename = './' + folder + '/' + os.fsdecode(file)
-    if html_filename.endswith(".html"):
-        add_analytics_one_file(html_filename)
-        add_rtl_one_file(html_filename)
-
-        generate_md_one_file(html_filename)
+for file in os.listdir(folder_in):
+    html_filepath = folder_in+ '/' + file
+    if html_filepath.endswith(".html")  :
+     add_analytics_one_file(html_filepath)
+     add_rtl_one_file(html_filepath)
+     generate_md_one_file(html_filepath, folder_out)
