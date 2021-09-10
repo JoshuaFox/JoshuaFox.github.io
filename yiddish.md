@@ -7,7 +7,7 @@ layout: page
 <div dir='rtl'>
 
 <ul>
-   <li><a href="/yiddish/די בר-מיצווה/">
+   <li><a href="/yiddish/הײַנט בין איך אַ מענשט/">
      הײַנט בין איך אַ מענשט</a>  
   <blockquote> די בר-מיצווה ווי דער סוד פֿון ייִדישער הצלחה
        </blockquote>
