@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: אַ ייִדישע קלאַוויאַטור פֿאַר מאַק
 subtitle:
 bigimg:

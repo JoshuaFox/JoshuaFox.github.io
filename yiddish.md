@@ -7,25 +7,29 @@ layout: page
 <div dir='rtl'>
 
 <ul>
-   <li><a href="/yiddish/barmitzve.html">הײַנט בין איך אַ מענשט</a>  
+   <li><a href="/yiddish/די בר-מיצווה/">
+     הײַנט בין איך אַ מענשט</a>  
   <blockquote> די בר-מיצווה ווי דער סוד פֿון ייִדישער הצלחה
        </blockquote>
 </li>
 <li>
- <a href="/yiddish/boyen.html">לאָמיר בויען אַ שול</a>  
+ <a href="/yiddish/בויען אַ שול/">
+   לאָמיר בויען אַ שול</a>  
   <blockquote>צי וועלן די ייִדן פּון אַדרת באַווײַזן צו בויען אַ שול (למעשׂה, די פֿירטע אָדער זעקסטע שול)
     נאָך צוואַנציק יאָר?
      </blockquote>
 </li>
 <li>
-<a href="/yiddish/reshte.html">די רעשטע פֿון אַדרת</a>
+<a href="/yiddish/די רעשטע פֿון אדרת/">
+  די רעשטע פֿון אַדרת</a>
 <blockquote>
 אַ קליינע מעשׂהלע פֿון אַ ווײַטער צוקונפֿט אין וועלכער
 מען קוים געדענקט אַדרת און די גאַנצע געשיכטע פֿון עם-ישׂראל.
 </blockquote>
 </li>
 <li>
-<a href="/yiddish/transhumanism.html">טראַנסהומאַניזם</a>
+<a href="/yiddish/טראַנסהומאַניזם איז הומאַניזם/">
+  טראַנסהומאַניזם</a>
 <blockquote>
 טראַנסהומאַניזם איז פּונקט ווי הומאַניזם.
 </blockquote>

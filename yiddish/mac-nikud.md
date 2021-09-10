@@ -3,7 +3,7 @@ layout: page
 title: הקלדת ניקוד במקינטוש
 subtitle:  מחשבי מקבוק מאפשרים הכנסת ניקוד בקלות ביחס לחלונות או לינוקס.
 bigimg:
-tags: [עברית]
+tags: [עברית yiddish hebrew]
 
 ---
 

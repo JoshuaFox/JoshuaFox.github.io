@@ -2,6 +2,7 @@
 layout: page
 title: Sholom Aleichem - Monologues with I. Rymer   
 subtitle:
+tags: [yiddish]
 ---
 *   [1 - Lech-Lecho Tevye the Dairyman](/content/sholom/1_Lech-Lecho_Tevye_the Dairyman.mp3)      
 *   [2 - Naches Fun Kinder The Little People](/content/sholom/2_Naches_Fun_Kinder_The_Little_People.mp3) )

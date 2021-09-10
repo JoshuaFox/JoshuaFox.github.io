@@ -1,68 +1,108 @@
 #!/usr/bin/python3
 import os
-ua = 'UA-24142341-1'
-analytics = \
-f"""
-<!-- Google Analytics -->
-    <script>
-        (function(i,s,o,g,r,a,m){{i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){{
-        (i[r].q=i[r].q||[]).push(arguments)}},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        }})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{ua}', 'auto');
-        ga('send', 'pageview');
-    </script>
-    <!-- End Google Analytics -->
-"""
-folder="./yiddish"
-for file in os.listdir(folder):
-     filename = './' + folder +'/'+ os.fsdecode(file)
-     inserted = None
-     if filename.endswith(".html"):
-        with open(filename, 'r') as file:
-          data = file.read()
+import re
 
-          if ua in data:
-            print('did not add  Google Analytics in', filename)
-          else:
-            inserted = data.replace("</body>", analytics + "\n</body>")
-            print('added Google Analytics in', filename)
+folder = "./yiddish"
 
 
-        if inserted: # Do this after filehandle for read is closed
-          with open(filename, 'wt') as fileout:
-            fileout.write(inserted)
+def add_analytics_one_file(filename):
+    ua = 'UA-24142341-1'
+    analytics = \
+        f"""
+        <!-- Google Analytics -->
+            <script>
+                (function(i,s,o,g,r,a,m){{i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){{
+                (i[r].q=i[r].q||[]).push(arguments)}},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                }})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', '{ua}', 'auto');
+                ga('send', 'pageview');
+            </script>
+            <!-- End Google Analytics -->
+        """
 
-rtl_style= "body{direction:rtl}</style>"
+    inserted = None
+    if filename.endswith(".html"):
+        with open(filename, 'r') as f:
+            data = f.read()
 
-# Not used
-home = \
-"""  <h1 dir="rtl">
-    <a href="/">
-	(אַהיים)
-	</a>
- </h1>"""
-for file in os.listdir(folder):
-     filename = './' + folder +'/'+ os.fsdecode(file)
-     if filename.endswith(".html"):
-        with open(filename, 'r') as file:
-          data1 = file.read()
-          data2 = data1.replace(";text-align:left", "")
-          if data2 != data1:
-              print("removed text-align:left in", filename)
-          else:
-              print("did not remove text-align:left in", filename)
+            if ua in data:
+                print('Did not add  Google Analytics in', filename)
+            else:
+                inserted = data.replace("</body>", analytics + "\n</body>")
+                print('Added Google Analytics in', filename)
 
-          if rtl_style not in data2:
+        if inserted:  # Do this after filehandle for read is closed
+            with open(filename, 'wt') as fout:
+                fout.write(inserted)
+
+
+def add_rtl_one_file(filename):
+    rtl_style = "body{direction:rtl}</style>"
+
+    with open(filename, 'r') as f:
+        def replace_rtl_align_style():
+            data1 = f.read()
+            data2 = data1.replace(";text-align:left", "")
+            if data2 != data1:
+                print("Removed text-align:left in", filename)
+            else:
+                print("Did not remove text-align:left in", filename)
+            return data2
+
+        def add_rtl_div(data2):
+            if rtl_style not in data2:
                 data3 = data2.replace("</style>", rtl_style)
+                print("Inserted RTL in", filename)
+            else:
+                data3 = data2
+                print("Did not insert RTL in", filename)
+            return data3
 
-                print("inserted RTL in", filename)
-          else:
-              data3 = data2
-              print("did not insert RTL in", filename)
+        with_rtl_style = replace_rtl_align_style()
+
+        with_rtl_div = add_rtl_div(with_rtl_style)
+
+    # Do this after filehandle for read is closed
+    with open(filename, 'wt') as fout:
+        fout.write(with_rtl_div)
 
 
+def generate_md_one_file(html_filename):
+    title = os.path.basename(html_filename).split('.')[:-1][0]
+    if not re.match(r'[א-ת]+', title):
+        print('Not making markdown from', html_filename)
+    else:
+        md_filename = '.'.join(html_filename.split('.')[:-1]) + '.md'
+        if os.path.exists(md_filename):
+            os.remove(md_filename)
+            print('Deleted', md_filename)
+        else:
+            print('Markdown', md_filename, "does not exist")
 
-        # Do this after filehandle for read is closed
-        with open(filename, 'wt') as fileout:
-            fileout.write(data3)
+        md_header = \
+            f"""---
+layout: page
+title: "{title}"
+subtitle:
+tags: [ yiddish]
+---
+
+"""
+        with open(html_filename, 'r') as f:
+            html = f.read()
+
+        md_header += html
+
+        with open(md_filename, 'w') as fout:
+            fout.write(md_header)
+            print("Wrote", md_filename)
+
+
+for file in os.listdir(folder):
+    html_filename = './' + folder + '/' + os.fsdecode(file)
+    if html_filename.endswith(".html"):
+        add_analytics_one_file(html_filename)
+        add_rtl_one_file(html_filename)
+
+        generate_md_one_file(html_filename)
