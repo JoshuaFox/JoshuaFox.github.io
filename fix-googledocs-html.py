@@ -67,7 +67,7 @@ def add_rtl_one_file(filename):
 
 def generate_md_one_file(html_filepath, folder_out):
     title = os.path.basename(html_filepath).split('.')[:-1][0]
-    if not re.match(r'[א-ת]+', title):
+    if not re.match(r'.*[א-ת]+.*', title):
         print('Not making markdown from', html_filepath)
     else:
         md_filepath = folder_out+"/"+title+ '.md'
