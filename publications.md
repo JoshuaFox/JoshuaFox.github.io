@@ -7,17 +7,25 @@ layout: page
 **On Software and the Cloud**
 
 ---
-• "[AWS Firewalls: How and When to Use Each One"](https://blog.doit-intl.com/kotlin-gradle-and-the-cloud-4b454701e4b9?source=friends_link&sk=0de9f40992a744bc636b0bd1acc9dc7)"
+"[Cloud Blaster: How to clean up your Google Cloud Project](https://blog.doit-intl.com/cloud-blaster-how-to-clean-up-your-google-cloud-project-easily-6ec1a5d33ea9?source=friends_link&sk=a5ae0e917f1bbf9a201a5b61e3699fc5)"
+
+> As you experiment with the Google Cloud, your project tends to get cluttered. This open-source project cleans it up.
+
+• "[AWS Firewalls: How and When to Use Each One"](https://blog.doit-intl.com/aws-firewalls-101-how-and-when-to-use-each-one-d4ad8087a6b3?source=friends_link&sk=bf365adf9fba5a4119a72cd026faf1c4)"
 
 > When I saw that AWS had a new firewall with the uninformative name “Network Firewall,” I thought “not another one.” This is my attempt to sort them all out. Then Jeff Barr, AWS Chief Evangelist, tweeted it! 
 
+• "[Kotlin, Gradle, and the Cloud](https://blog.doit-intl.com/kotlin-gradle-and-the-cloud-4b454701e4b9?source=friends_link&sk=0de9f40992a744bc636b0bd1acc9dc71)"
+
+> How to build Kotlin apps in the cloud with Gradle.
+
 • "[Resource Labeling with Iris3](https://blog.doit-intl.com/iris-3-automatic-labeling-for-cost-control-7451b480ee13?source=friends_link&sk=b934039e5dc35c9d5e377b6a15fb6381)"
 
->  My Iris 3 open-source project adds labels to resources like VM instances, Pub Sub Topics, and more, making for more detailed cost reports.
+> My Iris 3 open-source project adds labels to resources like VM instances, Pub Sub Topics, and more, making for more detailed cost reports.
 
 • “[The Quickest Quickstarts](https://blog.doit-intl.com/the-quickest-quickstart-9c4111bb0d7a?source=friends_link&sk=0168f8588c7be8d29fe89df13d6881a8])"
 
->  When I want to use a new technology, I first want a script that gives me a working “Hello World”; I can tweak from there. This article presents nine such solutions for different compute infrastructures on AWS and GCP.
+> When I want to use a new technology, I first want a script that gives me a working “Hello World”; I can tweak from there. This article presents nine such solutions for different compute infrastructures on AWS and GCP.
 
 • “[From Notebook to AWS](https://blog.doit-intl.com/from-notebook-to-aws-9bcf29ca0156?source=friends_link&sk=a996e4d15caeff5455f2c1b3cafd3475)''
 
@@ -156,7 +164,7 @@ layout: page
 
 > EAI gives _O(n)_ complexity for connecting _n_ applications on the network, but there remains an _O(n2)_ complexity for integrating the message formats that the applications use as input and output. With an ontology-based approach, however, this too can be reduced to _O(n)_.
 
-• [Semantic Discovery for Web Services,” with Joram Borenstein, _Web Services Journal_.
+• Semantic Discovery for Web Services,” with Joram Borenstein, _Web Services Journal_.
 
 > Web Services lookup with UDDI requires client and server to agree on the exact syntax of the interaction. Using the principles of ontology, providers can publish and clients can discover Services based on the desired functionality rather than the syntactic details.
 
