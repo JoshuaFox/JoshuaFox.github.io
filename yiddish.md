@@ -10,7 +10,9 @@ layout: page
 
 
    <li>
+   <a href="/yiddish/„דער שוואַרצער ריטער“">
    „דער שוואַרצער ריטער“  
+   </a>
 
   <blockquote> מאָדערניזם און כּלל-ייִדיש
        </blockquote>
