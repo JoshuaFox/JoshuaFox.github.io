@@ -7,6 +7,12 @@ layout: page
 **On Software and the Cloud**
 
 ---
+
+
+"[Implementing SaaS Tenant Isolation Using Amazon SageMaker Endpoints and IAM](https://aws.amazon.com/blogs/apn/implementing-saas-tenant-isolation-using-amazon-sagemaker-endpoints-and-iam/)"
+
+> Machine Learning Software-as-a-Service providers that serve a lot of tenants need to keep these tenants prediction endpoints separate. Here are several ways to do that, balancing expense and  robustness. We show an advanced use of Identity and Access management for a flexible access control to the Sagemaker inferencing endpoints.
+ 
 "[Cloud Blaster: How to clean up your Google Cloud Project](https://blog.doit-intl.com/cloud-blaster-how-to-clean-up-your-google-cloud-project-easily-6ec1a5d33ea9?source=friends_link&sk=a5ae0e917f1bbf9a201a5b61e3699fc5)"
 
 > As you experiment with the Google Cloud, your project tends to get cluttered. This open-source project cleans it up.
