@@ -1,12 +1,9 @@
- 
-
 ---
 layout: post
-title: SaaS Tenant Isolation in AWS Machien Learning
+title: SaaS Tenant Isolation in AWS Machine Learning
 subtitle: 
 bigimg: 
 tags: [   aws ml ai ]
-
 
 ---
 
