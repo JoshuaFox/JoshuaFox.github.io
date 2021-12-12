@@ -96,7 +96,7 @@ tags: [ yiddish]
             print("Wrote", md_filepath)
 
 folder_out= "./yiddish"
-folder_in= "./yiddish_from_google_docs"
+folder_in= "./_yiddish_from_google_docs"
 
 for file in os.listdir(folder_in):
     html_filepath = folder_in+ '/' + file
