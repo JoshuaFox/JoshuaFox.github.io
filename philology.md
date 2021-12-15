@@ -16,4 +16,4 @@ Publications in Semitic Philology (Google Scholar [shows citations.](http://sc
 *   “[Isolated Nouns in the Semitic Languages](/wp-content/uploads/2014/10/Fox-Isolated.pdf) ,” _Zeitschrift für Althebraistik_ 11, 1998, 1-31.
 *   “[A Sequence of Vowel Shifts in Phoenician and Related Languages](/wp-content/uploads/2014/10/Fox-Phoenician.pdf),” _Journal of Near Eastern Studies 55,_ 1996, pp. 37-47.
 *   _Noun Patterns in the Semitic Languages_, Dissertation, Harvard University, 1996.
-*   “[A Sequence of Vowel Shifts in Phoenician and Other Languages](http://linguistlist.org/issues/5/5-305.html),” _Joint Session of the American Oriental Society and the North American Afro-Asiatic Linguistics Association_, 1994.
+*   “[A Sequence of Vowel Shifts in Phoenician and Other Languages](https://web.archive.org/web/20150913183434/http://linguistlist.org/issues/5/5-305.html),” _Joint Session of the American Oriental Society and the North American Afro-Asiatic Linguistics Association_, 1994.
