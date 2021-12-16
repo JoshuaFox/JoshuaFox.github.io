@@ -104,7 +104,7 @@ folder_in = "./_yiddish_from_google_docs"
 
 
 def replace_img_one_file(html_filepath):
-    if html_filepath.endswith('/די פֿראָסט־ריזעס טאָכטער.html'):
+    if html_filepath.endswith('/דער פֿראָסט־ריזעס טאָכטער.html'):
         with open(html_filepath, 'r') as f:
             data = f.read()
             inserted = data.replace('src="images/image1.png"', 'src="/img/conan.jpg"')
