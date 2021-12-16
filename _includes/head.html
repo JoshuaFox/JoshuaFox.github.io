@@ -49,8 +49,8 @@
   {% endif %}
 
   {% if page.css %}
-    {% for css in page.css %}
-      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
+    {% for stylesheet in page.css %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/{{ stylesheet }}.css">
     {% endfor %}
   {% endif %}
 

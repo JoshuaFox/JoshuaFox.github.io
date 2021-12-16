@@ -85,6 +85,7 @@ layout: page
 title: "{title}"
 subtitle:
 tags: [ yiddish]
+css: yiddish
 ---
 
 """
