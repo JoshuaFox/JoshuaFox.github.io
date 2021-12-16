@@ -17,8 +17,8 @@ layout: page
        </blockquote>
 </li>
 
-   <li><a href="/yiddish/הײַנט בין איך אַ מענשט/">
-     הײַנט בין איך אַ מענשט</a>  
+   <li><a href="/yiddish/הײַנט בין איך אַ מענטש/">
+     הײַנט בין איך אַ מענטש</a>  
   <blockquote> די בר-מיצווה ווי דער סוד פֿון ייִדישער הצלחה
        </blockquote>
 </li>
