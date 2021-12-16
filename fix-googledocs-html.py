@@ -1,7 +1,9 @@
 #!/usr/bin/python3
-#coding utf-8
+# coding utf-8
 import os
 import re
+
+
 def add_analytics_one_file(filename):
     ua = 'UA-24142341-1'
     analytics = \
@@ -70,7 +72,7 @@ def generate_md_one_file(html_filepath, folder_out):
     if not re.match(r'.*[א-ת]+.*', title):
         print('Not making markdown from', html_filepath)
     else:
-        md_filepath = folder_out+"/"+title+ '.md'
+        md_filepath = folder_out + "/" + title + '.md'
         if os.path.exists(md_filepath):
             os.remove(md_filepath)
             print('Deleted', md_filepath)
@@ -95,12 +97,26 @@ tags: [ yiddish]
             fout.write(md_header)
             print("Wrote", md_filepath)
 
-folder_out= "./yiddish"
-folder_in= "./_yiddish_from_google_docs"
+
+folder_out = "./yiddish"
+folder_in = "./_yiddish_from_google_docs"
+
+
+def replace_img_one_file(html_filepath):
+    if html_filepath.endswith('/די פֿראָסט־ריזעס טאָכטער.html'):
+        with open(html_filepath, 'r') as f:
+            data = f.read()
+            inserted = data.replace('src="images/image1.png"', 'src="/img/conan.jpg"')
+            print('Changed Image tag in Yiddish Conan story')
+
+        with open(html_filepath, 'wt') as fout:
+            fout.write(inserted)
+
 
 for file in os.listdir(folder_in):
-    html_filepath = folder_in+ '/' + file
-    if html_filepath.endswith(".html")  :
-     add_analytics_one_file(html_filepath)
-     add_rtl_one_file(html_filepath)
-     generate_md_one_file(html_filepath, folder_out)
+    html_filepath = folder_in + '/' + file
+    if html_filepath.endswith(".html"):
+        add_analytics_one_file(html_filepath)
+        add_rtl_one_file(html_filepath)
+        replace_img_one_file(html_filepath)
+        generate_md_one_file(html_filepath, folder_out)
