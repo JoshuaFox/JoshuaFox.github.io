@@ -13,7 +13,7 @@ WEBSITE_YIDDISH_DOCS_GDRIVE_FOLDER = "1Hvb0MpR91LOHcb6SbhB1-Hxih8W_07Ba"
 
 
 def local_yiddish_download_dir():
-    return str(Path.home())+"/Documents/pdocs/joshuafox.com/_yiddish_from_google_docs"
+    return "./_yiddish_from_google_docs"
 
 
 local_yiddish_download_dir()
