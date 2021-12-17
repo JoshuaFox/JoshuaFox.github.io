@@ -12,11 +12,10 @@ from googleapiclient.discovery import build
 WEBSITE_YIDDISH_DOCS_GDRIVE_FOLDER = "1Hvb0MpR91LOHcb6SbhB1-Hxih8W_07Ba"
 
 
-def local_yiddish_download_dir():
-    return "./_yiddish_from_google_docs"
+LOCAL_YIDDISH_DOWNLOAD_DIR="./_yiddish_from_google_docs"
 
 
-local_yiddish_download_dir()
+
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
 
@@ -36,10 +35,10 @@ def credentials_dir():
 
 def remake_download_dir():
     try:
-        shutil.rmtree(local_yiddish_download_dir())
+        shutil.rmtree(LOCAL_YIDDISH_DOWNLOAD_DIR)
     except FileNotFoundError:
         pass
-    os.mkdir(local_yiddish_download_dir())
+    os.mkdir(LOCAL_YIDDISH_DOWNLOAD_DIR)
 
 
 def export_html(service, doc_id):
@@ -47,7 +46,7 @@ def export_html(service, doc_id):
     doc = service.files().get(fileId=doc_id).execute()
     name = doc['name']
 
-    with open(local_yiddish_download_dir() + "/" + name + ".html", "wb") as f:
+    with open(LOCAL_YIDDISH_DOWNLOAD_DIR + "/" + name + ".html", "wb") as f:
         f.write(html_content)
         print('Exported "%s"' % name)
 
