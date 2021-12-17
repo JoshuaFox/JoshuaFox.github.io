@@ -72,6 +72,7 @@ def generate_md_one_file(html_filepath, folder_out):
         print('Not making markdown from', html_filepath)
     else:
         md_filepath = folder_out + "/" + title + '.md'
+
         if os.path.exists(md_filepath):
             os.remove(md_filepath)
             print('Deleted', md_filepath)
@@ -98,8 +99,8 @@ css: yiddish
             print("Wrote", md_filepath)
 
 
-folder_out = "./yiddish"
-folder_in = "./_yiddish_from_google_docs"
+folder_out =os.path.abspath( "./yiddish")
+folder_in = os.path.abspath("./_yiddish_from_google_docs")
 
 
 def replace_img_one_file(html_filepath):
