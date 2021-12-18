@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "קובערנעטעס ענגליש"
+title: "Kubernetes in Plain English"
 subtitle:
 tags: [ yiddish]
 css: yiddish
