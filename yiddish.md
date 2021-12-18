@@ -58,7 +58,7 @@ layout: page
 </blockquote>
 </li>
  <li>
- <a href="/yiddish/weinreich">אַ קפּיטל
+ <a href="/yiddish/weinreich">אַ קאַפּיטל
  פֿון דער איליאַדע
  </a>
  <blockquote>
