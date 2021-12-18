@@ -22,3 +22,5 @@ run_jekyll.sh
 .idea/
 /googledocs/venv/
 /googledocs/virtenv/
+/googledocs/virtual_env/
+/googledocs/virtualenv/
