@@ -21,3 +21,4 @@ run_jekyll.sh
 /yiddish/.idea/
 .idea/
 /googledocs/venv/
+/googledocs/virtenv/
