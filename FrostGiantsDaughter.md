@@ -132,16 +132,7 @@ css: yiddish
 <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;font-style:italic;color:#1155cc;text-decoration:underline">
 
 
-<a href="https://joshuafox.com/yiddish/%D7%93%D7%A2%D7%A8%20%D7%A4%D6%BF%D7%A8%D7%90%D6%B8%D7%A1%D7%98%D6%BE%D7%A8%D7%99%D7%96%D7%A2%D7%A1%20%D7%98%D7%90%D6%B8%D7%9B%D7%98%D7%A2%D7%A8/" style="color:inherit;text-decoration:inherit">In Yiddish, here
-
-
-</a>
-
-
-</span>
-
-
-<span style="font-style:italic">.
+<a href="https://joshuafox.com/yiddish/דער פֿראָסט־ריזעס טאָכטער/" style="color:inherit;text-decoration:inherit">In Yiddish, here</a></span><span style="font-style:italic">.
 
 
 </span>
