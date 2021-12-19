@@ -35,10 +35,8 @@ css: yiddish
 <span class="c17">. Also, see
 </span>
 <span class="c17 c25">
-<a class="c8" href="https://www.google.com/url?q=https://blog.doit-intl.com/why-i-work-at-doit-as-a-cloud-infrastructure-consultant-a87fceb74a73?source%3Dfriends_link%26sk%3De77a2a330fc3904002542404834f7a0c&amp;sa=D&amp;source=editors&amp;ust=1639920609310000&amp;usg=AOvVaw2JcJWrNW_wnFb87RbPQFOw">my blog post
-</a>
-</span>
-<span class="c17">&nbsp;on our unusual way of working.
+<a class="c8" href="https://blog.doit-intl.com/why-i-work-at-doit-as-a-cloud-infrastructure-consultant-a87fceb74a73?source%3Dfriends_link%26sk%3De77a2a330fc3904002542404834f7a0c">my
+blog post</a></span><span class="c17"> about our unusual way of working.
 </span>
 </p>
 </td>
