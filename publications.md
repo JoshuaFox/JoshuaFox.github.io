@@ -69,35 +69,35 @@ layout: page
 
 > How to quickly absorb the knowledge that you don't yet have, building on your professional strengths.
 
-• “Google App Engine Flexible Environment: Beyond the Bounds of PaaS” ([Video](https://www.youtube.com/watch?v=QmmzUbX7IEY&t=22s)).  The first ever talk or article dedicated to this new Google PaaS. _Multicloud Engineering,_.
+• “Google App Engine Flexible Environment: Beyond the Bounds of PaaS” ([Video](https://www.youtube.com/watch?v=QmmzUbX7IEY&t=22s)).  The first ever talk or article dedicated to this new Google PaaS. _Multicloud Engineering,_.
 
-• “[Breaking boundaries: How Freightos achieved high speed graph search in the cloud](http://www.cloudcomputing-news.net/news/2016/oct/06/breaking-boundaries-how-freightos-achieved-high-speed-graph-search-cloud/),” _CloudTech_.
+• “[Breaking boundaries: How Freightos achieved high speed graph search in the cloud](http://www.cloudcomputing-news.net/news/2016/oct/06/breaking-boundaries-how-freightos-achieved-high-speed-graph-search-cloud/),” _CloudTech_.
 
 > Running heavy-duty graph algorithms against a very large dataset require some unusual design principles. Freightos may not be the only company doing it, but no cloud platform today is optimized for this; in fact, the usual design assumptions in cloud platforms are quite the opposite of what we needed. Here is how we did it.
 
 • “Modeling Retail Products: A Big Data Approach,” _The Software Generalist_.
 
-• “[Search and You Shall Find](https://medium.com/@Twiggle/search-and-you-shall-find-c2d2c3c43cf2),” _Medium_.
+• “[Search and You Shall Find](https://medium.com/@Twiggle/search-and-you-shall-find-c2d2c3c43cf2),” _Medium_.
 
-> Today’s e-tail search  engines return inaccurate results; merchants stuff all product information into long titles. To optimize revenue, online retailers need a search engine that _understands_ the product selection.
+> Today’s e-tail search  engines return inaccurate results; merchants stuff all product information into long titles. To optimize revenue, online retailers need a search engine that _understands_ the product selection.
 
 • “[Apache Spark and Java 8: The Big Data Team](http://www.datanami.com/2014/12/11/apache-spark-java-8-big-data-team-2015/),” _Datanami_.
 
-> Apache Spark with Java 8 is proving to be the perfect match for Big Data.  In this article, I show an example of collaborative filtering using Spark on Cassandra data, and explain how much  easier this is to do with the lambdas of Java 8. Code to accompany it is [here at GitHub](https://github.com/JoshuaFox/spark-cassandra-collabfiltering).
+> Apache Spark with Java 8 is proving to be the perfect match for Big Data.  In this article, I show an example of collaborative filtering using Spark on Cassandra data, and explain how much  easier this is to do with the lambdas of Java 8. Code to accompany it is [here at GitHub](https://github.com/JoshuaFox/spark-cassandra-collabfiltering).
 
 • “Documents in the cloud: Dynamic, Privacy-customized views,” _Cloudbook_.
 
-> As documents move to the cloud, it becomes harder to protect the private information in them, but on the other hand becomes easier to control distribution of specific private information to exactly the people who are authorized to see it.
+> As documents move to the cloud, it becomes harder to protect the private information in them, but on the other hand becomes easier to control distribution of specific private information to exactly the people who are authorized to see it.
 
 • “Flexible, Dynamic Redaction”, _MasterDataManagement.com_.
 
-> Complying with privacy regulations used to mean “redaction,” blacking out words with a pen, slowly and expensively. But natural language processing techniques can protect exactly the information regulated by law while giving convenient access to authorized users.
+> Complying with privacy regulations used to mean “redaction,” blacking out words with a pen, slowly and expensively. But natural language processing techniques can protect exactly the information regulated by law while giving convenient access to authorized users.
 
 • “Breaking Walls: How to Get Departments to Share Information,” with Michael Pelts, _Technology and Humans:_.
 
 • “[People Who Live in Glass Houses Should Put Up Some Shades](http://www.infosecurity-us.com/view/15682/comment-some-documents-require-finegrained-dynamic-security/),” _InfoSecurity_.
 
-> Too much openness, as well as too little, both pose risks. Document viewing with automated privacy control is one part of the balance. Allowing authorized users to retrieve the redacted information is another.
+> Too much openness, as well as too little, both pose risks. Document viewing with automated privacy control is one part of the balance. Allowing authorized users to retrieve the redacted information is another.
 
 • “Privacy for the Deeper Web,” with Michael Pelts, _Technology and Humans_.
 
@@ -113,9 +113,9 @@ layout: page
 
 > The article is aimed at senior Java developers, encouraging them to learn more about this exciting language. A dialect of Lisp, Clojure runs on the JVM with excellent integration with Java, and provides new, improved solutions for the biggest challenge to programming languages today: concurrency.
 
-• “Mining Meaning from Java Code with Java Data Mining API”, _JavaOne,_ San Francisco. As with the earlier talk, the JavaOne committee gave this presentation the “Cool Stuff” award.
+• “Mining Meaning from Java Code with Java Data Mining API”, _JavaOne,_ San Francisco. As with the earlier talk, the JavaOne committee gave this presentation the “Cool Stuff” award.
 
-• “Mining for Services: Discovering Business Realities in Mainframe Metadata,” _IMPACT_, Las Vegas.
+• “Mining for Services: Discovering Business Realities in Mainframe Metadata,” _IMPACT_, Las Vegas.
 
 • “Finding Mashup Ingredients,” _Web 2.0 and Beyond Summit_.
 
@@ -147,13 +147,13 @@ layout: page
 
 > A business-focused overview of the value that semantics bring to Service Oriented Architectures.
 
-• “Business Processes: Connecting the Design-Time to the Run-time” (presentation here),  _Programming Languages and Development Environments Seminar_, Haifa.
+• “Business Processes: Connecting the Design-Time to the Run-time” (presentation here),  _Programming Languages and Development Environments Seminar_, Haifa.
 
 • “XMI and the Many Metamodels of Enterprise Metadata,” with Joram Borenstein, _XML Conference_, Atlanta.
 
 • “Semantic Enterprise Systems Management for Program Trading,” with Simon de M. Walker, _Securities Industry Middleware Council_, New York.
 
-• “Java Metadata and the Semantic Web,” _JavaOne_, San Francisco. Awarded  “Intriguing and Unexpected: New and Cool” by the conference committee.
+• “Java Metadata and the Semantic Web,” _JavaOne_, San Francisco. Awarded  “Intriguing and Unexpected: New and Cool” by the conference committee.
 
 • “Aligning Business Process and Business Information Models: a Semantic Approach,” with Zvi Schreiber, _Global Business Process Forum_, London.
 
@@ -165,11 +165,11 @@ layout: page
 
 • “Web Services: Trends Toward Adoption,” invited appearance at industry experts panel, _EIDX/CompTIA_, San Diego.
 
-• “Know What Your Schemas Mean: Semantic Information Management for XML Assets,”  _XML Conference_.
+• “Know What Your Schemas Mean: Semantic Information Management for XML Assets,”  _XML Conference_.
 
 > Schemas control the structure of information, But they don’t specify what a field means. Is that “salary” field monthly or annual? Semantic data management helps you keep track and avoid expensive mistakes.
 
-• “[Active Information Models for Data Transformation](/wp-content/uploads/2014/10/Active_Information_Models_for_Data_Transformation_-_May_2003_-_Joshua_Fox.pdf),” _eAI Journal_ (later renamed to _Business Integration Journal_ and _Align Journal_).
+• “[Active Information Models for Data Transformation](/wp-content/uploads/2014/10/Active_Information_Models_for_Data_Transformation_-_May_2003_-_Joshua_Fox.pdf),” _eAI Journal_ (later renamed to _Business Integration Journal_ and _Align Journal_).
 
 > EAI gives _O(n)_ complexity for connecting _n_ applications on the network, but there remains an _O(n2)_ complexity for integrating the message formats that the applications use as input and output. With an ontology-based approach, however, this too can be reduced to _O(n)_.
 
@@ -177,7 +177,7 @@ layout: page
 
 > Web Services lookup with UDDI requires client and server to agree on the exact syntax of the interaction. Using the principles of ontology, providers can publish and clients can discover Services based on the desired functionality rather than the syntactic details.
 
-• “[Generating XSLT with a Semantic Hub](/wp-content/uploads/2014/10/Generating-XSLT-with-a-Semantic-Hub.pdf),”  _XML Conference_.
+• “[Generating XSLT with a Semantic Hub](/wp-content/uploads/2014/10/Generating-XSLT-with-a-Semantic-Hub.pdf),”  _XML Conference_.
 
 > XLST was a promising XML technology that never fulfilled its promise because it was so hard to write and maintain. But when generated automatically from semantic information about what data is used for, XSLT becomes an automated information interchange language.
 
@@ -211,22 +211,22 @@ layout: page
 
 > Garbage collecting distributed leases requires mechanisms such as keep-alives, heartbeats, leases, and Are-You-There/I-Hear-You protocols. Interestingly, the keep-alive mechanism built into TCP/IP sockets is not really practical; for this reason and the JDK didn’t allow access to Socket Option Keep-Alive until the recent release of JDK 1.3. I explain the problems with SO\_KEEPALIVE and how to implement your own garbage collection mechanism for distributed resources.
 
-• Seminars: Servlets, JSP, RMI and JDBC. Interbit Training and Consulting, a Sun Microsystems Training Center, Herzliya, Israel.
+• Seminars: Servlets, JSP, RMI and JDBC. Interbit Training and Consulting, a Sun Microsystems Training Center, Herzliya, Israel.
 
 • “[Collaborative Applications with the Java Shared Data Toolkit](http://drdobbs.com/184403999#),” _Dr. Dobb’s Journal_.
 
-> I describe and review a toolkit for allowing distributed applications to share objects, and more generally discuss the challenges of managing distributed objects. The JSDT was an official product from Sun, although it never made it to the status of a Java extension. It implemented some interesting ideas for distributing objects. I enjoyed collaborating with the  creator, and some of my suggestions (like one on failure detection), actually made it into the toolkit.
+> I describe and review a toolkit for allowing distributed applications to share objects, and more generally discuss the challenges of managing distributed objects. The JSDT was an official product from Sun, although it never made it to the status of a Java extension. It implemented some interesting ideas for distributing objects. I enjoyed collaborating with the  creator, and some of my suggestions (like one on failure detection), actually made it into the toolkit.
 
 
 
 **Recruiting and Career**
 
 ---
-*   [On informational interviews](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, for _ERE_, the leading  site for tech recruiters. It [also appeared](http://www.gius.co.il/%D7%90%D7%99%D7%9A-%D7%96%D7%94-%D7%9C%D7%A2%D7%91%D7%95%D7%93-%D7%A9%D7%9D/) at Israel’s top news site for recruiters, gius.co.il.
-*   On the game-theoretical perspective on [kegerators](https://web.archive.org/web/20210416193222/https://pando.com/2013/12/21/in-praise-of-the-office-kegerator-the-future-of-better-jobs) for _Pando_.
-*   On building [ open-source communities](https://opensource.com/business/13/7/four-tips-project-to-business)  by recruiting top tech talent from among the members, at _OpenSource.com_.
-*   Career tips [for Generation Y professionals](https://web.archive.org/web/20141002070155/http://blog.brazencareerist.com/author/joshfox/) at _Brazen Careerist_.
+*   [On informational interviews](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, for _ERE_, the leading  site for tech recruiters. It [also appeared](http://www.gius.co.il/%D7%90%D7%99%D7%9A-%D7%96%D7%94-%D7%9C%D7%A2%D7%91%D7%95%D7%93-%D7%A9%D7%9D/) at Israel’s top news site for recruiters, gius.co.il.
+*   On the game-theoretical perspective on [kegerators](https://web.archive.org/web/20210416193222/https://pando.com/2013/12/21/in-praise-of-the-office-kegerator-the-future-of-better-jobs) for _Pando_.
+*   On building [ open-source communities](https://opensource.com/business/13/7/four-tips-project-to-business)  by recruiting top tech talent from among the members, at _OpenSource.com_.
+*   Career tips [for Generation Y professionals](https://web.archive.org/web/20141002070155/http://blog.brazencareerist.com/author/joshfox/) at _Brazen Careerist_.
 *   [The rise of the anti-recruiter](http://readwrite.com/2013/08/23/recruiters-jobs-matchmakers-developers) at _ReadWrite_.
-*   On [a new approach to recruiting](http://www.informationweek.com/strategic-cio/executive-insights-and-innovation/stop-recruiting-start-connecting/a/d-id/1297627?)  at _Information Week,_  with Jack Perkins.
+*   On [a new approach to recruiting](http://www.informationweek.com/strategic-cio/executive-insights-and-innovation/stop-recruiting-start-connecting/a/d-id/1297627?)  at _Information Week,_  with Jack Perkins.
 *   On effective [employer branding](https://web.archive.org/web/20140624045748/https://www.ere.net/2014/06/18/not-too-expensive-employer-branding/) for _ERE_.
-*   [On informational Interviews](http://www.businessinsider.com/a-networking-trick-that-could-help-you-find-your-next-job-2014-2), from the professional’s perspective, for _Business Insider_.
+*   [On informational Interviews](http://www.businessinsider.com/a-networking-trick-that-could-help-you-find-your-next-job-2014-2), from the professional’s perspective, for _Business Insider_.
