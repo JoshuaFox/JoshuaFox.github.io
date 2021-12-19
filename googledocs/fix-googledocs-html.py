@@ -120,17 +120,6 @@ def replace_img(html_filepath):
             print("replace_image wrote", html_filepath)
 
 
-def fix_link(html_filepath):
-    with open(html_filepath, 'r') as f:
-        data = f.read()
-        replaced = fix_google_redirects_once(data)
-
-    if replaced != data:
-        with open(html_filepath, 'wt') as fout:
-            fout.write(replaced)
-        print("fix_link wrote", html_filepath)
-
-
 def fix_google_redirects_once(data):
     # THere is also some query-string junk, but just leaving that.
     intro_s = 'https://www.google.com/url?q=https://'
@@ -151,6 +140,22 @@ def fix_google_redirects_once(data):
     else:
         print("Did not replace link in", html_filepath)
         return data
+
+
+def fix_link(html_filepath):
+
+    while True:
+        with open(html_filepath, 'r') as f:
+            data = f.read()
+        replaced = fix_google_redirects_once(data)
+        if replaced == data:
+            break
+        else:
+            with open(html_filepath, 'wt') as fout:
+                fout.write(replaced)
+            print("fix_link wrote", html_filepath)
+
+
 
 
 def pretty_print(html_filepath):
