@@ -51,7 +51,7 @@ css: yiddish
 </p>
 <p class="c13">
 <span class="c3">
-<a href="https://joshuafox.com/yiddish/%25D7%25A7%25D7%2595%25D7%2591%25D7%25A2%25D7%25A8%25D7%25A0%25D7%25A2%25D7%2598%25D7%25A2%25D7%25A1" style="color:inherit;text-decoration:inherit">
+<a href="https://joshuafox.com/yiddish/קובערנעטעס" style="color:inherit;text-decoration:inherit">
 The Yiddish original is here</a></span><span class="c17 c6 c21">.
 </span>
 </p>
