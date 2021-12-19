@@ -2,6 +2,10 @@
 import os
 import re
 from bs4 import BeautifulSoup
+folder_out = os.path.abspath("./yiddish")
+folder_in = os.path.abspath("./_yiddish_from_google_docs")
+
+
 def add_analytics(filename):
     ua = 'UA-24142341-1'
     analytics = \
@@ -32,6 +36,7 @@ def add_analytics(filename):
         if inserted:  # Do this after filehandle for read is closed
             with open(filename, 'wt') as fout:
                 fout.write(inserted)
+                print("add_analytics wrote", filename)
 
 
 def add_rtl(filename):
@@ -63,6 +68,7 @@ def add_rtl(filename):
     # Do this after filehandle for read is closed
     with open(filename, 'wt') as fout:
         fout.write(with_rtl_div)
+        print("add_rtl wrote", filename)
 
 
 def generate_md(html_filepath, folder_out):
@@ -95,11 +101,7 @@ css: yiddish
 
         with open(md_filepath, 'w') as fout:
             fout.write(md_header)
-            print("Wrote", md_filepath)
-
-
-folder_out = os.path.abspath("./yiddish")
-folder_in = os.path.abspath("./_yiddish_from_google_docs")
+            print("generate_md wrote", md_filepath)
 
 
 def replace_img(html_filepath):
@@ -113,6 +115,7 @@ def replace_img(html_filepath):
 
         with open(html_filepath, 'wt') as fout:
             fout.write(inserted)
+            print("replace_image wrote", html_filepath)
 
 
 def fix_link(html_filepath):
@@ -122,9 +125,9 @@ def fix_link(html_filepath):
         replaced= fix_google_redirects_once(data)
 
     if replaced!=data:
-        with open(html_filepath+"x.html", 'wt') as fout:
+        with open(html_filepath, 'wt') as fout:
             fout.write(replaced)
-        pass
+        print("fix_link wrote", html_filepath)
 
 
 def fix_google_redirects_once(data):
