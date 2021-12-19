@@ -9,7 +9,7 @@ Please see [here](/carbs)
 <!--end.excerpt-->
 
 <script>
-window.location.replace("https://joshuafox.com/carbs");
+window.location.replace("https://joshuafox.com/humor/carbs");
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: הקלדת ניקוד במקינטוש
-subtitle:  מחשבי מקבוק מאפשרים הכנסת ניקוד בקלות ביחס לחלונות או לינוקס.
+subtitle:  מחשבי מקבוק מאפשרים הכנסת ניקוד בקלות ביחס לחלונות או לינוקס
 bigimg:
 tags: [עברית yiddish hebrew]
 
@@ -15,7 +15,8 @@ tags: [עברית yiddish hebrew]
   ״מציג המקלדת״
   (Keyboard Viewer)
 
-מתוך  תפריט המקלדות ברצועה בראש המדך
+מתוך  תפריט המקלדות ברצועה בראש 
+הדף.
    <br />
 <img src="/img/keyboard-viewer-english.png" height="90"  />
   <img src="/img/keyboard-viewer-hebrew.png" height="90"  />
