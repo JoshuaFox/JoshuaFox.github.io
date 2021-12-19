@@ -71,7 +71,7 @@ layout: page
 
 • “Google App Engine Flexible Environment: Beyond the Bounds of PaaS” ([Video](https://www.youtube.com/watch?v=QmmzUbX7IEY&t=22s)).  The first ever talk or article dedicated to this new Google PaaS. _Multicloud Engineering,_.
 
-• “[Breaking boundaries: How Freightos achieved high speed graph search in the cloud](http://www.cloudcomputing-news.net/news/2016/oct/06/breaking-boundaries-how-freightos-achieved-high-speed-graph-search-cloud/),” _CloudTech_.
+• “[Breaking boundaries: How Freightos achieved high speed graph search in the cloud](https://www.cloudcomputing-news.net/news/2016/oct/06/breaking-boundaries-how-freightos-achieved-high-speed-graph-search-cloud/),” _CloudTech_.
 
 > Running heavy-duty graph algorithms against a very large dataset require some unusual design principles. Freightos may not be the only company doing it, but no cloud platform today is optimized for this; in fact, the usual design assumptions in cloud platforms are quite the opposite of what we needed. Here is how we did it.
 
@@ -81,7 +81,7 @@ layout: page
 
 > Today’s e-tail search  engines return inaccurate results; merchants stuff all product information into long titles. To optimize revenue, online retailers need a search engine that _understands_ the product selection.
 
-• “[Apache Spark and Java 8: The Big Data Team](http://www.datanami.com/2014/12/11/apache-spark-java-8-big-data-team-2015/),” _Datanami_.
+• “[Apache Spark and Java 8: The Big Data Team](https://www.datanami.com/2014/12/11/apache-spark-java-8-big-data-team-2015/),” _Datanami_.
 
 > Apache Spark with Java 8 is proving to be the perfect match for Big Data.  In this article, I show an example of collaborative filtering using Spark on Cassandra data, and explain how much  easier this is to do with the lambdas of Java 8. Code to accompany it is [here at GitHub](https://github.com/JoshuaFox/spark-cassandra-collabfiltering).
 
@@ -95,7 +95,7 @@ layout: page
 
 • “Breaking Walls: How to Get Departments to Share Information,” with Michael Pelts, _Technology and Humans:_.
 
-• “[People Who Live in Glass Houses Should Put Up Some Shades](http://www.infosecurity-us.com/view/15682/comment-some-documents-require-finegrained-dynamic-security/),” _InfoSecurity_.
+• “[People Who Live in Glass Houses Should Put Up Some Shades](https://www.infosecurity-us.com/view/15682/comment-some-documents-require-finegrained-dynamic-security/),” _InfoSecurity_.
 
 > Too much openness, as well as too little, both pose risks. Document viewing with automated privacy control is one part of the balance. Allowing authorized users to retrieve the redacted information is another.
 
@@ -141,7 +141,7 @@ layout: page
 
 • “[Ruby for the Java World](https://www.javaworld.com/article/2071794/ruby-for-the-java-world.amp.html),” _JavaWorld_.
 
-> Dynamic languages are rapidly gaining in popularity. Ruby in particular has attracted attention, with a big boost from the Ruby on Rails Web framework. In this article, I introduce Java programmers to Ruby, focusing on the similarities, differences, and connectivity between the two languages, and describing the value of JRuby on the Java-platform. The article got some [buzz](http://www.google.com/search?q=%22joshua+fox%22+ruby+java) on the net, including from Frank Sommers at [Artima](http://www.artima.com/forums/flat.jsp?forum=276&thread=168997).
+> Dynamic languages are rapidly gaining in popularity. Ruby in particular has attracted attention, with a big boost from the Ruby on Rails Web framework. In this article, I introduce Java programmers to Ruby, focusing on the similarities, differences, and connectivity between the two languages, and describing the value of JRuby on the Java-platform. The article got some [buzz](https://www.google.com/search?q=%22joshua+fox%22+ruby+java) on the net, including from Frank Sommers at [Artima](https://www.artima.com/forums/flat.jsp?forum=276&thread=168997).
 
 • “Enterprise Semantics: Aligning Service Oriented Architecture with the Business ,” with Joram Borenstein, *Web Services Journal*.
 
@@ -207,13 +207,13 @@ layout: page
 
 • “Developing Java Servlets.” Software Productivity Center, Vancouver, Canada.
 
-• “[So what is SO\_KEEPALIVE?](http://drdobbs.com/java/184404250#),” _Dr. Dobb’s Journal_.
+• “[So what is SO\_KEEPALIVE?](https://drdobbs.com/java/184404250#),” _Dr. Dobb’s Journal_.
 
 > Garbage collecting distributed leases requires mechanisms such as keep-alives, heartbeats, leases, and Are-You-There/I-Hear-You protocols. Interestingly, the keep-alive mechanism built into TCP/IP sockets is not really practical; for this reason and the JDK didn’t allow access to Socket Option Keep-Alive until the recent release of JDK 1.3. I explain the problems with SO\_KEEPALIVE and how to implement your own garbage collection mechanism for distributed resources.
 
 • Seminars: Servlets, JSP, RMI and JDBC. Interbit Training and Consulting, a Sun Microsystems Training Center, Herzliya, Israel.
 
-• “[Collaborative Applications with the Java Shared Data Toolkit](http://drdobbs.com/184403999#),” _Dr. Dobb’s Journal_.
+• “[Collaborative Applications with the Java Shared Data Toolkit](https://drdobbs.com/184403999#),” _Dr. Dobb’s Journal_.
 
 > I describe and review a toolkit for allowing distributed applications to share objects, and more generally discuss the challenges of managing distributed objects. The JSDT was an official product from Sun, although it never made it to the status of a Java extension. It implemented some interesting ideas for distributing objects. I enjoyed collaborating with the  creator, and some of my suggestions (like one on failure detection), actually made it into the toolkit.
 
@@ -222,11 +222,11 @@ layout: page
 **Recruiting and Career**
 
 ---
-*   [On informational interviews](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, for _ERE_, the leading  site for tech recruiters. It [also appeared](http://www.gius.co.il/%D7%90%D7%99%D7%9A-%D7%96%D7%94-%D7%9C%D7%A2%D7%91%D7%95%D7%93-%D7%A9%D7%9D/) at Israel’s top news site for recruiters, gius.co.il.
+*   [On informational interviews](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, for _ERE_, the leading  site for tech recruiters. It [also appeared](https://www.gius.co.il/%D7%90%D7%99%D7%9A-%D7%96%D7%94-%D7%9C%D7%A2%D7%91%D7%95%D7%93-%D7%A9%D7%9D/) at Israel’s top news site for recruiters, gius.co.il.
 *   On the game-theoretical perspective on [kegerators](https://web.archive.org/web/20210416193222/https://pando.com/2013/12/21/in-praise-of-the-office-kegerator-the-future-of-better-jobs) for _Pando_.
 *   On building [ open-source communities](https://opensource.com/business/13/7/four-tips-project-to-business)  by recruiting top tech talent from among the members, at _OpenSource.com_.
-*   Career tips [for Generation Y professionals](https://web.archive.org/web/20141002070155/http://blog.brazencareerist.com/author/joshfox/) at _Brazen Careerist_.
-*   [The rise of the anti-recruiter](http://readwrite.com/2013/08/23/recruiters-jobs-matchmakers-developers) at _ReadWrite_.
-*   On [a new approach to recruiting](http://www.informationweek.com/strategic-cio/executive-insights-and-innovation/stop-recruiting-start-connecting/a/d-id/1297627?)  at _Information Week,_  with Jack Perkins.
+*   Career tips [for Generation Y professionals](https://web.archive.org/web/20141002070155/https://blog.brazencareerist.com/author/joshfox/) at _Brazen Careerist_.
+*   [The rise of the anti-recruiter](https://readwrite.com/2013/08/23/recruiters-jobs-matchmakers-developers) at _ReadWrite_.
+*   On [a new approach to recruiting](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/stop-recruiting-start-connecting/a/d-id/1297627?)  at _Information Week,_  with Jack Perkins.
 *   On effective [employer branding](https://web.archive.org/web/20140624045748/https://www.ere.net/2014/06/18/not-too-expensive-employer-branding/) for _ERE_.
-*   [On informational Interviews](http://www.businessinsider.com/a-networking-trick-that-could-help-you-find-your-next-job-2014-2), from the professional’s perspective, for _Business Insider_.
+*   [On informational Interviews](https://www.businessinsider.com/a-networking-trick-that-could-help-you-find-your-next-job-2014-2), from the professional’s perspective, for _Business Insider_.

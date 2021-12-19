@@ -12,7 +12,7 @@ Please see [here](/acx-online-meetups/) for the list of past meetups (with video
 <!--end.excerpt-->
 
 <script>
-window.location.replace("http://joshuafox.com/acx-online-meetups/");
+window.location.replace("https://joshuafox.com/acx-online-meetups/");
 
 
 </script>

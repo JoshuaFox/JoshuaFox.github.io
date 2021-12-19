@@ -22,4 +22,4 @@ Don&#8217;t be left behind! You wouldn&#8217;t want to be the last family in the
 
 Taharas Hamishpocha certification also available.
 
-P.S. There is a [completely unconvincing discussion here](http://judaism.stackexchange.com/questions/11957/what-is-the-basis-for-eating-in-someones-house-without-a-kashrut-certificate) about whether a family kashrut certification is halachically necessary. But does that really matter? Do _you_ want to be caught without one?
+P.S. There is a [completely unconvincing discussion here](https://judaism.stackexchange.com/questions/11957/what-is-the-basis-for-eating-in-someones-house-without-a-kashrut-certificate) about whether a family kashrut certification is halachically necessary. But does that really matter? Do _you_ want to be caught without one?

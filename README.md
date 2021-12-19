@@ -1,1 +1,1 @@
-Joshua Fox [Homepage](http://joshuafox.com/)  
+Joshua Fox [Homepage](https://joshuafox.com/)  
