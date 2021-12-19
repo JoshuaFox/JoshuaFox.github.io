@@ -72,7 +72,7 @@ We meet 20:30 Israel time/10:30 Pacific time
 * 2020-6-7 Steve Hsu: *Cognitive Genomics*
   * No recording available
 * 2020-5-24 Bryan Caplan: *Our Moral Obligations to the Poor*
-  * [Video](https://www.youtube.com/watch?v=33ACoLXLoHo&feature=youtu.be)
+  
   * [Notes from an audience member](https://www.zappable.com/2020/05/bryan-caplan-on-who-to-blame-for-poverty.html)
 * 2020-5-10 Scott Aaronson: *The Foundations of Quantum Mechanics*
   * No recording available

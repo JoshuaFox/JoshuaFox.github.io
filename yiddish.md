@@ -9,7 +9,7 @@ css: yiddish
 
 <ul>
    <li>
-   <a href="/yiddish/דער פֿראָסט־ריזעס טאָכטער">
+   <a href="/yiddish/דער פֿראָסט־ריזעס טאָכטער/">
    „דער פֿראָסט־ריזעס טאָכטער“ </a>
 
   <blockquote> אַ געשיכטע װעגן כּונן דעם באַרבאַר, פֿון ראָבערט ע. האַװאַרד
@@ -18,7 +18,7 @@ css: yiddish
 </li>
 
    <li>
-   <a href="/yiddish/דער שוואַרצער ריטער">
+   <a href="/yiddish/דער שוואַרצער ריטער/">
 „דער שװאַרצער ריטער“   </a>
 
   <blockquote> מאָדערניזם און כּלל-ייִדיש
@@ -59,7 +59,7 @@ css: yiddish
 </blockquote>
 </li>
  <li>
- <a href="/yiddish/weinreich">אַ קאַפּיטל
+ <a href="/yiddish/weinreich/">אַ קאַפּיטל
  פֿון דער איליאַדע
  </a>
  <blockquote>
@@ -77,7 +77,7 @@ css: yiddish
 
 </li>
 <li>
-<a href="/yiddish/מענדי כּהנאס פֿיבער">
+<a href="/yiddish/מענדי כּהנאס פֿיבער/">
 מענדי כּהנס
 „פֿיבער“ 
 </a>
