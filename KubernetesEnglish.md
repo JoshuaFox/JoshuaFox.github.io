@@ -29,7 +29,7 @@ css: yiddish
 <span class="c17">If you like this article, come work with me at DoiT International, where I am a cloud architect. Write me, or
 </span>
 <span class="c25 c17">
-<a class="c8" href="https://www.google.com/url?q=https://grnh.se/55e74b343us&amp;sa=D&amp;source=editors&amp;ust=1639920609310000&amp;usg=AOvVaw3IepdsOxsvp-98TXLe8g3T">&nbsp;send your resume here
+<a class="c8" href="https://www.google.com/url?q=https://grnh.se/55e74b343us">&nbsp;send your resume here
 </a>
 </span>
 <span class="c17">. Also, see

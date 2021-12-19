@@ -1,7 +1,9 @@
 # coding utf-8
 import os
 import re
+
 from bs4 import BeautifulSoup
+
 folder_out = os.path.abspath("./yiddish")
 folder_in = os.path.abspath("./_yiddish_from_google_docs")
 
@@ -119,12 +121,11 @@ def replace_img(html_filepath):
 
 
 def fix_link(html_filepath):
-
     with open(html_filepath, 'r') as f:
         data = f.read()
-        replaced= fix_google_redirects_once(data)
+        replaced = fix_google_redirects_once(data)
 
-    if replaced!=data:
+    if replaced != data:
         with open(html_filepath, 'wt') as fout:
             fout.write(replaced)
         print("fix_link wrote", html_filepath)
@@ -144,8 +145,8 @@ def fix_google_redirects_once(data):
     real_url = "https://" + data[idx + len(intro_s):idx_end_of_real_url]
     rest = data[idx_end_of_link:]
     replaced = before + real_url + rest
-    if any(x in real_url for x in ["joshuafox.com", "lesswrong.com", "doit-intl.com"]):
-        print("replaced link in", html_filepath)
+    if any(x in real_url for x in ["joshuafox.com", "lesswrong.com", "doit-intl.com", "grnh.se"]):
+        print("replaced link", real_url, "in", html_filepath)
         return replaced
     else:
         print("Did not replace link in", html_filepath)
@@ -158,7 +159,8 @@ def pretty_print(html_filepath):
         soup = BeautifulSoup(data)  # make BeautifulSoup
         prettyHTML = soup.prettify()  # prettify the html
     with open(html_filepath, 'wt') as fout:
-            fout.write(prettyHTML)
+        fout.write(prettyHTML)
+
 
 for file in os.listdir(folder_in):
     html_filepath = folder_in + '/' + file
@@ -169,6 +171,3 @@ for file in os.listdir(folder_in):
         fix_link(html_filepath)
         pretty_print(html_filepath)
         generate_md(html_filepath, folder_out)
-
- 
-
