@@ -1,9 +1,8 @@
 # coding utf-8
 import os
 import re
-
-
-def add_analytics_one_file(filename):
+from bs4 import BeautifulSoup
+def add_analytics(filename):
     ua = 'UA-24142341-1'
     analytics = \
         f"""
@@ -35,7 +34,7 @@ def add_analytics_one_file(filename):
                 fout.write(inserted)
 
 
-def add_rtl_one_file(filename):
+def add_rtl(filename):
     rtl_style = "body{direction:rtl}</style>"
 
     with open(filename, 'r') as f:
@@ -66,7 +65,7 @@ def add_rtl_one_file(filename):
         fout.write(with_rtl_div)
 
 
-def generate_md_one_file(html_filepath, folder_out):
+def generate_md(html_filepath, folder_out):
     title = os.path.basename(html_filepath).split('.')[:-1][0]
     if not re.match(r'.*[א-ת]+.*', title):
         print('Not making markdown from', html_filepath)
@@ -99,25 +98,74 @@ css: yiddish
             print("Wrote", md_filepath)
 
 
-folder_out =os.path.abspath( "./yiddish")
+folder_out = os.path.abspath("./yiddish")
 folder_in = os.path.abspath("./_yiddish_from_google_docs")
 
 
-def replace_img_one_file(html_filepath):
+def replace_img(html_filepath):
     if html_filepath.endswith('/דער פֿראָסט־ריזעס טאָכטער.html'):
         with open(html_filepath, 'r') as f:
             data = f.read()
             inserted = data.replace('src="images/image1.png"', 'src="/img/conan.jpg"')
-            print('Changed Image tag in Yiddish Conan story')
+
+        if data != inserted:
+            print("changed image tag in Conan story")
 
         with open(html_filepath, 'wt') as fout:
             fout.write(inserted)
 
 
+def fix_link(html_filepath):
+
+    with open(html_filepath, 'r') as f:
+        data = f.read()
+        replaced= fix_google_redirects_once(data)
+
+    if replaced!=data:
+        with open(html_filepath+"x.html", 'wt') as fout:
+            fout.write(replaced)
+        pass
+
+
+def fix_google_redirects_once(data):
+    # THere is also some query-string junk, but just leaving that.
+    intro_s = 'https://www.google.com/url?q=https://'
+    try:
+        idx = data.index(intro_s)
+    except ValueError:
+
+        return data
+    idx_end_of_real_url = data.index('&amp;sa', idx)
+    idx_end_of_link = data.index('"', idx_end_of_real_url)
+    before = data[0: idx]
+    real_url = "https://" + data[idx + len(intro_s):idx_end_of_real_url]
+    rest = data[idx_end_of_link:]
+    replaced = before + real_url + rest
+    if any(x in real_url for x in ["joshuafox.com", "lesswrong.com", "doit-intl.com"]):
+        print("replaced link in", html_filepath)
+        return replaced
+    else:
+        print("Did not replace link in", html_filepath)
+        return data
+
+
+def pretty_print(html_filepath):
+    with open(html_filepath, 'r') as f:
+        data = f.read()
+        soup = BeautifulSoup(data)  # make BeautifulSoup
+        prettyHTML = soup.prettify()  # prettify the html
+    with open(html_filepath, 'wt') as fout:
+            fout.write(prettyHTML)
+
 for file in os.listdir(folder_in):
     html_filepath = folder_in + '/' + file
     if html_filepath.endswith(".html"):
-        add_analytics_one_file(html_filepath)
-        add_rtl_one_file(html_filepath)
-        replace_img_one_file(html_filepath)
-        generate_md_one_file(html_filepath, folder_out)
+        add_analytics(html_filepath)
+        add_rtl(html_filepath)
+        replace_img(html_filepath)
+        fix_link(html_filepath)
+        pretty_print(html_filepath)
+        generate_md(html_filepath, folder_out)
+
+ 
+
