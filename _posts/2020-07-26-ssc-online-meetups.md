@@ -8,14 +8,14 @@ tags: [ssc ]
 
 ---
 
-Please see [here](/acx-online-meetups) for the list of past meetups (with video); and future meetups.
+Please see [here](/acx-online-meetups/) for the list of past meetups (with video); and future meetups.
 <!--end.excerpt-->
 
 <script>
-window.location.replace("http://www.joshuafox.com/ssc-online-meetups");
+window.location.replace("http://joshuafox.com/acx-online-meetups/");
 
 
 </script>
 
-[See here](/acx-online-meetups). 
+[See here](/acx-online-meetups/). 
 

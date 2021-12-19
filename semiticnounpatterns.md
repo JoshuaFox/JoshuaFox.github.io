@@ -16,7 +16,7 @@ Book: Semitic Noun Patterns
 Harvard Semitic Museum / Eisenbrauns, 2003.
 
 
-See also: [Articles](../philology) in philology
+See also: [Articles](../philology/) in philology
 
 
 **Reviews:**
@@ -37,4 +37,4 @@ Alan S. Kaye, _Journal of the American Oriental Society_ 123.4 (2003), p. 885(3)
 
 > “This book, originally the author’s Ph.D. dissertation, deals with noun patterns in the Semitic languages, such as qatl, qitl, and qutl, etc. (chapters 11-38 are listings of the various patterns, with copious examples). After three pages of discussion on the transliteration systems in vogue for the various Semitic languages (pp. xvii-xix), chapter 1 presents an introduction and summary of the work. Chapter 2 discusses the published literature in this domain, especially Jacob Barth’s classic Die Nominalbildung in den semitischen Sprachen (Leipzig: J. C. Hinrichs, 1889-90); however, the author uses many other sources as well [….](/wp-content/uploads/2014/10/Kaye_review_of_Fox_Noun_Patterns.pdf)“
 
-See also: [Articles](../philology) in philology
+See also: [Articles](../philology/) in philology
