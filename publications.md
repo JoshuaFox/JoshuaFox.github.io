@@ -95,7 +95,7 @@ layout: page
 
 • “Breaking Walls: How to Get Departments to Share Information,” with Michael Pelts, _Technology and Humans:_.
 
-• “[People Who Live in Glass Houses Should Put Up Some Shades](https://www.infosecurity-us.com/view/15682/comment-some-documents-require-finegrained-dynamic-security/),” _InfoSecurity_.
+• “[People Who Live in Glass Houses Should Put Up Some Shades](https://www.infosecurity-magazine.com/opinions/comment-some-documents-require-fine-grained/),” _InfoSecurity_.
 
 > Too much openness, as well as too little, both pose risks. Document viewing with automated privacy control is one part of the balance. Allowing authorized users to retrieve the redacted information is another.
 
@@ -222,11 +222,12 @@ layout: page
 **Recruiting and Career**
 
 ---
-*   [On informational interviews](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, for _ERE_, the leading  site for tech recruiters. It [also appeared](https://www.gius.co.il/%D7%90%D7%99%D7%9A-%D7%96%D7%94-%D7%9C%D7%A2%D7%91%D7%95%D7%93-%D7%A9%D7%9D/) at Israel’s top news site for recruiters, gius.co.il.
-*   On the game-theoretical perspective on [kegerators](https://web.archive.org/web/20210416193222/https://pando.com/2013/12/21/in-praise-of-the-office-kegerator-the-future-of-better-jobs) for _Pando_.
-*   On building [ open-source communities](https://opensource.com/business/13/7/four-tips-project-to-business)  by recruiting top tech talent from among the members, at _OpenSource.com_.
-*   Career tips [for Generation Y professionals](https://web.archive.org/web/20141002070155/https://blog.brazencareerist.com/author/joshfox/) at _Brazen Careerist_.
-*   [The rise of the anti-recruiter](https://readwrite.com/2013/08/23/recruiters-jobs-matchmakers-developers) at _ReadWrite_.
-*   On [a new approach to recruiting](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/stop-recruiting-start-connecting/a/d-id/1297627?)  at _Information Week,_  with Jack Perkins.
-*   On effective [employer branding](https://web.archive.org/web/20140624045748/https://www.ere.net/2014/06/18/not-too-expensive-employer-branding/) for _ERE_.
-*   [On informational Interviews](https://www.businessinsider.com/a-networking-trick-that-could-help-you-find-your-next-job-2014-2), from the professional’s perspective, for _Business Insider_.
+* [On informational interviews](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, for _ERE_, the leading  site for tech recruiters. 
+* It [also appeared](http://www.gius.co.il/איך-זה-לעבוד-שם/) at Israel’s top news site for recruiters, gius.co.il.
+* On the game-theoretical perspective on [kegerators](https://web.archive.org/web/20210416193222/https://pando.com/2013/12/21/in-praise-of-the-office-kegerator-the-future-of-better-jobs) for _Pando_.
+* On building [ open-source communities](https://opensource.com/business/13/7/four-tips-project-to-business)  by recruiting top tech talent from among the members, at _OpenSource.com_.
+* Career tips [for Generation Y professionals](https://web.archive.org/web/20141002070155/https://blog.brazencareerist.com/author/joshfox/) at _Brazen Careerist_.
+* [The rise of the anti-recruiter](https://readwrite.com/2013/08/23/recruiters-jobs-matchmakers-developers) at _ReadWrite_.
+* On [a new approach to recruiting](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/stop-recruiting-start-connecting/a/d-id/1297627?)  at _Information Week,_  with Jack Perkins.
+* On effective [employer branding](https://web.archive.org/web/20140624045748/https://www.ere.net/2014/06/18/not-too-expensive-employer-branding/) for _ERE_.
+* [On informational Interviews](https://www.businessinsider.com/a-networking-trick-that-could-help-you-find-your-next-job-2014-2), from the professional’s perspective, for _Business Insider_.

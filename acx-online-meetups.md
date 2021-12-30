@@ -53,7 +53,7 @@ We meet 20:30 Israel time/10:30 Pacific time
   * [Roots of Progress](https://rootsofprogress.org/), Jason's blog.
 * 2020-10-11 David Friedman: *Legal Systems Very Different from Ours*
   * [Video](https://www.youtube.com/watch?v=xbqhxCyd2BI)
-  * David announced his [weekly meetups](https://www.daviddfriedman.com/SSC%20Meetups%20announcement.html), each Saturday 13.00 Pacific Time, and now also at 10:00.
+  * David announced his [weekly meetups](http://www.daviddfriedman.com/SSC%20Meetups%20announcement.html), each Saturday 13.00 Pacific Time, and now also at 10:00.
 * 2020-9-27 Diana Fleischman: *Integrating Evolutionary Psychology and Behaviorism*
   * [Audio](https://youtu.be/TXPTghSnrn4)
 * 2020-9-13 Connor Leahy on replicating GPT3: *We Got Our AGI Firealarm, Now What?*

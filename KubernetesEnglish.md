@@ -49,7 +49,7 @@ blog post</a></span><span class="c17"> about our unusual way of working.
 </p>
 <p class="c13">
 <span class="c3">
-<a href="https://joshuafox.com/yiddish/קובערנעטעס" style="color:inherit;text-decoration:inherit">
+<a href="https://joshuafox.com/yiddish/קובערנעטעס/" style="color:inherit;text-decoration:inherit">
 The Yiddish original is here</a></span><span class="c17 c6 c21">.
 </span>
 </p>
