@@ -5,6 +5,4 @@ subtitle:
 
 use-site-title: true
 ---
-<h4>
- <a href="/acx-online-meetups/">Looking for the AstralCodexTen meetups?</a>
-<h4>
+ 
