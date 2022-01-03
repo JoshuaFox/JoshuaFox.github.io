@@ -1,0 +1,17 @@
+#central-indexpage  p { display: inline }
+
+#central-indexpage  .highlighter-rouge {
+    all: initial;
+    display: inline ;
+}
+
+#central-indexpage pre.highlight {
+    all: initial;
+    display: inline ;
+}
+#central-indexpage pre code {
+    all: initial;
+    display: inline ;
+}
+
+
