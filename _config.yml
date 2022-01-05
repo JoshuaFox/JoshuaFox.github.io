@@ -9,7 +9,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Joshua Fox Home
+title: Joshua Fox
 
 # Short description of your site
 description: ""
@@ -29,7 +29,7 @@ navbar-links:
       - Humor: "humor/"
       - Yiddish: "yiddish/"
       - The Future: "future/"
-      - AstralCodexTen Online Meetups: "/acx-online-meetups/"
+      - AstralCodexTen Online Meetups: "acx-online-meetups/"
       - Semitic Philology: "philology/"
 
 
