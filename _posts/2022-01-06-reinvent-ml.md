@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Re:Invent 2022: What is New in Machine Learning 
+title: Re&#58;Invent 2022&#58; What is New in Machine Learning 
 subtitle: I talk about the latest in ML and AI from AWS
 bigimg:
 tags: [   machine-learning ai artificial-intelligence]
