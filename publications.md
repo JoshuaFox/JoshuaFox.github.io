@@ -8,6 +8,10 @@ layout: page
 
 ---
 
+• "[AWS Machine Learning at the start of 2022](https://youtube.com/playlist?list=PLEBxNMZ7Mu38caHMHW5M4d1ZkiyH_Ng6X)
+
+> My colleagues and I discuss the latest from AWS in Machine Learning and Artificial Intelligence.
+
 • "[Let the Computer Enforce It For You](https://blog.doit-intl.com/let-the-computer-enforce-it-for-you-fe8155d643dc?source=friends_link&sk=a8ee21dc9646ae47dddeb02df9b99f37)"
 
 > How to  document your code for best results: Keep the documentation close to to code,  and machine-enforced.

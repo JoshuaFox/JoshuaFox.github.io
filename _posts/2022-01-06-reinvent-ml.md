@@ -7,7 +7,7 @@ tags: [   machine-learning ai artificial-intelligence]
 
 ---
 
-[In this webinar](https://blog.doit-intl.com/recapping-aws-re-invent-2021-d821fbc3df42), my colleagues and I 
+[In this webinar](https://youtube.com/playlist?list=PLEBxNMZ7Mu38caHMHW5M4d1ZkiyH_Ng6X), my colleagues and I 
 discuss the latest announcements from AWS in Machine Learning
 and Artificial Intelligence.
 
