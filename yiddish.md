@@ -1,4 +1,4 @@
-q---
+---
 title: "אין  און וועגן ייִדיש"
 author: יהושע פֿוקס
 layout: page
@@ -9,8 +9,10 @@ css: yiddish
 
 <ul>
    <li>
+ 
    <a href="/yiddish/%D7%93%D7%A2%D7%A8%20%D7%A4%D6%BF%D7%A8%D7%90%D6%B8%D7%A1%D7%98%D6%BE%D7%A8%D7%99%D7%96%D7%A2%D7%A1%20%D7%98%D7%90%D6%B8%D7%9B%D7%98%D7%A2%D7%A8/">
    „דעם פֿראָסט־ריז' טאָכטער“ 
+ 
    </a>
 
 <blockquote> 
