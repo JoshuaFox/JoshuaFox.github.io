@@ -11,10 +11,7 @@ from googleapiclient.discovery import build
 
 WEBSITE_YIDDISH_DOCS_GDRIVE_FOLDER = "1Hvb0MpR91LOHcb6SbhB1-Hxih8W_07Ba"
 
-
 LOCAL_YIDDISH_DOWNLOAD_DIR="./_yiddish_from_google_docs"
-
-
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
@@ -74,7 +71,21 @@ def authenticate():
     # If there are no (valid) credentials available, let the user log in.
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
+            do_refresh=True
+            while do_refresh:
+                try:
+                    creds.refresh(Request())
+                except Exception as e:
+                    if "google.auth.exceptions.RefreshError" in str(type(e)):
+                        try:
+                           os.remove(token_json())
+                        except FileNotFoundError:
+                            pass
+                        else:
+                           print("Removed", token_json())
+                        do_refresh=True
+                else:
+                    do_refresh=False
         else:
 
             flow = InstalledAppFlow.from_client_secrets_file(
