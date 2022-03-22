@@ -11,7 +11,7 @@ from googleapiclient.discovery import build
 
 WEBSITE_YIDDISH_DOCS_GDRIVE_FOLDER = "1Hvb0MpR91LOHcb6SbhB1-Hxih8W_07Ba"
 
-LOCAL_YIDDISH_DOWNLOAD_DIR="./_yiddish_from_google_docs"
+def download_dir(): return os.path.abspath("./_yiddish_from_google_docs")
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
@@ -32,10 +32,10 @@ def credentials_dir():
 
 def remake_download_dir():
     try:
-        shutil.rmtree(LOCAL_YIDDISH_DOWNLOAD_DIR)
+        shutil.rmtree(download_dir())
     except FileNotFoundError:
         pass
-    os.mkdir(LOCAL_YIDDISH_DOWNLOAD_DIR)
+    os.mkdir(download_dir())
 
 
 def export_html(service, doc_id):
@@ -43,7 +43,7 @@ def export_html(service, doc_id):
     doc = service.files().get(fileId=doc_id).execute()
     name = doc['name']
 
-    with open(LOCAL_YIDDISH_DOWNLOAD_DIR + "/" + name + ".html", "wb") as f:
+    with open(download_dir() + "/" + name + ".html", "wb") as f:
         f.write(html_content)
         print('Exported "%s"' % name)
 
@@ -55,6 +55,7 @@ def iterate(service):
         q=f'"{WEBSITE_YIDDISH_DOCS_GDRIVE_FOLDER}" in parents',
         fields="nextPageToken, files(id)").execute()
     items = results.get('files', [])
+    print("Exporting to", download_dir())
     for item in items:
         export_html(service, item['id'])
     print("Done, exported", len(items), "files")
@@ -109,4 +110,6 @@ def make_service():
 
 
 if __name__ == '__main__':
+    os.chdir(Path(Path(__file__).parent.absolute()).parent.absolute())
+    assert "_site" not in os.getcwd(), "Do not run script in _site, which is meant for generated content"
     main()

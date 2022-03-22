@@ -1,11 +1,14 @@
 # coding utf-8
 import os
 import re
+import urllib.parse
+from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-folder_out = os.path.abspath("./yiddish")
-folder_in = os.path.abspath("./_yiddish_from_google_docs")
+def out_folder(): return os.path.abspath("./yiddish")
+def folder_in():
+    return os.path.abspath("./_yiddish_from_google_docs")
 
 
 def add_analytics(filename):
@@ -120,7 +123,7 @@ def replace_img(html_filepath):
             print("replace_image wrote", html_filepath)
 
 
-def fix_google_redirects_once(data):
+def fix_google_redirects_once(data, html_filepath):
     # THere is also some query-string junk, but just leaving that.
     intro_s = 'https://www.google.com/url?q=https://'
     try:
@@ -131,31 +134,29 @@ def fix_google_redirects_once(data):
     idx_end_of_real_url = data.index('&amp;sa', idx)
     idx_end_of_link = data.index('"', idx_end_of_real_url)
     before = data[0: idx]
-    real_url = "https://" + data[idx + len(intro_s):idx_end_of_real_url]
+    real_url_encoded = "https://" + data[idx + len(intro_s):idx_end_of_real_url]
+    real_url = urllib.parse.unquote(real_url_encoded)
     rest = data[idx_end_of_link:]
     replaced = before + real_url + rest
-    if any(x in real_url for x in ["joshuafox.com", "lesswrong.com", "doit-intl.com", "grnh.se"]):
-        print("replaced link", real_url, "in", html_filepath)
-        return replaced
-    else:
-        print("Did not replace link in", html_filepath)
-        return data
+    # if any(x in real_url for x in ["joshuafox.com", "lesswrong.com", "doit-intl.com", "grnh.se"]):
+    print("replaced link", real_url, "in", html_filepath)
+    return replaced
+    # else:
+    #    print("Did not replace link",real_url,"in", html_filepath)
+    #    return data
 
 
 def fix_link(html_filepath):
-
     while True:
         with open(html_filepath, 'r') as f:
             data = f.read()
-        replaced = fix_google_redirects_once(data)
+        replaced = fix_google_redirects_once(data, html_filepath)
         if replaced == data:
             break
         else:
             with open(html_filepath, 'wt') as fout:
                 fout.write(replaced)
             print("fix_link wrote", html_filepath)
-
-
 
 
 def pretty_print(html_filepath):
@@ -167,12 +168,19 @@ def pretty_print(html_filepath):
         fout.write(prettyHTML)
 
 
-for file in os.listdir(folder_in):
-    html_filepath = folder_in + '/' + file
-    if html_filepath.endswith(".html"):
-        add_analytics(html_filepath)
-        add_rtl(html_filepath)
-        replace_img(html_filepath)
-        fix_link(html_filepath)
-        pretty_print(html_filepath)
-        generate_md(html_filepath, folder_out)
+def main():
+    os.chdir(Path(Path(__file__).parent.absolute()).parent.absolute())
+    assert "_site" not in os.getcwd(), "Do not run script in _site, which is meant for generated content"
+    for file in os.listdir(folder_in()):
+        html_filepath = folder_in() + '/' + file
+        if html_filepath.endswith(".html"):
+            add_analytics(html_filepath)
+            add_rtl(html_filepath)
+            replace_img(html_filepath)
+            fix_link(html_filepath)
+            pretty_print(html_filepath)
+            generate_md(html_filepath, out_folder())
+
+
+if __name__ == '__main__':
+    main()
