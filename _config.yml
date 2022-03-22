@@ -77,9 +77,11 @@ social-network-links:
   rss: true
   email: "info@joshuafox.com"
   facebook: joshuatfox
+  twitter: foxjoshua
   github: JoshuaFox
   linkedin: joshuafox
   stackoverflow: "39242/joshua-fox"
+
 
 # Select which share links to show in posts
 share-links-active:
@@ -87,6 +89,7 @@ share-links-active:
   facebook: true
   google: false
   linkedin: true
+
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
