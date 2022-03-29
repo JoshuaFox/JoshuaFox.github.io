@@ -1,6 +1,6 @@
 ---
 title: "Carbs"
-author: Joshua T. Fox
+author: Joshua Fox
 layout: page
 ---
 

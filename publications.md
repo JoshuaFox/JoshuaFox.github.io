@@ -1,12 +1,25 @@
 ---
 title: "Publications &#038; Talks"
-author: Joshua T. Fox
+author: Joshua Fox
 layout: page
 ---
 
 **On Software and the Cloud**
 
 ---
+
+• "Vizier for Black Box Optimization", _DevZone Day_ at Google Tel Aviv.
+
+> This seems to be the first-ever talk or article about  Vertex Vizier, a new way to optimize across slow and expensive iterations.
+
+• ["Multitenant inference architecture with SageMaker endpoints"](https://www.youtube.com/watch?v=BXp1uRHNA9o), _Multicloud Engineering Meetup_.
+
+> With Michael Pelts, Senior Solutions Architect at AWS,  explore ways to allow tenants to expose their own models for inference when ensuring that it is accessed only by the tenant that created it.
+ 
+• "[Throughput Metrics Across the Clouds](https://www.doit-intl.com/throughput-metrics-across-the-clouds/)"
+
+> This article describes the conclusions from my  open-source project, which is the first that I know of  measuring *throughput* (most others focus on latency)  and doing so *across clouds* and relating it to *distance*.
+ 
 
 • "[AWS Machine Learning at the start of 2022](https://youtube.com/playlist?list=PLEBxNMZ7Mu38caHMHW5M4d1ZkiyH_Ng6X)
 
@@ -75,17 +88,17 @@ layout: page
 
 • “Google App Engine Flexible Environment: Beyond the Bounds of PaaS” ([Video](https://www.youtube.com/watch?v=QmmzUbX7IEY&t=22s)).  The first ever talk or article dedicated to this new Google PaaS. _Multicloud Engineering,_.
 
-• “[Breaking boundaries: How Freightos achieved high speed graph search in the cloud](https://www.cloudcomputing-news.net/news/2016/oct/06/breaking-boundaries-how-freightos-achieved-high-speed-graph-search-cloud/),” _CloudTech_.
+• “[Breaking boundaries: How Freightos achieved high speed graph search in the cloud](https://www.cloudcomputing-news.net/news/2016/oct/06/breaking-boundaries-how-freightos-achieved-high-speed-graph-search-cloud/) ,” _CloudTech_.
 
 > Running heavy-duty graph algorithms against a very large dataset require some unusual design principles. Freightos may not be the only company doing it, but no cloud platform today is optimized for this; in fact, the usual design assumptions in cloud platforms are quite the opposite of what we needed. Here is how we did it.
 
 • “Modeling Retail Products: A Big Data Approach,” _The Software Generalist_.
 
-• “[Search and You Shall Find](https://medium.com/@Twiggle/search-and-you-shall-find-c2d2c3c43cf2),” _Medium_.
+• “ [Search and You Shall Find](https://medium.com/@Twiggle/search-and-you-shall-find-c2d2c3c43cf2) ,” _Medium_.
 
 > Today’s e-tail search  engines return inaccurate results; merchants stuff all product information into long titles. To optimize revenue, online retailers need a search engine that _understands_ the product selection.
 
-• “[Apache Spark and Java 8: The Big Data Team](https://www.datanami.com/2014/12/11/apache-spark-java-8-big-data-team-2015/),” _Datanami_.
+• “ [Apache Spark and Java 8: The Big Data Team](https://www.datanami.com/2014/12/11/apache-spark-java-8-big-data-team-2015/) ,”, _Datanami_.
 
 > Apache Spark with Java 8 is proving to be the perfect match for Big Data.  In this article, I show an example of collaborative filtering using Spark on Cassandra data, and explain how much  easier this is to do with the lambdas of Java 8. Code to accompany it is [here at GitHub](https://github.com/JoshuaFox/spark-cassandra-collabfiltering).
 
@@ -99,7 +112,7 @@ layout: page
 
 • “Breaking Walls: How to Get Departments to Share Information,” with Michael Pelts, _Technology and Humans:_.
 
-• “[People Who Live in Glass Houses Should Put Up Some Shades](https://www.infosecurity-magazine.com/opinions/comment-some-documents-require-fine-grained/),” _InfoSecurity_.
+• “[People Who Live in Glass Houses Should Put Up Some Shades](https://www.infosecurity-magazine.com/opinions/comment-some-documents-require-fine-grained/) ,” _InfoSecurity_.
 
 > Too much openness, as well as too little, both pose risks. Document viewing with automated privacy control is one part of the balance. Allowing authorized users to retrieve the redacted information is another.
 
@@ -113,7 +126,7 @@ layout: page
 
 • “Openness and Privacy,” with Michael Pelts, _Security and Privacy Symposium_.
 
-• “[Clojure: Challenge your Java Assumptions](https://www.javaworld.com/article/2078043/clojure--challenge-your-java-assumptions.amp.html),” _JavaWorld_.
+• “[Clojure: Challenge your Java Assumptions](https://www.javaworld.com/article/2078043/clojure--challenge-your-java-assumptions.amp.html) ,” _JavaWorld_.
 
 > The article is aimed at senior Java developers, encouraging them to learn more about this exciting language. A dialect of Lisp, Clojure runs on the JVM with excellent integration with Java, and provides new, improved solutions for the biggest challenge to programming languages today: concurrency.
 
@@ -139,11 +152,11 @@ layout: page
 
 > Architecture is as much about the organization as about technology. This article explains how to divide responsibilities in Service Oriented Integration to let each team do what they do best.
 
-• “[JRuby on Rails](https://www.javaworld.com/article/2077682/jruby-on-rails--the-power-of-java--the-simplicity-of-ruby-on-rails.amp.html),” _JavaWorld_.
+• “[JRuby on Rails](https://www.javaworld.com/article/2077682/jruby-on-rails--the-power-of-java--the-simplicity-of-ruby-on-rails.amp.html) ,” _JavaWorld_.
 
 > The article explain Ruby on Rails to Java developers, comparing it to Java web frameworks. It presents an example based on JavaSpaces, which leverages Java from within the Rails application. Even those Java developers who do not adopt Rails will benefit from the design principles built into the framework, as well as the rapidly emerging concept of non-Java languages integrated with Java and the JVM.
 
-• “[Ruby for the Java World](https://www.javaworld.com/article/2071794/ruby-for-the-java-world.amp.html),” _JavaWorld_.
+• “[Ruby for the Java World](https://www.javaworld.com/article/2071794/ruby-for-the-java-world.amp.html) ,” _JavaWorld_.
 
 > Dynamic languages are rapidly gaining in popularity. Ruby in particular has attracted attention, with a big boost from the Ruby on Rails Web framework. In this article, I introduce Java programmers to Ruby, focusing on the similarities, differences, and connectivity between the two languages, and describing the value of JRuby on the Java-platform. The article got some [buzz](https://www.google.com/search?q=%22joshua+fox%22+ruby+java) on the net, including from Frank Sommers at [Artima](https://www.artima.com/forums/flat.jsp?forum=276&thread=168997).
 
@@ -199,25 +212,25 @@ layout: page
 
 > If you’re a software development manager with experience leading the development of a three-tier distributed application for the World Wide Web, perhaps you’re about to move on to spearhead the construction of a WAP-site. This article has reuse as its theme: I explain when you can reuse skillsets, infrastructure, and software components from the WWW site, and when you’re better off developing new skills, buying new infrastructure, or building new software.
 
-• “[When is a Singleton not a Singleton](https://www.javaworld.com/article/2074897/when-is-a-singleton-not-a-singleton-.amp.html),” _JavaWorld_.
+• “[When is a Singleton not a Singleton](https://www.javaworld.com/article/2074897/when-is-a-singleton-not-a-singleton-.amp.html) ,” _JavaWorld_.
 
 > The Sun Java Developer Connection also published the article , which was linked from the JDC front page. Sometimes you implement the Singleton Design Pattern, but mysteriously find that more than one object of the class is instantiated. This article explains how that can happen and how to avoid it.
 
 • “Distributed Garbage Collection and Socket Option Keep-Alive,” _JavaOne_, San Francisco.
 
-• “[Opaque Bodies, Transparent Envelopes](/wp-content/uploads/2014/10/XML_OpaqueTransparent.pdf),” _XML-Journal_.
+• “[Opaque Bodies, Transparent Envelopes](/wp-content/uploads/2014/10/XML_OpaqueTransparent.pdf) ,” _XML-Journal_.
 
 > Separating layers of abstraction by packaging a body of one layer in an envelope of another layer is one of the fundamental design principles in data transfer. This principle holds for XML just as for any data transfer format, but implementing a system that observes layer separation can be difficult. This article describes how to do it.
 
 • “Developing Java Servlets.” Software Productivity Center, Vancouver, Canada.
 
-• “[So what is SO\_KEEPALIVE?](https://drdobbs.com/java/184404250#),” _Dr. Dobb’s Journal_.
+• “[So what is SO\_KEEPALIVE?](https://drdobbs.com/java/184404250#) ,” _Dr. Dobb’s Journal_.
 
 > Garbage collecting distributed leases requires mechanisms such as keep-alives, heartbeats, leases, and Are-You-There/I-Hear-You protocols. Interestingly, the keep-alive mechanism built into TCP/IP sockets is not really practical; for this reason and the JDK didn’t allow access to Socket Option Keep-Alive until the recent release of JDK 1.3. I explain the problems with SO\_KEEPALIVE and how to implement your own garbage collection mechanism for distributed resources.
 
 • Seminars: Servlets, JSP, RMI and JDBC. Interbit Training and Consulting, a Sun Microsystems Training Center, Herzliya, Israel.
 
-• “[Collaborative Applications with the Java Shared Data Toolkit](https://drdobbs.com/184403999#),” _Dr. Dobb’s Journal_.
+• “[Collaborative Applications with the Java Shared Data Toolkit](https://drdobbs.com/184403999#) ,” _Dr. Dobb’s Journal_.
 
 > I describe and review a toolkit for allowing distributed applications to share objects, and more generally discuss the challenges of managing distributed objects. The JSDT was an official product from Sun, although it never made it to the status of a Java extension. It implemented some interesting ideas for distributing objects. I enjoyed collaborating with the  creator, and some of my suggestions (like one on failure detection), actually made it into the toolkit.
 

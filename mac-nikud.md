@@ -1,6 +1,6 @@
 ---
 title: "Mac Nikud"
-author: Joshua T. Fox
+author: Joshua Fox
 layout: page
 ---
 

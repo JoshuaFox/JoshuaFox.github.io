@@ -11,6 +11,8 @@ Machine Learning Software-as-a-Service providers with  a lot of tenants need to 
 
 See the article "[Implementing SaaS Tenant Isolation Using Amazon SageMaker Endpoints and IAM](https://aws.amazon.com/blogs/apn/implementing-saas-tenant-isolation-using-amazon-sagemaker-endpoints-and-iam/)"
 
+Also, see the talk ["Multitenant inference architecture with SageMaker endpoints"](https://www.youtube.com/watch?v=BXp1uRHNA9o).
+
  
 
  
