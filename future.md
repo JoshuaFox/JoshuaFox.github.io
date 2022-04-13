@@ -8,14 +8,14 @@ AI Risk
 
 Once artificial general intelligence is developed, it will put humanity at tremendous risk. Yet if done right, it can make people’s lives much better. If you’d like to learn more, read [_Superintelligence_](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies), by Professor Nick Bostrom of the Future of Humanity Institute at Oxford University.
 
-In 2010, I noticed that the [Machine Intelligence Research Institute](https://www.intelligence.org) (then known as SIAI) desperately needed to engage with academia and the wider community. So, I published and spoke on MIRI topics. They saw what I was doing, and in 2011 asked me to join them with the title Research Associate. My work contributed to a tremendous strengthening of the organization: In a year we published more peer-reviewed papers, than in all previous years combined.
+But I still do what I can, where I think I can make a difference. 
 
-I also saw that Israel, though a strong force in computer science, artificial intelligence, and entrepreneurship, is weakly represented in the AI-risk community. So, I took on the role of reaching out to professors and technology leaders to spread AI-risk ideas.
-
-I served in that role until I was confident in MIRI’s ability to move ahead without my help, in early 2014.
-
-But I still do what I can, where I think I can make a difference. A lecture “[What’s Worrying Elon Musk,](https://youtu.be/rkN2iIozniw)” May 2016, at a meetup that attracts some of Israel’s stronger engineers.
-
+#More recent materials
+* ["Meditations on Moloch"](https://rationality.co.il/slatestarcodex/meditations-on-moloch/) in Hebrew
+* ["Medidations on Moloch"](https://joshuafox.com/yiddish/%D7%94%D7%99%D7%A8%D7%94%D7%95%D7%A8%D7%99%D7%9D%20%D7%90%D7%B1%D7%A3%20%D7%9E%D6%B9%D7%9C%D6%B6%D7%9A/) (first half) in Yiddish
+* ["Transhumanism is Humanism"](https://joshuafox.com/yiddish/%D7%98%D7%A8%D7%90%D6%B7%D7%A0%D7%A1%D7%94%D7%95%D7%9E%D7%90%D6%B7%D7%A0%D7%99%D7%96%D7%9D%20%D7%90%D7%99%D7%96%20%D7%94%D7%95%D7%9E%D7%90%D6%B7%D7%A0%D7%99%D7%96%D7%9D/) in Yiddish
+ 
+#Older materials
 **Peer-reviewed articles and lectures**
 
 (Google Scholar [shows citations.](https://scholar.google.com/citations?hl=en&user=d0FLp-q9vFEC&view_op=list_works&pagesize=100))
@@ -28,7 +28,7 @@ But I still do what I can, where I think I can make a difference. A lecture “[
 
 **Popular and other articles and lectures.**
 
-*   “[What’s Worrying Elon Musk](https://www.youtube.com/watch?v=rkN2iIozniw),” at Generalist Engineer, Tel Aviv, 2016
+*   ["What’s Worrying Elon Musk"](https://www.youtube.com/watch?v=rkN2iIozniw), at Generalist Engineer, Tel Aviv, 2016
 *   H+Magazine, 2011
     *   [An article](/wp-content/uploads/2011/02/HPlusOKCupid.pdf) on whether cold, unfeeling artificial intelligences can enable us to fulfill our deepest values.
     *   “[Human, More Human](/wp-content/uploads/2011/05/HPlusHuman.pdf)” on making ourselves more human.
