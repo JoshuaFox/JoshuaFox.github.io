@@ -6,9 +6,23 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-def out_folder(): return os.path.abspath("./yiddish")
+def out_folder():
+    return os.path.abspath("./yiddish")
+
 def folder_in():
     return os.path.abspath("./_yiddish_from_google_docs")
+
+def clean_missing_font_link(filename):
+    if "הײַנט בין" in filename:
+        with open(filename, 'r') as f:
+            data = f.read()
+            inserted = data.replace("@import url(https://themes.googleusercontent.com/fonts/css?kit=wAPX1HepqA24RkYW1AuHYA);", "")
+        if inserted != data:  # Do this after filehandle for read is closed
+            with open(filename, 'wt') as fout:
+                fout.write(inserted)
+                print("remove_missing_font_link wrote", filename)
+        else:
+            print("remove_missing_font_link found nothing in", filename)
 
 
 def add_analytics(filename):
@@ -174,6 +188,7 @@ def main():
     for file in os.listdir(folder_in()):
         html_filepath = folder_in() + '/' + file
         if html_filepath.endswith(".html"):
+            clean_missing_font_link(html_filepath)
             add_analytics(html_filepath)
             add_rtl(html_filepath)
             replace_img(html_filepath)
