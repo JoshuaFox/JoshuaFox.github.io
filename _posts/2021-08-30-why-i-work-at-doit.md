@@ -3,7 +3,7 @@ layout: post
 title: Why I work at DoiT as a Cloud Infrastructure Consultant
 subtitle:
 bigimg:
-  - "https://miro.medium.com/max/1400/1*4rP9U0WkJv9fStJkGzhypg.jpeg"
+  - "/img/garden-dig.jpeg"
 tags: [ ]
 ---
 

@@ -4,6 +4,13 @@ author: Joshua Fox
 layout: page
 ---
 
+**Google Scholar**  
+
+---
+
+Google Scholar [shows citations](https://scholar.google.com/citations?hl=en&user=d0FLp-q9vFEC&view_op=list_works&pagesize=100)
+for academic and some other articles, but for technical articles, see below.
+
 **On Software and the Cloud**
 
 ---
@@ -19,7 +26,7 @@ layout: page
 • "[Throughput Metrics Across the Clouds](https://www.doit-intl.com/throughput-metrics-across-the-clouds/)"
 
 > This article describes the conclusions from my  open-source project, which is the first that I know of  measuring *throughput* (most others focus on latency)  and doing so *across clouds* and relating it to *distance*.
- 
+
 
 • "[AWS Machine Learning at the start of 2022](https://youtube.com/playlist?list=PLEBxNMZ7Mu38caHMHW5M4d1ZkiyH_Ng6X)
 
@@ -239,6 +246,8 @@ layout: page
 **Recruiting and Career**
 
 ---
+* [Working as a cloud consultant at DoiT International](https://www.doit-intl.com/why-i-work-at-doit-as-a-cloud-infrastructure-consultant/): About our unique work-style: I have never 
+seen anything like this.
 * [On informational interviews](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, for _ERE_, the leading  site for tech recruiters. 
 * It [also appeared](http://www.gius.co.il/איך-זה-לעבוד-שם/) at Israel’s top news site for recruiters, gius.co.il.
 * On the game-theoretical perspective on [kegerators](https://web.archive.org/web/20210416193222/https://pando.com/2013/12/21/in-praise-of-the-office-kegerator-the-future-of-better-jobs) for _Pando_.
