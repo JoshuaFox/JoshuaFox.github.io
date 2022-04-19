@@ -6,7 +6,9 @@ _site
 # general
 .DS_Store
 Thumbs.db
-ehthumbs.db
+thumbs.db
+
+.jekyll-metadata
 
 _posts/2015-01-04-first-post.md
 _posts/2015-01-15-pirates.md
