@@ -1,6 +1,8 @@
 ---
 title: "אין און וועגן ייִדיש"
-author: יהושע פֿוקס layout: page css: yiddish
+author: יהושע פֿוקס 
+layout: page 
+css: yiddish
 ---
 
 <div dir='rtl'>
