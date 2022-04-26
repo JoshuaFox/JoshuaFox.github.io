@@ -24,6 +24,18 @@ def clean_missing_font_link(filename):
         else:
             print("remove_missing_font_link found nothing in", filename)
 
+def clean_half_spaces (filename):
+    if ("הירהורים" in filename):
+        with open(filename, 'r') as f:
+            data = f.read()
+            inserted = data.replace("U202F", "&#x202F;")
+        if inserted != data:  # Do this after filehandle for read is closed
+            with open(filename, 'wt') as fout:
+                fout.write(inserted)
+                print("clean_half_spaces wrote", filename)
+        else:
+            print("clean_half_spaces found nothing in", filename)
+
 
 def add_analytics(filename):
     ua = 'UA-24142341-1'
@@ -189,11 +201,13 @@ def main():
         html_filepath = folder_in() + '/' + file
         if html_filepath.endswith(".html"):
             clean_missing_font_link(html_filepath)
+            clean_half_spaces(html_filepath)
             add_analytics(html_filepath)
             add_rtl(html_filepath)
             replace_img(html_filepath)
             fix_link(html_filepath)
             pretty_print(html_filepath)
+
             generate_md(html_filepath, out_folder())
 
 
