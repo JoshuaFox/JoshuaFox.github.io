@@ -28,7 +28,7 @@ def clean_half_spaces (filename):
     if ("הירהורים" in filename):
         with open(filename, 'r') as f:
             data = f.read()
-            inserted = data.replace("Q", "&#x202F;")
+            inserted = re.sub(r"(?<![A-Za-z0-9])Q(?![A-Za-z0-9])", "&#x202F;", data)
         if inserted != data:  # Do this after filehandle for read is closed
             with open(filename, 'wt') as fout:
                 fout.write(inserted)
@@ -136,6 +136,7 @@ css: yiddish
 
 
 def replace_img(html_filepath):
+    return# The below is not doing what it looks like, bcause img urls are long GUIDs
     if html_filepath.endswith('/דער פֿראָסט־ריזעס טאָכטער.html'):
         with open(html_filepath, 'r') as f:
             data = f.read()
