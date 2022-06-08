@@ -28,7 +28,7 @@ def clean_half_spaces (filename):
     if ("הירהורים" in filename):
         with open(filename, 'r') as f:
             data = f.read()
-            inserted = data.replace("U202F", "&#x202F;")
+            inserted = data.replace("Q", "&#x202F;")
         if inserted != data:  # Do this after filehandle for read is closed
             with open(filename, 'wt') as fout:
                 fout.write(inserted)
