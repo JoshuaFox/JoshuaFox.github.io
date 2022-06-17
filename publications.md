@@ -15,7 +15,11 @@ for academic and some other articles, but for technical articles, see below.
 
 ---
 
-• "Vizier AI Vizier ", _Atlantis Summit_,  Google.
+• ["Authentication between microservices. Is it really that hard?"](https://medium.com/google-cloud/authentication-between-microservices-is-it-really-that-hard-b73785510db4), _Google Cloud Medium Publication_.
+
+> I've always found it difficult to securely authenticate between microservices. And in fact, though there are plenty of ways to do it,  doing it securely is not easy.
+ 
+• "Vizier AI Vizier", _Atlantis Summit_,  Google.
 
 > This seems to be the first-ever talk or article in English about  Vertex Vizier, a new way to optimize across slow and expensive iterations.
 
@@ -31,14 +35,13 @@ for academic and some other articles, but for technical articles, see below.
 
 > This article describes the conclusions from my  open-source project, which is the first that I know of  measuring *throughput* (most others focus on latency)  and doing so *across clouds* and relating it to *distance*.
 
-
 • "[AWS Machine Learning at the start of 2022](https://youtube.com/playlist?list=PLEBxNMZ7Mu38caHMHW5M4d1ZkiyH_Ng6X)
 
 > My colleagues and I discuss the latest from AWS in Machine Learning and Artificial Intelligence.
 
 • "[Let the Computer Enforce It For You](https://blog.doit-intl.com/let-the-computer-enforce-it-for-you-fe8155d643dc?source=friends_link&sk=a8ee21dc9646ae47dddeb02df9b99f37)"
 
-> How to  document your code for best results: Keep the documentation close to to code,  and machine-enforced.
+> How to  document your code for best results: Keep the documentation close to the code, and machine-enforced.
 
 • "[Implementing SaaS Tenant Isolation Using Amazon SageMaker Endpoints and IAM](https://aws.amazon.com/blogs/apn/implementing-saas-tenant-isolation-using-amazon-sagemaker-endpoints-and-iam/)"
 
@@ -48,7 +51,7 @@ for academic and some other articles, but for technical articles, see below.
 
 > As you experiment with the Google Cloud, your project tends to get cluttered. This open-source project cleans it up.
 
-• "[AWS Firewalls: How and When to Use Each One"](https://blog.doit-intl.com/aws-firewalls-101-how-and-when-to-use-each-one-d4ad8087a6b3?source=friends_link&sk=bf365adf9fba5a4119a72cd026faf1c4)"
+• "[AWS Firewalls: How and When to Use Each One](https://blog.doit-intl.com/aws-firewalls-101-how-and-when-to-use-each-one-d4ad8087a6b3?source=friends_link&sk=bf365adf9fba5a4119a72cd026faf1c4)"
 
 > When I saw that AWS had a new firewall with the uninformative name “Network Firewall,” I thought “not another one.” This is my attempt to sort them all out. Then Jeff Barr, AWS Chief Evangelist, tweeted it! 
 
@@ -68,7 +71,7 @@ for academic and some other articles, but for technical articles, see below.
 
 > Step by step from a research Jupyter Notebook to a AWS distributed Machine Language Deployment.
 
-• "[Looking for an emulator for Google Cloud Tasks?](https://blog.doit-intl.com/looking-for-an-emulator-for-cloud-tasks-45f0ae2c67b5?source=friends_link&sk=05f7c4f7c0c63c2043cd53690ced3df4)
+• "[Looking for an emulator for Google Cloud Tasks?](https://blog.doit-intl.com/looking-for-an-emulator-for-cloud-tasks-45f0ae2c67b5?source=friends_link&sk=05f7c4f7c0c63c2043cd53690ced3df4)"
 
 > Though an emulator is often requested, Google does not offer one for developing with Cloud Tasks, comparable to what if offers for Datastore or PubSub. I created one.
 
@@ -97,7 +100,7 @@ for academic and some other articles, but for technical articles, see below.
 
 > How to quickly absorb the knowledge that you don't yet have, building on your professional strengths.
 
-• “Google App Engine Flexible Environment: Beyond the Bounds of PaaS” ([Video](https://www.youtube.com/watch?v=QmmzUbX7IEY&t=22s)).  The first ever talk or article dedicated to this new Google PaaS. _Multicloud Engineering,_.
+• “[Google App Engine Flexible Environment: Beyond the Bounds of PaaS](https://www.youtube.com/watch?v=QmmzUbX7IEY&t=22s)”.  The first ever talk or article dedicated to this new Google PaaS. _Multicloud Engineering,_.
 
 • “[Breaking boundaries: How Freightos achieved high speed graph search in the cloud](https://www.cloudcomputing-news.net/news/2016/oct/06/breaking-boundaries-how-freightos-achieved-high-speed-graph-search-cloud/) ,” _CloudTech_.
 
