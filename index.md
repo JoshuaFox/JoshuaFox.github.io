@@ -12,9 +12,7 @@ use-site-title: true
         {% for linkparts in childlink %}
           {% include navbarlink.html link=linkparts %} 
         {% endfor %}
-        {% if forloop.last == false %}
-        •
-        {% endif %}
+        {%- if forloop.last == false -%}&nbsp;• {%- endif -%}
       {% endfor %}
   {%- else -%} •
     {%- include navbarlink.html link=link -%}
