@@ -24,7 +24,7 @@ navbar-links:
     - Patents: "patents/"
     - StackOverflow: "https://stackoverflow.com/users/39242/joshua-fox"
     - GitHub: "https://github.com/JoshuaFox"
-  Blog: "posts/"
+  #Blog: "posts/"
   Other:
       - Humor: "humor/"
       - Yiddish: "yiddish/"

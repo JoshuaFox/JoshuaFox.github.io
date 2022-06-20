@@ -15,7 +15,7 @@ for academic and some other articles, but for technical articles, see below.
 
 ---
 
-• ["Authentication between microservices. Is it really that hard?"](https://medium.com/google-cloud/authentication-between-microservices-is-it-really-that-hard-b73785510db4), _Google Cloud Medium Publication_.
+• ["Authentication between microservices. Is it really that hard?"](https://medium.com/google-cloud/authentication-between-microservices-is-it-really-that-hard-b73785510db4?source=friends_link&sk=d7826ed8e076ce9583899f2216b196c8), _Google Cloud Medium Publication_.
 
 > I've always found it difficult to securely authenticate between microservices. And in fact, though there are plenty of ways to do it,  doing it securely is not easy.
  
