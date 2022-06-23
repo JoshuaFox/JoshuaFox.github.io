@@ -207,7 +207,7 @@ def main():
             add_rtl(html_filepath)
             replace_img(html_filepath)
             fix_link(html_filepath)
-            pretty_print(html_filepath)
+            #pretty_print(html_filepath)
 
             generate_md(html_filepath, out_folder())
 
