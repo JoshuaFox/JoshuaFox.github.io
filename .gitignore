@@ -10,7 +10,7 @@ thumbs.db
 
 .jekyll-metadata
 
-
+temp*.py
 run_jekyll.sh
 *.cty
 
