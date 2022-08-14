@@ -24,6 +24,18 @@ def clean_missing_font_link(filename):
         else:
             print("remove_missing_font_link found nothing in", filename)
 
+def clean_missing_font_link(filename):
+    if "הײַנט בין" in filename:
+        with open(filename, 'r') as f:
+            data = f.read()
+            inserted = data.replace("@import url(https://themes.googleusercontent.com/fonts/css?kit=wAPX1HepqA24RkYW1AuHYA);", "")
+        if inserted != data:  # Do this after filehandle for read is closed
+            with open(filename, 'wt') as fout:
+                fout.write(inserted)
+                print("remove_missing_font_link wrote", filename)
+        else:
+            print("remove_missing_font_link found nothing in", filename)
+
 def clean_half_spaces (filename):
     if ("הירהורים" in filename):
         with open(filename, 'r') as f:
@@ -156,7 +168,6 @@ def fix_google_redirects_once(data, html_filepath):
     try:
         idx = data.index(intro_s)
     except ValueError:
-
         return data
     idx_end_of_real_url = data.index('&amp;sa', idx)
     idx_end_of_link = data.index('"', idx_end_of_real_url)
@@ -195,21 +206,30 @@ def pretty_print(html_filepath):
         fout.write(prettyHTML)
 
 
+def insert_gist(html_filepath):
+    with open(html_filepath, 'r') as f:
+        data1 = f.read()
+        data2 = re.sub(r"\*GIST([0-9a-f]+)\*",
+                       r'<script src="https://gist.github.com/JoshuaFox/\1.js"></script>',
+                       data1 )
+    with open(html_filepath , 'wt') as fout:
+        fout.write(data2)
+        print("insert_gist wrote", html_filepath)
+
 def main():
     os.chdir(Path(Path(__file__).parent.absolute()).parent.absolute())
     assert "_site" not in os.getcwd(), "Do not run script in _site, which is meant for generated content"
     for file in os.listdir(folder_in()):
         html_filepath = folder_in() + '/' + file
         if html_filepath.endswith(".html"):
+            insert_gist(html_filepath)
             clean_missing_font_link(html_filepath)
             clean_half_spaces(html_filepath)
             add_analytics(html_filepath)
             add_rtl(html_filepath)
             replace_img(html_filepath)
             fix_link(html_filepath)
-            if "זשור" in html_filepath:
-                pretty_print(html_filepath)
-
+            #pretty_print(html_filepath)
             generate_md(html_filepath, out_folder())
 
 
