@@ -178,6 +178,8 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - code/
+  - "**/*.py"
 
 # prose.io config
 prose:
