@@ -148,7 +148,7 @@ css: yiddish
 
 
 def replace_img(html_filepath):
-    return# The below is not doing what it looks like, bcause img urls are long GUIDs
+    return# The below is not doing what it looks like, because img urls are long GUIDs
     if html_filepath.endswith('/דער פֿראָסט־ריזעס טאָכטער.html'):
         with open(html_filepath, 'r') as f:
             data = f.read()
