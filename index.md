@@ -5,6 +5,7 @@ subtitle:
 css: index_page
 use-site-title: true
 ---
+ 
 <div id="central-indexpage">
  {% for link in site.navbar-links %}
   {% if link[1].first %}
@@ -12,12 +13,13 @@ use-site-title: true
         {% for linkparts in childlink %}
           {% include navbarlink.html link=linkparts %} 
         {% endfor %}
-        {%- if forloop.last == false -%}&nbsp;• {%- endif -%}
+        •
       {% endfor %}
-  {%- else -%} •
+  {%- else-%}
     {%- include navbarlink.html link=link -%}
- <br/>  
+    <br/>
   {%- endif -%}
+ 
 {% endfor %}
 </div>
  
