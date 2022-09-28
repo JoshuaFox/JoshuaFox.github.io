@@ -23,7 +23,7 @@ And those honey shops? They [really _were_ an al Qaeda front](https://www.nytime
 
 <img style="padding: 30px; align: left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Great_Seal_of_the_United_States_%28reverse%29.svg/640px-Great_Seal_of_the_United_States_%28reverse%29.svg.png" alt="" width="400"   />
 
-But today I am going to tell you of a man named Dee. Not [_that_ mystic, inventor, intriguer and philosopher](https://en.wikipedia.org/wiki/John_Dee), the [other one](https://en.wikipedia.org/wiki/Dee_Hock)! The one behind [the world-spanning financial network](https://www.fastcompany.com/27333/trillion-dollar-vision-dee-hock). This terabuck octopus has no head, just tentacles entwined
+But today I am going to tell you of a man named Dee. Not [_that_ mystic, inventor, intriguer and philosopher](https://en.wikipedia.org/wiki/John_Dee), the [other one](https://en.wikipedia.org/wiki/Dee_Hock)! The one behind [the world-spanning financial network](https://web.archive.org/web/20220803233846/https://www.fastcompany.com/27333/trillion-dollar-vision-dee-hock). This terabuck octopus has no head, just tentacles entwined
 through every financial institution in the world banking system. You already knew that the US dollar has the sigil of the [_real_ Illuminati](https://en.wikipedia.org/wiki/Illuminati) on it, but Dee Ward Hock did it one better.
 
 <img style="padding: 30px; align: left" src="https://vector-logo.net/logo_preview/eps/v/VISA(139).png" alt="" width="300"   />
@@ -36,7 +36,7 @@ He called it  "Chaordianism." It's not quite clear what "Chaordianism" means, so
 
 <img style="padding: 30px; align: left" src="https://digitalks.com.br/wp-content/uploads/2012/04/horizontal-fundo-branco8.jpg" alt="" width="400" />
 
-Chaordianism spread and took  over a number of organizations, including [the  4-H farm youth club](https://www.fastcompany.com/27333/trillion-dollar-vision-dee-hock)--not exactly the Boy Sprouts, but close enough.
+Chaordianism spread and took  over a number of organizations, including [the  4-H farm youth club](https://web.archive.org/web/20220803233846/https://www.fastcompany.com/27333/trillion-dollar-vision-dee-hock)--not exactly the Boy Sprouts, but close enough.
 
 After a while, the founder got bored and wandered off to play golf, and that's when things got interesting.  The organization schismed, and a small clique of  breakaway  [Chaordians worked their way](https://www.google.com/search?q=chaordic+"la+leche+"OR++LLL+OR+LLLI&oq=chaordic+"la+leche+"OR+LLL+OR+LLLI) into the leadership of La Leche League, the breastfeeding group, with the aid of a generous  
 donation from an unknown source. In true conspiratorial form, they didn't call it Chaordianism. They called it the  Renewal Initiative. 
