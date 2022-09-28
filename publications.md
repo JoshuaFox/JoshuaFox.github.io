@@ -23,7 +23,7 @@ for academic and some other articles, but for technical articles, see below.
 
 > This seems to be the first-ever talk or article in English about  Vertex Vizier, a new way to optimize across slow and expensive iterations.
 
-• ["Vizier for Black Box Optimization"](https://inthecloud.withgoogle.com/devzone-tlv/register.html#agenda), _DevZone Day_ at Google Tel Aviv.
+• "Vizier for Black Box Optimization", _DevZone Day_ at Google Tel Aviv.
 
 > This seems to be the first-ever talk or article about  Vertex Vizier, a new way to optimize across slow and expensive iterations.
 
