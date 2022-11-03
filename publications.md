@@ -14,18 +14,17 @@ for academic and some other articles, but for technical articles, see below.
 **On Software and the Cloud**
 
 ---
+• ["Untangling the Cloud: A Principled Method for Grouping Cloud Resources"](https://www.usenix.org/publications/loginonline/untangling-cloud), _;login:_, the Usenix technical journal.
+
+> How to draw technical borders to divide your cloud resources into groupings, such as Google Cloud projects, AWS accounts, or Azure resource groups
+
+• "Vizier AI Vizier", given in different forms in _DevZone Day_ at Google Tel Aviv; _Atlantis Summit_,  Google; GeeCON Prague; Google IL Cloud Summit
+
+> The first-ever talk or article about  Vertex Vizier, a new way to optimize across slow and expensive iterations.
 
 • ["Authentication between microservices. Is it really that hard?"](https://medium.com/google-cloud/authentication-between-microservices-is-it-really-that-hard-b73785510db4?source=friends_link&sk=d7826ed8e076ce9583899f2216b196c8), _Google Cloud Medium Publication_.
 
 > I've always found it difficult to securely authenticate between microservices. And in fact, though there are plenty of ways to do it,  doing it securely is not easy.
- 
-• "Vizier AI Vizier", _Atlantis Summit_,  Google.
-
-> This seems to be the first-ever talk or article in English about  Vertex Vizier, a new way to optimize across slow and expensive iterations.
-
-• "Vizier for Black Box Optimization", _DevZone Day_ at Google Tel Aviv.
-
-> This seems to be the first-ever talk or article about  Vertex Vizier, a new way to optimize across slow and expensive iterations.
 
 • ["Multitenant inference architecture with SageMaker endpoints"](https://www.youtube.com/watch?v=BXp1uRHNA9o), _Multicloud Engineering Meetup_.
 
