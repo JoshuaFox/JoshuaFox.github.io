@@ -254,12 +254,12 @@ for academic and some other articles, but for technical articles, see below.
 ---
 * [Working as a cloud consultant at DoiT International](https://www.doit-intl.com/why-i-work-at-doit-as-a-cloud-infrastructure-consultant/): About our unique work-style: I have never 
 seen anything like this.
-* [On informational interviews](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, for _ERE_, the leading  site for tech recruiters. 
+* [On informational interviews](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, at _ERE_, the leading  site for tech recruiters. 
 * It [also appeared](http://www.gius.co.il/איך-זה-לעבוד-שם/) at Israel’s top news site for recruiters, gius.co.il.
-* On the game-theoretical perspective on [kegerators](https://web.archive.org/web/20210416193222/https://pando.com/2013/12/21/in-praise-of-the-office-kegerator-the-future-of-better-jobs) for _Pando_.
+* On the game-theoretical perspective on [kegerators](https://web.archive.org/web/20210416193222/https://pando.com/2013/12/21/in-praise-of-the-office-kegerator-the-future-of-better-jobs) at _Pando_.
 * On building [ open-source communities](https://opensource.com/business/13/7/four-tips-project-to-business)  by recruiting top tech talent from among the members, at _OpenSource.com_.
 * Career tips [for Generation Y professionals](https://web.archive.org/web/20141002070155/https://blog.brazencareerist.com/author/joshfox/) at _Brazen Careerist_.
 * [The rise of the anti-recruiter](https://readwrite.com/2013/08/23/recruiters-jobs-matchmakers-developers) at _ReadWrite_.
-* On [a new approach to recruiting](https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/stop-recruiting-start-connecting/a/d-id/1297627?)  at _Information Week,_  with Jack Perkins.
-* On effective [employer branding](https://web.archive.org/web/20140624045748/https://www.ere.net/2014/06/18/not-too-expensive-employer-branding/) for _ERE_.
-* [On informational Interviews](https://www.businessinsider.com/a-networking-trick-that-could-help-you-find-your-next-job-2014-2), from the professional’s perspective, for _Business Insider_.
+* On a new approach to recruiting  at _Information Week,_  with Jack Perkins.
+* On effective [employer branding](https://web.archive.org/web/20140624045748/https://www.ere.net/2014/06/18/not-too-expensive-employer-branding/) at _ERE_.
+* [On informational Interviews](https://www.businessinsider.com/a-networking-trick-that-could-help-you-find-your-next-job-2014-2), from the professional’s perspective, at _Business Insider_.
