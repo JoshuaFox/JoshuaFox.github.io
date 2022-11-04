@@ -10,12 +10,12 @@ Once artificial general intelligence is developed, it will put humanity at treme
 
 But I still do what I can, where I think I can make a difference. 
 
-#More recent materials
+# More recent materials
 * ["Meditations on Moloch"](https://rationality.co.il/slatestarcodex/meditations-on-moloch/) in Hebrew
 * ["Medidations on Moloch"](https://joshuafox.com/yiddish/%D7%94%D7%99%D7%A8%D7%94%D7%95%D7%A8%D7%99%D7%9D%20%D7%90%D7%B1%D7%A3%20%D7%9E%D6%B9%D7%9C%D6%B6%D7%9A/) (first half) in Yiddish
 * ["Transhumanism is Humanism"](https://joshuafox.com/yiddish/%D7%98%D7%A8%D7%90%D6%B7%D7%A0%D7%A1%D7%94%D7%95%D7%9E%D7%90%D6%B7%D7%A0%D7%99%D7%96%D7%9D%20%D7%90%D7%99%D7%96%20%D7%94%D7%95%D7%9E%D7%90%D6%B7%D7%A0%D7%99%D7%96%D7%9D/) in Yiddish
  
-#Older materials
+# Older materials
 **Peer-reviewed articles and lectures**
 
 (Google Scholar [shows citations.](https://scholar.google.com/citations?hl=en&user=d0FLp-q9vFEC&view_op=list_works&pagesize=100))
