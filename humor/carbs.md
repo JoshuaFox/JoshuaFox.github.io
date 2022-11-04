@@ -1,6 +1,6 @@
 ---
 layout: page
-title: '“Not by Bread": The Jewish Approach To Carbs'
+title: “Not by Bread": The Jewish Approach To Carbs
 subtitle:
 tags: [humor ]
 ---
