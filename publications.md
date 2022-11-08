@@ -18,9 +18,9 @@ for academic and some other articles, but for technical articles, see below.
 
 > How to draw technical borders to divide your cloud resources into groupings, such as Google Cloud projects, AWS accounts, or Azure resource groups
 
-• "Vizier AI Vizier", given in different forms in _DevZone Day_ at Google Tel Aviv; _Atlantis Summit_,  Google; GeeCON Prague; Google IL Cloud Summit
+• "Black Box Optimization with Vizier AI Vizier", at multiple conferences including  _Google DevZone Day_ at Google Tel Aviv;  _Google Atlantis Summit_; GeeCON Prague; and  Google Israel Cloud Summit
 
-> The first-ever talk or article about  Vertex Vizier, a new way to optimize across slow and expensive iterations.
+> The first-ever talk or article about the new Black Box Optimization  interaction pattern of  Vertex Vizier, a new way to optimize across slow and expensive iterations.
 
 • ["Authentication between microservices. Is it really that hard?"](https://medium.com/google-cloud/authentication-between-microservices-is-it-really-that-hard-b73785510db4?source=friends_link&sk=d7826ed8e076ce9583899f2216b196c8), _Google Cloud Medium Publication_.
 
