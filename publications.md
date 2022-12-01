@@ -18,7 +18,7 @@ for academic and some other articles, but for technical articles, see below.
 
 > How to draw technical borders to divide your cloud resources into groupings, such as Google Cloud projects, AWS accounts, or Azure resource groups
 
-• "Black Box Optimization with Vizier AI Vizier", at multiple conferences including  _Google DevZone Day_ at Google Tel Aviv;  _Google Atlantis Summit_; GeeCON Prague; and  Google Israel Cloud Summit
+• "Black Box Optimization with Vizier AI Vizier", at multiple conferences including  _Google DevZone Day_ at Google Tel Aviv;  _Google Atlantis Summit_; _GeeCON Prague_; and _Google Israel Cloud Summit_.
 
 > The first-ever talk or article about the new Black Box Optimization  interaction pattern of  Vertex Vizier, a new way to optimize across slow and expensive iterations.
 
@@ -239,7 +239,7 @@ for academic and some other articles, but for technical articles, see below.
 
 • “[So what is SO\_KEEPALIVE?](https://drdobbs.com/java/184404250#) ,” _Dr. Dobb’s Journal_.
 
-> Garbage collecting distributed leases requires mechanisms such as keep-alives, heartbeats, leases, and Are-You-There/I-Hear-You protocols. Interestingly, the keep-alive mechanism built into TCP/IP sockets is not really practical; for this reason and the JDK didn’t allow access to Socket Option Keep-Alive until the recent release of JDK 1.3. I explain the problems with SO\_KEEPALIVE and how to implement your own garbage collection mechanism for distributed resources.
+> Garbage collecting distributed leases requires mechanisms such as keep-alives, heartbeats, leases, and Are-You-There/I-Hear-You protocols. Interestingly, the keep-alive mechanism built into TCP/IP sockets is not really practical; for this reason and the JDK didn't allow access to Socket Option Keep-Alive until the recent release of JDK 1.3. I explain the problems with SO\_KEEPALIVE and how to implement your own garbage collection mechanism for distributed resources.
 
 • Seminars: Servlets, JSP, RMI and JDBC. Interbit Training and Consulting, a Sun Microsystems Training Center, Herzliya, Israel.
 

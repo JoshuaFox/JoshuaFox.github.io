@@ -9,7 +9,7 @@ Our tradition gives us true guidance in preserving our bodies and souls. The hol
  
 # Cursed from Day One
 
- The first ever _Issur_? Wheat. The first sin? Eating wheat. The forbidden tree in Gan Eden was wheat! ([Breishit Rabba 15:7](https://www.sefaria.org.il/Bereishit_Rabbah.15.7); [Berakhot 40a](https://www.sefaria.org.il/Berakhot.40a.14?lang=en)). So it was quite apropos that Adam's curse, the curse which follows us through the generations, was: תאכל לחם “Thou shalt eat bread” (Breishit 3:19). Chava's curse was, per Hassidic tradition, to prepare challa, related to the item in the list of things are women doomed from birth to die [Mishna Shabbat 2:6](https://www.sefaria.org.il/Mishnah_Shabbat.2.6?lang=en)! (If you can stand it, [this sick bread-pusher](https://www.showbreadinstitute.org/breishit2020) actually _brags_ about [these curses]((https://saidels.com/articles/breadtree.htm))!)
+ The first ever _Issur_? Wheat. The first sin? Eating wheat. The forbidden tree in Gan Eden was wheat! ([Breishit Rabba 15:7](https://www.sefaria.org.il/Bereishit_Rabbah.15.7); [Berakhot 40a](https://www.sefaria.org.il/Berakhot.40a.14?lang=en)). So it was quite apropos that Adam's curse, the curse which follows us through the generations, was: תאכל לחם “Thou shalt eat bread” (Breishit 3:19). Chava's curse was, per Hassidic tradition, to prepare challa, related to the item in the list of three things are doom women  to die ([Mishna Shabbat 2:6](https://www.sefaria.org.il/Mishnah_Shabbat.2.6?lang=en))! (If you can stand it, [this sick bread-pusher](https://www.showbreadinstitute.org/breishit2020) actually _brags_ about [these three curses]((https://saidels.com/articles/breadtree.htm))!)
 
 # Bread: Blood
 
@@ -238,6 +238,8 @@ But back to the Israelites in their wanderings: This is their diet, as decreed b
 Finally came the Israelite's most despicable sin, carb-eating, which resulted in the withdrawal of the healthful manna: ויאכלו מעבור הארץ מצות וקלוי בעצם היום הזה וישבת המן ממחרת באכלם מעבור הארץ ולא היה עוד לבני ישראל מן “They ate matzos and roasted wheat from the grain of the land. On the morrow of that very day, the manna ceased forever in the land, after they had eaten from the grain of the land, and there was no more manna for the children of Israel” (Yehoshua 5:11-12).
 
 ## Sick sick sick 
+
+Wheat germ like other germs, is the origin of  disease, 
 
 Bread is the basic source of the impurity associated with leprosy, as it is written (Berachot 41a): If, after entering a house with leprosy, one eats a piece of wheat bread, _only then_ do one's shoes and garments become unclean.
 
