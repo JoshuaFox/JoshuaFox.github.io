@@ -36,7 +36,7 @@ css: yiddish
 <h4 id="h.9bwff41fcww1" style="padding-top:24pt;margin:0;color:#666666;padding-left:0;font-size:12pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;padding-right:0">
 
 
-<span>The Gods of the North/The Frost Giant&rsquo;s Daughter, Robert E. Howard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;page 
+<span>The Gods of the North/The Frost Giant&rsquo;s Daughter, Robert E. Howard 
 
 
 </span>
