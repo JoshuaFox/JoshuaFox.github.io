@@ -14,9 +14,13 @@ for academic and some other articles, but for technical articles, see below.
 **On Software and the Cloud**
 
 ---
+• ["Allow outgoing traffic by domain: FQDN Egress Control"](https://engineering.doit.com/allow-outgoing-traffic-by-domain-813407d67717)
+
+> When you block your applications in a VPC from outbound connections, but want to allow access to just one domain, a regular firewall won't do. This article describes various approaches, including old standbys, two Preview services in Google Cloud, and AWS services. It also discusses Kubernetes-aware solutions and mentions an upcoming Kubernetes standard.
+
 • ["Untangling the Cloud: A Principled Method for Grouping Cloud Resources"](https://www.usenix.org/publications/loginonline/untangling-cloud), _;login:_, the Usenix technical journal.
 
-> How to draw technical borders to divide your cloud resources into groupings, such as Google Cloud projects, AWS accounts, or Azure resource groups
+> How to draw technical borders to divide your cloud resources into groupings, such as Google Cloud projects, AWS accounts, or Azure resource groups.
 
 • "Black Box Optimization with Vizier AI Vizier", at multiple conferences including  _Google DevZone Day_ at Google Tel Aviv;  _Google Atlantis Summit_; _GeeCON Prague_; _DevFest Zagreb_; and _Google Israel Cloud Summit_.
 
