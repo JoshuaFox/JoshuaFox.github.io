@@ -134,6 +134,7 @@ title: "{title}"
 subtitle:
 tags: [ yiddish]
 css: yiddish
+lang: yi
 ---
 
 """

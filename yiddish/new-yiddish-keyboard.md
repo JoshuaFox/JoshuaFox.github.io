@@ -3,7 +3,8 @@ layout: page
 title: אַ ייִדישע קלאַוויאַטור פֿאַר מעק
 subtitle:
 bigimg:
-
+lang: yi
+css: yiddish
 tags: [yiddish, Mac ]
 ---
 

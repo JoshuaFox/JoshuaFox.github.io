@@ -3,6 +3,7 @@ layout: post
 title: A book of the Iliad in Yiddish
 subtitle:  Yiddish comes into its own as a language of world literature
 tags: [iliad, yiddish]
+lang: yi
 ---
 
 Read Book 9 of the Illiad in Homer's original Mameloshn. 

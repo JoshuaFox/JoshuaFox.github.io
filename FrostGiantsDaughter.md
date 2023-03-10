@@ -4,6 +4,7 @@ title: "The Frost Giant's Daughter"
 subtitle:
 tags: [ yiddish]
 css: yiddish
+lang: yi
 ---
 
 

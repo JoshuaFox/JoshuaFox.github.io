@@ -3,6 +3,7 @@ title: "אין און וועגן ייִדיש"
 author: יהושע פֿוקס 
 layout: page 
 css: yiddish
+lang: yi
 ---
 
 <div dir='rtl'>
