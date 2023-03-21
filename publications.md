@@ -22,7 +22,7 @@ for academic and some other articles, but for technical articles, see below.
 
 > How to draw technical borders to divide your cloud resources into groupings, such as Google Cloud projects, AWS accounts, or Azure resource groups.
 
-• "Black Box Optimization with Vizier AI Vizier", at multiple conferences including  _Google DevZone Day_ at Google Tel Aviv;  _Google Atlantis Summit_; _GeeCON Prague_; _DevFest Zagreb_; _Google Israel Cloud Summit_, and Osijek GDG. See [the talk here](https://www.youtube.com/watch?v=2RbTIcv3ChU)
+• "Black Box Optimization with Vizier AI Vizier", at multiple conferences including  _Google DevZone Day_ at Google Tel Aviv;  _Google Atlantis Summit_; _GeeCON Prague_; _DevFest Zagreb_; _Google Israel Cloud Summit_; Osijek GDG. See [the talk here](https://www.youtube.com/watch?v=2RbTIcv3ChU)
 
 > The first-ever talk or article about the new Black Box Optimization  interaction pattern of  Vertex Vizier, a new way to optimize across slow and expensive iterations.
 
