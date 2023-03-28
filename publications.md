@@ -14,6 +14,10 @@ for academic and some other articles, but for technical articles, see below.
 **On Software and the Cloud**
 
 ---
+• ["FQDN Egress Control in Kubernetes"](https://www.tfir.io/fqdn-egress-control-in-kubernetes), _TFiR_.
+
+> Allowing access only to specific domains from your Kubernetes application; limiting this access to pods in certain namespaces or with certain labels 
+
 • ["Allow outgoing traffic by domain: FQDN Egress Control"](https://engineering.doit.com/allow-outgoing-traffic-by-domain-813407d67717)
 
 > When you block your applications in a VPC from outbound connections, but want to allow access to just one domain, a regular firewall won't do. This article describes various approaches, including old standbys, two Preview services in Google Cloud, and AWS services. It also discusses Kubernetes-aware solutions and mentions an upcoming Kubernetes standard.
