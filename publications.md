@@ -14,9 +14,14 @@ for academic and some other articles, but for technical articles, see below.
 **On Software and the Cloud**
 
 ---
+
+• ["שליטה על יציאה מאשכול על פי מתחם"](https://www.youtube.com/watch?v=UEsx6hKC6sU), at Kubernasties.
+
+> הרצאה קצרה בעברית בנושא המאמר לקמן
+
 • ["FQDN Egress Control in Kubernetes"](https://www.tfir.io/fqdn-egress-control-in-kubernetes), _TFiR_.
 
-> Allowing access only to specific domains from your Kubernetes application; limiting this access to pods in certain namespaces or with certain labels 
+> Allowing access only to specific domains from your Kubernetes application; limiting this access to pods in certain namespaces or with certain labels. 
 
 • ["Allow outgoing traffic by domain: FQDN Egress Control"](https://engineering.doit.com/allow-outgoing-traffic-by-domain-813407d67717)
 

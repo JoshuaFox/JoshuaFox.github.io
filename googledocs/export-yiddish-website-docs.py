@@ -49,7 +49,7 @@ def export_html(service, doc_id):
 
 
 def iterate(service):
-
+    print("If you see \"Removed ...token.json\", you may need to kill and rerun, validating in the browser when asked.")
     results = service.files().list(
         pageSize=100,
         q=f'"{WEBSITE_YIDDISH_DOCS_GDRIVE_FOLDER}" in parents',
