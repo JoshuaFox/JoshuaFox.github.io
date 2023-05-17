@@ -49,7 +49,6 @@ def export_html(service, doc_id):
 
 
 def iterate(service):
-    print("If you see \"Removed ...token.json\", you may need to kill and rerun, validating in the browser when asked.")
     results = service.files().list(
         pageSize=100,
         q=f'"{WEBSITE_YIDDISH_DOCS_GDRIVE_FOLDER}" in parents',
@@ -110,6 +109,8 @@ def make_service():
 
 
 if __name__ == '__main__':
+    print("If you see \"Removed ...token.json\" and then the  processing stops, you may need to kill and rerun, validating in the browser when asked.")
+
     os.chdir(Path(Path(__file__).parent.absolute()).parent.absolute())
     assert "_site" not in os.getcwd(), "Do not run script in _site, which is meant for generated content"
     main()

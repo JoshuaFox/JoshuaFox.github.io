@@ -9,7 +9,7 @@ Our tradition gives us true guidance in preserving our bodies and souls. The hol
  
 # Cursed from Day One
 
- The first ever _Issur_? Wheat. The first sin? Eating wheat. The forbidden tree in Gan Eden was wheat! ([Breishit Rabba 15:7](https://www.sefaria.org.il/Bereishit_Rabbah.15.7); [Berakhot 40a](https://www.sefaria.org.il/Berakhot.40a.14?lang=en)). So it was quite apropos that Adam's curse, the curse which follows us through the generations, was: תאכל לחם “Thou shalt eat bread” (Breishit 3:19). Chava's curse was, per Hassidic tradition, to prepare challa, related to the item in the list of three things are doom women  to die ([Mishna Shabbat 2:6](https://www.sefaria.org.il/Mishnah_Shabbat.2.6?lang=en))! (If you can stand it, [this sick bread-pusher](https://www.showbreadinstitute.org/breishit2020) actually _brags_ about [these three curses]((https://saidels.com/articles/breadtree.htm))!)
+ The first ever _Issur_? Wheat. The first sin? Eating wheat. The forbidden tree in Gan Eden was wheat! ([Breishit Rabba 15:7](https://www.sefaria.org.il/Bereishit_Rabbah.15.7); [Berakhot 40a](https://www.sefaria.org.il/Berakhot.40a.14?lang=en)). So it was quite apropos that Adam's curse, the curse which follows us through the generations, was: תאכל לחם “Thou shalt eat bread” (Breishit 3:19). Chava's curse was, per Hassidic tradition, to prepare challa, related to the item in the list of three things are doom women  to die ([Mishna Shabbat 2:6](https://www.sefaria.org.il/Mishnah_Shabbat.2.6?lang=en))! (If you can stand it, [this sick bread-pusher](https://www.showbreadinstitute.org/breishit2020) actually _brags_ about [these three curses](https://saidels.com/articles/breadtree.htm) !)
 
 # Bread: Blood
 
