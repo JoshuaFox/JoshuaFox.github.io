@@ -109,7 +109,9 @@ def make_service():
 
 
 if __name__ == '__main__':
-    print("If you see \"Removed ...token.json\" and then the  processing stops, you may need to kill and rerun, validating in the browser when asked.")
+    print("*"*30,
+             "\nIf you see \"Removed ...token.json\" and then the  processing stops, you may need to kill and rerun, validating in the browser when asked.\n",
+          "*"*30)
 
     os.chdir(Path(Path(__file__).parent.absolute()).parent.absolute())
     assert "_site" not in os.getcwd(), "Do not run script in _site, which is meant for generated content"

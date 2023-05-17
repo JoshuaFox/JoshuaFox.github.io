@@ -53,8 +53,8 @@ tags: [yiddish, Mac ]
 
 </li><li>
 <code>⌥פ</code>
-פֿאַר ״פֿ״,</li><li>
-און
+פֿאַר „פֿ“,</li><li>
+ 
 <code>⌥[</code> פֿאַר „פּ“. (דער סימן: לעבן פ)
 </li>
 
@@ -87,7 +87,7 @@ tags: [yiddish, Mac ]
 <br>
 
 <br>
-  צו ניצן די קלײװיאַטור:
+  צו ניצן די קלאַװיאַטור:
 <ul>
  <li>
 <a href="/content/HebrewYiddish.bundle.zip">מען לאָדט אַראָפּ דאָס קלאַוויאַטור-בינטל  דאָ</a>
