@@ -164,7 +164,8 @@ def replace_img(html_filepath):
 
 
 def fix_google_redirects_once(data, html_filepath):
-    #TODO not clear that this does anything
+    #TODO not clear that this does anything or that it is needed
+    return
     # THere is also some query-string junk, but just leaving that.
     intro_s = 'https://www.google.com/url?q=https://'
     try:
@@ -178,7 +179,6 @@ def fix_google_redirects_once(data, html_filepath):
     real_url = urllib.parse.unquote(real_url_encoded)
     rest = data[idx_end_of_link:]
     replaced = before + real_url + rest
-    # if any(x in real_url for x in ["joshuafox.com", "lesswrong.com", "doit-intl.com", "grnh.se"]):
     print("replaced link", real_url, "in", html_filepath)
     return replaced
     # else:
@@ -187,16 +187,17 @@ def fix_google_redirects_once(data, html_filepath):
 
 
 def fix_link(html_filepath):
-    while True:
-        with open(html_filepath, 'r') as f:
-            data = f.read()
-        replaced = fix_google_redirects_once(data, html_filepath)
-        if replaced == data:
-            break
-        else:
-            with open(html_filepath, 'wt') as fout:
-                fout.write(replaced)
-            print("fix_link wrote", html_filepath)
+    return
+    # while True:
+    #     with open(html_filepath, 'r') as f:
+    #         data = f.read()
+    #     replaced = fix_google_redirects_once(data, html_filepath)
+    #     if replaced == data:
+    #         break
+    #     else:
+    #         with open(html_filepath, 'wt') as fout:
+    #             fout.write(replaced)
+    #         print("fix_link wrote", html_filepath)
 
 
 def pretty_print(html_filepath):
