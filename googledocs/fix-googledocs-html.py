@@ -164,6 +164,7 @@ def replace_img(html_filepath):
 
 
 def fix_google_redirects_once(data, html_filepath):
+    #TODO not clear that this does anything
     # THere is also some query-string junk, but just leaving that.
     intro_s = 'https://www.google.com/url?q=https://'
     try:
