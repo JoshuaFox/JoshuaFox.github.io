@@ -12,17 +12,18 @@ def out_folder():
 def folder_in():
     return os.path.abspath("./_yiddish_from_google_docs")
 
-def clean_missing_font_link(filename):
-    if "הײַנט בין" in filename:
-        with open(filename, 'r') as f:
-            data = f.read()
-            inserted = data.replace("@import url(https://themes.googleusercontent.com/fonts/css?kit=wAPX1HepqA24RkYW1AuHYA);", "")
-        if inserted != data:  # Do this after filehandle for read is closed
-            with open(filename, 'wt') as fout:
-                fout.write(inserted)
-                print("remove_missing_font_link wrote", filename)
-        else:
-            print("remove_missing_font_link found nothing in", filename)
+def insert_videoembed(html_filepath):
+    with open(html_filepath, 'r') as f:
+        data1 = f.read()
+        #example https://drive.google.com/file/d/1rmem-G9-Z5_ElgkcATCdZsHaCQA_daqP/preview
+        data2 = re.sub(r"\*VIDEOEMBED(.*)ENDVIDEOEMBED\*",
+                       r'<iframe src="\1" width="640" height="480" allow="autoplay"></iframe>',
+                       data1 )
+    with open(html_filepath , 'wt') as fout:
+        if data1!=data2:
+            fout.write(data2)
+            print("insert_videoembed wrote", html_filepath)
+
 
 def clean_missing_font_link(filename):
     if "הײַנט בין" in filename:
@@ -35,6 +36,8 @@ def clean_missing_font_link(filename):
                 print("remove_missing_font_link wrote", filename)
         else:
             print("remove_missing_font_link found nothing in", filename)
+
+
 
 def clean_half_spaces (filename):
     if ("הירהורים" in filename):
@@ -163,41 +166,44 @@ def replace_img(html_filepath):
             print("replace_image wrote", html_filepath)
 
 
-def fix_google_redirects_once(data, html_filepath):
-    #TODO not clear that this does anything or that it is needed
-    return
-    # THere is also some query-string junk, but just leaving that.
-    intro_s = 'https://www.google.com/url?q=https://'
-    try:
-        idx = data.index(intro_s)
-    except ValueError:
-        return data
-    idx_end_of_real_url = data.index('&amp;sa', idx)
-    idx_end_of_link = data.index('"', idx_end_of_real_url)
-    before = data[0: idx]
-    real_url_encoded = "https://" + data[idx + len(intro_s):idx_end_of_real_url]
-    real_url = urllib.parse.unquote(real_url_encoded)
-    rest = data[idx_end_of_link:]
-    replaced = before + real_url + rest
-    print("replaced link", real_url, "in", html_filepath)
-    return replaced
-    # else:
-    #    print("Did not replace link",real_url,"in", html_filepath)
-    #    return data
+
 
 
 def fix_link(html_filepath):
     return
-    # while True:
-    #     with open(html_filepath, 'r') as f:
-    #         data = f.read()
-    #     replaced = fix_google_redirects_once(data, html_filepath)
-    #     if replaced == data:
-    #         break
-    #     else:
-    #         with open(html_filepath, 'wt') as fout:
-    #             fout.write(replaced)
-    #         print("fix_link wrote", html_filepath)
+    # TODO not clear that this does anything or that it is needed.
+    def fix_google_redirects_once(data, html_filepath):
+
+        # Google-redirects send a browser pretty fast to the right place, with no interstitial
+        return
+        # # THere is also some query-string junk, but just leaving that.
+        # intro_s = 'https://www.google.com/url?q=https://'
+        # try:
+        #     idx = data.index(intro_s)
+        # except ValueError:
+        #     return data
+        # idx_end_of_real_url = data.index('&amp;sa', idx)
+        # idx_end_of_link = data.index('"', idx_end_of_real_url)
+        # before = data[0: idx]
+        # real_url_encoded = "https://" + data[idx + len(intro_s):idx_end_of_real_url]
+        # real_url = urllib.parse.unquote(real_url_encoded)
+        # rest = data[idx_end_of_link:]
+        # replaced = before + real_url + rest
+        # print("replaced link", real_url, "in", html_filepath)
+        # return replaced
+        # # else:
+        # #    print("Did not replace link",real_url,"in", html_filepath)
+        # #    return data
+    while True:
+        with open(html_filepath, 'r') as f:
+            data = f.read()
+        replaced = fix_google_redirects_once(data, html_filepath)
+        if replaced == data:
+            break
+        else:
+            with open(html_filepath, 'wt') as fout:
+                fout.write(replaced)
+            print("fix_link wrote", html_filepath)
 
 
 def pretty_print(html_filepath):
@@ -227,6 +233,7 @@ def main():
         if html_filepath.endswith(".html"):
             insert_gist(html_filepath)
             clean_missing_font_link(html_filepath)
+            insert_videoembed(html_filepath)
             clean_half_spaces(html_filepath)
             add_analytics(html_filepath)
             add_rtl(html_filepath)
