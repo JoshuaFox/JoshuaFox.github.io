@@ -35,7 +35,8 @@ class Screen:
 @lru_cache
 def punc_ke():
     s = "["
-    for c in ";:,.()„“?-—!":
+
+    for c in ";:,.()“?-—!":
         s += '"' + c + '"|'
     s += "#quote" + "|"
     s += "#double_quote"  # no pipe at end here
@@ -164,11 +165,11 @@ def main():
     file_in = os.path.abspath(sys.argv[1])
     path_in = Path(file_in)
     if len(sys.argv) > 2:
-        file_out = sys.argv[2]
+        file_out = os.path.abspath(sys.argv[2])
         if os.path.sep not in file_out:
-            file_out = Path(path_in.parent, file_out)
+            file_out = Path(path_in.parent, file_out).absolute()
     else:
-        file_out = Path(path_in.parent, "rtl_" + path_in.name)
+        file_out = Path(path_in.parent, "rtl_" + path_in.name).absolute()
     print("input", file_in)
     print("output", file_out)
     process(file_in, file_out)

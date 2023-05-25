@@ -16,11 +16,12 @@ def folder_in():
 
 
 def insert_videoembed(html_filepath):
+ if "װוּהין" in html_filepath:
     with open(html_filepath, "r") as f:
         data1 = f.read()
         # example https://drive.google.com/file/d/1rmem-G9-Z5_ElgkcATCdZsHaCQA_daqP/preview
         data2 = re.sub(
-            r"\*VIDEOEMBED(.*)ENDVIDEOEMBED\*",
+            r"\*VIDEOEMBED(.+?)ENDVIDEOEMBED\*",
             r'<iframe src="\1" width="640" height="480" allow="autoplay"></iframe>',
             data1,
         )
