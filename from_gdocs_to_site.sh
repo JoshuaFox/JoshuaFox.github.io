@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -x
 set -e
-./preprocess.sh
+./googledocs/download-from-google-docs-and-process.sh
 git commit -am "from Google Docs"
 git push origin HEAD:master

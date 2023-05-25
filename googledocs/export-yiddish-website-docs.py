@@ -11,18 +11,21 @@ from googleapiclient.discovery import build
 
 WEBSITE_YIDDISH_DOCS_GDRIVE_FOLDER = "1Hvb0MpR91LOHcb6SbhB1-Hxih8W_07Ba"
 
-def download_dir(): return os.path.abspath("./_yiddish_from_google_docs")
+
+def download_dir():
+    return os.path.abspath("./_yiddish_from_google_docs")
+
 
 # If modifying these scopes, delete the file token.json.
-SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
+SCOPES = ["https://www.googleapis.com/auth/drive.readonly"]
 
 
 def token_json():
-    return credentials_dir() + "/" + 'token.json'
+    return credentials_dir() + "/" + "token.json"
 
 
 def credentials_json():
-    return credentials_dir() + "/" + 'credentials.json'
+    return credentials_dir() + "/" + "credentials.json"
 
 
 def credentials_dir():
@@ -39,9 +42,11 @@ def remake_download_dir():
 
 
 def export_html(service, doc_id):
-    html_content = service.files().export(fileId=("%s" % doc_id), mimeType="text/html").execute()
+    html_content = (
+        service.files().export(fileId=("%s" % doc_id), mimeType="text/html").execute()
+    )
     doc = service.files().get(fileId=doc_id).execute()
-    name = doc['name']
+    name = doc["name"]
 
     with open(download_dir() + "/" + name + ".html", "wb") as f:
         f.write(html_content)
@@ -49,14 +54,19 @@ def export_html(service, doc_id):
 
 
 def iterate(service):
-    results = service.files().list(
-        pageSize=100,
-        q=f'"{WEBSITE_YIDDISH_DOCS_GDRIVE_FOLDER}" in parents',
-        fields="nextPageToken, files(id)").execute()
-    items = results.get('files', [])
+    results = (
+        service.files()
+        .list(
+            pageSize=100,
+            q=f'"{WEBSITE_YIDDISH_DOCS_GDRIVE_FOLDER}" in parents',
+            fields="nextPageToken, files(id)",
+        )
+        .execute()
+    )
+    items = results.get("files", [])
     print("Exporting to", download_dir())
     for item in items:
-        export_html(service, item['id'])
+        export_html(service, item["id"])
     print("Done, exported", len(items), "files")
 
 
@@ -71,28 +81,27 @@ def authenticate():
     # If there are no (valid) credentials available, let the user log in.
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
-            do_refresh=True
+            do_refresh = True
             while do_refresh:
                 try:
                     creds.refresh(Request())
                 except Exception as e:
                     if "google.auth.exceptions.RefreshError" in str(type(e)):
                         try:
-                           os.remove(token_json())
+                            os.remove(token_json())
                         except FileNotFoundError:
                             pass
                         else:
-                           print("Removed", token_json())
-                        do_refresh=True
+                            print("Removed", token_json())
+                        do_refresh = True
                 else:
-                    do_refresh=False
+                    do_refresh = False
         else:
 
-            flow = InstalledAppFlow.from_client_secrets_file(
-                credentials_json(), SCOPES)
+            flow = InstalledAppFlow.from_client_secrets_file(credentials_json(), SCOPES)
             creds = flow.run_local_server(port=0)
         # Save the credentials for the next run
-        with open(token_json(), 'w') as token:
+        with open(token_json(), "w") as token:
             token.write(creds.to_json())
     return creds
 
@@ -104,15 +113,20 @@ def main():
 
 def make_service():
     creds = authenticate()
-    service = build('drive', 'v3', credentials=creds)
+    service = build("drive", "v3", credentials=creds)
     return service
 
 
-if __name__ == '__main__':
-    print("*"*30,
-             "\nIf you see \"Removed ...token.json\" and then the  processing stops, you may need to kill and rerun, validating in the browser when asked.\n",
-          "*"*30)
+if __name__ == "__main__":
+    print(
+        "",
+        "*" * 30,
+        '\nIf you see "Removed ...token.json" and then the  processing stops, you may need to kill and rerun, validating in the browser when asked.\n',
+        "*" * 30,
+    )
 
     os.chdir(Path(Path(__file__).parent.absolute()).parent.absolute())
-    assert "_site" not in os.getcwd(), "Do not run script in _site, which is meant for generated content"
+    assert (
+        "_site" not in os.getcwd()
+    ), "Do not run script in _site, which is meant for generated content"
     main()
