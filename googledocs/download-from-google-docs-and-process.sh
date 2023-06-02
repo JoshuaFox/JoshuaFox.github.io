@@ -14,3 +14,4 @@ source ./googledocs/virtual_env/bin/activate
 pip3 install -r ./googledocs/requirements.txt
 python3 ./googledocs/export-yiddish-website-docs.py
 python3  ./googledocs/fix-googledocs-html.py
+python3 ./googledocs/subtitles-right-to-left.py ./yiddish/edit-this-one-where-no-man-yiddish.srt ./yiddish/where-no-man-yiddish.srt
