@@ -127,6 +127,8 @@ def process_line(line, current_screen, file_out, errors):
             raise ValueError(f"Should reach a sequence number before RTL text{line}")
 
         line_rearranged = move_punc(line)
+        if (length:= len( line_rearranged))>50:
+            print("len", length,line_rearranged )
         current_screen.txt += line_rearranged + "\n"
     elif line == "":
         if not current_screen:
