@@ -15,6 +15,20 @@ for academic and some other articles, but for technical articles, see below.
 
 ---
 
+• "From Professional Services to Responsibility-Sharing", _Kubernetes Users Group_, Singapore.
+
+> How does a Site Reliability Engineering team work with outside advisers? If outsiders run DevOps, costs mount quickly, while the in-house team lacks a connection to its own systems. 
+In this talk, I will present a methodology that carefully defines boundaries and limits what outside CRE does, so lowering cost,  building in-house skills, and leveraging outside expertise for urgent response as well as longer-term architecture.
+
+• ["Untangling the Tangled Cloud"](https://https://www.usenix.org/conference/srecon23apac/presentation/fox), _Usenix SRECon_ Singapore.
+
+> How do you arrange virtual machines, databases, and other services into logical groups?
+
+Whether with Google Cloud projects, AWS accounts, or Azure resource groups, my consulting customers find that either lumping all the resources together or parceling them out into tiny groups makes management, security, and cost analysis too difficult: It’s tough predicting the impact of a change.
+
+In this talk, related to my article at Usenix :login;, I explain how I advise architects to make their infrastructure follow the logical boundaries of microservices and the organization.
+
+
 • ["שליטה על יציאה מאשכול על פי מתחם"](https://www.youtube.com/watch?v=UEsx6hKC6sU), at Kubernasties.
 
 > הרצאה קצרה בעברית בנושא המאמר לקמן
