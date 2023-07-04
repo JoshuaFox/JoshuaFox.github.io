@@ -121,9 +121,11 @@ if __name__ == "__main__":
     print(
         "",
         "*" * 30,
+        "\n",
         "*" * 30,
         '\nIf you see "Removed ...token.json" and then the  processing stops, you may need to kill and rerun, validating in the browser when asked.\n',
         "*" * 30,
+        "\n",
         "*" * 30,
     )
 
