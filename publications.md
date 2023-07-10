@@ -16,7 +16,7 @@ for academic and some other articles, but for technical articles, see below.
 ---
 
 • "From Professional Services to Responsibility-Sharing", _Kubernetes Users Group_, Singapore.
-
+[Video recording here](https://www.youtube.com/watch?v=ayh22hDd-eU)
 > How does a Site Reliability Engineering team work with outside advisers? If outsiders run DevOps, costs mount quickly, while the in-house team lacks a connection to its own systems. 
 In this talk, I will present a methodology that carefully defines boundaries and limits what outside CRE does, so lowering cost,  building in-house skills, and leveraging outside expertise for urgent response as well as longer-term architecture.
 
