@@ -20,7 +20,7 @@ for academic and some other articles, but for technical articles, see below.
 > How does a Site Reliability Engineering team work with outside advisers? If outsiders run DevOps, costs mount quickly, while the in-house team lacks a connection to its own systems. 
 In this talk, I will present a methodology that carefully defines boundaries and limits what outside CRE does, so lowering cost,  building in-house skills, and leveraging outside expertise for urgent response as well as longer-term architecture.
 
-• ["Untangling the Tangled Cloud"](https://https://www.usenix.org/conference/srecon23apac/presentation/fox), _Usenix SRECon_ Singapore.
+• ["Untangling the Tangled Cloud"](https://www.usenix.org/conference/srecon23apac/presentation/fox), _Usenix SRECon_ Singapore.
 
 > How do you arrange virtual machines, databases, and other services into logical groups?
 
