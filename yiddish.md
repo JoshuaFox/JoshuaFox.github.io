@@ -15,7 +15,7 @@ lang: yi
     <a href="/yiddish-sections/פֿילאָסאָפֿיע">פֿילאָסאָפֿיע און פּאָליטיק</a>
 </li>
  <li>
-    <a href="/yiddish-sections/ייִדיש לעבן">ייִדיש לעבן</a>
+    <a href="/yiddish-sections/ייִדיש שפּראַך און לעבן">ייִדיש שפּראַך און לעבן</a>
 </li>
  <li>
     <a href="/yiddish-sections/טעכנאָלאָגיע">טעכנאָלאָגיע</a>
