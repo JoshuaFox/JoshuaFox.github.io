@@ -123,7 +123,9 @@ if __name__ == "__main__":
         "*" * 30,
         "\n",
         "*" * 30,
-        '\nIf you see "Removed ...token.json" and then the  processing stops, you may need to kill and rerun, validating in the browser when asked.\n',
+        '\nIf you see "Removed ...token.json" and then the  processing stops, you may need to kill and rerun,\n'
+        'validating in the browser when asked.\n'
+        'and in particular, choosing "Continue" when it is given as the dispreferred option.',
         "*" * 30,
         "\n",
         "*" * 30,
