@@ -14,7 +14,18 @@ for academic and some other articles, but for technical articles, see below.
 **On Software and the Cloud**
 
 ---
-
+• ["FQDN Egress Control in Kubernetes"](https://tfir.io/fqdn-egress-control-in-kubernetes/), _TFIR_
+> Controlling outgoing traffic from a K8s cluster based on Level 7 Domain address
+ 
+• ["Flexibility in Vizier’s Black Box Optimization"](https://engineering.doit.com/flexibility-in-viziers-black-box-optimization-b4caff09af0c) 
+>  Further abilities of Vertex AI Vizier 
+ 
+• ["The Advantages of Vizier’s Black Box Approach"](https://tfir.io/fqdn-egress-control-in-kubernetes/) 
+>  Comparing Vizier to other hyperoptimizers
+ 
+• ["Vertex AI Vizier for fewer repetitions of costly ML training link"](https://engineering.doit.com/the-advantages-of-the-viziers-black-box-approach-b73f32723c9f) 
+>  Introducing Vizier and Black Box Optimization
+ 
 • "From Professional Services to Responsibility-Sharing", _Kubernetes Users Group_, Singapore.
 [Video recording here](https://www.youtube.com/watch?v=ayh22hDd-eU)
 > How does a Site Reliability Engineering team work with outside advisers? If outsiders run DevOps, costs mount quickly, while the in-house team lacks a connection to its own systems. 
@@ -24,9 +35,9 @@ In this talk, I will present a methodology that carefully defines boundaries and
 
 > How do you arrange virtual machines, databases, and other services into logical groups?
 
-Whether with Google Cloud projects, AWS accounts, or Azure resource groups, my consulting customers find that either lumping all the resources together or parceling them out into tiny groups makes management, security, and cost analysis too difficult: It’s tough predicting the impact of a change.
+> Whether with Google Cloud projects, AWS accounts, or Azure resource groups, my consulting customers find that either lumping all the resources together or parceling them out into tiny groups makes management, security, and cost analysis too difficult: It’s tough predicting the impact of a change.
 
-In this talk, related to my article at Usenix :login;, I explain how I advise architects to make their infrastructure follow the logical boundaries of microservices and the organization.
+> In this talk, related to my article at Usenix :login;, I explain how I advise architects to make their infrastructure follow the logical boundaries of microservices and the organization.
 
 
 • ["שליטה על יציאה מאשכול על פי מתחם"](https://www.youtube.com/watch?v=UEsx6hKC6sU), at Kubernasties.
