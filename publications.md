@@ -20,7 +20,7 @@ for academic and some other articles, but for technical articles, see below.
 • ["Flexibility in Vizier’s Black Box Optimization"](https://engineering.doit.com/flexibility-in-viziers-black-box-optimization-b4caff09af0c) 
 >  Further abilities of Vertex AI Vizier 
  
-• ["The Advantages of Vizier’s Black Box Approach"](https://tfir.io/fqdn-egress-control-in-kubernetes/) 
+• ["The Advantages of Vizier’s Black Box Approach"](https://engineering.doit.com/the-advantages-of-the-viziers-black-box-approach-b73f32723c9f) 
 >  Comparing Vizier to other hyperoptimizers
  
 • ["Vertex AI Vizier for fewer repetitions of costly ML training link"](https://engineering.doit.com/the-advantages-of-the-viziers-black-box-approach-b73f32723c9f) 
