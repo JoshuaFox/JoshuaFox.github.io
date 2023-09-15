@@ -15,7 +15,7 @@ for academic and some other articles, but for technical articles, see below.
 
 ---
 
-• "Level 7 Egress Control: Just now emerging in Kubernetes", a short talk given at     _Devopsdays_  Vilna,   _Devopsdays_ Ukraine, and _Kubernasties_, Tel Aviv. See videos of versions of the talk in Yiddish ["װי מען רעגולירט אַרױסגאַנג לױטן ראַיאָן: כטולהון אַרט עס נישט"](https://www.youtube.com/watch?v=89eZIFkktRg) and Hebrew ["שליטה על יציאה מאשכול על פי מתחם"](https://www.youtube.com/watch?v=UEsx6hKC6sU).
+• "Level 7 Egress Control: Just now emerging in Kubernetes", a short talk given at     _Devopsdays_  Vilna,  _Devopsdays_ Ukraine, and _Kubernasties_, Tel Aviv. See videos of versions of the talk in [English](https://youtu.be/bjiimcQGCkY); Yiddish ["װי מען רעגולירט אַרױסגאַנג לױטן ראַיאָן: כטולהון אַרט עס נישט"](https://www.youtube.com/watch?v=89eZIFkktRg); and Hebrew ["שליטה על יציאה מאשכול על פי מתחם"](https://www.youtube.com/watch?v=UEsx6hKC6sU).
 > Controlling outgoing traffic from a K8s cluster based on Level 7 Domain address. 
 
 • "Outside advisors: A counter-intuitive approach to Customer Reliability Engineering", _DevOps days_, Vilna, Lithuania
