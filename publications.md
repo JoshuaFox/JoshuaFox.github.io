@@ -21,8 +21,6 @@ for academic and some other articles, but for technical articles, see below.
 • "Outside advisors: A counter-intuitive approach to Customer Reliability Engineering", _DevOps days_, Vilna, Lithuania
 > How does SRE work with outside advisers? If outsiders run DevOps, costs mount quickly. There is a better way. I will show how strictly defined limits on what outside CRE does,  lower cost, build  in-house skills, and leverage outside expertise for both architecture and urgent response.
 
-• ["FQDN Egress Control in Kubernetes"](https://tfir.io/fqdn-egress-control-in-kubernetes/), _TFIR_
-> Controlling outgoing traffic from a K8s cluster based on Level 7 Domain address
  
 • ["Flexibility in Vizier’s Black Box Optimization"](https://engineering.doit.com/flexibility-in-viziers-black-box-optimization-b4caff09af0c) 
 >  Further abilities of Vertex AI Vizier 
@@ -30,7 +28,7 @@ for academic and some other articles, but for technical articles, see below.
 • ["The Advantages of Vizier’s Black Box Approach"](https://engineering.doit.com/the-advantages-of-the-viziers-black-box-approach-b73f32723c9f) 
 >  Comparing Vizier to other hyperoptimizers
  
-• ["Vertex AI Vizier for fewer repetitions of costly ML training link"](https://engineering.doit.com/the-advantages-of-the-viziers-black-box-approach-b73f32723c9f) 
+• ["Vertex AI Vizier for fewer repetitions of costly ML training "](https://engineering.doit.com/the-advantages-of-the-viziers-black-box-approach-b73f32723c9f) 
 >  Introducing Vizier and Black Box Optimization
  
 • "From Professional Services to Responsibility-Sharing", _Kubernetes Users Group_, Singapore.
@@ -38,17 +36,14 @@ for academic and some other articles, but for technical articles, see below.
 > How does a Site Reliability Engineering team work with outside advisers? If outsiders run DevOps, costs mount quickly, while the in-house team lacks a connection to its own systems. 
 In this talk, I will present a methodology that carefully defines boundaries and limits what outside CRE does, so lowering cost,  building in-house skills, and leveraging outside expertise for urgent response as well as longer-term architecture.
 
-• ["Untangling the Tangled Cloud"](https://www.usenix.org/conference/srecon23apac/presentation/fox), _Usenix SRECon_ Singapore.
+• "Untangling the Tangled Cloud", ([video](https://www.youtube.com/watch?v=zJCP_MTncVk))  _Usenix
+SRECon_ Singapore.
 
 > How do you arrange virtual machines, databases, and other services into logical groups?
 
 > Whether with Google Cloud projects, AWS accounts, or Azure resource groups, my consulting customers find that either lumping all the resources together or parceling them out into tiny groups makes management, security, and cost analysis too difficult: It’s tough predicting the impact of a change.
 
 > In this talk, related to my article at Usenix :login;, I explain how I advise architects to make their infrastructure follow the logical boundaries of microservices and the organization.
-
-
-
-> הרצאה קצרה בעברית בנושא המאמר לקמן
 
 • ["FQDN Egress Control in Kubernetes"](https://www.tfir.io/fqdn-egress-control-in-kubernetes), _TFiR_.
 
