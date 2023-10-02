@@ -93,6 +93,8 @@ def add_analytics(filename):
 
 
 def add_rtl(filename):
+    if "אומבאַקאַנט" in filename:
+        return
     rtl_style = "body{direction:rtl}</style>"
 
     with open(filename, "r") as f:
