@@ -185,4 +185,4 @@ if __name__ == "__main__":
         exit(1)
 
     main()
-    print(round(time.time() - start), "sec")
+    print(round(time.time() - start), "sec for subtitles")

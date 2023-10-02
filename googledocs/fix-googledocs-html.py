@@ -1,6 +1,7 @@
 # coding utf-8
 import os
 import re
+import time
 import urllib.parse
 from pathlib import Path
 
@@ -92,14 +93,20 @@ def add_analytics(filename):
                 print("add_analytics wrote", filename)
 
 
+def add_ltr(filename):
+    with open(filename, "r") as f:
+        data1 = f.read()
+        data2 = data1.replace("<p style", '<p dir="ltr" style')
+    with open(filename, "wt") as fout:
+        fout.write(data2)
+        print("add_ltr wrote", filename)
+
 def add_rtl(filename):
-
     rtl_style = "body{direction:rtl}</style>"
-
     with open(filename, "r") as f:
 
         def replace_rtl_align_style():
-            data1 = f.read()
+            data1 = f.read()  # Movethis up?
             data2 = data1.replace(";text-align:left", "")
             if data2 != data1:
                 print("Removed text-align:left in", filename)
@@ -248,11 +255,14 @@ def main():
             clean_half_spaces(html_filepath)
             add_analytics(html_filepath)
             add_rtl(html_filepath)
+            add_ltr(html_filepath)
             replace_img(html_filepath)
             fix_link(html_filepath)
-            # pretty_print(html_filepath)
+            pretty_print(html_filepath)
             generate_md(html_filepath, out_folder())
 
 
 if __name__ == "__main__":
+    start = time.time()
     main()
+    print(round(time.time() - start), "sec for fix-googledocs.html")

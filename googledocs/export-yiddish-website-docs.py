@@ -124,8 +124,8 @@ if __name__ == "__main__":
         "\n",
         "*" * 30,
         '\nIf you see "Removed ...token.json" and then the  processing stops,\n'
-        'you may need to kill and rerun, validating in the browser when asked.\n'
-        'Make sure that the Google account is correct (joshuatfox@gmail.com).\n'
+        "you may need to kill and rerun, validating in the browser when asked.\n"
+        "Make sure that the Google account is correct (joshuatfox@gmail.com).\n"
         'Be sure to choose "Continue" even though it is given as the *non-default* option.\n',
         "*" * 30,
         "\n",
