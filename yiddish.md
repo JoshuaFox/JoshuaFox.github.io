@@ -1,5 +1,5 @@
 ---
-title: "אין און וועגן ייִדיש"
+title: "ייִדיש"
 author: יהושע פֿוקס 
 layout: page 
 css: yiddish
