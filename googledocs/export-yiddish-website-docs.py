@@ -3,6 +3,7 @@
 import os.path
 import shutil
 from pathlib import Path
+from time import sleep
 
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
@@ -93,6 +94,17 @@ def authenticate():
                             pass
                         else:
                             print("Removed", token_json())
+
+                            print("""
+                            ************ ************ ************
+                            If you see "Removed ...token.json" and then the  processing stops'
+                            you may need to kill and rerun, validating in the browser when asked
+                            Make sure that the Google account is correct (joshuatfox@gmail.com)
+                            Be sure to choose "Continue" even though it is given as the *non-default* option.
+                            ************ ************ ************               
+                            """)
+                            sleep(1)
+
                         do_refresh = True
                 else:
                     do_refresh = False
@@ -118,22 +130,11 @@ def make_service():
 
 
 if __name__ == "__main__":
-    print(
-        "",
-        "*" * 30,
-        "\n",
-        "*" * 30,
-        '\nIf you see "Removed ...token.json" and then the  processing stops,\n'
-        "you may need to kill and rerun, validating in the browser when asked.\n"
-        "Make sure that the Google account is correct (joshuatfox@gmail.com).\n"
-        'Be sure to choose "Continue" even though it is given as the *non-default* option.\n',
-        "*" * 30,
-        "\n",
-        "*" * 30,
-    )
+
 
     os.chdir(Path(Path(__file__).parent.absolute()).parent.absolute())
     assert (
         "_site" not in os.getcwd()
     ), "Do not run script in _site, which is meant for generated content"
     main()
+
