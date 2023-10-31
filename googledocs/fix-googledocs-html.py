@@ -2,7 +2,6 @@
 import os
 import re
 import time
-import urllib.parse
 from pathlib import Path
 
 from bs4 import BeautifulSoup
@@ -33,7 +32,7 @@ def insert_videoembed(html_filepath):
 
 
 def clean_missing_font_link(filename):
-    if "הײַנט בין" in filename:
+    if "הײַנט בין" in filename :
         with open(filename, "r") as f:
             data = f.read()
             inserted = data.replace(
@@ -49,7 +48,7 @@ def clean_missing_font_link(filename):
 
 
 def clean_half_spaces(filename):
-    if "הירהורים" in filename:
+    if "הירהורים" in filename or "אומגעריכטע" in filename:
         with open(filename, "r") as f:
             data = f.read()
             inserted = re.sub(r"(?<![A-Za-z0-9])Q(?![A-Za-z0-9])", "&#x202F;", data)
@@ -100,6 +99,37 @@ def add_ltr(filename):
     with open(filename, "wt") as fout:
         fout.write(data2)
         print("add_ltr wrote", filename)
+
+
+def heb_column_right_aligned(filename):
+    """This is for a two-column layout.
+    It assumes a table of only one row, and Hebrew first (on the right).
+    This function inserts text-align:right as in
+      <td colspan="1" rowspan="1" style="text-align:right;
+    """
+    if "מאָדנע נאַכטלעגער" not in filename:
+        print("NOT NOT NOT", filename)
+        return
+    print ("YES YES YES", filename)
+    with open(filename, "r") as f:
+        input = f.read()
+        try:
+            first_td = input.index("<td")
+            style_ = 'style="'
+            style_start_idx = input.index(style_, first_td)
+            style_end_idx = style_start_idx + len(style_)
+            with_rightalign = (
+                input[:style_end_idx] + "text-align:right;" + input[style_end_idx:]
+            )
+        except ValueError as ve:
+            raise ValueError(
+                "The file is not formatted as expected with td and style"
+            ) from ve
+
+    with open(filename, "wt") as fout:
+        fout.write(with_rightalign)
+        print("heb_column_right_aligned wrote", filename)
+
 
 def add_rtl(filename):
     rtl_style = "body{direction:rtl}</style>"
@@ -183,6 +213,7 @@ def replace_img(html_filepath):
 
 def fix_link(html_filepath):
     return
+
     # TODO not clear that this does anything or that it is needed.
     def fix_google_redirects_once(data, html_filepath):
 
@@ -256,6 +287,7 @@ def main():
             add_analytics(html_filepath)
             add_rtl(html_filepath)
             add_ltr(html_filepath)
+            heb_column_right_aligned(html_filepath)
             replace_img(html_filepath)
             fix_link(html_filepath)
             pretty_print(html_filepath)

@@ -95,14 +95,16 @@ def authenticate():
                         else:
                             print("Removed", token_json())
 
-                            print("""
+                            print(
+                                """
                             ************ ************ ************
                             If you see "Removed ...token.json" and then the  processing stops'
                             you may need to kill and rerun, validating in the browser when asked
                             Make sure that the Google account is correct (joshuatfox@gmail.com)
                             Be sure to choose "Continue" even though it is given as the *non-default* option.
                             ************ ************ ************               
-                            """)
+                            """
+                            )
                             sleep(1)
 
                         do_refresh = True
@@ -131,10 +133,8 @@ def make_service():
 
 if __name__ == "__main__":
 
-
     os.chdir(Path(Path(__file__).parent.absolute()).parent.absolute())
     assert (
         "_site" not in os.getcwd()
     ), "Do not run script in _site, which is meant for generated content"
     main()
-
