@@ -108,28 +108,25 @@ def heb_column_right_aligned(filename):
     This function inserts text-align:right as in
       <td colspan="1" rowspan="1" style="text-align:right;
     """
-    if "מאָדנע נאַכטלעגער" not in filename:
-        print("NOT NOT NOT", filename)
-        return
-    print("YES YES YES", filename)
-    with open(filename, "r") as f:
-        input = f.read()
-        try:
-            first_td = input.index("<td")
-            style_ = 'style="'
-            style_start_idx = input.index(style_, first_td)
-            style_end_idx = style_start_idx + len(style_)
-            with_rightalign = (
-                input[:style_end_idx] + "text-align:right;" + input[style_end_idx:]
-            )
-        except ValueError as ve:
-            raise ValueError(
-                "The file is not formatted as expected with td and style"
-            ) from ve
+    if any(x in filename for x in ["מאָדנע נאַכטלעגער", "אומגעריכטע"]):
+        with open(filename, "r") as f:
+            input = f.read()
+            try:
+                first_td = input.index("<td")
+                style_ = 'style="'
+                style_start_idx = input.index(style_, first_td)
+                style_end_idx = style_start_idx + len(style_)
+                with_rightalign = (
+                        input[:style_end_idx] + "text-align:right;" + input[style_end_idx:]
+                )
+            except ValueError as ve:
+                raise ValueError(
+                    "The file is not formatted as expected with td and style"
+                ) from ve
 
-    with open(filename, "wt") as fout:
-        fout.write(with_rightalign)
-        print("heb_column_right_aligned wrote", filename)
+        with open(filename, "wt") as fout:
+            fout.write(with_rightalign)
+            print("heb_column_right_aligned wrote", filename)
 
 
 def add_rtl(filename):
@@ -276,7 +273,7 @@ def insert_gist(html_filepath):
 def main():
     os.chdir(Path(Path(__file__).parent.absolute()).parent.absolute())
     assert (
-        "_site" not in os.getcwd()
+            "_site" not in os.getcwd()
     ), "Do not run script in _site, which is meant for generated content"
     for file in os.listdir(folder_in()):
         html_filepath = folder_in() + "/" + file
