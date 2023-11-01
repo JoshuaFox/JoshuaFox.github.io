@@ -32,7 +32,7 @@ def insert_videoembed(html_filepath):
 
 
 def clean_missing_font_link(filename):
-    if "הײַנט בין" in filename :
+    if "הײַנט בין" in filename:
         with open(filename, "r") as f:
             data = f.read()
             inserted = data.replace(
@@ -48,9 +48,10 @@ def clean_missing_font_link(filename):
 
 
 def clean_half_spaces(filename):
-    if "הירהורים" in filename or "אומגעריכטע" in filename:
+    if any(x in filename for x in ["הירהורים", "אומגעריכטע"]):
         with open(filename, "r") as f:
             data = f.read()
+
             inserted = re.sub(r"(?<![A-Za-z0-9])Q(?![A-Za-z0-9])", "&#x202F;", data)
         if inserted != data:  # Do this after filehandle for read is closed
             with open(filename, "wt") as fout:
@@ -110,7 +111,7 @@ def heb_column_right_aligned(filename):
     if "מאָדנע נאַכטלעגער" not in filename:
         print("NOT NOT NOT", filename)
         return
-    print ("YES YES YES", filename)
+    print("YES YES YES", filename)
     with open(filename, "r") as f:
         input = f.read()
         try:
