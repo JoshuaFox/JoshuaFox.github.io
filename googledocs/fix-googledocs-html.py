@@ -48,7 +48,7 @@ def clean_missing_font_link(filename):
 
 
 def clean_half_spaces(filename):
-    if any(x in filename for x in ["הירהורים", "אומגעריכטע"]):
+    if any(x in filename for x in ["הירהורים", "אומגעריכטע", "זוכעניש"]):
         with open(filename, "r") as f:
             data = f.read()
 

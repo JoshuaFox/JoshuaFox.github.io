@@ -98,9 +98,10 @@ def authenticate():
                             print(
                                 """
                             ************ ************ ************
-                            If you see "Removed ...token.json" and then the  processing stops'
-                            you may need to kill and rerun, validating in the browser when asked
-                            Make sure that the Google account is correct (joshuatfox@gmail.com)
+                            If you see this message, then probably you see above 
+                            "Removed ...token.json" and  the  processing has stopped.
+                            Next step: Kill the process and rerun, validating in the browser when asked.
+                            Make sure that the Google account is correct (joshuatfox@gmail.com).
                             Be sure to choose "Continue" even though it is given as the *non-default* option.
                             ************ ************ ************               
                             """
