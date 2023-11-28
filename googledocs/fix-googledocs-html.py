@@ -52,10 +52,12 @@ def clean_half_spaces(filename):
         with open(filename, "r") as f:
             data = f.read()
 
-            inserted = re.sub(r"(?<![A-Za-z0-9])Q(?![A-Za-z0-9])", "&#x202F;", data)
-        if inserted != data:  # Do this after filehandle for read is closed
+            inserted0 = re.sub(r"(?<![A-Za-z0-9])Q(?![A-Za-z0-9])", "&#x202F;", data)
+            inserted1 = re.sub("QQQQ", "&#x202F;&#x202F;", inserted0)
+
+        if inserted1 != data:  # Do this after filehandle for read is closed
             with open(filename, "wt") as fout:
-                fout.write(inserted)
+                fout.write(inserted1)
                 print("clean_half_spaces wrote", filename)
         else:
             print("clean_half_spaces found nothing in", filename)
