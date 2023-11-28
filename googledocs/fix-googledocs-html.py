@@ -51,13 +51,13 @@ def clean_half_spaces(filename):
     if any(x in filename for x in ["הירהורים", "אומגעריכטע", "זוכעניש"]):
         with open(filename, "r") as f:
             data = f.read()
+            inserteda = re.sub("QQQQ", "&#x202F;&#x202F;", data)
 
-            inserted0 = re.sub(r"(?<![A-Za-z0-9])Q(?![A-Za-z0-9])", "&#x202F;", data)
-            inserted1 = re.sub("QQQQ", "&#x202F;&#x202F;", inserted0)
+            insertedb = re.sub(r"(?<![A-Za-z0-9])Q(?![A-Za-z0-9])", "&#x202F;", inserteda)
 
-        if inserted1 != data:  # Do this after filehandle for read is closed
+        if insertedb != data:  # Do this after filehandle for read is closed
             with open(filename, "wt") as fout:
-                fout.write(inserted1)
+                fout.write(insertedb)
                 print("clean_half_spaces wrote", filename)
         else:
             print("clean_half_spaces found nothing in", filename)
@@ -103,14 +103,42 @@ def add_ltr(filename):
         fout.write(data2)
         print("add_ltr wrote", filename)
 
+def heb_1_column_right_aligned(filename):
+    """This is for a one col
 
+      <td colspan="1" rowspan="1" style="text-align:right;
+    """
+    if any(x in filename for x in [  "אומבאַקאַ"]):
+        with open(filename, "r") as f:
+            s = f.read()
+            style_start_idx=0
+            try:
+                while True:
+                    first_td = s.index("<td",style_start_idx)
+                    style_ = 'style="'
+                    style_start_idx = s.index(style_, first_td)
+                    style_end_idx = style_start_idx + len(style_)
+                    s = (
+                            s[:style_end_idx] + "text-align:right;" + s[style_end_idx:]
+                    )
+            except ValueError as ve:
+                if "substring not found" in str(ve):
+                    pass
+                else:
+                    raise ValueError(
+                        "The file is not formatted as expected with td and style"
+                    ) from ve
+
+        with open(filename, "wt") as fout:
+            fout.write(s)
+            print("heb_column_right_aligned wrote", filename)
 def heb_column_right_aligned(filename):
     """This is for a two-column layout.
-    It assumes a table of only one row, and Hebrew first (on the right).
+    It assumes a table  with Hebrew first (on the right).
     This function inserts text-align:right as in
       <td colspan="1" rowspan="1" style="text-align:right;
     """
-    if any(x in filename for x in ["מאָדנע נאַכטלעגער", "אומגעריכטע"]):
+    if any(x in filename for x in ["מאָדנע נאַכטלעגער", "אומגעריכטע"  ]):
         with open(filename, "r") as f:
             input = f.read()
             try:
@@ -288,6 +316,7 @@ def main():
             add_rtl(html_filepath)
             add_ltr(html_filepath)
             heb_column_right_aligned(html_filepath)
+            heb_1_column_right_aligned(html_filepath)
             replace_img(html_filepath)
             fix_link(html_filepath)
             pretty_print(html_filepath)
