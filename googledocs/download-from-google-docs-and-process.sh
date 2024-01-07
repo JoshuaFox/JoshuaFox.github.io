@@ -18,6 +18,6 @@ endexport=$(date +%s)
 echo "Export time is: $((endexport-startexport)) sec"
 
 python3  ./googledocs/fix-googledocs-html.py
-python3 ./googledocs/subtitles-right-to-left.py ./yiddish/edit-this-one-where-no-man-yiddish.srt ./yiddish/where-no-man-yiddish.srt
+python3 ./googledocs/subtitles-right-to-left.py ./yiddish-subtitles/edit-this-one-where-no-man-yiddish.srt ./yiddish/where-no-man-yiddish.srt
 endfixup=$(date +%s)
 echo "download-from-google-docs-and-process: $((endfixup-startexport)) sec"
