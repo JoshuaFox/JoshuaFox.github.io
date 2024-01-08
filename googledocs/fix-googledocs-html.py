@@ -48,19 +48,18 @@ def clean_missing_font_link(filename):
 
 
 def clean_half_spaces(filename):
+    inserted=None
     if any(x in filename for x in ["הירהורים", "אומגעריכטע", "זוכעניש"]):
         with open(filename, "r") as f:
             data = f.read()
-            inserteda = re.sub("QQQQ", "&#x202F;&#x202F;", data)
+            inserted  = re.sub(r"(?<![A-Za-z0-9])Q(?![A-Za-z0-9])", "&#x202F;", data)
 
-            insertedb = re.sub(r"(?<![A-Za-z0-9])Q(?![A-Za-z0-9])", "&#x202F;", inserteda)
-
-        if insertedb != data:  # Do this after filehandle for read is closed
-            with open(filename, "wt") as fout:
-                fout.write(insertedb)
-                print("clean_half_spaces wrote", filename)
-        else:
-            print("clean_half_spaces found nothing in", filename)
+    if inserted and inserted != data:
+        with open(filename, "wt") as fout:
+            fout.write(inserted)
+            print("clean_half_spaces wrote", filename)
+    else:
+        print("clean_half_spaces found nothing in", filename)
 
 
 def add_analytics(filename):
