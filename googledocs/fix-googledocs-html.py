@@ -52,7 +52,7 @@ def clean_half_spaces(filename):
     if any(x in filename for x in ["הירהורים", "אומגעריכטע", "זוכעניש"]):
         with open(filename, "r") as f:
             data = f.read()
-            inserted  = re.sub(r"(?<![A-Za-z0-9])Q(?![A-Za-z0-9])", "&#x202F;", data)
+            inserted  = re.sub(r"(?<![A-PR-Za-z0-9])Q(?![A-PRZa-z0-9])", "&#x202F;", data)
 
     if inserted and inserted != data:
         with open(filename, "wt") as fout:
