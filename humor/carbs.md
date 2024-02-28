@@ -27,7 +27,7 @@ Bread is a deadly weapon, as Shelomo Ha-Melekh tells us שנאך—האכלהו 
 
 # Bread is death 
 
-As it is written: לא על הלחם יחיה האדם “Not by bread may a man live” (Dvarim 8:3).
+As it is written: לא על הלחם יחיה האדם “Not by bread may a man live” (Dvarim 8:3). That is why in Yiddish, a dead person is described euphemistically but accurately with  ער באַקט ברױט or ער באַקט בײגעלעך — "He is baking bread" or "baking bagels."
 
 The word חטּה, “wheat” has a dagesh in the ט, indicating an assimilated נ: the root is חנט. The verb from that root means “embalm” (Breishit 50:2-3). Death, and what a goyishe way to deal with it — that's wheat for you! (Nice item on death-and-carbs [here](https://www.haaretz.com/weekend/magazine/in-the-mourners-tent-1.226332).)
 
