@@ -176,7 +176,7 @@ SRECon_ Singapore.
 
 • “Openness and Privacy,” with Michael Pelts, _Security and Privacy Symposium_.
 
-• “[Clojure: Challenge your Java Assumptions](https://www.javaworld.com/article/2078043/clojure--challenge-your-java-assumptions.amp.html) ,” _JavaWorld_.
+• “[Clojure: Challenge your Java Assumptions](https://web.archive.org/web/20231001000000*/https://www.javaworld.com/article/2078043/clojure--challenge-your-java-assumptions.amp.html) ,” _JavaWorld_.
 
 > The article is aimed at senior Java developers, encouraging them to learn more about this exciting language. A dialect of Lisp, Clojure runs on the JVM with excellent integration with Java, and provides new, improved solutions for the biggest challenge to programming languages today: concurrency.
 
@@ -202,11 +202,11 @@ SRECon_ Singapore.
 
 > Architecture is as much about the organization as about technology. This article explains how to divide responsibilities in Service Oriented Integration to let each team do what they do best.
 
-• “[JRuby on Rails](https://www.javaworld.com/article/2077682/jruby-on-rails--the-power-of-java--the-simplicity-of-ruby-on-rails.amp.html) ,” _JavaWorld_.
+• “[JRuby on Rails](https://web.archive.org/web/20230610042818/https://www.javaworld.com/article/2077682/jruby-on-rails--the-power-of-java--the-simplicity-of-ruby-on-rails.amp.html) ,” _JavaWorld_.
 
 > The article explain Ruby on Rails to Java developers, comparing it to Java web frameworks. It presents an example based on JavaSpaces, which leverages Java from within the Rails application. Even those Java developers who do not adopt Rails will benefit from the design principles built into the framework, as well as the rapidly emerging concept of non-Java languages integrated with Java and the JVM.
 
-• “[Ruby for the Java World](https://www.javaworld.com/article/2071794/ruby-for-the-java-world.amp.html) ,” _JavaWorld_.
+• “[Ruby for the Java World](https://web.archive.org/web/20230325135244/https://www.javaworld.com/article/2071794/ruby-for-the-java-world.amp.html) ,” _JavaWorld_.
 
 > Dynamic languages are rapidly gaining in popularity. Ruby in particular has attracted attention, with a big boost from the Ruby on Rails Web framework. In this article, I introduce Java programmers to Ruby, focusing on the similarities, differences, and connectivity between the two languages, and describing the value of JRuby on the Java-platform. The article got some [buzz](https://www.google.com/search?q=%22joshua+fox%22+ruby+java) on the net, including from Frank Sommers at [Artima](https://www.artima.com/forums/flat.jsp?forum=276&thread=168997).
 
@@ -250,7 +250,7 @@ SRECon_ Singapore.
 
 • “Information Quality through Semantic Models ,” _Enterprise Data Forum_, Pittsburgh.
 
-• “[Deploying Jini: HTTP Servers for the Dynamic Download of Code](https://www.javaworld.com/article/2075942/deploy-code-servers-in-jini-systems.amp.html) ,” _JavaWorld_.
+• “[Deploying Jini: HTTP Servers for the Dynamic Download of Code](https://web.archive.org/web/20230325130712/https://www.javaworld.com/article/2075942/deploy-code-servers-in-jini-systems.amp.html) ,” _JavaWorld_.
 
 > I’ve found that once new Jini developers learn about the exciting distributed architecture, they often get bogged down by the challenge of simply configuring their system for development. They encounter a yet greater challenge in moving from the development configuration to deployment. Even experienced developers can get confused by the variety of components involved.
 >
@@ -262,9 +262,9 @@ SRECon_ Singapore.
 
 > If you’re a software development manager with experience leading the development of a three-tier distributed application for the World Wide Web, perhaps you’re about to move on to spearhead the construction of a WAP-site. This article has reuse as its theme: I explain when you can reuse skillsets, infrastructure, and software components from the WWW site, and when you’re better off developing new skills, buying new infrastructure, or building new software.
 
-• “[When is a Singleton not a Singleton](https://www.javaworld.com/article/2074897/when-is-a-singleton-not-a-singleton-.amp.html) ,” _JavaWorld_.
+• “[When is a Singleton not a Singleton](https://www.infoworld.com/article/2074897/when-is-a-singleton-not-a-singleton-.html) ,” _JavaWorld_ (republished in Infoworld, and Sun/Oracle;  appeared on the Java Developer Connection front page).
 
-> The Sun Java Developer Connection also published the article , which was linked from the JDC front page. Sometimes you implement the Singleton Design Pattern, but mysteriously find that more than one object of the class is instantiated. This article explains how that can happen and how to avoid it.
+>  Sometimes you implement the Singleton Design Pattern, but mysteriously find that more than one object of the class is instantiated. This article explains how that can happen and how to avoid it.
 
 • “Distributed Garbage Collection and Socket Option Keep-Alive,” _JavaOne_, San Francisco.
 
