@@ -18,7 +18,7 @@ for academic and some other articles, but for technical articles, see below.
 >  WAFs look like a quick-fix for security problems, but generally lead to worse security.  Yet sometimes they are needed. This article sorts that out.
 
 ---
-• "Controlling cloud costs: Where to start, and where to go from there", [StackExchange Podcast].(https://stackoverflow.blog/2024/03/27/controlling-cloud-costs-where-to-start-and-where-to-go-from-there/) 
+• "Controlling cloud costs: Where to start, and where to go from there", [StackExchange Podcast](https://stackoverflow.blog/2024/03/27/controlling-cloud-costs-where-to-start-and-where-to-go-from-there/).
 >  We explored the importance of controlling and understanding cloud costs, the role of good architecture in cost optimization, and strategies for dealing with surprise costs.
 
 ---
