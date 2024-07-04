@@ -30,7 +30,7 @@ for academic and some other articles, but for technical articles, see below.
 > Controlling outgoing traffic from a VPN or a K8s cluster based on Level 7 Domain address. 
 
 • "Outside advisors: A counter-intuitive approach to Customer Reliability Engineering", _DevOps days_, Vilna, Lithuania
-> How does SRE work with outside advisers? If outsiders run DevOps, costs mount quickly. There is a better way. I will show how strictly defined limits on what outside CRE does,  lower cost, build  in-house skills, and leverage outside expertise for both architecture and urgent response.
+> How does SRE work with outside advisers? If outsiders run DevOps, costs mount quickly. There is a better way. I will show how strictly defined limits on what outside CRE does,  lower cost, build  in-house skills, and leverage outside expertise for both architecture and urgent response. See video [similar talk](https://www.youtube.com/watch?v=ayh22hDd-eU) from Singapore. 
 
 • ["Flexibility in Vizier’s Black Box Optimization"](https://engineering.doit.com/flexibility-in-viziers-black-box-optimization-b4caff09af0c) 
 >  Further abilities of Vertex AI Vizier 
