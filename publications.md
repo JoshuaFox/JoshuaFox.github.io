@@ -16,7 +16,7 @@ for academic and some other articles, but for technical articles, see below.
 ---
 • "No WAFs: Don’t use a Web Application Firewall, and when you should, anyway". Bsides Strasbourg; also at Conf42 [Video of talk](https://www.youtube.com/watch?v=XQywClfDEJw)
 >  WAFs look like a quick-fix for security problems, but generally lead to worse security. Yet sometimes they are needed. This article sorts that out.
-> 
+  
 ---
 • "[No WAFs: Don’t use a Web Application Firewall, and when you should, anyway](https://engineering.doit.com/no-wafs-26c7a977db7b/)"
 >  WAFs look like a quick-fix for security problems, but generally lead to worse security.  Yet sometimes they are needed. This article sorts that out.

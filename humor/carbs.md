@@ -43,10 +43,10 @@ Truly it is called “bread of affliction” (Devarim 16:3)! (Hover your pointer
 “When they eat bread,” says Shlomo Ha-Melekh, “it is the bread of wickedness” כי לחמו, לחם רשע (Mishlei 4:17) (<span class="hovertip" title="The Roman empire, which destroyed the Temple and exile us from our land,provided its people a constant diet of a disgusting decadent display of degenerate devastation and death-dealing, if there ever was one: ‘Bread and Circuses.’ OK, so circuses are kind of fun."><u>**</u></span>.)
 
 # Bread ban
-Halacha prohibits _any_ kind of bread, wholegrain or white, for rich _or_ poor שלא תהא אתה אוכל פת נקיה והוא אוכל פת קיבר “Neither you nor your servant should eat bread, of any type” [Kidushin 20a](https://www.sefaria.org.il/Kiddushin.20a.15?lang=en&with=all&lang2=en).
+Halacha prohibits _any_ kind of bread, for _any_ Jew: שלא תהא אתה אוכל פת נקיה והוא אוכל פת קיבר “You should not eat any type of bread: Neither should you eat should eat ‘clean’ (euphemism) bread, nor should you force another to eat the bread of the grave” [Kidushin 20a](https://www.sefaria.org.il/Kiddushin.20a.15?lang=en&with=all&lang2=en).
 
 # Mourn for the lost protein; mourn for the eaten carbs
-“Eating bread” is a Biblical euphemism for widowhood, divorce, and barrenness (Vayikra 22:13). Fortunately, this euphemism has been lost from popular speech; after all, a euphemism is not much good when it is more repugnant than the topic it is euphemising.
+“Eating bread” is a Biblical euphemism for widowhood, divorce, and barrenness (Vayikra 22:13). Fortunately, this euphemism has been lost from popular speech; after all, a euphemism is not much good when it is more repugnant than what it is meant to replace.
 
 Joyfully do we eschew bread for the full week of Pesach, as it is said: כי כל אכל חמץ, ונכרתה הנפש ההוא מישראל “He who eats bread, his soul shall surely be cut off from his people” (Shmot 12:15). A ban on carbs brings a festival of happy freedom, freedom from carbs! 
 
