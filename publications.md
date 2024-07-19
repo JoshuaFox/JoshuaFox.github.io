@@ -18,7 +18,7 @@ for academic and some other articles, but for technical articles, see below.
 > How to scale up your ML processes as you go from university to “garage” to hypergrowth. 
 
 ---
-• "No WAFs: Don’t use a Web Application Firewall, and when you should, anyway". Bsides Strasbourg; also at Conf42L: [Video of talk](https://www.youtube.com/watch?v=XQywClfDEJw)
+• "No WAFs: Don’t use a Web Application Firewall, and when you should, anyway" ([Video](https://www.youtube.com/watch?v=0Rk7koWsX4I&list=PLMM5_63TOT9BZZ5HCeTTg_GVJFny3jwBw&index=13)). Bsides Strasbourg; also at Conf42L ([Video](https://www.youtube.com/watch?v=XQywClfDEJw) )
 >  WAFs look like a quick-fix for security problems, but generally lead to worse security. Yet sometimes they are needed. This article sorts that out.
   
 ---
