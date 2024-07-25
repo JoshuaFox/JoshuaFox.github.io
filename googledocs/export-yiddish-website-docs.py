@@ -1,7 +1,9 @@
 # coding utf-8
 
+
 import os.path
 import shutil
+import sys
 from pathlib import Path
 from time import sleep
 
@@ -9,7 +11,6 @@ from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
-
 WEBSITE_YIDDISH_DOCS_GDRIVE_FOLDER = "1Hvb0MpR91LOHcb6SbhB1-Hxih8W_07Ba"
 
 
@@ -70,7 +71,6 @@ def iterate(service):
         export_html(service, item["id"])
     print("Done, exported", len(items), "files")
 
-
 def authenticate():
     creds = None
     # The file token.json stores the user's access and refresh tokens, and is
@@ -78,7 +78,11 @@ def authenticate():
     # time.
 
     if os.path.exists(token_json()):
-        creds = Credentials.from_authorized_user_file(token_json(), SCOPES)
+        if Path(token_json() ).read_text().strip()=="":
+            print("Deleting empty file", token_json())
+            os.remove(token_json())
+        else:
+            creds = Credentials.from_authorized_user_file(token_json(), SCOPES)
     # If there are no (valid) credentials available, let the user log in.
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
