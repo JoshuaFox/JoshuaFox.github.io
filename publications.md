@@ -4,7 +4,7 @@ author: Joshua Fox
 layout: page
 ---
 
-**Google Scholar**  
+**Google Scholar**   
 
 ---
  
@@ -16,9 +16,11 @@ for academic and some other articles, but for technical articles, see below.
 ---
 • ["Simplifying your Google Marketplace Vendor Development"](https://engineering.doit.com/doit-easily-7bd8b75207a9)
 > How to use the DoiT-Easily open-source project as a basis for developing your Google Marketplace offerings.
+
 ---
 • ["Sell your SaaS on Google Marketplace"](https://https://engineering.doit.com/sell-your-saas-on-google-marketplace-43b5d10ec15e)
 > How to integrate your solution into Google Marketplace.
+
 ---
 • "Growing NLP to production: Cloud MLOps for speed and efficiency"
 > How to scale up your ML processes as you go from university to “garage” to hypergrowth. 
