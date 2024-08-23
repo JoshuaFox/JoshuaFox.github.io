@@ -8,22 +8,25 @@ from functools import lru_cache
 from pathlib import Path
 from typing import ClassVar, List
 
+
 def replace_argspec_in_parsimonous():
     """This fix is necessary to get ke to work, as ke depends on Parsimonious"""
-    ver= sys.version[:sys.version. find('.', sys.version. find('.')+1)]
-    fix_this = f'googledocs/virtual_env/lib/python{ver}/site-packages/parsimonious/expressions.py'
-    txt= Path(fix_this).read_text()
+    ver = sys.version[: sys.version.find(".", sys.version.find(".") + 1)]
+    fix_this = f"googledocs/virtual_env/lib/python{ver}/site-packages/parsimonious/expressions.py"
+    txt = Path(fix_this).read_text()
     if "from inspect import getargspec" in txt:
-        txt2=txt.replace("from inspect import getargspec","from inspect import getfullargspec",)
-        assert txt2!=txt or "from inspect import getfullargspec" in txt
+        txt2 = txt.replace(
+            "from inspect import getargspec",
+            "from inspect import getfullargspec",
+        )
+        assert txt2 != txt or "from inspect import getfullargspec" in txt
 
-    else: 
-        txt2=txt
+    else:
+        txt2 = txt
     Path(fix_this).write_text(txt2)
     pass
-    
-    
- 
+
+
 replace_argspec_in_parsimonous()
 import ke
 

@@ -48,11 +48,13 @@ def clean_missing_font_link(filename):
 
 
 def clean_half_spaces(filename):
-    inserted=None
+    inserted = None
     if any(x in filename for x in ["הירהורים", "אומגעריכטע", "זוכעניש"]):
         with open(filename, "r") as f:
             data = f.read()
-            inserted  = re.sub(r"(?<![A-PR-Za-z0-9])Q(?![A-PRZa-z0-9])", "&#x202F;", data)
+            inserted = re.sub(
+                r"(?<![A-PR-Za-z0-9])Q(?![A-PRZa-z0-9])", "&#x202F;", data
+            )
 
     if inserted and inserted != data:
         with open(filename, "wt") as fout:
@@ -102,24 +104,23 @@ def add_ltr(filename):
         fout.write(data2)
         print("add_ltr wrote", filename)
 
+
 def heb_1_column_right_aligned(filename):
     """This is for a one col
 
-      <td colspan="1" rowspan="1" style="text-align:right;
+    <td colspan="1" rowspan="1" style="text-align:right;
     """
-    if any(x in filename for x in [  "אומבאַקאַ"]):
+    if any(x in filename for x in ["אומבאַקאַ"]):
         with open(filename, "r") as f:
             s = f.read()
-            style_start_idx=0
+            style_start_idx = 0
             try:
                 while True:
-                    first_td = s.index("<td",style_start_idx)
+                    first_td = s.index("<td", style_start_idx)
                     style_ = 'style="'
                     style_start_idx = s.index(style_, first_td)
                     style_end_idx = style_start_idx + len(style_)
-                    s = (
-                            s[:style_end_idx] + "text-align:right;" + s[style_end_idx:]
-                    )
+                    s = s[:style_end_idx] + "text-align:right;" + s[style_end_idx:]
             except ValueError as ve:
                 if "substring not found" in str(ve):
                     pass
@@ -131,13 +132,15 @@ def heb_1_column_right_aligned(filename):
         with open(filename, "wt") as fout:
             fout.write(s)
             print("heb_column_right_aligned wrote", filename)
+
+
 def heb_column_right_aligned(filename):
     """This is for a two-column layout.
     It assumes a table  with Hebrew first (on the right).
     This function inserts text-align:right as in
       <td colspan="1" rowspan="1" style="text-align:right;
     """
-    if any(x in filename for x in ["מאָדנע נאַכטלעגער", "אומגעריכטע"  ]):
+    if any(x in filename for x in ["מאָדנע נאַכטלעגער", "אומגעריכטע"]):
         with open(filename, "r") as f:
             input = f.read()
             try:
@@ -146,7 +149,7 @@ def heb_column_right_aligned(filename):
                 style_start_idx = input.index(style_, first_td)
                 style_end_idx = style_start_idx + len(style_)
                 with_rightalign = (
-                        input[:style_end_idx] + "text-align:right;" + input[style_end_idx:]
+                    input[:style_end_idx] + "text-align:right;" + input[style_end_idx:]
                 )
             except ValueError as ve:
                 raise ValueError(
@@ -302,7 +305,7 @@ def insert_gist(html_filepath):
 def main():
     os.chdir(Path(Path(__file__).parent.absolute()).parent.absolute())
     assert (
-            "_site" not in os.getcwd()
+        "_site" not in os.getcwd()
     ), "Do not run script in _site, which is meant for generated content"
     for file in os.listdir(folder_in()):
         html_filepath = folder_in() + "/" + file
