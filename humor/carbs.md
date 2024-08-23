@@ -272,7 +272,8 @@ Another difficult passage, Zecharya 5:6-11, is readily resolved. This parable in
 
 ## Honey Honey how you lure me
 
-The Bible speaks of דבש _devash_ and נפת _nofet_, two words for the evil, evil, simple carbohydrates, the sugars which threaten the life of every good Jew. Though typically translated “honey,” these words can mean any kind of sugar, including date, fig, or even cane sugar (as mentioned above in relation to I Shmuel 14:25). The translation of דבש may have a few interpretations, but tell me: Why does the Torah use the verb זבה, most commonly referring to gonorrhea, for honey (Vayikra 20:24)?
+The Bible speaks of דבש _devash_ and נפת _nofet_, two words for the evil, evil, simple carbohydrates, the sugars which threaten the life of every good Jew. Though typically translated “honey,” these words can mean any kind of sugar, including date, fig, or even cane sugar (as mentioned above in relation to I Shmuel 14:25). The translation of דבש may have a few interpretations, but tell me: Why does the Torah use the verb זבה, most commonly referring to gonorrhea, for honey (Vayikra 20:24)? The Gemara assures us that overeating is precisely the cause of gonorrhea: דרכא דמיכלא יתירא לאתויי לידי זיבה
+(Kiddishin 2b).
 
 But whatever simple carbohydrate is meant by דבש, it leads to death, as when those sinners Datan and Aviram, followers of Korach, whined to Moshe for דבש (Bamidbar 16:13): ותבקע האדמה אשר תחתיהם ותפתח הארץ את פיה ותבלע אתם “The ground did cleave asunder under them. And the earth opened her mouth and swallowed them up” (ibid., v. 31-32). 
 

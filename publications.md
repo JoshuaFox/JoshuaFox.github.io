@@ -18,7 +18,7 @@ for academic and some other articles, but for technical articles, see below.
 > How to use the DoiT-Easily open-source project as a basis for developing your Google Marketplace offerings.
 
 ---
-• ["Sell your SaaS on Google Marketplace"](https://https://engineering.doit.com/sell-your-saas-on-google-marketplace-43b5d10ec15e)
+• ["Sell your SaaS on Google Marketplace"](https://engineering.doit.com/sell-your-saas-on-google-marketplace-43b5d10ec15e)
 > How to integrate your solution into Google Marketplace.
 
 ---
@@ -26,11 +26,11 @@ for academic and some other articles, but for technical articles, see below.
 > How to scale up your ML processes as you go from university to “garage” to hypergrowth. 
 
 ---
-• "No WAFs: Don’t use a Web Application Firewall, and when you should, anyway" ([Video](https://www.youtube.com/watch?v=0Rk7koWsX4I&list=PLMM5_63TOT9BZZ5HCeTTg_GVJFny3jwBw&index=13)). Bsides Strasbourg; also at Conf42L ([Video](https://www.youtube.com/watch?v=XQywClfDEJw) )
+•  "No WAFs: Don’t use a Web Application Firewall, and when you should, anyway" (Conference Talk). ([Video](https://www.youtube.com/watch?v=0Rk7koWsX4I&list=PLMM5_63TOT9BZZ5HCeTTg_GVJFny3jwBw&index=13)). Bsides Strasbourg; also at Conf42L ([Video](https://www.youtube.com/watch?v=XQywClfDEJw) )
 >  WAFs look like a quick-fix for security problems, but generally lead to worse security. Yet sometimes they are needed. This article sorts that out.
   
 ---
-• "[No WAFs: Don’t use a Web Application Firewall, and when you should, anyway](https://engineering.doit.com/no-wafs-26c7a977db7b/)"
+• "[No WAFs: Don’t use a Web Application Firewall, and when you should, anyway](https://engineering.doit.com/no-wafs-26c7a977db7b/)" (Article) 
 >  WAFs look like a quick-fix for security problems, but generally lead to worse security.  Yet sometimes they are needed. This article sorts that out.
 
 ---
@@ -42,7 +42,7 @@ for academic and some other articles, but for technical articles, see below.
 > Controlling outgoing traffic from a VPN or a K8s cluster based on Level 7 Domain address. 
 
 • "Outside advisors: A counter-intuitive approach to Customer Reliability Engineering", _DevOps days_, Vilna, Lithuania
-> How does SRE work with outside advisers? If outsiders run DevOps, costs mount quickly. There is a better way. I will show how strictly defined limits on what outside CRE does,  lower cost, build  in-house skills, and leverage outside expertise for both architecture and urgent response. See video [similar talk](https://www.youtube.com/watch?v=ayh22hDd-eU) from Singapore. 
+> How does SRE work with outside advisers? If outsiders run DevOps, costs mount quickly. There is a better way. I will show how strictly defined limits on what outside CRE does,  lower cost, build  in-house skills, and leverage outside expertise for both architecture and urgent response. See video of a [similar talk](https://www.youtube.com/watch?v=ayh22hDd-eU) from Singapore. 
 
 • ["Flexibility in Vizier’s Black Box Optimization"](https://engineering.doit.com/flexibility-in-viziers-black-box-optimization-b4caff09af0c) 
 >  Further abilities of Vertex AI Vizier 
