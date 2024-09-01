@@ -71,7 +71,7 @@ def iterate(service):
     for item in items:
         export_html(service, item["id"])
     print("Done, exported", len(items), "files")
-
+ 
 
 def authenticate():
     creds = None
@@ -114,7 +114,8 @@ def authenticate():
                             ************ ************ ************               
                             """
                             )
-                            sleep(1)
+                            python = sys.executable
+                            os.execl(python, python, *sys.argv) #*Replaces* corrent pr
 
                         do_refresh = True
                 else:
