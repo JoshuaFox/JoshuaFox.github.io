@@ -184,7 +184,7 @@ SRECon_ Singapore.
 
 > Complying with privacy regulations used to mean “redaction,” blacking out words with a pen, slowly and expensively. But natural language processing techniques can protect exactly the information regulated by law while giving convenient access to authorized users.
 
-• “Breaking Walls: How to Get Departments to Share Information,” with Michael Pelts, _Technology and Humans:_.
+• “Breaking Walls: How to Get Departments to Share Information,” with Michael Pelts, _Technology and Humans_
 
 • “[People Who Live in Glass Houses Should Put Up Some Shades](https://www.infosecurity-magazine.com/opinions/comment-some-documents-require-fine-grained/) ,” _InfoSecurity_.
 
