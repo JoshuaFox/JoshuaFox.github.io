@@ -281,6 +281,8 @@ Beware temptation! Do not become like that woman who succumbed to the wicked swe
 
 Honey! Speak not of honey to those who strive for righteousness! Even a speck of honey in the incense of the Beit Mikdash brought sentence of death! As it is said כי כל שאר וכל דבש, לא תקטירו ממנו אשה ליהוה “for you shall not offer up any carbohydrates or honey as an offering by fire to the Lord” (Vayikra 2:11). And the Mishna reminds אם נתן בה דבש, פסלה “if one puts honey in the incense, one invalidates it.” 
 
+A חלת דבש  is a challah made of honey and. Can you imagine such a disgusting thing! Our Rabbis teach us that this  concoction is  immediately impure  חלות דבש ... מטמאות (Mishna Oktzin 3:11).
+
 Next time you are tempted by honey, remember this: After Herod the Wicked murdered his wife, he pickled her in a jar of honey (Bava Batra 3a)! He sure didn't pack her in aspartame or sucralose!
 
 ## Just stop already!

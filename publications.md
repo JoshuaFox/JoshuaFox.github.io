@@ -22,11 +22,11 @@ for academic and some other articles, but for technical articles, see below.
 > How to integrate your solution into Google Marketplace.
 
 ---
-• "Growing NLP to production: Cloud MLOps for speed and efficiency"
+• "Growing NLP to production: Cloud MLOps for speed and efficiency", Israel NLP Meetup at Microsoft
 > How to scale up your ML processes as you go from university to “garage” to hypergrowth. 
 
 ---
-•  "No WAFs: Don’t use a Web Application Firewall, and when you should, anyway" (Conference Talk). ([Video](https://www.youtube.com/watch?v=0Rk7koWsX4I&list=PLMM5_63TOT9BZZ5HCeTTg_GVJFny3jwBw&index=13)). Bsides Strasbourg; also at Conf42L ([Video](https://www.youtube.com/watch?v=XQywClfDEJw) )
+•  "No WAFs: Don’t use a Web Application Firewall, and when you should, anyway" (Conference Talk). ([Video](https://www.youtube.com/watch?v=0Rk7koWsX4I&list=PLMM5_63TOT9BZZ5HCeTTg_GVJFny3jwBw&index=13)). Bsides Strasbourg; also at L ([Video](https://www.youtube.com/watch?v=XQywClfDEJw) )
 >  WAFs look like a quick-fix for security problems, but generally lead to worse security. Yet sometimes they are needed. This article sorts that out.
   
 ---
@@ -38,7 +38,7 @@ for academic and some other articles, but for technical articles, see below.
 >  We explored the importance of controlling and understanding cloud costs, the role of good architecture in cost optimization, and strategies for dealing with surprise costs.
 
 ---
-• "Level 7 Egress Control: Just now emerging in Kubernetes", a full talk given at _SRECon_ Dublin ([video](https://www.youtube.com/watch?v=WnELOww56nM&t=2s)); and various short versions  at  _Devopsdays_  Vilna,  _Devopsdays_ Ukraine, and _Kubernasties_, Tel Aviv. See videos of the short talks in [English](https://www.youtube.com/watch?v=hZmkZvT4BH4&list=PL_O8YSX8ckfcW4hfVQexlTsKFoM_Vb8S5&index=8); Yiddish ["װי מען רעגולירט אַרױסגאַנג לױטן ראַיאָן: כטולהון אַרט עס נישט"](https://www.youtube.com/watch?v=89eZIFkktRg); and Hebrew ["שליטה על יציאה מאשכול על פי מתחם"](https://www.youtube.com/watch?v=UEsx6hKC6sU).
+• "Level 7 Egress Control: Just now emerging in Kubernetes", a full talk given at _SRECon_ Dublin ([video](https://www.youtube.com/watch?v=WnELOww56nM&t=2s)); and various short versions  at  _DevOpsDays_ Vilna,  _DevOpsDays_ Ukraine, and _Kubernasties_ Tel Aviv. See videos of the short talks in [English](https://www.youtube.com/watch?v=hZmkZvT4BH4&list=PL_O8YSX8ckfcW4hfVQexlTsKFoM_Vb8S5&index=8); Yiddish ["װי מען רעגולירט אַרױסגאַנג לױטן ראַיאָן: כטולהון אַרט עס נישט"](https://www.youtube.com/watch?v=89eZIFkktRg); and Hebrew ["שליטה על יציאה מאשכול על פי מתחם"](https://www.youtube.com/watch?v=UEsx6hKC6sU).
 > Controlling outgoing traffic from a VPN or a K8s cluster based on Level 7 Domain address. 
 
 • "Outside advisors: A counter-intuitive approach to Customer Reliability Engineering", _DevOps days_, Vilna, Lithuania
