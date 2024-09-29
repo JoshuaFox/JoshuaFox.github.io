@@ -14,7 +14,7 @@ for academic and some other articles, but for technical articles, see below.
 **On Software and the Cloud**
 
 ---
-• ["Simplifying your Google Marketplace Vendor Development"](https://engineering.doit.com/doit-easily-7bd8b75207a9)
+• ["DoiT-Easily: Simplifying your Google Marketplace Vendor Development"](https://engineering.doit.com/doit-easily-7bd8b75207a9)
 > How to use the DoiT-Easily open-source project as a basis for developing your Google Marketplace offerings.
 
 ---
@@ -99,7 +99,7 @@ SRECon_ Singapore.
 
 > My colleagues and I discuss the latest from AWS in Machine Learning and Artificial Intelligence.
 
-• "[Let the Computer Enforce It For You](https://blog.doit-intl.com/let-the-computer-enforce-it-for-you-fe8155d643dc?source=friends_link&sk=a8ee21dc9646ae47dddeb02df9b99f37)"
+• "[Let the Computer Enforce It For You](https://engineering.doit.com/let-the-computer-enforce-it-for-you-fe8155d643dc?source=friends_link&sk=a8ee21dc9646ae47dddeb02df9b99f37)"
 
 > How to  document your code for best results: Keep the documentation close to the code, and machine-enforced.
 
@@ -107,56 +107,56 @@ SRECon_ Singapore.
 
 > Machine Learning Software-as-a-Service providers that serve a lot of tenants need to keep these tenants prediction endpoints separate. Here are several ways to do that, balancing expense and  robustness. We show an advanced use of Identity and Access management for a flexible access control to the Sagemaker inferencing endpoints.
 
-• "[Cloud Blaster: How to clean up your Google Cloud Project](https://blog.doit-intl.com/cloud-blaster-how-to-clean-up-your-google-cloud-project-easily-6ec1a5d33ea9?source=friends_link&sk=a5ae0e917f1bbf9a201a5b61e3699fc5)"
+• "[Cloud Blaster: How to clean up your Google Cloud Project](https://engineering.doit.com/cloud-blaster-how-to-clean-up-your-google-cloud-project-easily-6ec1a5d33ea9?source=friends_link&sk=a5ae0e917f1bbf9a201a5b61e3699fc5)"
 
 > As you experiment with the Google Cloud, your project tends to get cluttered. This open-source project cleans it up.
 
-• "[AWS Firewalls: How and When to Use Each One](https://blog.doit-intl.com/aws-firewalls-101-how-and-when-to-use-each-one-d4ad8087a6b3?source=friends_link&sk=bf365adf9fba5a4119a72cd026faf1c4)"
+• "[AWS Firewalls: How and When to Use Each One](https://engineering.doit.com/aws-firewalls-101-how-and-when-to-use-each-one-d4ad8087a6b3?source=friends_link&sk=bf365adf9fba5a4119a72cd026faf1c4)"
 
 > When I saw that AWS had a new firewall with the uninformative name “Network Firewall,” I thought “not another one.” This is my attempt to sort them all out. Then Jeff Barr, AWS Chief Evangelist, tweeted it! 
 
-• "[Kotlin, Gradle, and the Cloud](https://blog.doit-intl.com/kotlin-gradle-and-the-cloud-4b454701e4b9?source=friends_link&sk=0de9f40992a744bc636b0bd1acc9dc71)"
+• "[Kotlin, Gradle, and the Cloud](https://engineering.doit.com/kotlin-gradle-and-the-cloud-4b454701e4b9?source=friends_link&sk=0de9f40992a744bc636b0bd1acc9dc71)"
 
 > How to build Kotlin apps in the cloud with Gradle.
 
-• "[Resource Labeling with Iris3](https://blog.doit-intl.com/iris-3-automatic-labeling-for-cost-control-7451b480ee13?source=friends_link&sk=b934039e5dc35c9d5e377b6a15fb6381)"
+• "[Resource Labeling with Iris3](https://engineering.doit.com/iris-3-automatic-labeling-for-cost-control-7451b480ee13?source=friends_link&sk=b934039e5dc35c9d5e377b6a15fb6381)"
 
 > My Iris 3 open-source project adds labels to resources like VM instances, Pub Sub Topics, and more, making for more detailed cost reports.
 
-• “[The Quickest Quickstarts](https://blog.doit-intl.com/the-quickest-quickstart-9c4111bb0d7a?source=friends_link&sk=0168f8588c7be8d29fe89df13d6881a8])"
+• “[The Quickest Quickstarts](https://engineering.doit.com/the-quickest-quickstart-9c4111bb0d7a?source=friends_link&sk=0168f8588c7be8d29fe89df13d6881a8])"
 
 > When I want to use a new technology, I first want a script that gives me a working “Hello World”; I can tweak from there. This article presents nine such solutions for different compute infrastructures on AWS and GCP.
 
-• “[From Notebook to AWS](https://blog.doit-intl.com/from-notebook-to-aws-9bcf29ca0156?source=friends_link&sk=a996e4d15caeff5455f2c1b3cafd3475)''
+• “[From Notebook to AWS](https://engineering.doit.com/from-notebook-to-aws-9bcf29ca0156?source=friends_link&sk=a996e4d15caeff5455f2c1b3cafd3475)''
 
 > Step by step from a research Jupyter Notebook to a AWS distributed Machine Language Deployment.
 
-• "[Looking for an emulator for Google Cloud Tasks?](https://blog.doit-intl.com/looking-for-an-emulator-for-cloud-tasks-45f0ae2c67b5?source=friends_link&sk=05f7c4f7c0c63c2043cd53690ced3df4)"
+• "[Looking for an emulator for Google Cloud Tasks?](https://engineering.doit.com/looking-for-an-emulator-for-cloud-tasks-45f0ae2c67b5?source=friends_link&sk=05f7c4f7c0c63c2043cd53690ced3df4)"
 
 > Though an emulator is often requested, Google does not offer one for developing with Cloud Tasks, comparable to what if offers for Datastore or PubSub. I created one.
 
-• “[Safe Scrub: Clean up your Google Cloud projects.](https://blog.doit-intl.com/safe-scrub-clean-up-your-google-cloud-projects-f90f18aca311?source=friends_link&sk=bce56e27b568c8209f3da94eac17099f)''
+• “[Safe Scrub: Clean up your Google Cloud projects.](https://engineering.doit.com/safe-scrub-clean-up-your-google-cloud-projects-f90f18aca311?source=friends_link&sk=bce56e27b568c8209f3da94eac17099f)''
 
 > An open-source tool I wrote for safely deleting the resources cluttering your projects.
 
-• “[The Hidden Costs of Datastore](https://blog.doit-intl.com/the-hidden-costs-of-datastore-c04ad354ec50?source=friends_link&sk=64b75ebbf0f17d37a00cbed33f713d74)''
+• “[The Hidden Costs of Datastore](https://engineering.doit.com/the-hidden-costs-of-datastore-c04ad354ec50?source=friends_link&sk=64b75ebbf0f17d37a00cbed33f713d74)''
 
 > Datastore export costs don’t show up in Google Cloud Monitoring. Here’s how to set up real-time alerts to better keep track of export costs.
 
-• “[You can handle pods, but what about clusters?](https://blog.doit-intl.com/you-can-handle-the-pods-but-what-about-the-clusters-486fbdb5345d?source=friends_link&sk=7fbf6c973dbfe4554829cac6813df03e)''
+• “[You can handle pods, but what about clusters?](https://engineering.doit.com/you-can-handle-the-pods-but-what-about-the-clusters-486fbdb5345d?source=friends_link&sk=7fbf6c973dbfe4554829cac6813df03e)''
 
 > Introducing a new open-source tool that I wrote for cloning clusters between the Google, Azure, and Amazon clouds.
 
-• “[How Your Web App Can Serve the Chinese Market](https://blog.doit-intl.com/how-your-web-app-can-serve-the-chinese-market-eddca502b6a9?source=friends_link&sk=84887f539e7cbf8f8f3d86ba75abeb68)''
+• “[How Your Web App Can Serve the Chinese Market](https://engineering.doit.com/how-your-web-app-can-serve-the-chinese-market-eddca502b6a9?source=friends_link&sk=84887f539e7cbf8f8f3d86ba75abeb68)''
 
 > For web app developers, serving users in China requires a completely different way of thinking. Here are the key steps you should take.
 
-• “[How to Best Prepare for your Cloud Certification Exam](https://blog.doit-intl.com/facing-down-the-cloud-certification-exam-efe154b58190?source=friends_link&sk=63e60f33fb058502925b99f54f9e8484)''
+• “[How to Best Prepare for your Cloud Certification Exam](https://engineering.doit.com/facing-down-the-cloud-certification-exam-efe154b58190?source=friends_link&sk=63e60f33fb058502925b99f54f9e8484)''
 
 > The best preparation materials for Google and AWS Cloud Architect Certification as you get ready for those critical two or three hours of the exam.
 
 
-• “[Build on Your Experience to Earn Cloud Certifications](https://blog.doit-intl.com/bring-your-experience-to-the-cloud-certification-891278df5b5?source=friends_link&sk=3bd23669baed9017741760ae6007135f)''
+• “[Build on Your Experience to Earn Cloud Certifications](https://engineering.doit.com/bring-your-experience-to-the-cloud-certification-891278df5b5?source=friends_link&sk=3bd23669baed9017741760ae6007135f)''
 
 > How to quickly absorb the knowledge that you don't yet have, building on your professional strengths.
 
