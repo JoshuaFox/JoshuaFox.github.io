@@ -41,7 +41,7 @@ for academic and some other articles, but for technical articles, see below.
 • "Level 7 Egress Control: Just now emerging in Kubernetes", a full talk given at _SRECon_ Dublin ([video](https://www.youtube.com/watch?v=WnELOww56nM&t=2s)); and various short versions  at  _DevOpsDays_ Vilna,  _DevOpsDays_ Ukraine, and _Kubernasties_ Tel Aviv. See videos of the short talks in [English](https://www.youtube.com/watch?v=hZmkZvT4BH4&list=PL_O8YSX8ckfcW4hfVQexlTsKFoM_Vb8S5&index=8); Yiddish ["װי מען רעגולירט אַרױסגאַנג לױטן ראַיאָן: כטולהון אַרט עס נישט"](https://www.youtube.com/watch?v=89eZIFkktRg); and Hebrew ["שליטה על יציאה מאשכול על פי מתחם"](https://www.youtube.com/watch?v=UEsx6hKC6sU).
 > Controlling outgoing traffic from a VPN or a K8s cluster based on Level 7 Domain address. 
 
-• "Outside advisors: A counter-intuitive approach to Customer Reliability Engineering", _DevOps days_, Vilna, Lithuania
+• "Outside advisors: A counter-intuitive approach to Customer Reliability Engineering", _DevOpsDays_, Vilna, Lithuania
 > How does SRE work with outside advisers? If outsiders run DevOps, costs mount quickly. There is a better way. I will show how strictly defined limits on what outside CRE does,  lower cost, build  in-house skills, and leverage outside expertise for both architecture and urgent response. See video of a [similar talk](https://www.youtube.com/watch?v=ayh22hDd-eU) from Singapore. 
 
 • ["Flexibility in Vizier’s Black Box Optimization"](https://engineering.doit.com/flexibility-in-viziers-black-box-optimization-b4caff09af0c) 
@@ -91,7 +91,7 @@ SRECon_ Singapore.
 
 > With Michael Pelts, Senior Solutions Architect at AWS,  explore ways to allow tenants to expose their own models for inference when ensuring that it is accessed only by the tenant that created it.
  
-• "[Throughput Metrics Across the Clouds](https://www.doit-intl.com/throughput-metrics-across-the-clouds/)"
+• "[Throughput Metrics Across the Clouds](https://www.doit.com/throughput-metrics-across-the-clouds/)"
 
 > This article describes the conclusions from my  open-source project, which is the first that I know of  measuring *throughput* (most others focus on latency)  and doing so *across clouds* and relating it to *distance*.
 
@@ -313,7 +313,7 @@ SRECon_ Singapore.
 **Recruiting and Career**
 
 ---
-* [Working as a cloud consultant at DoiT International](https://www.doit-intl.com/why-i-work-at-doit-as-a-cloud-infrastructure-consultant/): About our unique work-style: I have never 
+* [Working as a cloud consultant at DoiT International](https://engineering.doit.com/why-i-work-at-doit-as-a-cloud-infrastructure-consultant/): About our unique work-style: I have never 
 seen anything like this.
 * [On informational interviews](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, at _ERE_, the leading  site for tech recruiters. 
 * It [also appeared](http://www.gius.co.il/איך-זה-לעבוד-שם/) at Israel’s top news site for recruiters, gius.co.il.
