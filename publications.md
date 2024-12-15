@@ -14,6 +14,10 @@ for academic and some other articles, but for technical articles, see below.
 **On Software and the Cloud**
 
 ---
+• "Growing NLP to production: Cloud MLOps for speed and efficiency", [DevFest Bucharest](https://gdg.community.dev/events/details/google-gdg-bucharest-presents-devfest-bucharest-2024/); earlier multicloud version given to the Israel NLP Meetup at Microsoft.  [Video of the DevFest talk](https://youtu.be/bvZThtEJhYs)
+> I work with startups that innovate their algorithms, but hit a scaling wall as they succeed. I show how cloud platforms like Google, AWS, and Azure provide a full spectrum of MLOps services, and services, and how to decide when to leverage each.
+
+---
 • ["DoiT-Easily: Simplifying your Google Marketplace Vendor Development"](https://engineering.doit.com/doit-easily-7bd8b75207a9)
 > How to use the DoiT-Easily open-source project as a basis for developing your Google Marketplace offerings.
 
@@ -21,9 +25,6 @@ for academic and some other articles, but for technical articles, see below.
 • ["Sell your SaaS on Google Marketplace"](https://engineering.doit.com/sell-your-saas-on-google-marketplace-43b5d10ec15e)
 > How to integrate your solution into Google Marketplace.
 
----
-• "Growing NLP to production: Cloud MLOps for speed and efficiency", Israel NLP Meetup at Microsoft
-> How to scale up your ML processes as you go from university to “garage” to hypergrowth. 
 
 ---
 •  "No WAFs: Don’t use a Web Application Firewall, and when you should, anyway" (Conference Talk). ([Video](https://www.youtube.com/watch?v=0Rk7koWsX4I&list=PLMM5_63TOT9BZZ5HCeTTg_GVJFny3jwBw&index=13)). Bsides Strasbourg; also at L ([Video](https://www.youtube.com/watch?v=XQywClfDEJw) )
@@ -41,8 +42,8 @@ for academic and some other articles, but for technical articles, see below.
 • "Level 7 Egress Control: Just now emerging in Kubernetes", a full talk given at _SRECon_ Dublin ([video](https://www.youtube.com/watch?v=WnELOww56nM&t=2s)); and various short versions  at  _DevOpsDays_ Vilna,  _DevOpsDays_ Ukraine, and _Kubernasties_ Tel Aviv. See videos of the short talks in [English](https://www.youtube.com/watch?v=hZmkZvT4BH4&list=PL_O8YSX8ckfcW4hfVQexlTsKFoM_Vb8S5&index=8); Yiddish ["װי מען רעגולירט אַרױסגאַנג לױטן ראַיאָן: כטולהון אַרט עס נישט"](https://www.youtube.com/watch?v=89eZIFkktRg); and Hebrew ["שליטה על יציאה מאשכול על פי מתחם"](https://www.youtube.com/watch?v=UEsx6hKC6sU).
 > Controlling outgoing traffic from a VPN or a K8s cluster based on Level 7 Domain address. 
 
-• "Outside advisors: A counter-intuitive approach to Customer Reliability Engineering", _DevOpsDays_, Vilna, Lithuania
-> How does SRE work with outside advisers? If outsiders run DevOps, costs mount quickly. There is a better way. I will show how strictly defined limits on what outside CRE does,  lower cost, build  in-house skills, and leverage outside expertise for both architecture and urgent response. See video of a [similar talk](https://www.youtube.com/watch?v=ayh22hDd-eU) from Singapore. 
+• "Outside advisors: A counter-intuitive approach to Customer Reliability Engineering", _DevOpsDays_, Vilna, Lithuania; _Kubernetes Users Group_, Singapore. [Video recording](https://www.youtube.com/watch?v=ayh22hDd-eU)
+> How does SRE work with outside advisers? If outsiders run DevOps, costs mount quickly. There is a better way. I will show how strictly defined limits on what outside CRE does,  lower cost, build  in-house skills, and leverage outside expertise for both architecture and urgent response.  
 
 • ["Flexibility in Vizier’s Black Box Optimization"](https://engineering.doit.com/flexibility-in-viziers-black-box-optimization-b4caff09af0c) 
 >  Further abilities of Vertex AI Vizier 
@@ -53,10 +54,6 @@ for academic and some other articles, but for technical articles, see below.
 • ["Vertex AI Vizier for fewer repetitions of costly ML training "](https://engineering.doit.com/the-advantages-of-the-viziers-black-box-approach-b73f32723c9f) 
 >  Introducing Vizier and Black Box Optimization
  
-• "From Professional Services to Responsibility-Sharing", _Kubernetes Users Group_, Singapore.
-[Video recording here](https://www.youtube.com/watch?v=ayh22hDd-eU)
-> How does a Site Reliability Engineering team work with outside advisers? If outsiders run DevOps, costs mount quickly, while the in-house team lacks a connection to its own systems. 
-In this talk, I will present a methodology that carefully defines boundaries and limits what outside CRE does, so lowering cost,  building in-house skills, and leveraging outside expertise for urgent response as well as longer-term architecture.
 
 • "Untangling the Tangled Cloud", ([video](https://www.youtube.com/watch?v=zJCP_MTncVk))  _Usenix
 SRECon_ Singapore.
