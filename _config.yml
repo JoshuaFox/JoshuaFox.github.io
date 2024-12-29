@@ -24,13 +24,11 @@ navbar-links:
     - Patents: "patents/"
     - StackOverflow: "https://stackoverflow.com/users/39242/joshua-fox"
     - GitHub: "https://github.com/JoshuaFox"
-  #Blog: "posts/"
   Other:
-      - Humor: "humor/"
-      - Yiddish: "yiddish/"
-      - The Future: "future/"
-      - AstralCodexTen Online Meetups: "acx-online-meetups/"
-      - Semitic Philology: "philology/"
+    - Humor: "humor/"
+    - Yiddish: "yiddish/"
+    - The Future: "future/"
+    - Semitic Philology: "philology/"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)

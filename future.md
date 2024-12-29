@@ -12,9 +12,11 @@ But I still do what I can, where I think I can make a difference.
 
 # More recent materials
 * ["Meditations on Moloch"](https://rationality.co.il/slatestarcodex/meditations-on-moloch/) in Hebrew
-* ["Medidations on Moloch"](https://joshuafox.com/yiddish/%D7%94%D7%99%D7%A8%D7%94%D7%95%D7%A8%D7%99%D7%9D%20%D7%90%D7%B1%D7%A3%20%D7%9E%D6%B9%D7%9C%D6%B6%D7%9A/) in Yiddish
-* ["Transhumanism is Humanism"](https://joshuafox.com/yiddish/%D7%98%D7%A8%D7%90%D6%B7%D7%A0%D7%A1%D7%94%D7%95%D7%9E%D7%90%D6%B7%D7%A0%D7%99%D7%96%D7%9D%20%D7%90%D7%99%D7%96%20%D7%94%D7%95%D7%9E%D7%90%D6%B7%D7%A0%D7%99%D7%96%D7%9D/) in Yiddish
- 
+* ["Medidations on Moloch"](/yiddish/%D7%94%D7%99%D7%A8%D7%94%D7%95%D7%A8%D7%99%D7%9D%20%D7%90%D7%B1%D7%A3%20%D7%9E%D6%B9%D7%9C%D6%B6%D7%9A/) in Yiddish
+* ["Transhumanism is Humanism"](/yiddish/%D7%98%D7%A8%D7%90%D6%B7%D7%A0%D7%A1%D7%94%D7%95%D7%9E%D7%90%D6%B7%D7%A0%D7%99%D7%96%D7%9D%20%D7%90%D7%99%D7%96%20%D7%94%D7%95%D7%9E%D7%90%D6%B7%D7%A0%D7%99%D7%96%D7%9D/) in Yiddish
+ * ["AI Art and Lovecraft"](/yiddish/%D7%A7%D7%99%D7%A0%D7%A1%D7%98%D7%9C%D7%A2%D7%9B%D7%A2%D6%BE%D7%90%D7%99%D7%A0%D7%98%D7%A2%D7%9C%D7%99%D7%92%D7%A2%D7%A0%D7%A5%D6%BE%D7%A7%D7%95%D7%A0%D7%A1%D7%98%20%D7%90%D7%95%D7%9F%20%D7%9C%D7%90%D6%B7%D7%B0%D7%A7%D7%A8%D7%A2%D7%A4%D6%BF%D7%98/)
+ * [AstralCodexTen Online Meetups (2020-21)](/acx-online-meetups/)
+
 # Older materials
 **Peer-reviewed articles and lectures**
 
