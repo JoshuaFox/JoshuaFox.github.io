@@ -14,7 +14,9 @@ use-site-title: true
       {% for linkparts in childlink %}
         {% include navbarlink.html link=linkparts %}
       {% endfor %}
-      <span class="link-separator">•</span>
+      <span class="link-separator">
+      •
+      </span>
     {% endfor %}
   {% else %}
     {% include navbarlink.html link=link %}
