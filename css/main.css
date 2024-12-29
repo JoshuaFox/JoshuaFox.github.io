@@ -790,3 +790,28 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+#central-indexpage {
+  text-align: center;
+}
+
+#central-indexpage a {
+  display: inline-block;
+}
+
+.link-group {
+  display: block;
+  margin-bottom: 1em;
+}
+
+.link-group:after {
+  content: "";
+}
+
+.link-separator {
+  margin: 0 0.5em;
+}
+
+.link-separator:last-child {
+  display: none;
+}
