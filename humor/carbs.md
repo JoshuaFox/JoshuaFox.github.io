@@ -335,7 +335,11 @@ The hunger of the righteous is not for bread. May we merit to see the coming of 
 <hr>
 P.S.
 
-> Warning! Christianity took Judaism best ideas: Don't pay any attention to [the rantings of madmen](https://www.biblelife.org/biblediet.htm). And feel free to laugh at [this](https://amazinggroups.newsvine.com/_news/2010/05/18/4299979-not-by-bread-the-jewish-approach-to-carbs), written by an  _Oto-Ha’ish_\-freak, a [Poe's-Law victim](https://en.wikipedia.org/wiki/Poe's_law) who takes this page seriously. _We've_ known about the evil of carbs since way back when! _Their_ religion worships a man who claimed to be [made](https://www.biblegateway.com/passage/?search=John+6:35) entirely of [carbohydrates](https://www.biblegateway.com/passage/?search=Luke+22:19). 
+> Warning! Christianity took Judaism best ideas: Don't pay any attention to [the rantings of madmen](https://www.biblelife.org/biblediet.htm). And feel free to laugh at [this](https://amazinggroups.newsvine.com/_news/2010/05/18/4299979-not-by-bread-the-jewish-approach-to-carbs), written by an  _Oto-Ha’ish_\-freak, a [Poe's-Law victim](https://en.wikipedia.org/wiki/Poe's_law) who takes this page seriously. _We've_ known about the evil of carbs since way back when!
+
+That man [condemned](https://www.biblegateway.com/passage/?search=Matthew%2015%3A26&utm_source=pocket_saves&version=NIV) innocent, darling children to eat bread when it could just as well have been given to dogs!
+
+ _Their_ religion worships a man who claimed to be [made](https://www.biblegateway.com/passage/?search=John+6:35) entirely of [carbohydrates](https://www.biblegateway.com/passage/?search=Luke+22:19). 
 >
 > [Multiplying loaves of bread](https://www.biblegateway.com/passage/?search=Matthew+14%3A13-21&version=NIV)?! What sort of evil necromancer does that?!
 

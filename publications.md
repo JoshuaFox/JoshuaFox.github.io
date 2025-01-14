@@ -14,8 +14,13 @@ for academic and some other articles, but for technical articles, see below.
 **On Software and the Cloud**
 
 ---
+
+• ["Taking Machine Learning to production: Cloud MLOps for speed and efficiency"](https://engineering.doit.com/taking-machine-learning-to-production-4b6c99383762). 
+
+> The article version of my talk at DevFest (see below)
+
 • "Growing NLP to production: Cloud MLOps for speed and efficiency", [DevFest Bucharest](https://gdg.community.dev/events/details/google-gdg-bucharest-presents-devfest-bucharest-2024/); earlier multicloud version given to the Israel NLP Meetup at Microsoft.  [Video of the DevFest talk](https://youtu.be/bvZThtEJhYs)
-> I work with startups that innovate their algorithms, but hit a scaling wall as they succeed. I show how cloud platforms like Google, AWS, and Azure provide a full spectrum of MLOps services, and services, and how to decide when to leverage each.
+> I work with startups that innovate their algorithms, but hit a scaling wall as they succeed. I show how cloud MLOps platforms like Vertex provide a full spectrum of MLOps services, and services, and how to decide when to leverage each.
 
 ---
 • ["DoiT-Easily: Simplifying your Google Marketplace Vendor Development"](https://engineering.doit.com/doit-easily-7bd8b75207a9)
