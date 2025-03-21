@@ -15,6 +15,10 @@ for academic and some other articles, but for technical articles, see below.
 
 ---
 
+• ["Outside Advisors: Empowering your team while retaining ownership"](bit.ly/l8-cre-experts). 
+
+>  This talk, for an audience of Staff Engineers, introduces a pragmatic approach to incorporating external Cloud Reliability Engineering (CRE) advisors while keeping your team firmly in control of their technical destiny.
+
 • ["Taking Machine Learning to production: Cloud MLOps for speed and efficiency"](https://engineering.doit.com/taking-machine-learning-to-production-4b6c99383762). 
 
 > The article version of my talk at DevFest (see below)
@@ -32,7 +36,7 @@ for academic and some other articles, but for technical articles, see below.
 
 
 ---
-•  "No WAFs: Don’t use a Web Application Firewall, and when you should, anyway" (Conference Talk). ([Video](https://www.youtube.com/watch?v=0Rk7koWsX4I&list=PLMM5_63TOT9BZZ5HCeTTg_GVJFny3jwBw&index=13)). Bsides Strasbourg; also at L ([Video](https://www.youtube.com/watch?v=XQywClfDEJw) )
+•  "No WAFs: Don’t use a Web Application Firewall, and when you should, anyway" (Conference Talk). ([Video](https://www.youtube.com/watch?v=0Rk7koWsX4I&list=PLMM5_63TOT9BZZ5HCeTTg_GVJFny3jwBw&index=13)). Bsides Strasbourg; also at Conf42 ([Video](https://www.youtube.com/watch?v=XQywClfDEJw) )
 >  WAFs look like a quick-fix for security problems, but generally lead to worse security. Yet sometimes they are needed. This article sorts that out.
   
 ---
