@@ -15,15 +15,15 @@ for academic and some other articles, but for technical articles, see below.
 
 ---
 
-• ["Outside Advisors: Empowering your team while retaining ownership"](bit.ly/l8-cre-experts). 
+• ["Outside Advisors: Empowering your team while retaining ownership"](bit.ly/l8-cre-experts), L8 Conference, 2025. 
 
 >  This talk, for an audience of Staff Engineers, introduces a pragmatic approach to incorporating external Cloud Reliability Engineering (CRE) advisors while keeping your team firmly in control of their technical destiny.
 
 • ["Taking Machine Learning to production: Cloud MLOps for speed and efficiency"](https://engineering.doit.com/taking-machine-learning-to-production-4b6c99383762). 
 
-> The article version of my talk at DevFest (see below)
+> The article version of my talk from DevFest and SRE Day (see below)
 
-• "Growing NLP to production: Cloud MLOps for speed and efficiency", [DevFest Bucharest](https://gdg.community.dev/events/details/google-gdg-bucharest-presents-devfest-bucharest-2024/); earlier multicloud version given to the Israel NLP Meetup at Microsoft.  [Video of the DevFest talk](https://youtu.be/bvZThtEJhYs)
+• "Cloud MLOps for speed and efficiency",  DevFest Bucharest and SREDay London; earlier multicloud version given to the Israel NLP Meetup at Microsoft.  [Video of the DevFest talk](https://youtu.be/bvZThtEJhYs)
 > I work with startups that innovate their algorithms, but hit a scaling wall as they succeed. I show how cloud MLOps platforms like Vertex provide a full spectrum of MLOps services, and services, and how to decide when to leverage each.
 
 ---
