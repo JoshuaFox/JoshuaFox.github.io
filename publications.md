@@ -15,7 +15,7 @@ for academic and some other articles, but for technical articles, see below.
 
 ---
 
-• ["Outside Advisors: Empowering your team while retaining ownership"](bit.ly/l8-cre-experts), L8 Conference, 2025. 
+• ["Outside Advisors: Empowering your team while retaining ownership"](https://bit.ly/l8-cre-experts), L8 Conference. 
 
 >  This talk, for an audience of Staff Engineers, introduces a pragmatic approach to incorporating external Cloud Reliability Engineering (CRE) advisors while keeping your team firmly in control of their technical destiny.
 
@@ -23,8 +23,8 @@ for academic and some other articles, but for technical articles, see below.
 
 > The article version of my talk from DevFest and SRE Day (see below)
 
-• "Cloud MLOps for speed and efficiency",  DevFest Bucharest and SREDay London; earlier multicloud version given to the Israel NLP Meetup at Microsoft.  [Video of the DevFest talk](https://youtu.be/bvZThtEJhYs)
-> I work with startups that innovate their algorithms, but hit a scaling wall as they succeed. I show how cloud MLOps platforms like Vertex provide a full spectrum of MLOps services, and services, and how to decide when to leverage each.
+• "Cloud MLOps for speed and efficiency",  DevFest Bucharest and SRE Day London; earlier multicloud version given to the Israel NLP Meetup at Microsoft.  [Video of the DevFest talk](https://youtu.be/bvZThtEJhYs) and of the [SRE Day talk](https://www.youtube.com/watch?v=jmjOHOeK0MA&list=PL2CAJ_jforK6Pp2BUGfwKKlBCHRWnsmgk&index=12&ab_channel=SREday).
+> I work with startups that build on an algorithm that they innovated, but hit a scaling wall as they succeed. I show how cloud MLOps platforms like Vertex provide a full spectrum of MLOps services, and services, and how to decide when to leverage each.
 
 ---
 • ["DoiT-Easily: Simplifying your Google Marketplace Vendor Development"](https://engineering.doit.com/doit-easily-7bd8b75207a9)
