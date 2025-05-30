@@ -12,7 +12,7 @@ from typing import ClassVar, List
 def replace_argspec_in_parsimonous():
     """This fix is necessary to get ke to work, as ke depends on Parsimonious"""
     ver = sys.version[: sys.version.find(".", sys.version.find(".") + 1)]
-    fix_this = f"googledocs/virtual_env/lib/python{ver}/site-packages/parsimonious/expressions.py"
+    fix_this = f"googledocs/.venv/lib/python{ver}/site-packages/parsimonious/expressions.py"
     txt = Path(fix_this).read_text()
     if "from inspect import getargspec" in txt:
         txt2 = txt.replace(

@@ -7,9 +7,11 @@ import sys
 from pathlib import Path
 from time import sleep
 
+import backoff
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
+import googleapiclient
 from googleapiclient.discovery import build
 
 WEBSITE_YIDDISH_DOCS_GDRIVE_FOLDER = "1Hvb0MpR91LOHcb6SbhB1-Hxih8W_07Ba"
@@ -44,13 +46,22 @@ def remake_download_dir():
     os.mkdir(download_dir())
 
 
+
+def _backoff_hdlr(details):
+    print ("Backing off {wait:0.1f} seconds after {tries} tries "
+           "calling function {target} ".format(**details))
+    
+@backoff.on_exception(backoff.expo,
+                      (    googleapiclient.errors.HttpError,),
+                      on_backoff=_backoff_hdlr
+                      )
 def export_html(service, doc_id):
     html_content = (
         service.files().export(fileId=("%s" % doc_id), mimeType="text/html").execute()
     )
     doc = service.files().get(fileId=doc_id).execute()
     name = doc["name"]
-
+ 
     with open(download_dir() + "/" + name + ".html", "wb") as f:
         f.write(html_content)
         print('Exported "%s"' % name)

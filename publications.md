@@ -14,8 +14,11 @@ for academic and some other articles, but for technical articles, see below.
 **On Software and the Cloud**
 
 ---
+• ["Hidden Cloud Waste in Your Code"](https://engineering.doit.com/identifying-hidden-cloud-waste-in-your-code-37e32fc8e11f). 
 
-• ["Outside Advisors: Empowering your team while retaining ownership"](https://bit.ly/l8-cre-experts), L8 Conference. 
+> Cloud waste often hides in inefficient code, creating an "illusion of efficiency." This article gives a systematic approach to finding cost issues that come from the code rather than cloud infrastructure.
+
+• "Outside Advisors: Empowering your team while retaining ownership", L8 Conference. 
 
 >  This talk, for an audience of Staff Engineers, introduces a pragmatic approach to incorporating external Cloud Reliability Engineering (CRE) advisors while keeping your team firmly in control of their technical destiny.
 

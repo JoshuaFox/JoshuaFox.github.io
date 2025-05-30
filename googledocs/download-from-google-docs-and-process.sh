@@ -10,7 +10,7 @@ if [[ $PWD != "$PARENT_DIR" ]]; then
     exit 1
 fi
 
-source ./googledocs/virtual_env/bin/activate
+source ./googledocs/.venv/bin/activate
 pip3 install -r ./googledocs/requirements.txt
 startexport=$(date +%s)
 python3 ./googledocs/export-yiddish-website-docs.py
