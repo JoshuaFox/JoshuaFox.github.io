@@ -7,6 +7,7 @@ tags: [humor ]
 
 * [Carbs](/humor/carbs/) 
 * [Conan](/humor/conan/)
+* [Daniel's Aufruf, a Dvar Torah](/humor/DanielDvarTorah)
 * [NGF](/humor/ngf/)
 * [Chaordianism](/humor/chaordianism/)
 * [Brian of Judah](/humor/zoo1/)
