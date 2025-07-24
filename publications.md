@@ -4,16 +4,17 @@ author: Joshua Fox
 layout: page
 ---
 
-**Google Scholar**   
+Here are my technical articles and talks over the years. At the bottom are some about recruiting. Google Scholar [shows citations](https://scholar.google.com/citations?hl=en&user=d0FLp-q9vFEC&view_op=list_works&pagesize=100).
 
----
- 
-Google Scholar [shows citations](https://scholar.google.com/citations?hl=en&user=d0FLp-q9vFEC&view_op=list_works&pagesize=100)
-for academic and some other articles, but for technical articles, see below.
 
 **On Software and the Cloud**
 
----
+• ["Unlocking Broader Cloud Insights with Cost Analytics"](
+https://engineering.doit.com/unlocking-broader-cloud-insights-with-cost-analytics-d21f267229f2). 
+
+>  Cost analytics tools are in many ways better that cloud admin tools for understanding your cloud deployment.
+
+
 • ["Hidden Cloud Waste in Your Code"](https://engineering.doit.com/identifying-hidden-cloud-waste-in-your-code-37e32fc8e11f). 
 
 > Cloud waste often hides in inefficient code, creating an "illusion of efficiency." This article gives a systematic approach to finding cost issues that come from the code rather than cloud infrastructure.
