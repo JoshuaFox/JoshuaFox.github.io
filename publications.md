@@ -12,8 +12,7 @@ Here are my technical articles and talks over the years. At the bottom are some 
 
 • ["Optimizing ML Costs with Azure Machine Learning: A Finops Methodology"](
 https://engineering.doit.com/optimizing-ml-costs-with-azure-machine-learning-1811dc36905d). 
->         
-
+> Machine Learning gets expensive, fast. I will explain how to optimize costs; Azure provides examples of how cloud services can help you reduce costs.
 
 • ["Unlocking Broader Cloud Insights with Cost Analytics"](
 https://engineering.doit.com/unlocking-broader-cloud-insights-with-cost-analytics-d21f267229f2). 
