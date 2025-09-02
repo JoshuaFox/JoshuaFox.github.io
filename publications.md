@@ -9,6 +9,12 @@ Here are my technical articles and talks over the years. At the bottom are some 
 
 **On Software and the Cloud**
 
+
+• ["Optimizing ML Costs with Azure Machine Learning: A Finops Methodology"](
+https://engineering.doit.com/optimizing-ml-costs-with-azure-machine-learning-1811dc36905d). 
+>         
+
+
 • ["Unlocking Broader Cloud Insights with Cost Analytics"](
 https://engineering.doit.com/unlocking-broader-cloud-insights-with-cost-analytics-d21f267229f2). 
 
