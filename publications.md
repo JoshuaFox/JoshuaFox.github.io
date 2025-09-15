@@ -6,57 +6,65 @@ layout: page
 
 Here are my technical articles and talks over the years. At the bottom are some about recruiting. Google Scholar [shows citations](https://scholar.google.com/citations?hl=en&user=d0FLp-q9vFEC&view_op=list_works&pagesize=100).
 
+---
 
-**On Software and the Cloud**
+<br>
 
+# On Software and the Cloud
+<br>
 
-• ["Optimizing ML Costs with Azure Machine Learning: A Finops Methodology"](
+## 2025
+
+• [“Optimizing ML Costs with Azure Machine Learning: A Finops Methodology”](
 https://engineering.doit.com/optimizing-ml-costs-with-azure-machine-learning-1811dc36905d). 
 > Machine Learning gets expensive, fast. I will explain how to optimize costs; Azure provides examples of how cloud services can help you reduce costs.
 
-• ["Unlocking Broader Cloud Insights with Cost Analytics"](
+
+• [“Unlocking Broader Cloud Insights with Cost Analytics”](
 https://engineering.doit.com/unlocking-broader-cloud-insights-with-cost-analytics-d21f267229f2). 
 
 >  Cost analytics tools are in many ways better that cloud admin tools for understanding your cloud deployment.
 
+• [“Hidden Cloud Waste in Your Code”.](https://engineering.doit.com/identifying-hidden-cloud-waste-in-your-code-37e32fc8e11f). 
 
-• ["Hidden Cloud Waste in Your Code"](https://engineering.doit.com/identifying-hidden-cloud-waste-in-your-code-37e32fc8e11f). 
+> Cloud waste often hides in inefficient code, creating an “illusion of efficiency.” This article gives a systematic approach to finding cost issues that come from the code rather than cloud infrastructure.
 
-> Cloud waste often hides in inefficient code, creating an "illusion of efficiency." This article gives a systematic approach to finding cost issues that come from the code rather than cloud infrastructure.
-
-• "Outside Advisors: Empowering your team while retaining ownership", L8 Conference. 
-
+• “Outside Advisors: Empowering your team while retaining ownership,” L8 Conference. 
 >  This talk, for an audience of Staff Engineers, introduces a pragmatic approach to incorporating external Cloud Reliability Engineering (CRE) advisors while keeping your team firmly in control of their technical destiny.
 
-• ["Taking Machine Learning to production: Cloud MLOps for speed and efficiency"](https://engineering.doit.com/taking-machine-learning-to-production-4b6c99383762). 
+• [“Taking Machine Learning to production: Cloud MLOps for speed and efficiency”](https://engineering.doit.com/taking-machine-learning-to-production-4b6c99383762). 
 
 > The article version of my talk from DevFest and SRE Day (see below)
 
-• "Cloud MLOps for speed and efficiency",  DevFest Bucharest and SRE Day London; earlier multicloud version given to the Israel NLP Meetup at Microsoft.  [Video of the DevFest talk](https://youtu.be/bvZThtEJhYs) and of the [SRE Day talk](https://www.youtube.com/watch?v=jmjOHOeK0MA&list=PL2CAJ_jforK6Pp2BUGfwKKlBCHRWnsmgk&index=12&ab_channel=SREday).
+• “Cloud MLOps for speed and efficiency”,  DevFest Bucharest and SRE Day London; earlier multicloud version given to the Israel NLP Meetup at Microsoft.  [Video of the DevFest talk](https://youtu.be/bvZThtEJhYs) and of the [SRE Day talk](https://www.youtube.com/watch?v=jmjOHOeK0MA&list=PL2CAJ_jforK6Pp2BUGfwKKlBCHRWnsmgk&index=12&ab_channel=SREday).
 > I work with startups that build on an algorithm that they innovated, but hit a scaling wall as they succeed. I show how cloud MLOps platforms like Vertex provide a full spectrum of MLOps services, and services, and how to decide when to leverage each.
 
----
 • ["DoiT-Easily: Simplifying your Google Marketplace Vendor Development"](https://engineering.doit.com/doit-easily-7bd8b75207a9)
 > How to use the DoiT-Easily open-source project as a basis for developing your Google Marketplace offerings.
 
----
 • ["Sell your SaaS on Google Marketplace"](https://engineering.doit.com/sell-your-saas-on-google-marketplace-43b5d10ec15e)
 > How to integrate your solution into Google Marketplace.
 
 
----
+• "Defining the boundaries in your cloud infrastructure", DevOpsDays Tel Aviv
+> How do you divide up virtual machines, databases, and other services into logical groups? Lumping all your resources together makes management, security, and cost analysis far too complicated. When one part of your infrastructure changes, you have a hard time identifying what others might be impacted.
+
+
+## 2024
+
 •  "No WAFs: Don’t use a Web Application Firewall, and when you should, anyway" (Conference Talk). ([Video](https://www.youtube.com/watch?v=0Rk7koWsX4I&list=PLMM5_63TOT9BZZ5HCeTTg_GVJFny3jwBw&index=13)). Bsides Strasbourg; also at Conf42 ([Video](https://www.youtube.com/watch?v=XQywClfDEJw) )
 >  WAFs look like a quick-fix for security problems, but generally lead to worse security. Yet sometimes they are needed. This article sorts that out.
   
----
+
 • "[No WAFs: Don’t use a Web Application Firewall, and when you should, anyway](https://engineering.doit.com/no-wafs-26c7a977db7b/)" (Article) 
 >  WAFs look like a quick-fix for security problems, but generally lead to worse security.  Yet sometimes they are needed. This article sorts that out.
 
----
+
 • "Controlling cloud costs: Where to start, and where to go from there", [StackExchange Podcast](https://stackoverflow.blog/2024/03/27/controlling-cloud-costs-where-to-start-and-where-to-go-from-there/).
 >  We explored the importance of controlling and understanding cloud costs, the role of good architecture in cost optimization, and strategies for dealing with surprise costs.
 
----
+## 2023 
+
 • "Level 7 Egress Control: Just now emerging in Kubernetes", a full talk given at _SRECon_ Dublin ([video](https://www.youtube.com/watch?v=WnELOww56nM&t=2s)); and various short versions  at  _DevOpsDays_ Vilna,  _DevOpsDays_ Ukraine, and _Kubernasties_ Tel Aviv. See videos of the short talks in [English](https://www.youtube.com/watch?v=hZmkZvT4BH4&list=PL_O8YSX8ckfcW4hfVQexlTsKFoM_Vb8S5&index=8); Yiddish ["װי מען רעגולירט אַרױסגאַנג לױטן ראַיאָן: כטולהון אַרט עס נישט"](https://www.youtube.com/watch?v=89eZIFkktRg); and Hebrew ["שליטה על יציאה מאשכול על פי מתחם"](https://www.youtube.com/watch?v=UEsx6hKC6sU).
 > Controlling outgoing traffic from a VPN or a K8s cluster based on Level 7 Domain address. 
 
@@ -71,17 +79,16 @@ https://engineering.doit.com/unlocking-broader-cloud-insights-with-cost-analytic
  
 • ["Vertex AI Vizier for fewer repetitions of costly ML training "](https://engineering.doit.com/the-advantages-of-the-viziers-black-box-approach-b73f32723c9f) 
 >  Introducing Vizier and Black Box Optimization
+
  
 
 • "Untangling the Tangled Cloud", ([video](https://www.youtube.com/watch?v=zJCP_MTncVk))  _Usenix
 SRECon_ Singapore.
 
 > How do you arrange virtual machines, databases, and other services into logical groups?
-
 > Whether with Google Cloud projects, AWS accounts, or Azure resource groups, my consulting customers find that either lumping all the resources together or parceling them out into tiny groups makes management, security, and cost analysis too difficult: It’s tough predicting the impact of a change.
-
 > In this talk, related to my article at Usenix :login;, I explain how I advise architects to make their infrastructure follow the logical boundaries of microservices and the organization.
-
+ 
 • ["FQDN Egress Control in Kubernetes"](https://www.tfir.io/fqdn-egress-control-in-kubernetes), _TFiR_.
 
 > Allowing access only to specific domains from your Kubernetes application; limiting this access to pods in certain namespaces or with certain labels. 
@@ -98,6 +105,7 @@ SRECon_ Singapore.
 
 > The first-ever talk or article about the new Black Box Optimization  interaction pattern of  Vertex Vizier, a new way to optimize across slow and expensive iterations.
 
+## 2022
 • ["Authentication between microservices. Is it really that hard?"](https://medium.com/google-cloud/authentication-between-microservices-is-it-really-that-hard-b73785510db4?source=friends_link&sk=d7826ed8e076ce9583899f2216b196c8), _Google Cloud Medium Publication_.
 
 > I've always found it difficult to securely authenticate between microservices. And in fact, though there are plenty of ways to do it,  doing it securely is not easy.
@@ -110,7 +118,9 @@ SRECon_ Singapore.
 
 > This article describes the conclusions from my  open-source project, which is the first that I know of  measuring *throughput* (most others focus on latency)  and doing so *across clouds* and relating it to *distance*.
 
-• "[AWS Machine Learning at the start of 2022](https://youtube.com/playlist?list=PLEBxNMZ7Mu38caHMHW5M4d1ZkiyH_Ng6X)
+• "[AWS Machine Learning at the start of 2022](https://youtube.com/playlist?list=PLEBxNMZ7Mu38caHMHW5M4d1ZkiyH_Ng6X)"
+
+## 2021
 
 > My colleagues and I discuss the latest from AWS in Machine Learning and Artificial Intelligence.
 
@@ -120,11 +130,13 @@ SRECon_ Singapore.
 
 • "[Implementing SaaS Tenant Isolation Using Amazon SageMaker Endpoints and IAM](https://aws.amazon.com/blogs/apn/implementing-saas-tenant-isolation-using-amazon-sagemaker-endpoints-and-iam/)"
 
-> Machine Learning Software-as-a-Service providers that serve a lot of tenants need to keep these tenants prediction endpoints separate. Here are several ways to do that, balancing expense and  robustness. We show an advanced use of Identity and Access management for a flexible access control to the Sagemaker inferencing endpoints.
+> Machine Learning Software-as-a-Service providers that serve a lot of tenants need to keep these tenants prediction endpoints separate. Here are several ways to do that, balancing expense and  robustness. We show an advanced use of Identity and Access management for a flexible access control to the SageMaker inferencing endpoints.
 
 • "[Cloud Blaster: How to clean up your Google Cloud Project](https://engineering.doit.com/cloud-blaster-how-to-clean-up-your-google-cloud-project-easily-6ec1a5d33ea9?source=friends_link&sk=a5ae0e917f1bbf9a201a5b61e3699fc5)"
 
 > As you experiment with the Google Cloud, your project tends to get cluttered. This open-source project cleans it up.
+
+## 2020 and earlier
 
 • "[AWS Firewalls: How and When to Use Each One](https://engineering.doit.com/aws-firewalls-101-how-and-when-to-use-each-one-d4ad8087a6b3?source=friends_link&sk=bf365adf9fba5a4119a72cd026faf1c4)"
 
@@ -138,13 +150,13 @@ SRECon_ Singapore.
 
 > My Iris 3 open-source project adds labels to resources like VM instances, Pub Sub Topics, and more, making for more detailed cost reports.
 
-• “[The Quickest Quickstarts](https://engineering.doit.com/the-quickest-quickstart-9c4111bb0d7a?source=friends_link&sk=0168f8588c7be8d29fe89df13d6881a8])"
+• “[The Quickest Quickstarts](https://engineering.doit.com/the-quickest-quickstart-9c4111bb0d7a?source=friends_link&sk=0168f8588c7be8d29fe89df13d6881a8)"
 
 > When I want to use a new technology, I first want a script that gives me a working “Hello World”; I can tweak from there. This article presents nine such solutions for different compute infrastructures on AWS and GCP.
 
 • “[From Notebook to AWS](https://engineering.doit.com/from-notebook-to-aws-9bcf29ca0156?source=friends_link&sk=a996e4d15caeff5455f2c1b3cafd3475)''
 
-> Step by step from a research Jupyter Notebook to a AWS distributed Machine Language Deployment.
+> Step by step from a research Jupyter Notebook to an AWS distributed Machine Language Deployment.
 
 • "[Looking for an emulator for Google Cloud Tasks?](https://engineering.doit.com/looking-for-an-emulator-for-cloud-tasks-45f0ae2c67b5?source=friends_link&sk=05f7c4f7c0c63c2043cd53690ced3df4)"
 
@@ -175,7 +187,7 @@ SRECon_ Singapore.
 
 > How to quickly absorb the knowledge that you don't yet have, building on your professional strengths.
 
-• “[Google App Engine Flexible Environment: Beyond the Bounds of PaaS](https://www.youtube.com/watch?v=QmmzUbX7IEY&t=22s)”.  The first ever talk or article dedicated to this new Google PaaS. _Multicloud Engineering,_.
+• “[Google App Engine Flexible Environment: Beyond the Bounds of PaaS](https://www.youtube.com/watch?v=QmmzUbX7IEY&t=22s)”.  The first ever talk or article dedicated to this new Google PaaS. _Multicloud Engineering_.
 
 • “[Breaking boundaries: How Freightos achieved high speed graph search in the cloud](https://www.cloudcomputing-news.net/news/2016/oct/06/breaking-boundaries-how-freightos-achieved-high-speed-graph-search-cloud/) ,” _CloudTech_.
 
@@ -243,7 +255,7 @@ SRECon_ Singapore.
 
 • “[JRuby on Rails](https://web.archive.org/web/20230610042818/https://www.javaworld.com/article/2077682/jruby-on-rails--the-power-of-java--the-simplicity-of-ruby-on-rails.amp.html) ,” _JavaWorld_.
 
-> The article explain Ruby on Rails to Java developers, comparing it to Java web frameworks. It presents an example based on JavaSpaces, which leverages Java from within the Rails application. Even those Java developers who do not adopt Rails will benefit from the design principles built into the framework, as well as the rapidly emerging concept of non-Java languages integrated with Java and the JVM.
+> The article explains Ruby on Rails to Java developers, comparing it to Java web frameworks. It presents an example based on JavaSpaces, which leverages Java from within the Rails application. Even those Java developers who do not adopt Rails will benefit from the design principles built into the framework, as well as the rapidly emerging concept of non-Java languages integrated with Java and the JVM.
 
 • “[Ruby for the Java World](https://web.archive.org/web/20230325135244/https://www.javaworld.com/article/2071794/ruby-for-the-java-world.amp.html) ,” _JavaWorld_.
 
@@ -323,11 +335,13 @@ SRECon_ Singapore.
 
 > I describe and review a toolkit for allowing distributed applications to share objects, and more generally discuss the challenges of managing distributed objects. The JSDT was an official product from Sun, although it never made it to the status of a Java extension. It implemented some interesting ideas for distributing objects. I enjoyed collaborating with the  creator, and some of my suggestions (like one on failure detection), actually made it into the toolkit.
 
-
-
-**Recruiting and Career**
-
 ---
+
+# Recruiting and Career
+
+<br>
+
+
 * [Working as a cloud consultant at DoiT International](https://engineering.doit.com/why-i-work-at-doit-as-a-cloud-infrastructure-consultant/): About our unique work-style: I have never 
 seen anything like this.
 * [On informational interviews](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, at _ERE_, the leading  site for tech recruiters. 
