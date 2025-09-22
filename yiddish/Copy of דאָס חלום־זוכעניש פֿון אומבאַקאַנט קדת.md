@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "דאָס חלום־זוכעניש פֿון אומבאַקאַנט קדת"
+title: "Copy of דאָס חלום־זוכעניש פֿון אומבאַקאַנט קדת"
 subtitle:
 tags: [ yiddish]
 css: yiddish
@@ -11,7 +11,7 @@ lang: yi
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
   <style type="text/css">
-   .lst-kix_by419nti35h3-0 > li:before{content:"●  "}.lst-kix_by419nti35h3-5 > li:before{content:"■  "}.lst-kix_by419nti35h3-6 > li:before{content:"●  "}ul.lst-kix_9h479d44rd19-6{list-style-type:none}.lst-kix_by419nti35h3-7 > li:before{content:"○  "}ul.lst-kix_9h479d44rd19-7{list-style-type:none}ul.lst-kix_9h479d44rd19-8{list-style-type:none}ul.lst-kix_9h479d44rd19-2{list-style-type:none}ul.lst-kix_9h479d44rd19-3{list-style-type:none}ul.lst-kix_9h479d44rd19-4{list-style-type:none}.lst-kix_by419nti35h3-8 > li:before{content:"■  "}ul.lst-kix_9h479d44rd19-5{list-style-type:none}ul.lst-kix_mn36yykk8w4m-7{list-style-type:none}ul.lst-kix_mn36yykk8w4m-8{list-style-type:none}ul.lst-kix_9h479d44rd19-0{list-style-type:none}ul.lst-kix_mn36yykk8w4m-5{list-style-type:none}ul.lst-kix_9h479d44rd19-1{list-style-type:none}ul.lst-kix_mn36yykk8w4m-6{list-style-type:none}ul.lst-kix_yl05jzduly0l-2{list-style-type:none}ul.lst-kix_yl05jzduly0l-1{list-style-type:none}ul.lst-kix_mn36yykk8w4m-0{list-style-type:none}ul.lst-kix_yl05jzduly0l-0{list-style-type:none}.lst-kix_yl05jzduly0l-8 > li:before{content:"■  "}ul.lst-kix_yl05jzduly0l-6{list-style-type:none}ul.lst-kix_mn36yykk8w4m-3{list-style-type:none}ul.lst-kix_yl05jzduly0l-5{list-style-type:none}ul.lst-kix_mn36yykk8w4m-4{list-style-type:none}ul.lst-kix_yl05jzduly0l-4{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-8{list-style-type:none}ul.lst-kix_mn36yykk8w4m-1{list-style-type:none}ul.lst-kix_yl05jzduly0l-3{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-7{list-style-type:none}ul.lst-kix_mn36yykk8w4m-2{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-6{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-5{list-style-type:none}.lst-kix_yl05jzduly0l-6 > li:before{content:"●  "}ul.lst-kix_yl05jzduly0l-8{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-4{list-style-type:none}ul.lst-kix_yl05jzduly0l-7{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-3{list-style-type:none}.lst-kix_yl05jzduly0l-7 > li:before{content:"○  "}ul.lst-kix_i9wfl5pfxxl0-2{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-1{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-0{list-style-type:none}.lst-kix_yl05jzduly0l-1 > li:before{content:"○  "}.lst-kix_yl05jzduly0l-0 > li:before{content:"●  "}.lst-kix_yl05jzduly0l-2 > li:before{content:"■  "}.lst-kix_yl05jzduly0l-5 > li:before{content:"■  "}.lst-kix_yl05jzduly0l-4 > li:before{content:"○  "}.lst-kix_yl05jzduly0l-3 > li:before{content:"●  "}.lst-kix_9h479d44rd19-8 > li:before{content:"■  "}.lst-kix_9h479d44rd19-6 > li:before{content:"●  "}.lst-kix_9h479d44rd19-7 > li:before{content:"○  "}.lst-kix_9h479d44rd19-5 > li:before{content:"■  "}.lst-kix_i9wfl5pfxxl0-7 > li:before{content:"○  "}.lst-kix_mn36yykk8w4m-4 > li:before{content:"○  "}.lst-kix_i9wfl5pfxxl0-5 > li:before{content:"■  "}.lst-kix_mn36yykk8w4m-5 > li:before{content:"■  "}.lst-kix_i9wfl5pfxxl0-4 > li:before{content:"○  "}.lst-kix_i9wfl5pfxxl0-8 > li:before{content:"■  "}.lst-kix_mn36yykk8w4m-7 > li:before{content:"○  "}.lst-kix_mn36yykk8w4m-6 > li:before{content:"●  "}.lst-kix_mn36yykk8w4m-8 > li:before{content:"■  "}.lst-kix_i9wfl5pfxxl0-6 > li:before{content:"●  "}ul.lst-kix_by419nti35h3-1{list-style-type:none}ul.lst-kix_by419nti35h3-0{list-style-type:none}ul.lst-kix_by419nti35h3-5{list-style-type:none}.lst-kix_i9wfl5pfxxl0-1 > li:before{content:"○  "}ul.lst-kix_by419nti35h3-4{list-style-type:none}ul.lst-kix_by419nti35h3-3{list-style-type:none}.lst-kix_i9wfl5pfxxl0-0 > li:before{content:"●  "}ul.lst-kix_by419nti35h3-2{list-style-type:none}.lst-kix_i9wfl5pfxxl0-3 > li:before{content:"●  "}.lst-kix_i9wfl5pfxxl0-2 > li:before{content:"■  "}.lst-kix_mn36yykk8w4m-3 > li:before{content:"●  "}.lst-kix_9h479d44rd19-2 > li:before{content:"■  "}.lst-kix_9h479d44rd19-3 > li:before{content:"●  "}.lst-kix_mn36yykk8w4m-2 > li:before{content:"■  "}.lst-kix_mn36yykk8w4m-1 > li:before{content:"○  "}.lst-kix_9h479d44rd19-0 > li:before{content:"●  "}.lst-kix_9h479d44rd19-4 > li:before{content:"○  "}.lst-kix_by419nti35h3-4 > li:before{content:"○  "}.lst-kix_by419nti35h3-3 > li:before{content:"●  "}ul.lst-kix_by419nti35h3-8{list-style-type:none}ul.lst-kix_by419nti35h3-7{list-style-type:none}.lst-kix_mn36yykk8w4m-0 > li:before{content:"●  "}ul.lst-kix_by419nti35h3-6{list-style-type:none}.lst-kix_by419nti35h3-1 > li:before{content:"○  "}.lst-kix_9h479d44rd19-1 > li:before{content:"○  "}.lst-kix_by419nti35h3-2 > li:before{content:"■  "}body{direction:rtl}
+   .lst-kix_by419nti35h3-0 > li:before{content:"●  "}.lst-kix_by419nti35h3-5 > li:before{content:"■  "}.lst-kix_by419nti35h3-6 > li:before{content:"●  "}ul.lst-kix_9h479d44rd19-6{list-style-type:none}.lst-kix_by419nti35h3-7 > li:before{content:"○  "}ul.lst-kix_9h479d44rd19-7{list-style-type:none}ul.lst-kix_9h479d44rd19-8{list-style-type:none}ul.lst-kix_9h479d44rd19-2{list-style-type:none}ul.lst-kix_9h479d44rd19-3{list-style-type:none}ul.lst-kix_9h479d44rd19-4{list-style-type:none}.lst-kix_by419nti35h3-8 > li:before{content:"■  "}ul.lst-kix_9h479d44rd19-5{list-style-type:none}ul.lst-kix_9h479d44rd19-0{list-style-type:none}ul.lst-kix_9h479d44rd19-1{list-style-type:none}ul.lst-kix_yl05jzduly0l-2{list-style-type:none}ul.lst-kix_yl05jzduly0l-1{list-style-type:none}ul.lst-kix_yl05jzduly0l-0{list-style-type:none}.lst-kix_yl05jzduly0l-8 > li:before{content:"■  "}ul.lst-kix_yl05jzduly0l-6{list-style-type:none}ul.lst-kix_yl05jzduly0l-5{list-style-type:none}ul.lst-kix_yl05jzduly0l-4{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-8{list-style-type:none}ul.lst-kix_yl05jzduly0l-3{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-7{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-6{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-5{list-style-type:none}.lst-kix_yl05jzduly0l-6 > li:before{content:"●  "}ul.lst-kix_yl05jzduly0l-8{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-4{list-style-type:none}ul.lst-kix_yl05jzduly0l-7{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-3{list-style-type:none}.lst-kix_yl05jzduly0l-7 > li:before{content:"○  "}ul.lst-kix_i9wfl5pfxxl0-2{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-1{list-style-type:none}ul.lst-kix_i9wfl5pfxxl0-0{list-style-type:none}.lst-kix_yl05jzduly0l-1 > li:before{content:"○  "}.lst-kix_yl05jzduly0l-0 > li:before{content:"●  "}.lst-kix_yl05jzduly0l-2 > li:before{content:"■  "}.lst-kix_yl05jzduly0l-5 > li:before{content:"■  "}.lst-kix_yl05jzduly0l-4 > li:before{content:"○  "}.lst-kix_yl05jzduly0l-3 > li:before{content:"●  "}.lst-kix_9h479d44rd19-8 > li:before{content:"■  "}.lst-kix_9h479d44rd19-6 > li:before{content:"●  "}.lst-kix_9h479d44rd19-7 > li:before{content:"○  "}.lst-kix_9h479d44rd19-5 > li:before{content:"■  "}.lst-kix_i9wfl5pfxxl0-7 > li:before{content:"○  "}.lst-kix_i9wfl5pfxxl0-5 > li:before{content:"■  "}.lst-kix_i9wfl5pfxxl0-4 > li:before{content:"○  "}.lst-kix_i9wfl5pfxxl0-8 > li:before{content:"■  "}.lst-kix_i9wfl5pfxxl0-6 > li:before{content:"●  "}ul.lst-kix_by419nti35h3-1{list-style-type:none}ul.lst-kix_by419nti35h3-0{list-style-type:none}ul.lst-kix_by419nti35h3-5{list-style-type:none}.lst-kix_i9wfl5pfxxl0-1 > li:before{content:"○  "}ul.lst-kix_by419nti35h3-4{list-style-type:none}ul.lst-kix_by419nti35h3-3{list-style-type:none}.lst-kix_i9wfl5pfxxl0-0 > li:before{content:"●  "}ul.lst-kix_by419nti35h3-2{list-style-type:none}.lst-kix_i9wfl5pfxxl0-3 > li:before{content:"●  "}.lst-kix_i9wfl5pfxxl0-2 > li:before{content:"■  "}.lst-kix_9h479d44rd19-2 > li:before{content:"■  "}.lst-kix_9h479d44rd19-3 > li:before{content:"●  "}.lst-kix_9h479d44rd19-0 > li:before{content:"●  "}.lst-kix_9h479d44rd19-4 > li:before{content:"○  "}.lst-kix_by419nti35h3-4 > li:before{content:"○  "}.lst-kix_by419nti35h3-3 > li:before{content:"●  "}ul.lst-kix_by419nti35h3-8{list-style-type:none}ul.lst-kix_by419nti35h3-7{list-style-type:none}ul.lst-kix_by419nti35h3-6{list-style-type:none}.lst-kix_by419nti35h3-1 > li:before{content:"○  "}.lst-kix_9h479d44rd19-1 > li:before{content:"○  "}.lst-kix_by419nti35h3-2 > li:before{content:"■  "}body{direction:rtl}
   </style>
  </head>
  <body class="doc-content" style="background-color:#ffffff;max-width:451.3pt;padding:72pt 72pt 50.4pt 72pt">
@@ -36,7 +36,7 @@ lang: yi
     דירעקטע פֿאַרבינדונג:
    </span>
    <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline">
-    <a href="https://www.google.com/url?q=https://bit.ly/umbakant-kadath&amp;sa=D&amp;source=editors&amp;ust=1758538965412494&amp;usg=AOvVaw1KmwCNGwMKO3rO-ipoeuPK" style="color:inherit;text-decoration:inherit">
+    <a href="https://www.google.com/url?q=https://bit.ly/umbakant-kadath&amp;sa=D&amp;source=editors&amp;ust=1758538967650590&amp;usg=AOvVaw1H0sbPWypyaxK-bDSpe2Wo" style="color:inherit;text-decoration:inherit">
      https://bit.ly/umbakant-kadath
     </a>
    </span>
@@ -48,52 +48,73 @@ lang: yi
    <span style="font-size:35pt">
    </span>
   </h1>
-  <ul class="lst-kix_mn36yykk8w4m-0 start" style="padding:0;margin:0">
+  <ul class="lst-kix_yl05jzduly0l-0 start" style="padding:0;margin:0">
    <li dir="rtl" style='padding-top:0pt;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;margin-right:36pt;margin-left:0;font-family:"Times New Roman";margin-top:0;orphans:2;margin-bottom:0;widows:2;padding-right:0pt'>
     <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline">
-     <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish/%25D7%2594%25D7%2590%25D6%25B7%25D7%25B0%25D7%25A2%25D7%25A8%25D7%2593%2520%25D7%25A4%25D6%25BF%25D7%2599%25D7%259C%25D7%2599%25D7%25A4%25D6%25BC%25D7%25A1%2520%25D7%259C%25D7%2590%25D6%25B7%25D7%25B0%25D7%25A7%25D7%25A8%25D7%2590%25D6%25B7%25D7%25A4%25D6%25BF%25D7%2598/&amp;sa=D&amp;source=editors&amp;ust=1758538965413092&amp;usg=AOvVaw12vt9Ynx3GsMf15apsDJLx" style="color:inherit;text-decoration:inherit">
+     <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish/%25D7%2594%25D7%2590%25D6%25B7%25D7%25B0%25D7%25A2%25D7%25A8%25D7%2593%2520%25D7%25A4%25D6%25BF%25D7%2599%25D7%259C%25D7%2599%25D7%25A4%25D6%25BC%25D7%25A1%2520%25D7%259C%25D7%2590%25D6%25B7%25D7%25B0%25D7%25A7%25D7%25A8%25D7%2590%25D6%25B7%25D7%25A4%25D6%25BF%25D7%2598/&amp;sa=D&amp;source=editors&amp;ust=1758538967651093&amp;usg=AOvVaw2ukj3OuuDcl4j2TIugbTCX" style="color:inherit;text-decoration:inherit">
       װעגן בעל־מחבר, ה.פֿ. לאַװקרעפֿטן
      </a>
     </span>
    </li>
    <li dir="rtl" style='padding-top:0pt;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;margin-right:36pt;margin-left:0;font-family:"Times New Roman";margin-top:0;orphans:2;margin-bottom:0;widows:2;padding-right:0pt'>
     <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline">
-     <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish-sections/%25D7%25A4%25D6%25BF%25D7%2590%25D6%25B7%25D7%25A0%25D7%2598%25D7%2590%25D6%25B7%25D7%2596%25D7%2599%25D7%25A2/&amp;sa=D&amp;source=editors&amp;ust=1758538965413360&amp;usg=AOvVaw2_rg24S-rdWc0yRy3nIMgZ" style="color:inherit;text-decoration:inherit">
+     <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish-sections/%25D7%25A4%25D6%25BF%25D7%2590%25D6%25B7%25D7%25A0%25D7%2598%25D7%2590%25D6%25B7%25D7%2596%25D7%2599%25D7%25A2/&amp;sa=D&amp;source=editors&amp;ust=1758538967651366&amp;usg=AOvVaw170ox3kTMB69wga1bm84lR" style="color:inherit;text-decoration:inherit">
       אַנדערע מעשׂיות אין ייִדיש פֿון לאַװקרעפֿטן און זײַן חבֿרה
      </a>
     </span>
    </li>
    <li dir="rtl" style='padding-top:0pt;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;margin-right:36pt;margin-left:0;font-family:"Times New Roman";margin-top:0;orphans:2;margin-bottom:0;widows:2;padding-right:0pt'>
     <span style="text-decoration-skip-ink:none;font-size:14pt;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline">
-     <a href="https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1Inv49GnM2XVEI2NJPso_bVd17qUvpLklMVy5G-7GArc/edit?usp%3Dsharing&amp;sa=D&amp;source=editors&amp;ust=1758538965413599&amp;usg=AOvVaw0XRWRjGomwycc5KLEVNaP-" style="color:inherit;text-decoration:inherit">
+     <a href="https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1Inv49GnM2XVEI2NJPso_bVd17qUvpLklMVy5G-7GArc/edit?usp%3Dsharing&amp;sa=D&amp;source=editors&amp;ust=1758538967651591&amp;usg=AOvVaw1yBBQh_IUS1KLNvlqKPFB6" style="color:inherit;text-decoration:inherit">
       לאַװקרעפֿטישער װערטער־אוצר: דאָ
      </a>
     </span>
    </li>
    <li dir="rtl" style='padding-top:0pt;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;margin-right:36pt;margin-left:0;font-family:"Times New Roman";margin-top:0;orphans:2;margin-bottom:0;widows:2;padding-right:0pt'>
     <span style="text-decoration-skip-ink:none;font-size:14pt;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline">
-     <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish/%25D7%25A7%25D7%2599%25D7%25A0%25D7%25A1%25D7%2598%25D7%259C%25D7%25A2%25D7%259B%25D7%25A2%25D6%25BE%25D7%2590%25D7%2599%25D7%25A0%25D7%2598%25D7%25A2%25D7%259C%25D7%2599%25D7%2592%25D7%25A2%25D7%25A0%25D7%25A5%25D6%25BE%25D7%25A7%25D7%2595%25D7%25A0%25D7%25A1%25D7%2598%2520%25D7%2590%25D7%2595%25D7%259F%2520%25D7%259C%25D7%2590%25D6%25B7%25D7%25B0%25D7%25A7%25D7%25A8%25D7%25A2%25D7%25A4%25D6%25BF%25D7%2598&amp;sa=D&amp;source=editors&amp;ust=1758538965414002&amp;usg=AOvVaw3veaKBSqpst-0TE6tlUGym" style="color:inherit;text-decoration:inherit">
+     <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish/%25D7%25A7%25D7%2599%25D7%25A0%25D7%25A1%25D7%2598%25D7%259C%25D7%25A2%25D7%259B%25D7%25A2%25D6%25BE%25D7%2590%25D7%2599%25D7%25A0%25D7%2598%25D7%25A2%25D7%259C%25D7%2599%25D7%2592%25D7%25A2%25D7%25A0%25D7%25A5%25D6%25BE%25D7%25A7%25D7%2595%25D7%25A0%25D7%25A1%25D7%2598%2520%25D7%2590%25D7%2595%25D7%259F%2520%25D7%259C%25D7%2590%25D6%25B7%25D7%25B0%25D7%25A7%25D7%25A8%25D7%25A2%25D7%25A4%25D6%25BF%25D7%2598&amp;sa=D&amp;source=editors&amp;ust=1758538967652050&amp;usg=AOvVaw3Bw6Rr_IFAiOfh1c_Tr2KH" style="color:inherit;text-decoration:inherit">
       װעגן די טױגעװדיקײט פֿון קינסטלעכע־אינטעליגענץ־קונסט צו דער אָ מעשׂה
      </a>
     </span>
    </li>
   </ul>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span>
+   <span style='font-size:15pt;font-weight:400;font-family:"Times New Roman"'>
     ––=-O-=–
    </span>
+   <span>
+   </span>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdm0UPyIJfa4jjOwrIn29Vi6mUsrZa1iS_r3f_yNbjkl7kX4Y5t5CiDXlip7AacqnrNiWkmMw5ybCstHISeH-cP_4V6flGMdCLlvD66ZHbkfpwRm02RK17QCDBtQ1GmmQiS-kz9?key=Md61cfUCxoLOsZM6dcQZBA" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfg7UinkV5EqJCM8yq8l5VfHEkmK1GaaIj4SKGNj-a-eQgMPZ00AlSUhUEnoHNL_o5Okz_wJ6FOXsrZZMu3_BHwX9iPajHzMXDXLx4_D7g7uyPtxKRnwt5pehdXVXI9q7tmqTQhVAc4iQCIGkWbUQSDgvKT?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶
+   </span>
+   <span style='font-size:15pt;font-weight:400;font-family:"Times New Roman"'>
+    1 Three times Randolph Carter dreamed of the marvellous city, and three times was he snatched away while still he paused on the high terrace above it. All golden and lovely it blazed in the sunset, with walls, temples, colonnades, and arched bridges of veined marble, silver-basined fountains of prismatic spray in broad squares and perfumed gardens, and wide streets marching between delicate trees and blossom-laden urns and ivory statues in gleaming rows; while on steep northward slopes climbed
+   </span>
+   <span>
+   </span>
+   <span style='font-size:15pt;font-weight:400;font-family:"Times New Roman"'>
+    tiers of red roofs and old peaked gables harbouring little lanes of grassy cobbles. It was a fever of the gods; a fanfare of supernal trumpets and a clash of immortal cymbals. Mystery hung about it as clouds about a fabulous unvisited mountain; and as Carter stood breathless and expectant on that balustraded parapet there swept up to him the poignancy and suspense of almost-vanished memory, the pain of lost things, and the maddening need to place again what once had an awesome and momentous place.
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶1 Three times Randolph Carter dreamed of the marvellous city, and three times was he snatched away while still he paused on the high terrace above it. All golden and lovely it blazed in the sunset, with walls, temples, colonnades, and arched bridges of veined marble, silver-basined fountains of prismatic spray in broad squares and perfumed gardens, and wide streets marching between delicate trees and blossom-laden urns and ivory statues in gleaming rows; while on steep northward slopes climbed tiers of red roofs and old peaked gables harbouring little lanes of grassy cobbles. It was a fever of the gods; a fanfare of supernal trumpets and a clash of immortal cymbals. Mystery hung about it as clouds about a fabulous unvisited mountain; and as Carter stood breathless and expectant on that balustraded parapet there swept up to him the poignancy and suspense of almost-vanished memory, the pain of lost things, and the maddening need to place again what once had an awesome and momentous place.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    דרײַ מאָל האָט זיך געחלומט ראַנדאָלף קאַרטערן די װוּנדערלעכע שטאָט, און דרײַ מאָל איז ער אַװעקגעכאַפּט געװאָרן בשעת ער איז נאָך געבליבן שטײן אױף דער הױכער טעראַסע איבער איר. גאַנץ גאָלדן און ליבלעך האָט זי געשׂרפֿנט אין דער שקיעה, מיט מױערן, בתּי־מקדשים, קאָלאָנאַדעס, און אױסגעבױגענע בריקן פֿון געאָדערטן מירמלשטײן, זילבערנע באַסײנען פֿון פֿאָנטאַנען װאָס שפּריצן פּריזמאַטיש אין ברחבֿותדיקע פּלעצער און פּאַרפֿומירטע גערטנער, און ברײטע גאַסן מאַרשירנדיק צװישן צאַרטע בײמער און קװײט־באַלאָדענע אורנעס און העלפֿאַנדבײנערנע סטאַטועס אין גלאַנצנדיקע רײען, בשעת אױף שטאָציקע אוקאָסן אױף צפֿון האָבן זיך געדראַפּעט רײענשיכטן פֿון רױטע דעכער און אַלטע פֿאַרשפּיצטע דאַכשפּיצן אױסבאַהאַלטנדיק קלײנע שטעגלעך פֿון גראָזיקע ברוקשטײנער. ס׳איז געװען אַ פֿיבער פֿון די געטער, אַ תּרועה פֿון הימלישע טרומײטן און
+    דרײַ מאָל האָט זיך געחלומט ראַנדאָלף קאַרטערן די װוּנדערלעכע שטאָט, און דרײַ מאָל איז ער אַװעקגעכאַפּט געװאָרן בשעת ער איז נאָך געבליבן שטײן אױף דער הױכער טעראַסע איבער איר. גאַנץ גאָלדן און ליבלעך האָט זי געשׂרפֿנט אין דער שקיעה, מיט מױערן, בתּי־מקדשים, קאָלאָנאַדעס, און אױסגעבױגענע בריקן פֿון געאָדערטן מירמלשטײן,
+   </span>
+   <span>
+    זילבערנע באַסײנען פֿון פֿאָנטאַנען װאָס שפּריצן פּריזמאַטיש אין ברחבֿותדיקע פּלעצער און פּאַרפֿומירטע גערטנער, און ברײטע גאַסן מאַרשירנדיק צװישן צאַרטע בײמער און קװײט־באַלאָדענע אורנעס און העלפֿאַנדבײנערנע סטאַטועס אין גלאַנצנדיקע רײען, בשעת אױף שטאָציקע אוקאָסן אױף צפֿון האָבן זיך געדראַפּעט רײענשיכטן פֿון רױטע דעכער און אַלטע פֿאַרשפּיצטע דאַכשפּיצן אױסבאַהאַלטנדיק קלײנע שטעגלעך פֿון גראָזיקע ברוקשטײנער. ס׳איז געװען אַ פֿיבער
+   </span>
+   <span>
+    פֿון די געטער, אַ תּרועה פֿון הימלישע טר
+   </span>
+   <span>
+    ומײטן און
    </span>
    <span style="font-size:14pt">
     אַ
@@ -107,17 +128,29 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1ZFuDCLsyfjFIPS4f5OjFJhr9OaH5W8wxpFZsYsV1MB7ap5t_lKJc3rAxBUz7oumBU2gFRlsFr3xrr0by6szJkd8_GrPAF4f8MG4t48qTWkxCkUFzB6ThpJSoJWeiPHOvbOUD?key=Md61cfUCxoLOsZM6dcQZBA" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeABl2bifrvPG05A1B3qBOsRzgmHwSseTPxFaAWavXHYqMpJrbXH0ABsQuJz2blEYOzc4Whr2Lmxrk5gdLy72JUji_Exb_oAKP5PjgIIbhl-6rz7kl6lDgh3tvA0tVTjTF7HqWdh8JrNNMVVE41ymRnZwEXig?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶2 He knew that for him its meaning must once have been supreme; though in what cycle or incarnation he had known it, or whether in dream or in waking, he could not tell. Vaguely it called up glimpses of a far, forgotten first youth, when wonder and pleasure lay in all the mystery of days, and dawn and dusk alike strode forth prophetick to the eager sound of lutes and song; unclosing faery gates toward further and surprising marvels. But each night as he stood on that high marble terrace with the curious urns and carven rail and looked off over that hushed sunset city of beauty and unearthly immanence, he felt the bondage of dreams tyrannous gods; for in no wise could he leave that lofty spot, or descend the wide marmoreal flights flung endlessly down to where those streets of elder witchery lay outspread and beckoning.
+   <span>
+    ¶2
+   </span>
+   <span style='font-size:15pt;font-weight:400;font-family:"Times New Roman"'>
+    He knew that for him its meaning must once have been supreme; though in what cycle or incarnation he had known it, or whether in dream or in waking, he could not tell. Vaguely it called up glimpses of a far, forgotten first youth, when wonder and pleasure lay in all the mystery of days, and dawn and dusk alike strode forth prophetick to the eager sound of lutes and song; unclosing faery gates toward further and surprising marvels. But each night as he stood on that high marble terrace with the curious urns and carven rail and looked off over that hushed sunset city of beauty and unearthly immanence, he felt the bondage of dreams tyrannous gods; for in no wise could he leave that lofty spot, or descend the wide marmoreal flights flung endlessly down to where those streets of elder witchery lay outspread and beckoning
+   </span>
+   <span>
+    .
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ער האָט געװוּסט אַז פֿאַר אים איז איר באַטײַט אַ מאָל געװען אױף זיכער דער העכסטער; כאָטש אין װעלכן ציקל אָדער גילגול האָט ער זי געװוּ
+   </span>
+   <span>
+    סט, אָדער צי אין חלום צי װאַך, האָט ער נישט געקענט דערקענען. אומקלאָר האָט זי אױפֿגערופֿן אײַנבליקן פֿון אַ װײַטער פֿאַרגעסענער ערשטער יוגנט, װען פּלא און הנאה זײַנען געליגן אין דער גאַנצער מיסטעריע פֿון טעג, און קאַיאָר און שקיעה האָבן דעסט גלײַכן אַרױסגעשפּאַנט נבֿיאיש צום נײַגעריקן קלאַנג פֿון לוטעניעס און געזאַנג;
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ער האָט געװוּסט אַז פֿאַר אים איז איר באַטײַט אַ מאָל געװען אױף זיכער דער העכסטער; כאָטש אין װעלכן ציקל אָדער גילגול האָט ער זי געװוּסט, אָדער צי אין חלום צי װאַך, האָט ער נישט געקענט דערקענען. אומקלאָר האָט זי אױפֿגערופֿן אײַנבליקן פֿון אַ װײַטער פֿאַרגעסענער ערשטער יוגנט, װען פּלא און הנאה זײַנען געליגן אין דער גאַנצער מיסטעריע פֿון טעג, און קאַיאָר און שקיעה האָבן דעסט גלײַכן אַרױסגעשפּאַנט נבֿיאיש צום נײַגעריקן קלאַנג פֿון לוטעניעס און געזאַנג; פֿעע־טױערן װאָס זײ פֿאַרמאַכן זיך נישט צו װײַטערע און פֿאַרחידושנדיקע מופֿתים. אָבער יעדער נאַכט בעת ער איז געשטאַנען אױף יענער הױכער מירמלענער טעראַסע מיט די טשיקאַװע אורנעס און אױסגעשניצטער פּאַרענטשע, און אַװעקגעקוקט איבער יענער אײַנגעשטילטער שקיעה־שטאָט פֿון שײנקײט און אומערדישער אימאַנענץ, האָט ער געפֿילט דעם צװאַנג פֿון די טיראַנישע געטער פֿון חלום; װײַל בשום־אופֿן האָט ער נישט געקענט אַװעק פֿון יענעם דערהױבן אָרט, אָדער אַראָפּ די ברײטע מירמלענע טרעפּ אַנידערגעװאָרפֿן אָנסופֿיק אַראָפּ צום אָרט װוּ יענע גאַסן פֿון עלטער זנאַכערײַ זײַנען געליגן אױסגעשפּרײט און װינקענדיק.
+    פֿעע־טױערן װאָס זײ פֿאַרמאַכן זיך נישט צו װײַטערע און פֿאַרחידושנדיקע מופֿתים. אָבער יעדער נאַכט בעת ער איז געשטאַנען אױף יענער הױכער מירמלענער טעראַסע מיט די טשיקאַװע אורנעס און אױסגעשניצטער פּאַרענטשע, און אַװעקגעקוקט איבער יענער אײַנגעשטילטער שקיעה־שטאָט פֿון שײנקײט און אומערדישער אימאַנענץ, האָט ער געפֿילט דעם צװאַנג פֿון די טיראַנישע געטער פֿון חלום; װײַל בשום־אופֿן האָט ער נישט געקענט אַװעק פֿון יענעם דערהױבן אָרט, אָדער אַראָפּ די ברײטע מירמלענע טרעפּ אַנידערגעװאָרפֿן אָנסופֿיק אַראָפּ צום אָרט װוּ יענע גאַסן פֿון עלטער זנאַכערײַ זײַנען געליגן אױסגעשפּרײט און װינקענדיק.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -131,8 +164,16 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶
+   </span>
+   <span style='font-size:15pt;font-weight:400;font-family:"Times New Roman"'>
+    4 At length, sick with longing for those glittering sunset streets and cryptical hill lanes among ancient tiled
+   </span>
+   <span>
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶4 At length, sick with longing for those glittering sunset streets and cryptical hill lanes among ancient tiled roofs, nor able sleeping or waking to drive them from his mind, Carter resolved to go with bold entreaty whither no man had gone before, and dare the icy deserts through the dark to where unknown Kadath, veiled in cloud and crowned with unimagined stars, holds secret and nocturnal the onyx castle of the Great Ones.
+    roofs, nor able sleeping or waking to drive them from his mind, Carter resolved to go with bold entreaty whither no man had gone before, and dare the icy deserts through the dark to where unknown Kadath, veiled in cloud and crowned with unimagined stars, holds secret and nocturnal the onyx castle of the Great Ones.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -150,8 +191,16 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶
+   </span>
+   <span style='font-size:15pt;font-weight:400;font-family:"Times New Roman"'>
+    5 In light slumber he descended the seventy steps to the cavern of flame and talked of this design to the bearded priests Nasht and Kaman-Thah. And the priests shook their pshent-bearing heads and vowed it would be the death of his soul. They pointed out that the Great Ones had shewn already their wish, and that it is not agreeable to them to be harassed by insistent pleas. They reminded him, too, that not only had no man ever been to unknown Kadath, but no man had ever suspected in what part of space it may lie; whether it be in the dreamlands around our world, or in those surrounding some unguessed companion of Fomalhaut or Aldebaran. If in our dreamland, it might conceivably be reached; but only three fully human souls since time began had ever crossed and recrossed the black impious gulfs to other dreamlands, and of that three two had come back quite mad. There were, in such voyages, incalculable local dangers; as well as that shocking final peril which gibbers unmentionably outside the ordered universe, where no dreams reach; that last amorphous blight of nethermost confusion which blasphemes and bubbles at the centre of all infinity—the boundless daemon-sultan Azathoth, whose name no lips dare speak aloud, and who gnaws hungrily in inconceivable, unlighted chambers beyond time amidst the muffled
+   </span>
+   <span>
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶5 In light slumber he descended the seventy steps to the cavern of flame and talked of this design to the bearded priests Nasht and Kaman-Thah. And the priests shook their pshent-bearing heads and vowed it would be the death of his soul. They pointed out that the Great Ones had shewn already their wish, and that it is not agreeable to them to be harassed by insistent pleas. They reminded him, too, that not only had no man ever been to unknown Kadath, but no man had ever suspected in what part of space it may lie; whether it be in the dreamlands around our world, or in those surrounding some unguessed companion of Fomalhaut or Aldebaran. If in our dreamland, it might conceivably be reached; but only three fully human souls since time began had ever crossed and recrossed the black impious gulfs to other dreamlands, and of that three two had come back quite mad. There were, in such voyages, incalculable local dangers; as well as that shocking final peril which gibbers unmentionably outside the ordered universe, where no dreams reach; that last amorphous blight of nethermost confusion which blasphemes and bubbles at the centre of all infinity—the boundless daemon-sultan Azathoth, whose name no lips dare speak aloud, and who gnaws hungrily in inconceivable, unlighted chambers beyond time amidst the muffled maddening beating of vile drums and the thin, monotonous whine of accursed flutes to which detestable pounding and piping dance slowly, awkwardly, and absurdly the gigantic ultimate gods, the blind, voiceless, tenebrous, mindless Other Gods whose soul and messenger is the crawling chaos Nyarlathotep.
+    maddening beating of vile drums and the thin, monotonous whine of accursed flutes to which detestable pounding and piping dance slowly, awkwardly, and absurdly the gigantic ultimate gods, the blind, voiceless, tenebrous, mindless Other Gods whose soul and messenger is the crawling chaos Nyarlathotep.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -167,7 +216,16 @@ lang: yi
    <span style="font-style:italic">
    </span>
    <span>
-    האָבן שױן באַװיזן זײער רצון, און אַז ס׳איז נישט זײ ניחא באַלעסטיקן װערן מיט צושטײיִקע תּחנונים. זײ האָבן אים אױך דערמאָנט אַז נישט נאָר איז נישט קײן מענטש געװען אין קדת דעם אומבאַקאַנטן, נאָר אױך האָט נישט קײן מענטש אַ מאָל חושד געװען אין װעלכן טײל פֿון חלל קען עס ליגן; צי עס איז אין די חלום־לענדער אַרום אונדזער װעלט, צי אין יענע װאָס רינגלט אַרום אַ באַגלײטער אַן אומגעטראָפֿענעם פֿון פֿאָמאַלהאַוט אָדער אַלדעבאַראַן. אױב אין אונדזער חלום־לאַנד, קען מען מעגלעך עס דערגרײכן; אָבער נאָר דרײַ פֿאַר פֿול מענטשלעכע נשמות זינט צײַט האָט זיך אָנגעהױבן זײַנען אַמאָל אַריבער און צוריק די שװאַרצע גאָטלאָזיקע אָפּגרונטן קײן אַנדערע חלום־לענדער, און פֿון יענע דרײַ זײַנען צװײ צוריקגעקומען גאַנץ משוגע. סע זײַנען געװען אין אַזעלכע נסיעות אָרטיקע סכּנות אָן אַ שיעור; דערצו נאָך יענע אױפֿטרײסלענדיקע סוף־סכּנה װאָס זי בעבעט נישט־געדאַכטערהײט מחוץ דעם כּסדרדיקן װעלטאַל, װוּאַהין דערגרײכן נישט קײן חלומות; יענער לעצטער אַמאָרפֿישער פֿאַרפֿאַלב פֿון דער סאַמע נידריקסטער בהלה װאָס זי לעסטערט און בולבלט בײַם צענטער פֿונעם גאַנצן אין־סוף—דער אָנגבֿוליקער דעמאָן־סולטאַן עזתות, װאָס דעם נאָמען זײַנעם דערװעגן זיך נישט קײן לעפֿצן רעדן בקול־רם, און װאָס ער גריזשעט הונגעריק אין אומבאַנעמלעכע, אומבאַלױכטענע קאַמערן הינטער צײַט אין מיטן דעם צוגעדושעטן אױפֿרעגנדיקן קלאַפּן פֿון ניבֿזהדיקע פּױקן און דעם דינעם, מאָנאָטאָנישן פּכיק פֿון פֿאַרשאָלטענע פֿלײטן אױף װעלכן פּאַסקודנע קלאַפּן און פֿײַפֿן טאַנצן פּאַמעלעך, אומגעלומפּערט, און אַבזורדיש די אומגעהײַערע לעצטגילטיקע געטער, די בלינדע, שטימלאָזע, חושכדיקע און שׂכללאָזע
+    האָבן שױן באַװיזן זײער רצון, און אַז ס׳איז נישט זײ ניחא באַלעסטיקן װערן מיט צושטײיִקע תּחנונים. זײ האָבן אים אױך דערמאָנט אַז נישט נאָר איז נישט קײן מענטש געװען אין קדת דעם אומבאַקאַנטן, נאָר אױך האָט נישט קײן מענטש אַ מאָל חושד געװען אין װעלכן טײל פֿון חלל קען עס ליגן; צי עס איז אין די חלום־לענדער אַרום אונדזער װעלט, צי אין יענע װאָס רינגלט אַרום אַ באַגלײטער אַן אומגעטראָפֿענעם פֿון פֿאָמאַלהאַוט אָדער אַלדעבאַראַן. אױב אין אונדזער חלום־לאַנד, קען מען מעגלעך עס דערגרײכן; אָבער נאָר דרײַ פֿאַר פֿול מענטשלעכע נשמות זינט צײַט האָט זיך אָנגעהױבן זײַנען אַמאָל אַריבער און צוריק די שװאַרצע גאָטלאָזיקע אָפּגרונטן קײן אַנדערע חלום־לענדער, און פֿון יענע דרײַ זײַנען צװײ צוריקגעקומען גאַנץ משוגע. סע זײַנען געװען אין אַזעלכע נסיעות אָרטיקע סכּנות אָן אַ שיעור; דערצו נאָך יענע אױפֿטרײסלענדיקע סוף־סכּנה װאָס זי בעבעט נישט־געדאַכטערהײט מחוץ דעם כּסדרדיקן װעלטאַל, װוּאַהין דערגרײכן נישט קײן חלומות; יענער לעצטער אַמאָרפֿישער פֿאַרפֿאַלב פֿון דער סאַמע נידריקסטער בהלה װאָס זי לעסטערט און בולבלט בײַם צענטער פֿונעם גאַנצן אין־סוף—דער אָנגבֿוליקער דעמאָן־סולטאַן עזתות, װאָס דעם נאָמען זײַנעם דערװעגן זיך נישט קײן לעפֿצן רעדן בקול־רם, און װאָס ער גריזשעט הונגעריק אין אומבאַנעמלעכע, אומבאַלױכטענע קאַמערן הינטער צײַט אין מיטן דעם
+   </span>
+   <span>
+    צוגעדושעטן אױפֿרעגנדיקן קלאַפּ
+   </span>
+   <span>
+    ן פֿון ניבֿזהדיקע פּױקן
+   </span>
+   <span>
+    און דעם דינעם, מאָנאָטאָנישן פּכיק פֿון פֿאַרשאָלטענע פֿלײטן אױף װעלכן פּאַסקודנע קלאַפּן און פֿײַפֿן טאַנצן פּאַמעלעך, אומגעלומפּערט, און אַבזורדיש די אומגעהײַערע לעצטגילטיקע געטער, די בלינדע, שטימלאָזע, חושכדיקע און שׂכללאָזע
    </span>
    <span style="font-style:italic">
    </span>
@@ -182,12 +240,20 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfNgHLy-38fW4mMA9EQboopGQzwBjSDSRGIph7obx1hD8z7GmK6WqHmmDDNa09FTKY4qTEhkhsbQcgGXg8HeHfr6LXraT3bEUhgSdtSSSaxjQogE65iVxtBU3oc9wiYewJRHQV8?key=Md61cfUCxoLOsZM6dcQZBA" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcrph-9yWzNfrb3GFOjoLbBwePnXgebbAJ3sRb_FU17ZeRc2AzX6g99bMkrJOdihqKS0pqGF9Y8tSpfLDcNlc3v1Hle2cq-nlHC2C5tn1V01ZlhLKPrmsIQAEi9hB9N3KQHnh6P1-Lyn_l_rsXSK6aUiBkWSw?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶
+   </span>
+   <span style='font-size:15pt;font-weight:400;font-family:"Times New Roman"'>
+    6 Of these things was Carter warned by the priests Nasht and Kaman-Thah in the cavern of flame, but still he resolved
+   </span>
+   <span>
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶6 Of these things was Carter warned by the priests Nasht and Kaman-Thah in the cavern of flame, but still he resolved to find the gods on unknown Kadath in the cold waste, wherever that might be, and to win from them the sight and remembrance and shelter of the marvellous sunset city. He knew that his journey would be strange and long, and that the Great Ones would be against it; but being old in the land of dream he counted on many useful memories and devices to aid him. So asking a farewell blessing of the priests and thinking shrewdly on his course, he boldly descended the seven hundred steps to the Gate of Deeper Slumber and set out through the enchanted wood.
+    to find the gods on unknown Kadath in the cold waste, wherever that might be, and to win from them the sight and remembrance and shelter of the marvellous sunset city. He knew that his journey would be strange and long, and that the Great Ones would be against it; but being old in the land of dream he counted on many useful memories and devices to aid him. So asking a farewell blessing of the priests and thinking shrewdly on his course, he boldly descended the seven hundred steps to the Gate of Deeper Slumber and set out through the enchanted wood.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -226,7 +292,7 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 681.20px; height: 681.20px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXehYXrht2TL_WhOyKBUfiKN_Ffrx39B5ehc7b4b8tQljRt3DbEnU7fKHcRt_178j0KbHVFN2PcaErTxZLqZ4aNUlt0ngR1Fz-Tj8ze6dMUfk3T2VnIk0hmOdtiChomXIEREM3tE?key=Md61cfUCxoLOsZM6dcQZBA" style="width: 681.20px; height: 681.20px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe25mfK_46AXXiHUFHY54GYmejq8GAgxwoL2QvW5tuW0xtQV0EG7IBlPChl4oTUdz8NGdUpnzjYw0-03uojq5gp3FBQz1zKYMuIB1t_7fQX7-RmiUc-tlKrM67At9k1DF3UquEod5fPISKmjEWnu5IlZ2R4Tw?key=UHQdr6-2erJts_Om_QEUOw" style="width: 681.20px; height: 681.20px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;font-family:"Times New Roman";orphans:2;widows:2;height:15pt;padding-right:0'>
@@ -239,13 +305,19 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    זיך אַדורכשלענגלנדיק איצט דורך די נידעריקע פֿאָספֿאָרעסצנטע דורכגאַנגען צװישן יענע ריזיקע שטאַמען, האָט קאַרטער געמאַכט פֿלאַטערנדיקע קלאַנגען אינעם שטײגער פֿון די זוגן, און זיך אַלע װײַלע צוגעהערט אױף אָפּרופֿן. ער האָט געדענקט עפּעס אַ דאָרף פֿון די באַשעפֿענישן נאָענט צום צענטער פֿון װאַלד, װוּ אַ קרײַז גרױסע מאָכיקע שטײנער אין װאָס איז אַ מאָל געװען אַ פּאָליאַנע
+   </span>
+   <span>
+    דערצײלט
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    זיך אַדורכשלענגלנדיק איצט דורך די נידעריקע פֿאָספֿאָרעסצנטע דורכגאַנגען צװישן יענע ריזיקע שטאַמען, האָט קאַרטער געמאַכט פֿלאַטערנדיקע קלאַנגען אינעם שטײגער פֿון די זוגן, און זיך אַלע װײַלע צוגעהערט אױף אָפּרופֿן. ער האָט געדענקט עפּעס אַ דאָרף פֿון די באַשעפֿענישן נאָענט צום צענטער פֿון װאַלד, װוּ אַ קרײַז גרױסע מאָכיקע שטײנער אין װאָס איז אַ מאָל געװען אַ פּאָליאַנע דערצײלט פֿון עלטערע און נאָך שרעקלעכערע אַײַנװױנערס שױן לאַנג פֿאַרגעסן, און צו דעם דאָזיקן פּלאַץ האָט ער זיך צוגעאײַלט. ר׳האָט נאָכגעשפּירט זײַן װעג מיט די גראָטעסקע שװעמל־געװיקסן, װאָס האָבן שטענדיק אױסגעזען װאָס בעסער גענערט אַלץ מער דערנעענטערט מען זיך צום מאוימדיקן קרײַז װוּ עלטערע ישן האָבן געטאַנצט און מקריבֿ געװען. סוף־כּל־סוף האָט דאָס גרעסערע ליכט פֿון יענע געדיכטערע שװעמל־געװיקסן אױפֿגעדעקט אַ בײזע גרינע און גראָע אומגעהײַערקײט אַרױפֿשטױסנדיק דורכן דאַך מחוצן אױגנגרײך. ס׳איז געװען דער נאָענטסטער פֿונעם גרױסן רינג שטײנער, און קאַרטער האָט געװוּסט אַז ער איז געװען נאָענט צון זוג־דאָרף. באַנײַעט זײַן פֿלאַטערנדיקן קלאַנג, האָט ער געדולדיק געװאַרט; און איז מיט דער צײַט באַלױנט געװאָרן מיט אַן אײַנדרוק פֿון אַ סך אױגן אים באַקוקנדיק. ס׳איז געװען די זוגן, װײַל מען זעט זײערע אױסטערלישע אױגן לאַנג אײדער מען קען דערזען זײערע קלײנע, פֿיפֿיקע ברױנע קאָנטורן.
+    פֿון עלטערע און נאָך שרעקלעכערע אַײַנװױנערס שױן לאַנג פֿאַרגעסן, און צו דעם דאָזיקן פּלאַץ האָט ער זיך צוגעאײַלט. ר׳האָט נאָכגעשפּירט זײַן װעג מיט די גראָטעסקע שװעמל־געװיקסן, װאָס האָבן שטענדיק אױסגעזען װאָס בעסער גענערט אַלץ מער דערנעענטערט מען זיך צום מאוימדיקן קרײַז װוּ עלטערע ישן האָבן געטאַנצט און מקריבֿ געװען. סוף־כּל־סוף האָט דאָס גרעסערע ליכט פֿון יענע געדיכטערע שװעמל־געװיקסן אױפֿגעדעקט אַ בײזע גרינע און גראָע אומגעהײַערקײט אַרױפֿשטױסנדיק דורכן דאַך מחוצן אױגנגרײך. ס׳איז געװען דער נאָענטסטער פֿונעם גרױסן רינג שטײנער, און קאַרטער האָט געװוּסט אַז ער איז געװען נאָענט צון זוג־דאָרף. באַנײַעט זײַן פֿלאַטערנדיקן קלאַנג, האָט ער געדולדיק געװאַרט; און איז מיט דער צײַט באַלױנט געװאָרן מיט אַן אײַנדרוק פֿון אַ סך אױגן אים באַקוקנדיק. ס׳איז געװען די זוגן, װײַל מען זעט זײערע אױסטערלישע אױגן לאַנג אײדער מען קען דערזען זײערע קלײנע, פֿיפֿיקע ברױנע קאָנטורן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXct2AyLtCp30qvOqX4LhLFVA00GKncSSMyVKMwW91Q7CvBzXOlrAniBIp6j1_tJgTrdXmnSrYlVxQU1JO_mm3o_CV8ZL3cWYNCTJa2wDMQLGh08lrAiLzYzO3cGg7p8zknzqWg?key=Md61cfUCxoLOsZM6dcQZBA" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdZ5kxTNRdVv3ieHAhhQUYNDfOGilxA6mv6iRu-QGT1ozUVKqkiwz9f9kkPkrWIrXp0slefsrqbZGUpSS4vxw-ewd3HIuEs2zJ4uKnCW1RHYLQpSPBzg3EKPbI8tpBEOb8OI4tTrwXYnidkllrxdXRvn22lSQ?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -255,10 +327,18 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    אַרױס האָבן זײ זיך געװידמעט, פֿון פֿאַרטײַעטער נאָרע און באַסטעלניקטן בױם, ביז דער גאַנצער פֿינצטער־באַלױכטענער געגנט האָט מיט זײ געשװיבלט און געגריבלט. עטלעכע פֿון די װילדערע האָבן זיך אומאײַנגענעם פֿאַרטשעפּעט אין קאַרטערן, און אײנער האָט אים אַפֿילו אַ קניפּ האַדקע געטאָן אינעם אױער; אָבער עס האָבן די אָ הפֿקדריקע נשמות אײַנגעצאַמט זײערע עלטערע. דער חכמים־ראָט, דערקענענדיק דעם גאַסט, האָט אָנגעשלאָגט אַ קערביס געיױרטן סאָק פֿון אַ פֿאַרנומענעם בױם נישט װי די אַנדערע, װאָס איז אױסגעװאַקסן פֿון אַ זױמען אָפּגעלאָזט פֿון עמעצן אױף דער לבֿנה; און בעת קאַרטער האָט אים געטרונקען מיט צערעמאָניע האָט אַ גאָר אױסטערלישער דורכשמועס זיך אָנגעהױבן. די זוגן האָבן נישט, צום באַדױערן, געװוּסט װוּ ליגט דער שפּיץ קדת, און זײ האָבן נישט געקענט אַפֿילו זאָגן צי דאָס קאַלטע װיסטעניש איז אין אונדזער חלום־װעלט צי אין אַן אַנדער. שמועות װעגן
+    אַרױס האָבן זײ זיך געװידמעט, פֿון פֿאַרטײַעטער נאָרע און באַסטעלניקטן בױם, ביז דער גאַנצער פֿינצטער־באַלױכטענער געגנט האָט מיט זײ געשװיבלט און געגריבלט. עטלעכע פֿון די װילדערע האָבן זיך אומאײַנגענעם
+   </span>
+   <span>
+    פֿאַרטש
+   </span>
+   <span>
+    עפּעט אין קאַרטערן, און אײנער האָט אים אַפֿילו אַ קניפּ האַדקע געטאָן אינעם אױער; אָבער עס האָבן די אָ הפֿקדריקע נשמות אײַנגעצאַמט זײערע עלטערע. דער חכמים־ראָט, דערקענענדיק דעם גאַסט, האָט אָנגעשלאָגט אַ קערביס געיױרטן סאָק פֿון אַ פֿאַרנומענעם בױם נישט װי די אַנדערע, װאָס איז אױסגעװאַקסן פֿון אַ זױמען אָפּגעלאָזט פֿון עמעצן אױף דער לבֿנה; און בעת קאַרטער האָט אים געטרונקען מיט צערעמאָניע האָט אַ גאָר אױסטערלישער דורכשמועס זיך אָנגעהױבן. די זוגן האָבן נישט, צום באַדױערן, געװוּסט װוּ ליגט דער שפּיץ קדת, און זײ האָבן נישט געקענט אַפֿילו זאָגן צי דאָס קאַלטע װיסטעניש איז אין אונדזער חלום־װעלט צי אין אַן אַנדער. שמועות װעגן
    </span>
    <span style="font-style:italic">
     די
+   </span>
+   <span style="font-style:italic">
    </span>
    <span style="font-weight:700;font-style:italic">
     גרױסע
@@ -280,7 +360,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶11 So Randolph Carter thanked the zoogs, who fluttered amicably and gave him another gourd of moon-tree wine to take with him, and set out through the phosphorescent wood for the other side, where the rushing Skai flows down from the slopes of Lerion, and Hatheg and Nir and Ulthar dot the plain. Behind him, furtive and unseen, crept several of the curious zoogs; for they wished to learn what might befall him, and bear back the legend to their people. The vast oaks grew thicker as he pushed on beyond the village, and he looked sharply for a certain spot where they would thin somewhat, standing quite dead or dying among the unnaturally dense fungi and the rotting mould and mushy logs of their fallen brothers. There he would turn sharply aside, for at that spot a mighty slab of stone rests on the forest floor; and those who have dared approach it say that it bears an iron ring three feet wide. Remembering the archaic circle of great mossy rocks, and what it was possibly set up for, the zoogs do not pause near that expansive slab with its huge ring; for they realise that all which is forgotten need not necessarily be dead, and they would not like to see the slab rise slowly and deliberately.
    </span>
   </p>
@@ -312,7 +392,13 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    אום האַלבן טאָג האָט ער שפּאַצירט דורך דער אײנציקער ברײטער הױכגאַס פֿון ניר, װאָס ער האָט אַ מאָל באַזוכט און װאָס האָט באַצײכנט זײַנע װײַטסטע פֿריִערדיקע נסיעות אין דער אָ ריכטונג; און באַלד נאָך דעם איז ער געקומען צו דער גרױסער שטײנערער בריק איבערן סקײַ, װאָס אין איר צענטראַלן פּירס האָבן די מױערערס אָפּגעשלאָסן אַ לעבעדיקן מענטשלעכן קורבן װען זײ האָבן זי געבױט מיט דרײַצן־הונדערט יאָר צוריק. װי נאָר אױף דער אַנדערער זײַט, האָט די אָפֿטלעכע פֿאַראַנענקײט פֿון קעץ (װאָס האָבן אַלע אױסגעבױגן דעם רוקן אױף די נאָכשפּירנדיקע זוגן) אַנטפּלעקט דאָס נאָעטנע שכנות פֿון אולתּאַר; װאָרן אין אולתּאַר, לױט אַ פֿאַרצײַטיק און ממשותדיק געזעץ, טאָר נישט קײן מענטש דערהרגענען אַ קאַץ. גאָר אײַנגענעם זײַנען געװען די פֿאָרשטעט פֿון אולתּאַר, מיט זײערע גרינע כאַטעלעס און נעט אָפּגעצאַמטע פֿאַרמען, און נאָך אײַנגענעמער איז געװען דאָס אַלט־⁠פֿעטערישע שטעטל גופֿא, מיט זײַנע אַלטע שפּיציקע דעכער און איבערהענגענדיקע אױבן־גאָרנס און אָנצאָליקע קױמן־דעקלעך און שמאָלע בערגלגאַסן װוּ מ׳קען זען אַלטע ברוקשטײנער װוּ נאָר די חנעװדיקע קעץ צולאָזן גענוג אָרט. די קעץ עפּעס צעטריבן דורך די האַלב־געזעענע זוגן, האָט קאַרטער זיך געהיט בײַם אַדורכגײן גלײַך צום עניװתדיקן בית־מיקדש פֿון די
+    אום האַלבן טאָג
+   </span>
+   <span>
+    האָט ער שפּאַצירט דורך דער אײנציקער ברײטער הױכגאַס פֿון ניר, װאָס ער האָט אַ מאָל באַזוכט און װאָס האָט באַצײכנט זײַנע װײַטסטע פֿריִערדיקע נסיעות אין דער אָ ריכטונג; און באַלד נאָך דעם איז ער געקומען צו דער גרױסער שטײנערער בריק איבערן סקײַ, װאָס אין איר צענטראַלן פּירס האָבן די מױערערס אָפּגעשלאָסן אַ לעבעדיקן מענטשלעכן קורבן װען זײ האָבן זי געבױט מיט דרײַצן־הונדערט יאָר צוריק. װי נאָר אױף דער אַנדערער זײַט, האָט די אָפֿטלעכע פֿאַראַנענקײט פֿון קעץ (װאָס האָבן אַלע אױסגעבױגן דעם רוקן אױף די נאָכשפּירנדיקע זוגן) אַנטפּלעקט דאָס נאָעטנע שכנות פֿון אולתּאַר; װאָרן אין אולתּאַר, לױט אַ פֿאַרצײַטיק און ממשותדיק געזעץ, טאָר נישט קײן מענטש דערהרגענען אַ קאַץ. גאָר אײַנגענעם זײַנען געװען די פֿאָרשטעט פֿון אולתּאַר, מיט זײערע גרינע כאַטעלעס און נעט אָפּגעצאַמטע פֿאַרמען, און נאָך אײַנגענעמער איז געװען דאָס אַלט־⁠פֿעטערישע שטעטל גופֿא, מיט זײַנע אַלטע שפּיציקע דעכער און איבערהענגענדיקע אױבן־גאָרנס און אָנצאָליקע קױמן־דעקלעך און שמאָלע בערגלגאַסן װוּ מ׳קען זען אַלטע ברוקשטײנער װוּ נאָר די חנעװדיקע קעץ צולאָזן גענוג אָרט. די קעץ עפּעס צעטריבן דורך די האַלב־געזעענע זוגן, האָט קאַרטער זיך געהיט בײַם אַדורכגײן גלײַך צום עניװתדיקן
+   </span>
+   <span>
+    בית־מיקדש פֿון די
    </span>
    <span style="font-style:italic">
     עלטערע
@@ -323,7 +409,7 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPfi1ZWnWKhJP_PUEIfEFmwFOl4x4A8FhNdLv5dwerHeq1SG4hktdiaOSJiKtp5Q7wg9Jx1cnoAw7qwbwbJoMO2qk3GtSxv8YcWxIgXrZ-d1UMNAdkkl-NKk0JdFFzBMDpUEVl?key=Md61cfUCxoLOsZM6dcQZBA" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdXdT9Rz072t37yQ9qmccz5JMj2MLZFw9K1iu83AL5k1Lsf54XtZQUBH_XfrAl_VDcC0qai7xNJVgy4UZufRPXJWZNQDs7gyrWvMceBgtypE-6VknWnQQRV91vrHJtBwOrvJd847vUKRiQ7jfBm6IeEyCKl?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -354,13 +440,19 @@ lang: yi
    </span>
    <span style="font-style:italic">
    </span>
+   <span>
+    אַװעקגעשטעלט זײער חותם אױפֿן קדמונישן גראַניט פֿון דער ערד; אײן מאָל אין פֿאַרמבולדיקע צײַטן, װי מע האָט געטראָפֿן פֿון אַ צײכענונג אין יענע טײל
+   </span>
+   <span>
+    ן פֿון די פּנאַקאָטישע כּתבֿ־ידן צו פֿאַרצײַטיק צו לײענען, או
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    אַװעקגעשטעלט זײער חותם אױפֿן קדמונישן גראַניט פֿון דער ערד; אײן מאָל אין פֿאַרמבולדיקע צײַטן, װי מע האָט געטראָפֿן פֿון אַ צײכענונג אין יענע טײלן פֿון די פּנאַקאָטישע כּתבֿ־ידן צו פֿאַרצײַטיק צו לײענען, און אײן מאָל אױף האַתעג־קלאַ װען ברזַי דער חכם האָט געפּרוּװט זען די געטער פֿון דער ערד טאַנצנדיק אין דער לבֿנה־שײַן. איז, האָט אַטאַל געזאָגט, װאָלט זײַן אַ סך בעסער לאָזן אַלע געטער צו רו אַ חוץ אין טאַקטישע תּפֿילות.
+    ן אײן מאָל אױף האַתעג־קלאַ װען ברזַי דער חכם האָט געפּרוּװט זען די געטער פֿון דער ערד טאַנצנדיק אין דער לבֿנה־שײַן. איז, האָט אַטאַל געזאָגט, װאָלט זײַן אַ סך בעסער לאָזן אַלע געטער צו רו אַ חוץ אין טאַקטישע תּפֿילות.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8WE3p6HGC8MjVNDfVf5jyhlBZmjyVF2o9X5g8pK9oS8siHLd48o4yFShyYgvna3tRd681TNlsIyTGRWCuf2eGsQEto8vWNVsGGe3lmVvx3mKbQe42QEDlZMrgJKsBpLBge4Ug?key=Md61cfUCxoLOsZM6dcQZBA" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOIUEDx1HdnFyFmu7oSyvlKQBJC0xowx8oJ68R9480nQWV6ZbOiVjXqn6B0J1DfwvHJFkps7VFILinTi41TBF4iBfhYE3vH3gdxqh5eEWGBP2lsSJhFdXKByGqDIdJbQsnv711if1wsgpKE-wjLYUF5flu?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -425,8 +517,20 @@ lang: yi
    </span>
    <span style="font-style:italic">
    </span>
+   <span>
+    האָט מען געקענט זיך אין אַזעלכע געגנטן דערװיסן, און יענע מיט זײער בלוט קענען אפֿשר ירשענען אָנדענקלעך גאָר ניצלעך פֿאַר אַ זוכער. זײ װאָלטן אפֿשר נישט װיסן זײער
+   </span>
+   <span>
+    ייִחוס, װײַל די געטער האָבן אַזױ פֿיל פֿײַנט צו װערן דערקענט צװישן מענטשן אַז קײנעם קען מ
+   </span>
+   <span>
+    ען געפֿינען װאָס האָט געזען זײערע פּנימער ביודעין; אַ זאַך װאָס קאַרטער האָט זיך געכאַפּט אַפֿילו בשעת ער האָט געפּרוּװט אַרױפֿקלעטערן אױף קדת. אָבער זײ װאָלטן האָבן טשודנע דערהױבענע מחשבֿות װאָס זײערע חבֿרים װאָלטן שלעכט פֿאַרשטײן, און װאָלטן זינגען פֿון װײַטע ערטער און גערטנער װאָס זײַנען אַזױ נישט־ענלע
+   </span>
+   <span>
+    ך צו צו סײַ װאָסער באַקאַנטער זאַך
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    האָט מען געקענט זיך אין אַזעלכע געגנטן דערװיסן, און יענע מיט זײער בלוט קענען אפֿשר ירשענען אָנדענקלעך גאָר ניצלעך פֿאַר אַ זוכער. זײ װאָלטן אפֿשר נישט װיסן זײער ייִחוס, װײַל די געטער האָבן אַזױ פֿיל פֿײַנט צו װערן דערקענט צװישן מענטשן אַז קײנעם קען מען געפֿינען װאָס האָט געזען זײערע פּנימער ביודעין; אַ זאַך װאָס קאַרטער האָט זיך געכאַפּט אַפֿילו בשעת ער האָט געפּרוּװט אַרױפֿקלעטערן אױף קדת. אָבער זײ װאָלטן האָבן טשודנע דערהױבענע מחשבֿות װאָס זײערע חבֿרים װאָלטן שלעכט פֿאַרשטײן, און װאָלטן זינגען פֿון װײַטע ערטער און גערטנער װאָס זײַנען אַזױ נישט־ענלעך צו צו סײַ װאָסער באַקאַנטער זאַך אַפֿילו אין חלום־לאַנד אַז דאָס פּראָסטע פֿאָלק װאָלט זײ הײסן נאַראָנים; און פֿון דעם דעם האָט מען אפֿשר געקענט זיך אױסלערנען אַלטע סודות פֿון קדת, אָדער געװינען רמזים פֿון דער װוּנדערלעכער שקיעה־שטאָט װאָס די געטער האָבן באַהאַלטן בסודיק. הײַנט, האָט מען געקענט אין געװיסע פֿאַלן אָנכאַפּן עפּעס אַ גוט־באַליבט קינד פֿון אַ גאָט װי אַן ערבֿניק; אָדער אַפֿילו פֿאַרכאַפּן אַ יונג געטל גופֿא, פֿאַרמאַסקירט און װױנענדיק צװישן מענטשן מיט אַ פּראַכטיק כלאָפּמײדל װי זײַן כּלה.
+    אַפֿילו אין חלום־לאַנד אַז דאָס פּראָסטע פֿאָלק װאָלט זײ הײסן נאַראָנים; און פֿון דעם דעם האָט מען אפֿשר געקענט זיך אױסלערנען אַלטע סודות פֿון קדת, אָדער געװינען רמזים פֿון דער װוּנדערלעכער שקיעה־שטאָט װאָס די געטער האָבן באַהאַלטן בסודיק. הײַנט, האָט מען געקענט אין געװיסע פֿאַלן אָנכאַפּן עפּעס אַ גוט־באַליבט קינד פֿון אַ גאָט װי אַן ערבֿניק; אָדער אַפֿילו פֿאַרכאַפּן אַ יונג געטל גופֿא, פֿאַרמאַסקירט און װױנענדיק צװישן מענטשן מיט אַ פּראַכטיק כלאָפּמײדל װי זײַן כּלה.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -490,11 +594,11 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOAL3tQq1p5D4TMnlDM033XlAXi9GoQYsiXxFQT4B_uQxd6Xz3cQdkgXe30mxJaNoGahZyKZPXI4cMUSiXdGlEJUcl8vdgl6upKuw6FQM8Rj81m8Tezl3xf5zvehNKVBFqVnc?key=Md61cfUCxoLOsZM6dcQZBA" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfCd2yA7hwSV7Q5QJ-dKuyJa11ZiM3sRa351bn_5ySCR6IsL4hOoBkwCWsZVQPtrfhBvcf87YBO5IVl_JfYnOHN5MX6-n35vk2qtnmd7yLtqbtAZTFbHCagu43FnB7RO0orqKbvVd55lpg_tb91dW83zty88w?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶24 It was hard to get this information from the traders and sailors in Dylath-Leens sea-taverns, because they mostly preferred to whisper of the black galleys. One of them was due in a week with rubies from its unknown shore, and the townsfolk dreaded to see it dock. The mouths of the men who came from it to trade were too wide, and the way their turbans were humped up in two points above their foreheads was in especially bad taste. And their shoes were the shortest and queerest ever seen in the Six Kingdoms. But worst of all was the matter of the unseen rowers. Those three banks of oars moved too briskly and accurately and vigorously to be comfortable, and it was not right for a ship to stay in port for weeks while the merchants traded, yet to give no glimpse of its crew. It was not fair to the tavern-keepers of Dylath-Leen, or to the grocers and butchers, either; for not a scrap of provisions was ever sent aboard. The merchants took only gold and stout black slaves from Parg across the river. That was all they ever took, those unpleasantly featured merchants and their unseen rowers; never anything from the butchers and grocers, but only gold and the fat black men of Parg whom they bought by the pound. And the odours from those galleys which the south wind blew in from the wharves are not to be described. Only by constantly smoking strong thagweed could even the hardiest denizen of the old sea-taverns bear them. Dylath-Leen would never have tolerated the black galleys had such rubies been obtainable elsewhere, but no mine in all earths dreamland was known to produce their like.
    </span>
   </p>
@@ -509,23 +613,32 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     פֿון די דאָזיקע זאַכן האָט דער עיקרשט פּליאָטקעװעט דאָס קאָסמאָפּאָליטישע פֿאָלק פֿון דילת־לין בעת קאַרטער האָט געדולדיק געװאַרט פֿאַר דער שיף פֿון באַהאַרנע, װאָס זאָל אים טראָגן אינעם אינדזל אױף װעלכן טורעמט אױסגעשניצטער נגראַנעאק דערהױבן און פּוסט. בשעת־מעשׂה האָט ער נישט פֿאַרפֿעלט זוכן דורך די ערטער באַליבטע פֿון װײַטע נוסעים פֿאַר אַבי װאָסער מעשׂיות װאָס זײ זאָלן נישט האָבן בנוגע קדת אינעם קאַלטן װיסטעניש אָדער אַ װוּנדערלעכער שטאָט פֿון מירמלענע װענט און זילבערנע פֿאָנטאַנען געזען אונטער טעראַסעס אין דער שקיעה. פֿון די אָ זאַכן, האָט ער זיך נישמער דערװוּסט גאָרנישט; הגם ער האָט אַ מאָל געהאַלטן אַז אײנער אַן אַלטער קאָסע־אױגיקער סוחר האָט אױסגעזען טשודנע בר־⁠דעתדיק װען מ׳האָט דערמאָנט דאָס קאַלטע װיסטעניש. דער דאָזיקער מענטש האָט געשמט מיט טאָרגעװען מיט די שױדערלעכע שטײנערנע דערפֿער אױפֿן אײַזיקער באַרגפֿלאַך לענג, װאָס נישט קײן געזונט פֿאָלק באַזוכן זי און װאָס אירע בײזע פֿײַערן זעט מען בײַ נאַכט פֿון דער װײַטנס. מ׳האָט אַפֿילו פּליאָטקעװעט אַז ער איז זיך באַגאַנגען מיט יענעם הױכפּריסטער װאָס מע טאָר אים נישט באַשרײַבן, װאָס ער טראָגט אַ געלע זײדענע מאַסקע איבערן פּנים און װױנט אײנער אַלײן אין אַ פֿאַרהיסטאָרישן שטײנערנעם מאָנאַסטיר. אַז אַזאַ פּאַרשױן האָט טאַקע געקענט האָבן שטשיפּענדיקן משׂא־ומתּן מיט אַזעלכע ברואים װאָס מסתּמא קענען װױנען אינעם קאַלטן װיסטעניש, קען מען נישט האָבן אַ ספֿק, אָבער קאַרטער האָט באַלד געפֿונען אַז אים אױסצופֿרעגן האָט בכלל נישט געטױגט.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶26 Then the black galley slipped into the harbour past the basalt mole and the tall lighthouse, silent and alien, and with a strange stench that the south wind drove into the town. Uneasiness rustled through the taverns along that waterfront, and after a while the dark wide-mouthed merchants with humped turbans and short feet clumped stealthily ashore to seek the bazaars of the jewellers. Carter observed them closely, and disliked them more the longer he looked at them. Then he saw them drive the stout black men of Parg up the gangplank grunting and sweating into that singular galley, and wondered in what lands—or if in any lands at all—those fat pathetic creatures might be destined to serve.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    איז די שװאַרצע גאַליע האָט זיך אַרײַנגעגליטשט אינעם האַװן פֿאַרבײַ דעם באַזאַלטענעם מאָל און דעם הױכן לײַכטטורעם, שטיל און פֿרמעד, און מיט אַן אױסטערליש געסרחה װאָס דער דרום־װינט האָט געטריבן אינעם שטעטל. פּריקרעקײט האָט געשאָרכעט דורך די שענקען פּאַזע יענעם האַװן־⁠קװאַרטאַל, און מיט דער צײַט האָבן די טונקעלע ברײט־מױליקע סוחרים מיט פֿאַרהױקערטע טורבאַנען און קורצע פֿיס בשתּיקהדיק אַרײַנגעטראָטן מיט שװערע טריט אױף דער יבשה אױסצוזוכן די באַזאַרן פֿון די יוּװעליר⁠ן. קאַרטער האָט זײ נאָכגעקוקט פֿון גאָר נאָענט, און
+   </span>
+   <span>
+    װאָס מער ר׳האָט געקוקט אױף זײ
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    איז די שװאַרצע גאַליע האָט זיך אַרײַנגעגליטשט אינעם האַװן פֿאַרבײַ דעם באַזאַלטענעם מאָל און דעם הױכן לײַכטטורעם, שטיל און פֿרמעד, און מיט אַן אױסטערליש געסרחה װאָס דער דרום־װינט האָט געטריבן אינעם שטעטל. פּריקרעקײט האָט געשאָרכעט דורך די שענקען פּאַזע יענעם האַװן־⁠קװאַרטאַל, און מיט דער צײַט האָבן די טונקעלע ברײט־מױליקע סוחרים מיט פֿאַרהױקערטע טורבאַנען און קורצע פֿיס בשתּיקהדיק אַרײַנגעטראָטן מיט שװערע טריט אױף דער יבשה אױסצוזוכן די באַזאַרן פֿון די יוּװעליר⁠ן. קאַרטער האָט זײ נאָכגעקוקט פֿון גאָר נאָענט, און װאָס מער ר׳האָט געקוקט אױף זײ האָט ער זײ אַלץ מער פֿײַנט געהאַט. דערנאָך האָט ער זײ געזען טרײַבן די לײַביקע שװאַרצע מענטשן פֿון פּאַרג גרונצנדיק און שװיצנדיק אַרױפֿן שטיגל אין יענער אױסערגעװײנטלעכער גאַליע, און האָט זיך געװוּנדערט אין װאָסערע לענדער—אָדער נישט קײן לענדער בכלל—זײַנען יענע גראָבע נעבעכדיקע באַשעפֿענישן געװען באַגורלט צו דינען.
+    האָט ער זײ אַלץ מער פֿײַנט געהאַט. דערנאָך האָט ער זײ געזען טרײַבן די לײַביקע שװאַרצע מענטשן פֿון פּאַרג גרונצנדיק און שװיצנדיק אַרױפֿן שטיגל אין יענער אױסערגעװײנטלעכער גאַליע, און האָט זיך געװוּנדערט אין װאָסערע לענדער—אָדער נישט קײן לענדער בכלל—זײַנען יענע גראָבע נעבעכדיקע באַשעפֿענישן געװען באַגורלט צו דינען.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶27 And on the third evening of that galleys stay one of the uncomfortable merchants spoke to him, smirking sinfully and hinting of what he had heard in the taverns of Carters quest. He appeared to have knowledge too secret for public telling; and though the sound of his voice was unbearably hateful, Carter felt that the lore of so far a traveller must not be overlooked. He bade him therefore be his own guest in locked chambers above, and drew out the last of the zoogs moon-wine to loosen his tongue. The strange merchant drank heavily, but smirked unchanged by the draught. Then he drew forth a curious bottle with wine of his own, and Carter saw that the bottle was a single hollowed ruby, grotesquely carved in patterns too fabulous to be comprehended. He offered his wine to his host, and though Carter took only the least sip, he felt the dizziness of space and the fever of unimagined jungles. All the while the guest had been smiling more and more broadly, and as Carter slipped into blankness the last thing he saw was that dark odious face convulsed with evil laughter, and something quite unspeakable where one of the two frontal puffs of that orange turban had become disarranged with the shakings of that epileptic mirth.
+   <span>
+    ¶
+   </span>
+   <span>
+    27 And on the third evening of that galleys stay one of the uncomfortable merchants spoke to him, smirking sinfully and hinting of what he had heard in the taverns of Carters quest. He appeared to have knowledge too secret for public telling; and though the sound of his voice was unbearably hateful, Carter felt that the lore of so far a traveller must not be overlooked. He bade him therefore be his own guest in locked chambers above, and drew out the last of the zoogs moon-wine to loosen his tongue. The strange merchant drank heavily, but smirked unchanged by the draught. Then he drew forth a curious bottle with wine of his own, and Carter saw that the bottle was a single hollowed ruby, grotesquely carved in patterns too fabulous to be comprehended. He offered his wine to his host, and though Carter took only the least sip, he felt the dizziness of space and the fever of unimagined jungles. All the while the guest had been smiling more and more broadly, and as Carter slipped into blankness the last thing he saw was that dark odious face convulsed with evil laughter, and something quite unspeakable where one of the two frontal puffs of that orange turban had become disarranged with the shakings of that epileptic mirth.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -550,7 +663,10 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    פֿאַרבײַ די אַלע הידורדיקע לענדער איז די שיף די אַװירדיקע אומגעזונטערהײט געפֿלױגן, געטריבן פֿון די אומנאָרמאַלע קלעפּ פֿון יענע אומגעזעענע רודערערס אונטן. און אײדער דער טאָג איז געפֿאַרטיקט געװאָרן האָט קאַרטער געזען אַז דער שטורמאַן האָט געקענט האָבן נישט קײן אַנדער ציל אַחוץ די באַזאַלטענע זײַלן פֿונעם מערבֿ, װאָס פּשוטע לײַט זאָגן אַז הינטער זײ ליגט פּראַכטפֿולע קאַתוריע, אָבער װאָס קלוגע בעלי־חלומות װײסן גוט זײַן די טױערן פֿון אַ מאָנסטעריעזן קאַטאַראַקט װאָס דערין פֿאַלן די ימען פֿונעם חלום־לאַנד פֿון ערד גאַנץ אין תּהומישן גאָרנישט און שיסן זיך דורך די לײדיקע געשפּרײטן צו אַנדערע װעלטן און אַנדערע שטערן און די שרעקלעכע בלױזן מחוץ דעם סדרדיקן װעלטאַל װוּ גריזשעט הונגעריק דער דעמאָן־סולטאַן עזתות אין תּוהו־⁠ובֿוהו אין מיטן שלאָגן און פֿײַפֿן און דעם העלישן טאַנצן פֿון
+    פֿאַרבײַ די אַלע הידורדיקע לענדער איז די שיף די אַװירדיקע אומגעזונטערהײט געפֿלױגן, געטריבן פֿון די אומנאָרמאַלע קלעפּ פֿון יענע אומגעזעענע רודערערס אונטן. און אײדער דער טאָג איז געפֿאַרטיקט געװאָרן האָט קאַרטער געזען אַז דער שטורמאַן האָט געקענט האָבן נישט קײן אַנדער ציל אַחוץ די באַזאַלטענע זײַלן פֿונעם מערבֿ, װאָס פּשוטע לײַט זאָגן אַז הינטער זײ ליגט פּראַכטפֿולע קאַתוריע, אָבער װאָס קלוגע בעלי־חלומות װײסן גוט זײַן די טױערן פֿון אַ מאָנסטעריעזן קאַטאַר
+   </span>
+   <span>
+    אַקט װאָס דערין פֿאַלן די ימען פֿונעם חלום־לאַנד פֿון ערד גאַנץ אין תּהומישן גאָרנישט און שיסן זיך דורך די לײדיקע געשפּרײטן צו אַנדערע װעלטן און אַנדערע שטערן און די שרעקלעכע בלױזן מחוץ דעם סדרדיקן װעלטאַל װוּ גריזשעט הונגעריק דער דעמאָן־סולטאַן עזתות אין תּוהו־⁠ובֿוהו אין מיטן שלאָגן און פֿײַפֿן און דעם העלישן טאַנצן פֿון
    </span>
    <span style="font-style:italic">
     די
@@ -563,8 +679,11 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;text-indent:36pt;font-family:"Times New Roman";orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶30 Meanwhile the three sardonic merchants would give no word of their intent, though Carter well knew that they must be leagued with those who wished to hold him from his quest. It is understood in the land of dream that the Other Gods have many agents moving among men; and all these agents, whether wholly human or slightly less than human, are eager to work the will of those blind and mindless things in return for the favour of their hideous soul and messenger, the crawling chaos Nyarlathotep. So Carter inferred that the merchants of the humped turbans, hearing of his daring search for the Great Ones in their castle on Kadath, had decided to take him away and deliver him to Nyarlathothep for whatever nameless bounty might be offered for such a prize. What might be the land of those merchants, in our known universe or in the eldritch spaces outside, Carter could not guess; nor could he imagine at what hellish trysting-place they would meet the crawling chaos to give him up and claim their reward. He knew, however, that no beings as nearly human as these would dare approach the ultimate nighted throne of the daemon Azathoth in the formless central void.
+   <span>
+    ¶30 Meanwhile the three sardonic merchants would give no word of their intent, though Carter well knew that they must be leagued with those who wished to hold him from his quest. It is understood in the land of dream that the Other Gods have many agents moving among men; and all these agents, whether wholly human or slightly less than human, are eager to work the will of those blind and mindless things in return for the favour of their hideous soul and messenger, the crawling chaos Nyarlathotep. So Carter inferred that the merchants of the humped turbans, hearing of his daring search for the Great Ones in their castle on Kadath, had decided to take him away and deliver him to Nyarlathothep for whatever nameless bounty might be offered for such a prize.
+   </span>
+   <span>
+    What might be the land of those merchants, in our known universe or in the eldritch spaces outside, Carter could not guess; nor could he imagine at what hellish trysting-place they would meet the crawling chaos to give him up and claim their reward. He knew, however, that no beings as nearly human as these would dare approach the ultimate nighted throne of the daemon Azathoth in the formless central void.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -582,6 +701,8 @@ lang: yi
     אַנדערע געטער
    </span>
    <span>
+   </span>
+   <span>
     האָבן אַ סך פֿאַקטױרים װאָס גײען אַרום צװישן מענטשן; און אַז די אַלע פֿאַקטױרים, צי די גאַנץ מענטשלעך צי די װאָס זײַנען אַ ביסל װײניקער פֿון מענטשלעך, זײַנען בעלנים אױסצואַרבעטן דעם װילן פֿון יענע בלינדע און שׂכללאָזע זאַכן װי אַן אױסבײַט פֿאַר דער גנאָד פֿון זײער מיאוסער נשמה און שטאַפֿעט, דעם מיאוס־ומאָוס, דעם קריכנדיקן כאַאָס ניאַרלאַתאָטעפּן. אַזױ האָט קאַרטער אַרױסגעדרונגען אַז די סוחרים אין די פֿאַרהױקערטע טורבאַנען, דערהערט פֿון זײַן דערװעגטער זוכונג פֿאַר
    </span>
    <span style="font-style:italic">
@@ -597,8 +718,14 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶
+   </span>
+   <span>
+    31 At the set of sun the merchants licked their excessively wide lips and glared hungrily, and one of them went below and returned from some hidden and offensive cabin with a pot and basket of plates. Then they squatted close together beneath the awning and ate the smoking meat that was passed around. But when they gave Carter a portion, he found something very terrible in the size and shape of it; so that he turned even paler than before and cast that portion into the sea when no eye was on him. And again he thought of those unseen rowers beneath, and of the suspicious nourishment from which their far too mechanical strength was derived
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶31 At the set of sun the merchants licked their excessively wide lips and glared hungrily, and one of them went below and returned from some hidden and offensive cabin with a pot and basket of plates. Then they squatted close together beneath the awning and ate the smoking meat that was passed around. But when they gave Carter a portion, he found something very terrible in the size and shape of it; so that he turned even paler than before and cast that portion into the sea when no eye was on him. And again he thought of those unseen rowers beneath, and of the suspicious nourishment from which their far too mechanical strength was derived.
+    .
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -613,20 +740,29 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    ס׳איז שױן געװאָרן פֿינצטער װען די גאַליע איז אַדורכגעפֿאָרן דורך די באַזאַלטענע זײַלן פֿונעם מערבֿ, און דער קלאַנג פֿונעם לעצטגילטיקן קאַטאַראַקט איז שלעכט־סימנדיק געשװאָלן געװאָרן פֿון פֿאָרױס . און דאָס שפּריצעכץ פֿון יענעם קאַטאַראַקט האָט זיך אױפֿגעהױבן צו פֿאַרשטעלן די שטערן, און די פּאַלובע איז געװאָרן פֿײַכט, און די שיף האָט זיך געװיגט אינעם פֿלײצנדיקן שטראָם פֿונעם ראַנד. דערנאָך האָט די שיף געטאָן אַ שפּרונג מיט אַ טשודנע פֿײַפֿן, און קאַרטער האָט געפֿילט די שרעקענישן פֿון קאָשמאַר בעת די ערד איז אַװעקגעפֿאַלן און די גרױסע שיף האָט געטאָן אַ שטילן שאָס אַרײַן אין פּלאַנעטאַרישן חלל װי אַ קאָמעט. קײן מאָל פֿאַר דעם האָט ער געװוּסט װאָסערע פֿאָרעמלאָזע שװאַרצע זאַכן לאָקערן און טאַנצן אונטער און צאַפּלען דורכױס דעם עטער, עסנדיק מיט די אױגן און שמאָכנדיק אױף אַזעלכע נוסעים אַז זאָלן פֿאַרבײַפֿאָרן, און אַ מאָל אַרומטאַפּנדיק מיט שלײַמיקע לאַפּעס װען עפּעס אַ זיך רירנדיקער חפֿץ רײצט אױף זײער נײַגער. די אָ זײַנען די נאָמענלאָזע לאַרװעס פֿון די
+    ס׳איז שױן געװאָרן פֿינצטער װען די גאַליע איז אַדורכגעפֿאָרן דורך די באַזאַלטענע זײַלן פֿונעם מערבֿ, און דער קלאַנג פֿונעם לעצטגילטיקן קאַטאַראַקט איז שלעכט־סימנדיק געשװאָלן געװאָרן פֿון פֿאָרױס . און דאָס שפּריצעכץ פֿון יענעם קאַטאַראַקט האָט זיך אױפֿגעהױבן צו פֿאַרשטעלן די שטערן, און די פּאַלובע איז געװאָרן פֿײַכט, און די שיף האָט זיך געװיגט אינעם פֿלײצנדיקן שטראָם פֿונעם ראַנד. דערנאָך האָט די שיף געטאָן אַ שפּרונג מיט אַ טשודנע פֿײַפֿן, און קאַרטער האָט געפֿילט די שרעקענישן פֿון קאָשמאַר בעת די ערד איז אַװעקגעפֿאַלן און די גרױסע שיף האָט געטאָן אַ שטילן שאָס אַרײַן אין פּלאַנעטאַרישן חלל װי אַ קאָמעט. קײן מאָל פֿאַר דעם האָט ער געװוּסט װאָסערע פֿאָרעמלאָזע שװאַרצע זאַכן לאָקערן און טאַנצן אונטער און צאַפּלען דורכױס דעם עטער, עסנדיק מיט די אױגן און שמאָכנדיק אױף אַזעלכע נוסעים אַז זאָלן פֿאַרבײַפֿאָרן, און אַ מאָל אַרומטאַפּנדיק מיט שלײַמיקע לאַפּעס װען עפּעס אַ זיך רירנדיקער חפֿץ רײצט אױף זײער נײַגער. די אָ זײַנען די נאָמענלאָזע לאַרװעס פֿון
+   </span>
+   <span>
+    די
    </span>
    <span style="font-style:italic">
    </span>
    <span style="font-weight:700;font-style:italic">
     אַנדערע געטער
    </span>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     , און װי זײ, זײַנען בלינד און אָן שׂכל, און פֿאַרמאָגן אױסערגעװײנטלעכע הונגערן און דאָרשטן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶33 But that offensive galley did not aim as far as Carter had feared, for he soon saw that the helmsman was steering a course directly for the moon. The moon was a crescent, shining larger and larger as they approached it, and shewing its singular craters and peaks uncomfortably. The ship made for the edge, and it soon became clear that its destination was that secret and mysterious side which is always turned away from the earth, and which no fully human person, save perhaps the dreamer Snireth-Ko, has ever beheld. The close aspect of the moon as the galley drew near proved very disturbing to Carter, and he did not like the size and shape of the ruins which crumbled here and there. The dead temples on the mountains were so placed that they could have glorified no wholesome or suitable gods, and in the symmetries of the broken columns there seemed to lurk some dark and inner meaning which did not invite solution. And what the structure and proportions of the olden worshippers could have been, Carter steadily refused to conjecture.
+   <span>
+    ¶
+   </span>
+   <span>
+    33 But that offensive galley did not aim as far as Carter had feared, for he soon saw that the helmsman was steering a course directly for the moon. The moon was a crescent, shining larger and larger as they approached it, and shewing its singular craters and peaks uncomfortably. The ship made for the edge, and it soon became clear that its destination was that secret and mysterious side which is always turned away from th
+   </span>
+   <span>
+    e earth, and which no fully human person, save perhaps the dreamer Snireth-Ko, has ever beheld. The close aspect of the moon as the galley drew near proved very disturbing to Carter, and he did not like the size and shape of the ruins which crumbled here and there. The dead temples on the mountains were so placed that they could have glorified no wholesome or suitable gods, and in the symmetries of the broken columns there seemed to lurk some dark and inner meaning which did not invite solution. And what the structure and proportions of the olden worshippers could have been, Carter steadily refused to conjecture.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -635,13 +771,21 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶34 When the ship rounded the edge, and sailed over those lands unseen by man, there appeared in the queer landscape certain signs of life, and Carter saw many low, broad, round cottages in fields of grotesque whitish fungi. He noticed that these cottages had no windows, and thought that their shape suggested the huts of Esquimau. Then he glimpsed the oily waves of a sluggish sea, and knew that the voyage was once more to be by water—or at least through some liquid. The galley struck the surface with a peculiar sound, and the odd elastic way the waves received it was very perplexing to Carter. They now slid along at great speed, once passing and hailing another galley of kindred form, but generally seeing nothing but that curious sea and a sky that was black and star-strown even though the sun shone scorchingly in it.
+   <span>
+    ¶
+   </span>
+   <span>
+    34 When the ship rounded the edge, and sailed over those lands unseen by man, there appeared in the queer landscape certain signs of life, and Carter saw many low, broad, round cottages in fields of grotesque whitish fungi. He noticed that these cottages had no windows, and thought that their shape suggested the huts of Esquimau. Then he glimpsed the oily waves of a sluggish sea, and knew that the voyage was once more to be by water—or at least through some liquid. The galley struck the surface with a peculiar sound, and the odd elastic way the waves received it was very perplexing to Carter. They now slid along at great speed, once passing and hailing another galley of kindred form, but generally seeing nothing but that curious sea and a sky that was black and star-strown even though the sun shone scorchingly in it.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    װען די שיף איז אַרומגעפֿאָרן דעם ראַנד, און זיך געזעגלט איבער יענע לענדער אומגעזעענע פֿון מענטשן, האָבן זיך באַװיזן אינעם טשודנע פּײסאַזש געװיסע צײכנס פֿון לעבן, און קאַרטער האָט געזען אַ סך נידעריקע, ברײטע, רינדעכיקע כאַטעס אין פֿעלדער פֿון גראָטעסקע װײַסלעכע שװעמל־געװיקסן. ר׳האָט זיך געכאַפּט אַז די דאָזיקע כאַטעס האָבן געהאַט נישט קײן פֿענצטער, און האָט געמײנט אַז זײער פֿאָרעם דערמאָנט אים אין די כאַלופּעס פֿון עסקימאָסן. דערנאָך האָט ער געכאַפּט אַ בליק אױף די אײליקע כװאַליעס פֿון אַ שלעפּעװאַטע ים, און האָט געװוּסט אַז די נסיעה װאָלט נאָך אַ מאָל זײַן דורך װאַסער — אָדער לכל־⁠הפּחות עפּעס אַ פֿליסיקײט. די גאַליע האָט געגעבן דער אײבערפֿלאַך אַ זעץ מיט אַ קרײַטישן קלאַנג,
+   </span>
+   <span>
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    װען די שיף איז אַרומגעפֿאָרן דעם ראַנד, און זיך געזעגלט איבער יענע לענדער אומגעזעענע פֿון מענטשן, האָבן זיך באַװיזן אינעם טשודנע פּײסאַזש געװיסע צײכנס פֿון לעבן, און קאַרטער האָט געזען אַ סך נידעריקע, ברײטע, רינדעכיקע כאַטעס אין פֿעלדער פֿון גראָטעסקע װײַסלעכע שװעמל־געװיקסן. ר׳האָט זיך געכאַפּט אַז די דאָזיקע כאַטעס האָבן געהאַט נישט קײן פֿענצטער, און האָט געמײנט אַז זײער פֿאָרעם דערמאָנט אים אין די כאַלופּעס פֿון עסקימאָסן. דערנאָך האָט ער געכאַפּט אַ בליק אױף די אײליקע כװאַליעס פֿון אַ שלעפּעװאַטע ים, און האָט געװוּסט אַז די נסיעה װאָלט נאָך אַ מאָל זײַן דורך װאַסער — אָדער לכל־⁠הפּחות עפּעס אַ פֿליסיקײט. די גאַליע האָט געגעבן דער אײבערפֿלאַך אַ זעץ מיט אַ קרײַטישן קלאַנג, און דער מאָדנע עלאַסטישער אופֿן אין װאָס די כװאַליעס האָבן זי אַרײַנבאַקומען האָט גאָר געפּלעפֿט קאַרטערן. איצטער האָבן זײ זיך געגליטשט אױף אַ גרױסער גיכקײט, אײן מאָל איבעריאָגנדיק און באַגריסנדיק נאָך אַ גאַליע פֿון דער אײגענער פֿאָרעם, אָבער בדרך־כּלל זעענדיק גאָרנישט אַחוץ יענעם טשיקאַװע ים און אַ הימל װאָס איז געװען שװאַרץ און שטערן־באַשיטן, כאָטש די זון האָט שׂרפֿנענדיק געשײַנט אױף אים.
+    און דער מאָדנע עלאַסטישער אופֿן אין װאָס די כװאַליעס האָבן זי אַרײַנבאַקומען האָט גאָר געפּלעפֿט קאַרטערן. איצטער האָבן זײ זיך געגליטשט אױף אַ גרױסער גיכקײט, אײן מאָל איבעריאָגנדיק און באַגריסנדיק נאָך אַ גאַליע פֿון דער אײגענער פֿאָרעם, אָבער בדרך־כּלל זעענדיק גאָרנישט אַחוץ יענעם טשיקאַװע ים און אַ הימל װאָס איז געװען שװאַרץ און שטערן־באַשיטן, כאָטש די זון האָט שׂרפֿנענדיק געשײַנט אױף אים.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -658,37 +802,64 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶36 Carter could now distinguish moving figures on the noisome wharves ahead, and the better he saw them the worse he began to fear and detest them. For they were not men at all, or even approximately men, but great greyish-white slippery things which could expand and contract at will, and whose principal shape—though it often changed—was that of a sort of toad without any eyes, but with a curiously vibrating mass of short pink tentacles on the end of its blunt, vague snout. These objects were waddling busily about the wharves, moving bales and crates and boxes with preternatural strength, and now and then hopping on or off some anchored galley with long oars in their fore paws. And now and then one would appear driving a herd of clumping slaves, which indeed were approximate human beings with wide mouths like those merchants who traded in Dylath-Leen; only these herds, being without turbans or shoes or clothing, did not seem so very human after all. Some of these slaves—the fatter ones, whom a sort of overseer would pinch experimentally—were unloaded from ships and nailed in crates which workers pushed into low warehouses or loaded on great lumbering vans.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    קאַרטער האָט איצט געקענט אונטערשײדן פֿיגורן זיך באַװעגטנדיק אױף די געסרחהדיקע װערפֿן פֿאָרױס, און װאָס בעסער האָט ער זײ געזען אַלץ ערגער האָט ער אָנגעהױבן זײ מורא און פֿײַנט האָבן תּכלית־⁠שׂינאה. װאָרן זײ זײַנען נישט געװען מענטשן בכלל, אָדער אַפֿילו מענטשן לערך, אלא װאָס דען גרױסע גראָלעכע־װײַסע גליטשיקע זאַכן װאָס האָבן געקענט זיך פֿאַרברײטערן אָדער צונױפֿציִען װען סע װילט נאָר, און װאָס זײער הױפּטפֿאָ
+   </span>
+   <span>
+    רעם — כאָטש זי האָט זיך אָפֿט מאָל געביטן — איז געװען פֿון אַ סאָרט ראַפּוכע אָן שום אױגן, אָבער מיט אַ טשיקאַװע װיברירנדיקער מאַסע קורצע ראָזעװע טאַפּערלעך אױפֿן
+   </span>
+   <span>
+    עק פֿונעם שטומפּיקן, אומקלאָרן פּיסק. די דאָזיקע חפֿצים האָבן זיך פֿאַרנומענערהײט געקאַטשעט אַרום די װערפֿן, רוקנדיק באַלנס און קאַסטנס און קעסטלעך מיט איבערנאַטירלעכער קראַפֿט, און פֿון מאָל צו מאָל אונטערשפּרינגענדיק אַרױף און אַראָפּ פֿון עפּעס אַ פֿאַראַנקערטער גאַליע מיט לאַנגע רודערס אין זײערע פֿאָדער־לאַפּעס. און פֿון מאָל צו מאָל האָט אײנער זיך באַװיזן טרײַבנדיק אַ סטאַדע בראָדיענדיקע קנעכטן, װאָס זײַנען געװען בערכדיקע בני־אָדם מיט ברײטע מײַלער װי יענע סוחרים װאָס האָבן געמיסחרט אין דילאַת־לין; נאָר די סטאַדעס, זײַנענדיק אָן טורבאַנען אָדער שיך אָדער קלײדונג,
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    קאַרטער האָט איצט געקענט אונטערשײדן פֿיגורן זיך באַװעגטנדיק אױף די געסרחהדיקע װערפֿן פֿאָרױס, און װאָס בעסער האָט ער זײ געזען אַלץ ערגער האָט ער אָנגעהױבן זײ מורא און פֿײַנט האָבן תּכלית־⁠שׂינאה. װאָרן זײ זײַנען נישט געװען מענטשן בכלל, אָדער אַפֿילו מענטשן לערך, אלא װאָס דען גרױסע גראָלעכע־װײַסע גליטשיקע זאַכן װאָס האָבן געקענט זיך פֿאַרברײטערן אָדער צונױפֿציִען װען סע װילט נאָר, און װאָס זײער הױפּטפֿאָרעם — כאָטש זי האָט זיך אָפֿט מאָל געביטן — איז געװען פֿון אַ סאָרט ראַפּוכע אָן שום אױגן, אָבער מיט אַ טשיקאַװע װיברירנדיקער מאַסע קורצע ראָזעװע טאַפּערלעך אױפֿן עק פֿונעם שטומפּיקן, אומקלאָרן פּיסק. די דאָזיקע חפֿצים האָבן זיך פֿאַרנומענערהײט געקאַטשעט אַרום די װערפֿן, רוקנדיק באַלנס און קאַסטנס און קעסטלעך מיט איבערנאַטירלעכער קראַפֿט, און פֿון מאָל צו מאָל אונטערשפּרינגענדיק אַרױף און אַראָפּ פֿון עפּעס אַ פֿאַראַנקערטער גאַליע מיט לאַנגע רודערס אין זײערע פֿאָדער־לאַפּעס. און פֿון מאָל צו מאָל האָט אײנער זיך באַװיזן טרײַבנדיק אַ סטאַדע בראָדיענדיקע קנעכטן, װאָס זײַנען געװען בערכדיקע בני־אָדם מיט ברײטע מײַלער װי יענע סוחרים װאָס האָבן געמיסחרט אין דילאַת־לין; נאָר די סטאַדעס, זײַנענדיק אָן טורבאַנען אָדער שיך אָדער קלײדונג, האָבן נאָך אַלעמען נישט אױסגעזען אַזױ מענטשלעך. אַ פּאָר פֿון די דאָזיקע קנעכטן — די פֿעטערע, װאָס אַ סאָרט אױפֿזעער פֿלעג זײ קנײַפּן עקספּערימענטאַל — זײַנען אױסגעלאָדן געװאָרן פֿון שיפֿן און צוגעקלאַפּט אין קאַסטנס װאָס אַרבעטערס האָבן זײ געשטױסן אין נידריקע סקלאַדן אַרײַן, אָדער אָנגעלאָדט אױף גרױסע, לעפּישע משׂא־פֿורן.
+    האָבן נאָך אַלעמען נישט אױסגעזען אַזױ מענטשלעך. אַ פּאָר פֿון די דאָזיקע קנעכטן — די פֿעטערע, װאָס אַ סאָרט אױפֿזעער פֿלעג זײ קנײַפּן עקספּערימענטאַל — זײַנען אױסגעלאָדן געװאָרן פֿון שיפֿן און צוגעקלאַפּט אין קאַסטנס װאָס אַרבעטערס האָבן זײ געשטױסן אין נידריקע סקלאַדן אַרײַן, אָדער אָנגעלאָדט אױף גרױסע, לעפּישע משׂא־פֿורן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶37 Once a van was hitched up and driven off, and the fabulous thing which drew it was such that Carter gasped, even after having seen the other monstrosities of that hateful place. Now and then a small herd of slaves dressed and turbaned like the dark merchants would be driven aboard a galley, followed by a great crew of the slippery grey toad-things as officers, navigators, and rowers. And Carter saw that the almost-human creatures were reserved for the more ignominious kinds of servitude which required no strength, such as steering and cooking, fetching and carrying, and bargaining with men on the earth or other planets where they traded. These creatures must have been convenient on earth, for they were truly not unlike men when dressed and carefully shod and turbaned, and could haggle in the shops of men without embarrassment or curious explanations. But most of them, unless lean and ill-favoured, were unclothed and packed in crates and drawn off in lumbering lorries by fabulous things. Occasionally other beings were unloaded and crated; some very like these semi-humans, some not so similar, and some not similar at all. And he wondered if any of the poor stout black men of Parg were left to be unloaded and crated and shipped inland in those obnoxious drays.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    אײן מאָל האָט מען אײַנגעשפּאַנט אַ משׂא־פֿור און אים אַװעקגעפֿירט, און די פֿאַנטאַסטישע זאַך װאָס האָט אים געצױגן איז געװען אַזױ אַז קאַרטער האָט מחמת אים געסאַפּעט, אַפֿילו נאָך זען די אַנדערע מאָנסטראָזיטעטן פֿון יענעם פֿאַרהאַסט אָרט. פֿון מאָל צו מאָל האָט מען געטריבן אַ קלײנע סטאַדע קנעכטן, אָנגעטאָן און באַטורבאַנט װי די טונקעלע סוחרים, אַרױף אױף אַ גאַליע, און נאָך זײ זײַנען נאָכגעגאַנגען אַ גרױסער עקיפּאַזש פֿון די גליטשיקע גראָע ראַפּוכע־זאַכן בתּורת אָפֿיצירן, שטורמענער, און רודערערס. קאַרטער האָט געזען אַז די כּמעט־מענטשישע באַשעפֿענישן זײַנען געװען פֿאַרהיטן פֿאַר זיך פֿאַר די בזיונדיקערע סאָרטן קנעכטשאַפֿט װאָס האָבן באַדאַרפֿט נישט קײן כּוח, װי קערעװען און קאָכן, ב
+   </span>
+   <span>
+    רענגען און טראָגן, און פֿאַרהאַנדלען מיט מענטשן אױף דער ערד אָדער אַנדערע פּלאַנעטן װוּ זײ האָבן געהאַנדלט. די אָ באַשעפֿענישן זײַנען מסתּמא געװען באַקװעם אױף דער ערד, װײַל זײ זײַנען אין דער אמתן געװען אַ ביסל ענלעך צו מענטשן װען אָנגעטאָן און שׂכלדיק באַשוכט און באַטרובאַנט, און האָבן געקענט זיך דינגען
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    אײן מאָל האָט מען אײַנגעשפּאַנט אַ משׂא־פֿור און אים אַװעקגעפֿירט, און די פֿאַנטאַסטישע זאַך װאָס האָט אים געצױגן איז געװען אַזױ אַז קאַרטער האָט מחמת אים געסאַפּעט, אַפֿילו נאָך זען די אַנדערע מאָנסטראָזיטעטן פֿון יענעם פֿאַרהאַסט אָרט. פֿון מאָל צו מאָל האָט מען געטריבן אַ קלײנע סטאַדע קנעכטן, אָנגעטאָן און באַטורבאַנט װי די טונקעלע סוחרים, אַרױף אױף אַ גאַליע, און נאָך זײ זײַנען נאָכגעגאַנגען אַ גרױסער עקיפּאַזש פֿון די גליטשיקע גראָע ראַפּוכע־זאַכן בתּורת אָפֿיצירן, שטורמענער, און רודערערס. קאַרטער האָט געזען אַז די כּמעט־מענטשישע באַשעפֿענישן זײַנען געװען פֿאַרהיטן פֿאַר זיך פֿאַר די בזיונדיקערע סאָרטן קנעכטשאַפֿט װאָס האָבן באַדאַרפֿט נישט קײן כּוח, װי קערעװען און קאָכן, ברענגען און טראָגן, און פֿאַרהאַנדלען מיט מענטשן אױף דער ערד אָדער אַנדערע פּלאַנעטן װוּ זײ האָבן געהאַנדלט. די אָ באַשעפֿענישן זײַנען מסתּמא געװען באַקװעם אױף דער ערד, װײַל זײ זײַנען אין דער אמתן געװען אַ ביסל ענלעך צו מענטשן װען אָנגעטאָן און שׂכלדיק באַשוכט און באַטרובאַנט, און האָבן געקענט זיך דינגען אין די קראָמען פֿון מענטשן אָן פֿאַרלעגנהײט אָדער טשיקאַװע דערקלערונגען. אָבער ס׳רוב, סײַדן מאָגער און מיאוס, האָט מען נאַקעט אױסגעטאָן און זײ אַװעקגענומען אין לעפּישע משׂא־פֿורן געצױגן פֿון פֿאַנטאַסטישע זאַכן. אַנדערע ברואים האָט מען פֿון צײַט צו צײַט אױסגעלאָדן און באַקאַסטנט; עטעלכע גאָר ענלעך צו די האַלב־מענטשן, עטלעכע נישט אַזױ ענלעך, און עטלעכע נישט ענלעך בכלל. און ר׳האָט זיך געפֿרעגט צי אַבי װאָסער פֿון די נעבעכדיקע לײַביקע שװאַרצע מענטשן פֿון פּאַרג זײַנען פֿאַרבליבן כּדי צו װערן אױסגעלאָדן און באַקאַסטנט או אָפּגעשיקט אין לאַנד אַרײַן אין יענע דערװידערדיקע בינדיונגען.
+    אין די קראָמען פֿון מענטשן אָן פֿאַרלעגנהײט אָדער טשיקאַװע דערקלערונגען. אָבער ס׳רוב, סײַדן מאָגער און מיאוס, האָט מען נאַקעט אױסגעטאָן און זײ אַװעקגענומען אין לעפּישע משׂא־פֿורן געצױגן פֿון פֿאַנטאַסטישע זאַכן. אַנדערע ברואים האָט מען פֿון צײַט צו צײַט אױסגעלאָדן און באַקאַסטנט; עטעלכע גאָר ענלעך צו די האַלב־מענטשן, עטלעכע נישט אַזױ ענלעך, און עטלעכע נישט ענלעך בכלל. און ר׳האָט זיך געפֿרעגט צי אַבי װאָסער פֿון די נעבעכדיקע לײַביקע שװאַרצע מענטשן פֿון פּאַרג זײַנען פֿאַרבליבן כּדי צו װערן אױסגעלאָדן און באַקאַסטנט או אָפּגעשיקט אין לאַנד אַרײַן אין יענע דערװידערדיקע בינדיונגען.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶38 Whe
+   </span>
+   <span>
+    n the galley landed at a greasy-looking quay of spongy rock a nightmare horde of toad-things wiggled out of the hatches, and two of them seized Carter and dragged him ashore. The smell and aspect of that city are beyond telling, and Carter held only scattered images of the tiled streets and black doorways and endless precipices of grey vertical walls without windows. At length he was dragged within a low doorway and made to climb infinite steps in pitch blackness. It was, apparently, all one to the toad-things whether it were light or
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶38 When the galley landed at a greasy-looking quay of spongy rock a nightmare horde of toad-things wiggled out of the hatches, and two of them seized Carter and dragged him ashore. The smell and aspect of that city are beyond telling, and Carter held only scattered images of the tiled streets and black doorways and endless precipices of grey vertical walls without windows. At length he was dragged within a low doorway and made to climb infinite steps in pitch blackness. It was, apparently, all one to the toad-things whether it were light or dark. The odour of the place was intolerable, and when Carter was locked into a chamber and left alone he scarcely had strength to crawl around and ascertain its form and dimensions. It was circular, and about twenty feet across.
+    dark. The odour of the place was intolerable, and when Carter was locked into a chamber and left alone he scarcely had strength to crawl around and ascertain its form and dimensions. It was circular, and about twenty feet across.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    אַז ד
+   </span>
+   <span>
+    י גאַליע האָט זיך אַראָפּגעלאָזט אױף אַ צושטײפּונקט פֿון שװאָמיקן פֿעלדז מיט אַ פֿאַרשמאָלצענעם אױסזע האָט אַ קאָשמאַר־האָרדע פֿון ראַפּוכע־זאַכן זיך אַרױסגעװאַקעװעט
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    אַז די גאַליע האָט זיך אַראָפּגעלאָזט אױף אַ צושטײפּונקט פֿון שװאָמיקן פֿעלדז מיט אַ פֿאַרשמאָלצענעם אױסזע האָט אַ קאָשמאַר־האָרדע פֿון ראַפּוכע־זאַכן זיך אַרױסגעװאַקעװעט פֿון די פֿאַלטירן, און צװײ פֿון זײ האָבן געכאַפּט קאַרטערן און אים געטראַכענט אױף דער יבשה. דאָס געסרחה און צורה פֿון יענער שטאָט זײַנען געװען װײַטער פֿון דערצײלן, און קאַרטער האָט געהאַלטן אין זינען נאָר צעװאָרפֿענע געשטאַלטן פֿון די קאַכלגאַסן און שװאַרצע טירן און אָנסופֿיקע אָפּריסן פֿון גראָע אױפֿגעהאָדערטע װענט אָן פֿענצטער. סוף־כּל־סוף איז ער געטראַכענט געװאָרן אין אַ נידריקער טיר און געצװוּנגען אַרױפֿצוקלעטערן אָנסופֿיקע טרעפּן אין פּעך־שװאַרצקײט. ס׳איז נישט געװען די ראַפּוכע־זאַכן קײן נפֿקא־⁠מינה צי עס זאָל זײַן ליכט אָדער פֿינצטער. דער עיפּוש פֿונעם אָרט איז געװען נישט סובֿל צו זײַן, און װען קאַרטער איז פֿאַרשלאָסן געװאָרן אין אַ קאַצרער אַרײַן און פֿאַרלאָזט אײנעם אַלײן, האָט ער קױם געהאַט מאַכט אַרומצוקריכן און פֿעסטצושטעלן זײַן פֿאָרעם און דימענסיעס. ס׳איז געװען קײַלעכדיק, און צװאַנציק פֿיס אין דער ברײט.
+    פֿון די פֿאַלטירן, און צװײ פֿון זײ האָבן געכאַפּט קאַרטערן און אים געטראַכענט אױף דער יבשה. דאָס געסרחה און צורה פֿון יענער שטאָט זײַנען געװען װײַטער פֿון דערצײלן, און קאַרטער האָט געהאַלטן אין זינען נאָר צעװאָרפֿענע געשטאַלטן פֿון די קאַכלגאַסן און שװאַרצע טירן און אָנסופֿיקע אָפּריסן פֿון גראָע אױפֿגעהאָדערטע װענט אָן פֿענצטער. סוף־כּל־סוף איז ער געטראַכענט געװאָרן אין אַ נידריקער טיר און געצװוּנגען אַרױפֿצוקלעטערן אָנסופֿיקע טרעפּן אין פּעך־שװאַרצקײט. ס׳איז נישט געװען די ראַפּוכע־זאַכן קײן נפֿקא־⁠מינה צי עס זאָל זײַן ליכט אָדער פֿינצטער. דער עיפּוש פֿונעם אָרט איז געװען נישט סובֿל צו זײַן, און װען קאַרטער איז פֿאַרשלאָסן געװאָרן אין אַ קאַצרער אַרײַן און פֿאַרלאָזט אײנעם אַלײן, האָט ער קױם געהאַט מאַכט אַרומצוקריכן און פֿעסטצושטעלן זײַן פֿאָרעם און דימענסיעס. ס׳איז געװען קײַלעכדיק, און צװאַנציק פֿיס אין דער ברײט.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶39 From then on time ceased to exist. At intervals food was pushed in, but Carter would not touch it. What his fate would be, he did not know; but he felt that he was held for the coming of that frightful soul and messenger of infinitys Other Gods, the crawling chaos Nyarlathotep. Finally, after an unguessed span of hours or days, the great stone door swung wide again and Carter was shoved down the stairs and out into the red-litten streets of that fearsome city. It was night on the moon, and all through the town were stationed slaves bearing torches.
    </span>
   </p>
@@ -702,8 +873,11 @@ lang: yi
    <span style="font-weight:700;font-style:italic">
     אַנדערע געטער
    </span>
+   <span>
+    פֿון אין־⁠סוף
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    פֿון אין־⁠סוף, דעם קריכנדיקן כאַאָס ניאַרלאַתאָטעפּן. סוף־כּל־סוף נאָך אַן אומגעטראָפֿענעם צײַט־משך פֿון שעהן אָדער טעג, האָט די גרױסע שטײנערנע טיר זיך נאָך אַ מאָל ברײט געדרײט און מ׳האָט געגעבן קאַרטערן אַ רוק טרעפּ־אַראָפּ און אַרױס אין די רױט־באַלױכטענע גאַסן פֿון יענער סטראַשנע שטאָט. ס׳איז געװען נאַכט אױף דער לבֿנה, און דורך דער גאַנצער שטאָט זײַנען געװען צעשטעלט קנעכטן טראָגנדיק שטורקאַצן.
+    , דעם קריכנדיקן כאַאָס ניאַרלאַתאָטעפּן. סוף־כּל־סוף נאָך אַן אומגעטראָפֿענעם צײַט־משך פֿון שעהן אָדער טעג, האָט די גרױסע שטײנערנע טיר זיך נאָך אַ מאָל ברײט געדרײט און מ׳האָט געגעבן קאַרטערן אַ רוק טרעפּ־אַראָפּ און אַרױס אין די רױט־באַלױכטענע גאַסן פֿון יענער סטראַשנע שטאָט. ס׳איז געװען נאַכט אױף דער לבֿנה, און דורך דער גאַנצער שטאָט זײַנען געװען צעשטעלט קנעכטן טראָגנדיק שטורקאַצן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -712,18 +886,41 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    אין אַ פּאַסקודנע פּלאַץ איז אַ סאָרט דעפֿילאַדע געפֿורעמעט געװאָרן; צען פֿון די ראַפּוכע־זאַכן און פֿיר און צװאַנציק כּמעט־מענטשלעכע שטרוקאַץ־טראָגערס, עלעף אױף יעדער זײַט, און אײנער פֿאָרױס און הינטן. קאַרטער איז אײַנגעאָרט געװאָרן אין מיטן דער שורה; פֿינעף ראַפּוכע־זאַכן פֿאָרױס און פֿינעף הינטן, און אײנער אַ כּמעט־מענטשלעכער שטורקאַץ־טראָגער אױף יעדער זײַט זײַנער. געװיסע פֿון די ראַפּוכע־זאַכן האָבן אַרױסגענומען מיגלדיק אױסגעשניטצע העלפֿאַנדבײנערנע פֿלײטן און געמאַכט האַדקע קלאַנגען. בײַ יענעם העליש פֿײַפֿן האָט די קאָלאָנע אַװאַנסירט אױס די קאַכלגאַסן אַרױס און אין נאַכטפּלײנען פֿון גראָבע שװעמל־געװיקסן אַרײַן, און האָט זיך באַלד אָנגעהױבן אַרױפֿקלעטרן אױף אײנעם פֿון די נידריקערע און בהדרגדיקערע בערג װאָס איז געליגן הינטער דער שטאָט. אַז אױף עפּעס אַ שרעקלעכן אוקאָס אָדער לעסטערנדיקער באַרגפֿלאַך האָט דער קריכנדיקער כאַאָס געװאַרט, האָט קאַרטער נישט געקענט ספֿקענען; און ר׳האָט געװוּנטשן אַז די שפּאַנונג זאָל בקרובֿ זײַן אױס. דאָס פּישטשען פֿון יענע גאָטלאָזיקע פֿלײטן האָט אױפֿטגערײסלט, און ער האָט געװאָלט געבן װעלטן פֿאַר עפּעס אַן אַפֿילו האַלב־נאָרמאַלן קלאַנג; אָבער די דאָזיקע ראַפּוכע־זאַכן האָבן פֿאַרמאָגט נישט קײן קעלער, און די קנעכטן האָבן נישט גערעדט.
+   <span>
+    אין אַ פּאַסקודנע פּלאַץ א
+   </span>
+   <span>
+    יז אַ סאָרט דעפֿילאַדע געפֿורעמעט געװאָרן; צען פֿון די ראַפּוכע־זאַכן און פֿיר און צװאַנציק כּמעט־מענטשלעכע שטרוקאַץ־טראָגערס, עלעף אױף יעדער זײַט, און אײנער פֿאָרױס און הינטן. קאַ
+   </span>
+   <span>
+    רטער איז אײַנגעאָרט געװאָרן אין מיטן דער שורה; פֿינעף ראַפּוכע־זאַכן פֿאָרױס און פֿינעף הינטן, און אײנער אַ כּמעט־מענטשלעכער שטורקאַץ־טראָגער אױף יעדער זײַט זײַנער. געװיסע פֿון די ראַפּוכע־זאַכן האָבן אַרױסגענומען מיגלדיק אױסגעשניטצע העלפֿאַנדבײנערנע פֿלײטן און געמאַכט האַדקע קלאַנגען. בײַ יענעם העליש פֿײַפֿן האָט די קאָלאָנע אַװאַנסירט אױס די קאַכלגאַסן אַרױס און אין נאַכטפּלײנען פֿון גראָבע שװעמל־געװיקסן אַרײַן, און האָט זיך באַלד אָנגעהױבן אַרױפֿקלעטרן אױף אײנעם פֿון די
+   </span>
+   <span>
+    נידריקערע און בהדרגדיקערע בערג װאָס איז געליגן הינטער דער שטאָט. אַז אױף עפּעס אַ שרעקלעכן אוקאָס אָדער לעסטערנדיקער באַרגפֿלאַך האָט דער קריכנדיקער כאַאָס געװאַרט, האָט קאַרטער נישט געקענט ספֿקענען; און ר׳האָט געװוּנטשן אַז די שפּאַנונג זאָל בקרובֿ זײַן אױס. דאָס פּישטשען פֿון יענע גאָטלאָזיקע פֿלײטן האָט אױפֿטגערײסלט, און ער האָט געװאָלט געבן װעלטן פֿאַר עפּעס אַן אַפֿילו האַלב־נאָרמאַלן קלאַנג; אָבער די דאָזיקע ראַפּוכע־זאַכן האָבן פֿאַרמאָגט נישט קײן קעלער, און די קנעכטן האָבן נישט גערעדט.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶41 Then through that star-specked darkness there did come a normal sound. It rolled from the higher hills, and from all the jagged peaks around it was caught up and echoed in a swelling pandaemoniac chorus. It was the midnight yell of the
+   </span>
+   <span>
+    cat, and Carter knew at last that the old village folk were right when they made low guesses about the cryptical realms which are known only to cats, and to which the elders among cats repair
+   </span>
+   <span>
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶41 Then through that star-specked darkness there did come a normal sound. It rolled from the higher hills, and from all the jagged peaks around it was caught up and echoed in a swelling pandaemoniac chorus. It was the midnight yell of the cat, and Carter knew at last that the old village folk were right when they made low guesses about the cryptical realms which are known only to cats, and to which the elders among cats repair by stealth nocturnally, springing from high housetops. Verily, it is to the moons dark side that they go to leap and gambol on the hills and converse with ancient shadows, and here amidst that column of foetid things Carter heard their homely, friendly cry, and thought of the steep roofs and warm hearths and little lighted windows of home.
+    by stealth nocturnally, springing from high housetops. Verily, it is to the moons dark side that they go to leap and gambol on the hills and converse with ancient shadows, and here amidst that column of foetid things Carter heard their homely, friendly cry, and thought of the steep roofs and warm hearths and little lighted windows of home.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    קומען איז דעמאָלט געקומען, דורכן שטערן־געשפּרענקלטן פֿינצטערניש, אַ נאָרמאַלער קלאַנג. ר׳האָט זיך געקאַטשעט פֿון די העכערע בערג; פֿון די אַלע שטשערבאַטע שפּיצן אַרומעט האָט מען אים אָנגענומען; ר׳האָט אָפּגעקלונגען אין אַן אָנקװעלנדיקן פּאַנדעמאָנעיִשן כאָר. ס׳איז געװען די האַלבע־נאַכט יעלה פֿון דער קאַץ, און קאַרטער האָט זיך סוף־כּל־סוף דערװוּסט אַז דאָס אַלטע דאָרפֿספֿאָלק איז געװען גערעכט װען זײ האָבן שטיל געטראָפֿן מכּוח די קריפּטישע געגבֿולן װאָס נאָר קעץ קענען זײ, און אין װעלכע ציִען זיך בשתּיקהדיק די קאַץ־זקנים צוריק בײַנאַכטיק, שפּרינגענדיק פֿון הױכע הױזדעכער. באמת, ס׳איז טאַקע די פֿינצטערע זײַט פֿון דער לבֿנה אין װעלכער זײ גײען אַרומצושפּרינגען און אונטערצוטאַנצן אױף די בערג און שמועסן מיט פֿאַרצײַטיקע שאָטנס; און דאָ אין מיטן י
+   </span>
+   <span>
+    ענער קאָלאָנע פֿאַרשטונקענע זאַכן
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    קומען איז דעמאָלט געקומען, דורכן שטערן־געשפּרענקלטן פֿינצטערניש, אַ נאָרמאַלער קלאַנג. ר׳האָט זיך געקאַטשעט פֿון די העכערע בערג; פֿון די אַלע שטשערבאַטע שפּיצן אַרומעט האָט מען אים אָנגענומען; ר׳האָט אָפּגעקלונגען אין אַן אָנקװעלנדיקן פּאַנדעמאָנעיִשן כאָר. ס׳איז געװען די האַלבע־נאַכט יעלה פֿון דער קאַץ, און קאַרטער האָט זיך סוף־כּל־סוף דערװוּסט אַז דאָס אַלטע דאָרפֿספֿאָלק איז געװען גערעכט װען זײ האָבן שטיל געטראָפֿן מכּוח די קריפּטישע געגבֿולן װאָס נאָר קעץ קענען זײ, און אין װעלכע ציִען זיך בשתּיקהדיק די קאַץ־זקנים צוריק בײַנאַכטיק, שפּרינגענדיק פֿון הױכע הױזדעכער. באמת, ס׳איז טאַקע די פֿינצטערע זײַט פֿון דער לבֿנה אין װעלכער זײ גײען אַרומצושפּרינגען און אונטערצוטאַנצן אױף די בערג און שמועסן מיט פֿאַרצײַטיקע שאָטנס; און דאָ אין מיטן יענער קאָלאָנע פֿאַרשטונקענע זאַכן האָט קאַרטער געהערט זײער הײמישן, פֿרײַנדלעכן רוף, און באַקלערט די שטאָציקע דעכער און װאַרעמע הײמפֿײַערן און באַלױכטענע פֿענצטערלעך פֿון הײם.
+    האָט קאַרטער געהערט זײער הײמישן, פֿרײַנדלעכן רוף, און באַקלערט די שטאָציקע דעכער און װאַרעמע הײמפֿײַערן און באַלױכטענע פֿענצטערלעך פֿון הײם.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -732,32 +929,53 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    װײַזט זיך אַרױס אַז ראַנדאָלף קאַרטער האָט געקענט אַ סך פֿון דער שפּראַך פֿון קעץ, און אין דעם דאָזיקן װײַטן אימהדיקן אָרט האָט ער אַרױסגעזאָגט דעם רוף װאָס טױגט. אָבער דאָס האָט ער נישט געמוזט טאָן, װײַל ממש בשעת די לעפֿצן האָבן זיך געעפֿנט האָט ער געהערט דעם כאָר אױסװאַקסן און זיך דערנעענטערן, און האָט געזען געשװינדע שאָטנס אַקעגן די שטערן בעת קלײנע חענעװדיקע פֿאָרעמלעך זײַנען איבערגעשפּרונגען פֿון באַרג צו באַרג אין זיך צונױפֿזאַמלנדיקע לעגיאָנען. דער רוף פֿונעם שבֿט האָט מען געגעב
+   </span>
+   <span>
+    ן, און אײדער די אָפּשטױסנדיקע פּראָצע
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    װײַזט זיך אַרױס אַז ראַנדאָלף קאַרטער האָט געקענט אַ סך פֿון דער שפּראַך פֿון קעץ, און אין דעם דאָזיקן װײַטן אימהדיקן אָרט האָט ער אַרױסגעזאָגט דעם רוף װאָס טױגט. אָבער דאָס האָט ער נישט געמוזט טאָן, װײַל ממש בשעת די לעפֿצן האָבן זיך געעפֿנט האָט ער געהערט דעם כאָר אױסװאַקסן און זיך דערנעענטערן, און האָט געזען געשװינדע שאָטנס אַקעגן די שטערן בעת קלײנע חענעװדיקע פֿאָרעמלעך זײַנען איבערגעשפּרונגען פֿון באַרג צו באַרג אין זיך צונױפֿזאַמלנדיקע לעגיאָנען. דער רוף פֿונעם שבֿט האָט מען געגעבן, און אײדער די אָפּשטױסנדיקע פּראָצעסיע האָט געהאַט צײַט אַפֿילו דערשראָקן צו װערן, זײַנען געװען אַ כמאַרע דערשטיקנדיקער פּעלץ און אַ פֿאַלאַנקס מערדערישע קערלען פֿלײצדיק און שטורעמדיק אױף איר. די פֿלײטן האָבן זיך אױפֿגעהערט, און עס זײַנען געװען קװיטשן אין דער נאַכט. שטאַרבנדיקע כּמעט־מענטשן האָבן געװאַלדעװעט, און קעץ האָבן געשפּיגן און גערעװעט און געברומט, אָבער די ראַפּוכע־זאַכן האָבן קײן מאָל נישט געמאַכט קײן קלאַנג, בשעת דאָס שמוכטנדיקע גרינע בלוט האָט פֿאַטאַל געטריפֿט אױף יענער פּאָרעדיקער ערד מיט די גראָבע שװעמל־געװיקסן.
+    סיע האָט געהאַט צײַט אַפֿילו דערשראָקן צו װערן, זײַנען געװען אַ כמאַרע דערשטיקנדיקער פּעלץ און אַ פֿאַלאַנקס מערדערישע קערלען פֿלײצדיק און שטורעמדיק אױף איר. די פֿלײטן האָבן זיך אױפֿגעהערט, און עס זײַנען געװען קװיטשן אין דער נאַכט. שטאַרבנדיקע כּמעט־מענטשן האָבן געװאַלדעװעט, און קעץ האָבן געשפּיגן און גערעװעט און געברומט, אָבער די ראַפּוכע־זאַכן האָבן קײן מאָל נישט געמאַכט קײן קלאַנג, בשעת דאָס שמוכטנדיקע גרינע בלוט האָט פֿאַטאַל געטריפֿט אױף יענער פּאָרעדיקער ערד מיט די גראָבע שװעמל־געװיקסן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶43 It was a stupendous sight, while the torches lasted, and Carter had never before seen so many cats. Black, grey, and white; yellow, tiger, and mixed; common, Persian, and Manx; Thibetan, Angora, and Egyptian; all were there in the fury of battle, and there hovered over them some trace of that profound and inviolate sanctity which made their goddess great in the temples of Bubastis. They would leap seven strong at the throat of an almost-human or the pink tentacled snout of a toad-thing and drag it down savagely t
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶43 It was a stupendous sight, while the torches lasted, and Carter had never before seen so many cats. Black, grey, and white; yellow, tiger, and mixed; common, Persian, and Manx; Thibetan, Angora, and Egyptian; all were there in the fury of battle, and there hovered over them some trace of that profound and inviolate sanctity which made their goddess great in the temples of Bubastis. They would leap seven strong at the throat of an almost-human or the pink tentacled snout of a toad-thing and drag it down savagely to the fungous plain, where myriads of their fellows would surge over it and into it with the frenzied claws and teeth of a divine battle-fury. Carter had seized a torch from a stricken slave, but was soon overborne by the surging waves of his loyal defenders. Then he lay in the utter blackness hearing the clangour of war and the shouts of the victors, and feeling the soft paws of his friends as they rushed to and fro over him in the fray.
+    o the fungous plain, where myriads of their fellows would surge over it and into it with the frenzied claws and teeth of a divine battle-fury. Carter had seized a torch from a stricken slave, but was soon overborne by the surging waves of his loyal defenders. Then he lay in the utter blackness hearing the clangour of war and the shouts of the victors, and feeling the soft paws of his friends as they rushed to and fro over him in the fray.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    ס׳איז געװען אַ נשתּוממדיק בילד כּל־עוד די שטורקאַצן האָבן געדױערט, און קאַרטער האָט קײן מאָל נישט געזען אזױ פֿיל קעץ. שװאַרצע, גראָע, און װײַסע; געלע, טיגער, און געמישטע; פּראָסטע, פּערסישער און מאַנקסער; טיבעטישע, אַנגאָרע, און מיצרישע; אַלע זײַנען געװען דאָרטן, אינעם צאָרן פֿון קעמף, און דאָרטן האָט געהױערט איבער זײ עפּעס אַ שפּור פֿון יענער טיפֿער און אומבאַשעדיקטער הײליקײט װאָס האָט פֿאַרגרעסערט זײער געטין אין די בתּי־מקדשים פֿון בובאַסטיסן. זײ האָבן געהאַלטן אין אײן שפּרינגען זאַלבע־זיבעט אױפֿן גאָרגל פֿון אַ כּמעט־מענטשן אָדער דעם ראָזעװע־באַטאַפּערלטן פּיסק פֿון אַ ראַפּוכע־זאַך און עס אָראָפּציִען רציחהדיק אַראָפּ צו דעם שװעמל־געװיקסיקן פּלײן, װוּ מיריאַדן זײערע חבֿרים האָבן זיך נאָך אַ מאָל און װידער אַ מאָל געטאָן אַ לאָז פֿאָרױס איבער איר און אין איר מיט די מטורפֿדיקע קערלען און צײן פֿון אַ גאָטלעכן קעמף־צאָרן. קאַרטער האָט זיך אָנגעכאַפּט אין אַ שטורקאַץ פֿון אַ דערשלאָגענעם קנעכט, אָבער ס׳האָבן אים באַלד איבערגעקערט די פֿלײצנדיקע כװאַליעס פֿון זײַנע געטרײַע פֿאַרטײדיקערס. דערנאָך איז ער געליגן אינעם גאָרן פֿינצטערניש הערנדיק דאָס קלינגלען פֿון מלחמה און די שרײַען פֿון די בעלי־נצחונות, און פֿילנדיק די װײכע לאַפּעס פֿון זײַנע חבֿרים בעת זײ האָבן זיך געאײַלט האַלדז־⁠און־⁠נאַקן אַהין און אַהער איבער אים אינעם געשלעג.
+    ס׳איז געװען אַ
+   </span>
+   <span>
+    נשתּוממדיק בילד כּל־עוד די שטורקאַצן האָבן געדױערט, און קאַרטער האָט קײן מאָל נישט געזען אזױ פֿיל קעץ. שװאַרצע, גראָע, און װײַסע; געלע, טיגער, און געמישטע; פּראָסטע, פּערסישער און מאַנקסער; טיבעטישע, אַנגאָרע, און מיצרישע; אַלע זײַנען געװען דאָרטן, אינעם צאָרן פֿון קעמף, און דאָרטן האָט געהױערט איבער זײ עפּעס אַ שפּור פֿון יענער טיפֿער און אומבאַשעדיקטער הײליקײט װאָס האָט פֿאַרגרעסערט זײער געטין אין די בתּי־מקדשים פֿון בובאַסטיסן. זײ האָבן געהאַלטן אין אײן שפּרינגען זאַלבע־זיבעט אױפֿן גאָרגל פֿון אַ כּמעט־מענטשן אָדער דעם ראָזעװע־באַטאַפּערלטן פּיסק פֿון אַ ראַפּוכע־זאַך און עס אָראָפּציִען רציחהדיק אַראָפּ צו דעם שװעמל־געװיקסיקן פּלײן, װוּ מיריאַדן זײערע חבֿרים האָבן זיך נאָך אַ מאָל און װידער אַ מאָל געטאָן אַ לאָז פֿאָרױס איבער איר און אין איר מיט די מטורפֿדיקע קערלען און צײן פֿון אַ גאָטלעכן קעמף־צאָרן. קאַרטער האָט זיך אָנגעכאַפּט אין אַ שטורקאַץ פֿון אַ דערשלאָגענעם קנעכט, אָבער ס׳האָבן אים באַלד איבערגעקערט די פֿלײצנדיקע כװאַליעס פֿון זײַנע געטרײַע פֿאַרטײדיקערס. דערנאָך איז ער געליגן אינעם גאָרן פֿינצטערניש הערנדיק דאָס קלינגלען פֿון מלחמה און די
+   </span>
+   <span>
+    שרײַען
+   </span>
+   <span>
+    פֿון די בעלי־נצחונות, און פֿילנדיק די װײכע לאַפּעס פֿון זײַנע חבֿרים בעת זײ האָבן זיך געאײַלט האַלדז־⁠און־⁠נאַקן אַהין און אַהער איבער אים אינעם געשלעג.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶44 At last awe and exhaustion closed his eyes, and when he opened them again it was upon a strange scene. The great shining disc of the earth, thirteen times greater than that of the moon as we see it, had risen with floods of weird light over the lunar landscape; and across all those leagues of wild plateau and ragged crest there squatted one endless sea of cats in orderly array. Circle on circle they reached, and two or three leaders out of the ranks were licking his face and purring to him consolingly. Of the dead slaves and toad-things there were not many signs, but Carter thought he saw one borne a little way off in the open space between him and the warriors.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    סוף־כּל־סוף
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    סוף־כּל־סוף האָבן אָפּשײ און אױסגעמאַטערטקײט פֿאַרמאַכט אים די אױגן, און װען ר׳האָט זײ נאָך אַ מאָל געעפֿנט, איז דאָס געװען אױף אַ פֿרעמדער סזצענע. דער גרױסער שײַנענדיקער דיסק פֿון דער ערד, דרײַצן מאָל גרעסער װי יענער פֿון דער לבֿנה װען מיר זעען זי, איז אױפֿגעגאַנגען מיט פֿאַרפֿלײצונגען פֿון אױסטערליש ליכט איבערן לבֿנה־פּײזאַזש; און איבער אַלע יענע מײַלן װילדער באַרגפֿלאַך און צעקאָדערטן באַרגקאַם איז געזעסן אױף די פּיאַטעס אײן אָנסופֿיקער ים קעץ אין סדרדיקער אָרדענונג. קרײַז אױף קרײַז האָבן די קעץ דערגרײכט, און צװײ אָדער דרײַ פֿון די אָנפֿירעס זײערע האָבן געלעקט אים דאָס פּנים און אים געמרוקעט טרײסטנדיק. פֿון די טױטע קנעכטן און ראַפּוכע־זאַכן זײַנען געבליבן נישט צו פֿיל סימנים, אָבער קאַרטער האָט געמײנט אַז ר׳האָט געזען אײנעם אָװעקגעטראָגן אַ קורצן מהלך אַװעק אינעם אָפֿענעם שטח צװישן אים און די קעמפֿערס.
+    האָבן אָפּשײ און אױסגעמאַטערטקײט פֿאַרמאַכט אים די אױגן, און װען ר׳האָט זײ נאָך אַ מאָל געעפֿנט, איז דאָס געװען אױף אַ פֿרעמדער סזצענע. דער גרױסער שײַנענדיקער דיסק פֿון דער ערד, דרײַצן מאָל גרעסער װי יענער פֿון דער לבֿנה װען מיר זעען זי, איז אױפֿגעגאַנגען מיט פֿאַרפֿלײצונגען פֿון אױסטערליש ליכט איבערן לבֿנה־פּײזאַזש; און איבער אַלע יענע מײַלן װילדער באַרגפֿלאַך און צעקאָדערטן באַרגקאַם איז געזעסן אױף די פּיאַטעס אײן אָנסופֿיקער ים קעץ אין סדרדיקער אָרדענונג. קרײַז אױף קרײַז האָבן די קעץ דערגרײכט, און צװײ אָדער דרײַ פֿון די אָנפֿירעס זײערע האָבן געלעקט אים דאָס פּנים און אים געמרוקעט טרײסטנדיק. פֿון די טױטע קנעכטן און ראַפּוכע־זאַכן זײַנען געבליבן נישט צו פֿיל סימנים, אָבער קאַרטער האָט געמײנט אַז ר׳האָט געזען אײנעם אָװעקגעטראָגן אַ קורצן מהלך אַװעק אינעם אָפֿענעם שטח צװישן אים און די קעמפֿערס.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶45 Carter now spoke with the leaders in the soft language of cats, and learned that his ancient friendship with the species was well known and often spoken of in the places where cats congregate. He had not been unmarked in Ulthar when he passed through, and the sleek old cats had remembered how he patted them after they had attended to the hungry Zoogs who looked evilly at a small black kitten. And they recalled, too, how he had welcomed the very little kitten who came to see him at the inn, and how he had given it a saucer of rich cream in the morning before he left. The grandfather of that very little kitten was the leader of the army now assembled, for he had seen the evil procession from a far hill and recognized the prisoner as a sworn friend of his kind on earth and in the land of dream.
    </span>
   </p>
@@ -767,13 +985,19 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶46 A yowl now came from the farther peak, and the old leader paused abruptly in his conversation. It was one of the army's outposts, stationed on the highest of the mountains to watch the one foe which Earth's cats fear; the very large and peculiar cats from Saturn, who for some reason have not been oblivious of the charm of our moon's dark side. They are leagued by treaty with the evil toad-things, and are notoriously hostile to our earthly cats; so that at this juncture a meeting would have been a somewhat grave matter.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    איז אַ רעװע איצטער גקעקומען פֿונעם װײַטערן שפּיץ, און דער אַלטער אָנפֿירער האָט ראַפּטעם מפֿסיק געװען אין זײַנע רײד. ס׳איז געװען אײנער פֿון די פֿאָרפּאָסטן פֿון דער אַרמײ, געשטעלט אױפֿן העכסטן פֿון די בערג כּדי אױסצוקוקן פֿאַרן אײנציקן שׂונא װאָס די קעץ פֿון דער ערד האָבן אים מורא; די
+   </span>
+   <span>
+    גאָר גרױסע און קרײַטישע קעץ פֿון ש
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    איז אַ רעװע איצטער גקעקומען פֿונעם װײַטערן שפּיץ, און דער אַלטער אָנפֿירער האָט ראַפּטעם מפֿסיק געװען אין זײַנע רײד. ס׳איז געװען אײנער פֿון די פֿאָרפּאָסטן פֿון דער אַרמײ, געשטעלט אױפֿן העכסטן פֿון די בערג כּדי אױסצוקוקן פֿאַרן אײנציקן שׂונא װאָס די קעץ פֿון דער ערד האָבן אים מורא; די גאָר גרױסע און קרײַטישע קעץ פֿון שבתי, װאָס פֿאַר עפּעס אַ סיבה האָבן נישט פֿאַרפֿעלט באַמערקן דעם חן פֿון דער פֿינצטערער זײַט פֿון אונזדער לבֿנה. זײ זײַנען לױט אָפּמאַך יד־אחת מיט די רשעותדיקע ראַפּוכע־זאַכן, און זײַנען פֿאַרנאַנטערהײט קעגענעריש אונדזערע ערדישע קעץ; אַזױ אַז אין איצטיקן מאָמענט װאָלט אַ טרעפֿונג זײַן עפּעס אַ שװערער ענין.
+    בתי, װאָס פֿאַר עפּעס אַ סיבה האָבן נישט פֿאַרפֿעלט באַמערקן דעם חן פֿון דער פֿינצטערער זײַט פֿון אונזדער לבֿנה. זײ זײַנען לױט אָפּמאַך יד־אחת מיט די רשעותדיקע ראַפּוכע־זאַכן, און זײַנען פֿאַרנאַנטערהײט קעגענעריש אונדזערע ערדישע קעץ; אַזױ אַז אין איצטיקן מאָמענט װאָלט אַ טרעפֿונג זײַן עפּעס אַ שװערער ענין.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -782,8 +1006,11 @@ lang: yi
    </span>
    <span style="color:#073763">
    </span>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    Carter to let himself be borne along smoothly and passively in the massed ranks of furry leapers, and told him how to spring when the rest sprang and land gracefully when the rest landed. He also offered to deposit him in any spot he desired, and Carter decided on the city of Dylath-Leen whence the black galley had set out; for he wished to sail thence for Oriab and the carven crest Ngranek, and also to warn the people of the city to have no more traffick with black galleys, if indeed that traffick could be tactfully and judiciously broken off. Then, upon a signal, the cats all leaped gracefully with their friend packed securely in their midst; while in a black cave on an unhallowed summit of the moon-mountains still vainly waited the crawling chaos Nyarlathotep.
+   <span>
+    Carter to let himself be borne along smoothly and passively in the massed ranks of furry leapers, and told him how to spring when the rest sprang and land gracefully when th
+   </span>
+   <span>
+    e rest landed. He also offered to deposit him in any spot he desired, and Carter decided on the city of Dylath-Leen whence the black galley had set out; for he wished to sail thence for Oriab and the carven crest Ngranek, and also to warn the people of the city to have no more traffick with black galleys, if indeed that traffick could be tactfully and judiciously broken off. Then, upon a signal, the cats all leaped gracefully with their friend packed securely in their midst; while in a black cave on an unhallowed summit of the moon-mountains still vainly waited the crawling chaos Nyarlathotep.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -792,8 +1019,14 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶48 The leap of the cats through space was very swift; and being surrounded by his companions Carter did not see this time the great black shapelessnesses that lurk and caper and flounder in the abyss. Before he fully realised what had happened he was back in his familiar room at the inn at Dylath-Leen, and the stealthy, friendly cats were pouring out of the window in stre
+   </span>
+   <span>
+    ams. The old leader from Ulthar was the last to leave, and as Carter shook his paw he said he would be able to get home by cockcrow. When dawn came, Carter went downstairs and learned that a week had elapsed since his capture and leaving. There was still nearly a fortnight to wait for the ship bound toward Oriab, and during that time he said what he could against the black galleys and their infamous ways.
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶48 The leap of the cats through space was very swift; and being surrounded by his companions Carter did not see this time the great black shapelessnesses that lurk and caper and flounder in the abyss. Before he fully realised what had happened he was back in his familiar room at the inn at Dylath-Leen, and the stealthy, friendly cats were pouring out of the window in streams. The old leader from Ulthar was the last to leave, and as Carter shook his paw he said he would be able to get home by cockcrow. When dawn came, Carter went downstairs and learned that a week had elapsed since his capture and leaving. There was still nearly a fortnight to wait for the ship bound toward Oriab, and during that time he said what he could against the black galleys and their infamous ways. Most of the townsfolk believed him; yet so fond were the jewellers of great rubies that none would wholly promise to cease trafficking with the wide-mouthed merchants. If aught of evil ever befalls Dylath-Leen through such traffick, it will not be his fault.
+    Most of the townsfolk believed him; yet so fond were the jewellers of great rubies that none would wholly promise to cease trafficking with the wide-mouthed merchants. If aught of evil ever befalls Dylath-Leen through such traffick, it will not be his fault.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -807,17 +1040,32 @@ lang: yi
    </span>
    <span style="font-style:italic">
    </span>
+   <span>
+    of Baharna, and the strange little figures carved from Ngranek's
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    of Baharna, and the strange little figures carved from Ngranek's ancient lava. For this they were paid in the wool of Ulthar and the iridescent textiles of Hatheg and the ivory that the black men carve across the river in Parg. Carter made arrangements with the captain to go to Baharna and was told that the voyage would take ten days. And during his week of waiting he talked much with that captain of Ngranek, and was told that very few had seen the carven face thereon; but that most travellers are content to learn its legends from old people and lava-gatherers and image-makers in Baharna and afterward say in their far homes that they have indeed beheld it. The captain was not even sure that any person now living had beheld that carven face, for the wrong side of Ngranek is very difficult and barren and sinister, and there are rumours of caves near the peak wherein dwell the night-gaunts. But the captain did not wish to say just what a night-gaunt might be like, since such cattle are known to haunt most persistently the dreams of those who think too often of them. Then Carter asked that captain about unknown Kadath in the cold waste, and the marvellous sunset city, but of these the good man could truly tell nothing.
+    ancient lava. For this they were paid in the wool of Ulthar and the iridescent textiles of Hatheg and the ivory that the black men carve across the river in Parg. Carter made arrangements with the captain to go to Baharna and was told that the voyage would take ten days. And during his week of waiting he talked much with that captain of Ngranek, and was told that very few had seen the carven face thereon; but that most travellers are content to learn its legends from old people and lava-gatherers and image-makers in Baharna and afterward say in their far homes that they have indeed beheld it. The captain was not even sure that any person now living had beheld that carven face, for the wrong side of Ngranek is very difficult and barren and sinister, and there are rumours of caves near the peak wherein dwell the night-gaunts. But the captain did not wish to say just what a night-gaunt might be like, since such cattle are known to haunt most persistently the dreams of those who think too often of them. Then Carter asked that captain about unknown Kadath in the cold waste, and the marvellous sunset city, but of these the good man could truly tell nothing.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    נאָך
+   </span>
+   <span>
+    אַ װאָך לערך האָט די געװוּנטשטע שיף זיך אַרײַנגעשטעלט בײַם שװאַרצן װאַל און הױכן לײַכטטורעם, און קאַרטער האָט זיך דערפֿרידיקט צו זען אַז זי איז געװען אַ קלײנע דרײַ־זעגלבױמדיקע שיף פֿון ערלעכע מענטשן, מיט אױסגעפֿאַרבטע זײַטן און געלע דרײַעקיקע זעלגלען און אַ גראָען קאַפּיטאַן אין זײדענע מאַנטיעס. איר לאָדונג איז געװען די ריח־ניחוחדיקע סמאָלע פֿון די אינעװעניקסטע סעדער פֿון אָריאַב, און דאָס צאָרטע טעפּערײַ געבאַקן דורך די קינסטלערס פֿון באַהאַרנע, און די אױסטערלישע קלײנע פֿיגורן אױסגעשניצט פֿון דער פֿאַרצײַטיקער לאַװע פֿון אָריאַב. פֿאַר דער סחורה האָט מען זײ אײַנגעצאָלט מיט דער װאָל פֿון אולתּאַר און די מינעדיקע טעקס
+   </span>
+   <span>
+    טילן פֿון האַתעג און דעם העלפֿאַנדבײן װאָס די שװאַרצע מענט
+   </span>
+   <span>
+    שן שניצן אױס איבערן טײַך אין פּאַרג. קאַרטער האָט אַראַנזשירט מיטן קאַפּיטאַן צו פֿאָרן אין באַהאַרנע און יענער האָט אים געלאָזט װיסן אַז די נסיעה װאָלט דױערן צען טעג. און במשך זײַן װאָך װאַרטן האָט ערגעשמועסט אַ סך מיט יענעם קאַפּיטאַן װעגן נגראַנעק, און ער האָט אים געזאָגט אַז זײער װײניקע האָבן געזען דאָס אױסגעשניצטע פּנים דערױף; נאָר װאָס זשע דען אַז ס׳רובֿ נוסעים באַנוגענען זיך מיט זיך לערנען זײַנע סודות פֿון זקנים און לאַװע־זאַמלערס און בילד־מאַכערס אין באַהאַרנע און דערנאָדעם זאָגן אין זײערע װײַטע הײמען אַז זײ האָבן עס טאַקע דערזען.
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    נאָך אַ װאָך לערך האָט די געװוּנטשטע שיף זיך אַרײַנגעשטעלט בײַם שװאַרצן װאַל און הױכן לײַכטטורעם, און קאַרטער האָט זיך דערפֿרידיקט צו זען אַז זי איז געװען אַ קלײנע דרײַ־זעגלבױמדיקע שיף פֿון ערלעכע מענטשן, מיט אױסגעפֿאַרבטע זײַטן און געלע דרײַעקיקע זעלגלען און אַ גראָען קאַפּיטאַן אין זײדענע מאַנטיעס. איר לאָדונג איז געװען די ריח־ניחוחדיקע סמאָלע פֿון די אינעװעניקסטע סעדער פֿון אָריאַב, און דאָס צאָרטע טעפּערײַ געבאַקן דורך די קינסטלערס פֿון באַהאַרנע, און די אױסטערלישע קלײנע פֿיגורן אױסגעשניצט פֿון דער פֿאַרצײַטיקער לאַװע פֿון אָריאַב. פֿאַר דער סחורה האָט מען זײ אײַנגעצאָלט מיט דער װאָל פֿון אולתּאַר און די מינעדיקע טעקסטילן פֿון האַתעג און דעם העלפֿאַנדבײן װאָס די שװאַרצע מענטשן שניצן אױס איבערן טײַך אין פּאַרג. קאַרטער האָט אַראַנזשירט מיטן קאַפּיטאַן צו פֿאָרן אין באַהאַרנע און יענער האָט אים געלאָזט װיסן אַז די נסיעה װאָלט דױערן צען טעג. און במשך זײַן װאָך װאַרטן האָט ערגעשמועסט אַ סך מיט יענעם קאַפּיטאַן װעגן נגראַנעק, און ער האָט אים געזאָגט אַז זײער װײניקע האָבן געזען דאָס אױסגעשניצטע פּנים דערױף; נאָר װאָס זשע דען אַז ס׳רובֿ נוסעים באַנוגענען זיך מיט זיך לערנען זײַנע סודות פֿון זקנים און לאַװע־זאַמלערס און בילד־מאַכערס אין באַהאַרנע און דערנאָדעם זאָגן אין זײערע װײַטע הײמען אַז זײ האָבן עס טאַקע דערזען. דער קאַפּיטאַן איז נישט געװען זיכער אַפֿילו אַז אַבי װאָסער איצט־לעבנדיקער מענטש האָט דערזען יענץ אױסגעשניצט פּנים, װײַל די הינטערזײַט פֿון נגראַנעק איז גאָר האַרב און פּוסט און בײז, און סע זײַנען דאָ שמועות פֿון הײלן לעבן דעם שפּיץ װוּ װױנען די נאַכט־מאָגערס. אָבער דער קאַפּיטאַן האָט נישט געװאָלט זאָגן פּונקט װי אַזױ זאָל אַ נאַכט־מאָגער זײַן, װײַל מע װײסט גוט אַז אַזעלכע פֿיך באַװױנען גאָר גאָר עקשנותדיק די חלומות פֿון יענע װאָס באַקלערן זײ צו אָפֿט. דערנאָך האָט קאַרטער געבעטן בײַ יענעם קאַפּיטאַן מכּוח קדת אינעם קאַלטן װיסטעניש, אָבער מכּוח דעם אָ האָט דער גוטער מענטש אױף אַן אמת נישט געקענט זאָגן גאָרנישט.
+    דער קאַפּיטאַן איז נישט געװען זיכער אַפֿילו אַז אַבי װאָסער איצט־לעבנדיקער מענטש האָט דערזען יענץ אױסגעשניצט פּנים, װײַל די הינטערזײַט פֿון נגראַנעק איז גאָר האַרב און פּוסט און בײז, און סע זײַנען דאָ שמועות פֿון הײלן לעבן דעם שפּיץ װוּ װױנען די נאַכט־מאָגערס. אָבער דער קאַפּיטאַן האָט נישט געװאָלט זאָגן פּונקט װי אַזױ זאָל אַ נאַכט־מאָגער זײַן, װײַל מע װײסט גוט אַז אַזעלכע פֿיך באַװױנען גאָר גאָר עקשנותדיק די חלומות פֿון יענע װאָס באַקלערן זײ צו אָפֿט. דערנאָך האָט קאַרטער געבעטן בײַ יענעם קאַפּיטאַן מכּוח קדת אינעם קאַלטן װיסטעניש, אָבער מכּוח דעם אָ האָט דער גוטער מענטש אױף אַן אמת נישט געקענט זאָגן גאָרנישט.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;text-indent:36pt;font-family:"Times New Roman";orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶50 Carter sailed out of Dylath-Leen one early morning when the tide turned, and saw the first rays of sunrise on the thin angular towers of that dismal basalt town. And for two days they sailed eastward in sight of green coasts, and saw often the pleasant fishing towns that climbed up steeply with their red roofs and chimney-pots from old dreaming wharves and beaches where net lay drying. But on the third day they turned sharply south where the roll of water was stronger, and soon passed from sight of any land. On the fifth day the sailors were nervous, but the captain apologized for their fears, saying that the ship was about to pass over the weedy walls and broken columns of a sunken city too old for memory, and that when the water was clear one could see so many moving shadows in that deep place that simple folk disliked it. He admitted, moreover, that many ships had been lost in that part of the sea; having been hailed when quite close to it, but never seen again.
    </span>
   </p>
@@ -827,7 +1075,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶51 That night the moon was very bright, and one could see a great way down in the water. There was so little wind that the ship could not move much, and the ocean was very calm. Looking over the rail Carter saw many fathoms deep the dome of the great temple, and in front of it an avenue of unnatural sphinxes leading to what was once a public square. Dolphins sported merrily in and out of the ruins, and porpoises revelled clumsily here and there, sometimes coming to the surface and leaping clear out of the sea. As the ship drifted on a little the floor of the ocean rose in hills, and one could clearly mark the lines of ancient climbing streets and the washed-down walls of myriad little houses.
    </span>
   </p>
@@ -842,8 +1090,13 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    דערנאָך האָבן די פֿאָרשטעט זיך געיאַװעט און לסוף אַ גרױסער אײן־אײנציקער בנין אױף אַ בערגל, פֿון פּשוטערער אַרכיטעקטור װי די אַנדערע געבײַען, און אין אַ סך בעסערן מצבֿ. ר׳איז געװען אַ טונקלער און אַ נידריקער און האָט פֿאַרדעקט פֿיר זײַטן פֿון אַ קװאַדראַט, מיט אַ טורעם אױף יעדן עק, אַן אױסברוקירטן הױף אין מיטן, און קלײנע טשיקאַװע רינדעכיקע פֿענצטער אומעטום אױף אים. מסתּמא איז ער געװען
+   </span>
+   <span>
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    דערנאָך האָבן די פֿאָרשטעט זיך געיאַװעט און לסוף אַ גרױסער אײן־אײנציקער בנין אױף אַ בערגל, פֿון פּשוטערער אַרכיטעקטור װי די אַנדערע געבײַען, און אין אַ סך בעסערן מצבֿ. ר׳איז געװען אַ טונקלער און אַ נידריקער און האָט פֿאַרדעקט פֿיר זײַטן פֿון אַ קװאַדראַט, מיט אַ טורעם אױף יעדן עק, אַן אױסברוקירטן הױף אין מיטן, און קלײנע טשיקאַװע רינדעכיקע פֿענצטער אומעטום אױף אים. מסתּמא איז ער געװען באַזאַלטן, כאָטש װילדגראָזן האָבן דראַפּירט דעם גערסערן חלק; און אַזאַ איז געװען זײַן עלנט און רושמדיק אָרט אױף יענעם װײַטן באַרג אַז ר׳האָט געקענט זײַן אַ בית־מיקדש אָדער אַ מאָנאַסטיר. עטלעכע פֿאָספֿאָרעסצענטע פֿיש אין אים האָבן געגעבן די רינדעכיקע פֿענצטערלעך אַן אױסזע פֿון שײַנען, און קאַרטער האָט נישט באַשולדיקט די מאַטראָסן צו פֿיל פֿאַר זײערע פּחדים. דערנאָך מיט דער װאַסערלעכער לבֿנה־שײַן האָט ער באַמערקט אַ מאָדנע הױכן מאָנאָליט אינעם מיטן פֿון יענעם צענטראַלן הױף, און געזען אַז עפּעס איז צוגעבונדן צו אים. און װען, נאָך באַקומען אַ טעלעסקאָפּ פֿון דעם קאַפּיטאַנס קאַיוטע, האָט ער געזען אַז יענע געבונדענע זאַך איז געװען אַ מאַטראָס אין די זײדענע אָריאַבער מלבושים, קאָפּ־אַראָפּ און אָן קײן אױגן, האָט ער זיך דערפֿרײט אַז אַ שטײַגנדיק װינטל האָט באַלד גענומען די שיף פֿאָרױס אין געזונטערע טײלן ים.
+    באַזאַלטן, כאָטש װילדגראָזן האָבן דראַפּירט דעם גערסערן חלק; און אַזאַ איז געװען זײַן עלנט און רושמדיק אָרט אױף יענעם װײַטן באַרג אַז ר׳האָט געקענט זײַן אַ בית־מיקדש אָדער אַ מאָנאַסטיר. עטלעכע פֿאָספֿאָרעסצענטע פֿיש אין אים האָבן געגעבן די רינדעכיקע פֿענצטערלעך אַן אױסזע פֿון שײַנען, און קאַרטער האָט נישט באַשולדיקט די מאַטראָסן צו פֿיל פֿאַר זײערע פּחדים. דערנאָך מיט דער װאַסערלעכער לבֿנה־שײַן האָט ער באַמערקט אַ מאָדנע הױכן מאָנאָליט אינעם מיטן פֿון יענעם צענטראַלן הױף, און געזען אַז עפּעס איז צוגעבונדן צו אים. און װען, נאָך באַקומען אַ טעלעסקאָפּ פֿון דעם קאַפּיטאַנס קאַיוטע, האָט ער געזען אַז יענע געבונדענע זאַך איז געװען אַ מאַטראָס אין די זײדענע אָריאַבער מלבושים, קאָפּ־אַראָפּ און אָן קײן אױגן, האָט ער זיך דערפֿרײט אַז אַ שטײַגנדיק װינטל האָט באַלד גענומען די שיף פֿאָרױס אין געזונטערע טײלן ים.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -857,7 +1110,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶54 The captain, after landing, made Carter a guest in his own small house on the shores of Yath where the rear of the town slopes down to it; and his wife and servants brought strange toothsome foods for the traveller's delight. And in the days after that Carter asked for rumours and legends of Ngranek in all the taverns and public places where lava-gatherers and image-makers meet, but could find no one who had been up the higher slopes or seen the carven face. Ngranek was a hard mountain with only an accursed valley behind it, and besides, one could never depend on the certainty that night-gaunts are altogether fabulous.
    </span>
   </p>
@@ -867,17 +1120,20 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;text-indent:36pt;font-family:"Times New Roman";orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶55 When the captain sailed back to Dylath-Leen Carter took quarters in an ancient tavern opening on an alley of steps in the original part of the town, which is built of brick and resembles the ruins of Yath's farther shore. Here he laid his plans for the ascent of Ngranek, and correlated all that he had learned from the lava-gatherers about the roads thither. The keeper of the tavern was a very old man, and had heard so many legends that he was a great help. He even took Carter to an upper room in that ancient house and shewed him a crude picture which a traveller had scratched on the clay wall in the old days when men were bolder and less reluctant to visit Ngranek's higher slopes. The old tavern-keeper's great-grandfather had heard from his great-grandfather that the traveller who scratched that picture had climbed Ngranek and seen the carven face, here drawing it for others to behold, but Carter had very great doubts, since the large rough features on the wall were hasty and careless, and wholly overshadowed by a crowd of little companion shapes in the worst possible taste, with horns and wings and claws and curling tails.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    אַז דער קאַפּיטאַן האָט אָפּגעשיפֿט אױפֿן װעג צוריק קײן דילאַת־לין האָט קאַרטער גענומען צימערן אין אַ פֿאַרצײַטיקער קרעטשמע װאָס עפֿנט זיך אױף אַ טרעפּן־געסקע אינעם מקורדיקן קװאַרטאַל פֿון דער שטאָט, װאָס איז געבױט פֿון ציגלען און זעט אױס װי די רויִנען פֿונעם װײַטערן ברעג יאַת. דאָ האָט ער צוגעגרײט זײַנע פּלאַנען פֿאַרן אַרױפֿגאַנג פֿון נגראַנעק, און פּרטימדיק פֿאַרגלײַכט אַלצדינג װאָס ר׳האָט זיך געלערנט פֿון די לאַװע־זאַמלערס װעגן די שטראָזן אַהין. דער קרעטשמער איז געװען זײער אַן אַלטער, און האָט געהערט אַזױ פֿיל לעגענדעס אַז ר׳איז געװען אַ גרױסע הילף. ר׳האָט אַפֿילו גענומען קאַרטער אין אַן אײבערצימער אין יענעם פֿאַרצײַטיקן הױז און אים באַװיזן אַן אומגעשליפֿן בילד װאָס אַ נוסע האָט עס
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    אַז דער קאַפּיטאַן האָט אָפּגעשיפֿט אױפֿן װעג צוריק קײן דילאַת־לין האָט קאַרטער גענומען צימערן אין אַ פֿאַרצײַטיקער קרעטשמע װאָס עפֿנט זיך אױף אַ טרעפּן־געסקע אינעם מקורדיקן קװאַרטאַל פֿון דער שטאָט, װאָס איז געבױט פֿון ציגלען און זעט אױס װי די רויִנען פֿונעם װײַטערן ברעג יאַת. דאָ האָט ער צוגעגרײט זײַנע פּלאַנען פֿאַרן אַרױפֿגאַנג פֿון נגראַנעק, און פּרטימדיק פֿאַרגלײַכט אַלצדינג װאָס ר׳האָט זיך געלערנט פֿון די לאַװע־זאַמלערס װעגן די שטראָזן אַהין. דער קרעטשמער איז געװען זײער אַן אַלטער, און האָט געהערט אַזױ פֿיל לעגענדעס אַז ר׳איז געװען אַ גרױסע הילף. ר׳האָט אַפֿילו גענומען קאַרטער אין אַן אײבערצימער אין יענעם פֿאַרצײַטיקן הױז און אים באַװיזן אַן אומגעשליפֿן בילד װאָס אַ נוסע האָט עס אײַנגעקריצט אין דער לײמענער װאַנט אין אַמאָליקע יאָרן װען מענטשן זײַנען געװען דרײסטער און װײניקער אָנחשקדיק באַזוכן די העכערע אוקאָסן פֿון נגראַנעק. דעם אַלטן קרעטשמערס עלטער־⁠זײדע האָט געהערט פֿון זײַן עלטער־⁠זײדן אַז דער נוסע װאָס האָט אײַנגעקריצט יענץ בילד האָט אַרױפֿגעקלעטערט אױף נגראַנעק און געזען דאָס אױסגעשניצטע פּנים, אױסמאָלנדיק עס דאָ פֿאַר אַנדערע צו דערזען, אָבער קאַרטער האָט זײער געספֿקנט, װײַל די גרױסע גראָבע שטריכן אױף דער װאַנט זײַנען געװען געכאַפּט און אָפּגעלאָזט, און אין גאַנצן פֿאַרשאָטנט דורך אַ געזעמל קלײנע באַגלײטער־פֿאָרמען אין דעם ערגסטן מעגלעכן טעם, מיט הערנער און פֿליגלען און זיך פֿאַרקרײַזלנדיקע זנבֿים.
+    אײַנגעקריצט אין דער לײמענער װאַנט אין אַמאָליקע יאָרן װען מענטשן זײַנען געװען דרײסטער און װײניקער אָנחשקדיק באַזוכן די העכערע אוקאָסן פֿון נגראַנעק. דעם אַלטן קרעטשמערס עלטער־⁠זײדע האָט געהערט פֿון זײַן עלטער־⁠זײדן אַז דער נוסע װאָס האָט אײַנגעקריצט יענץ בילד האָט אַרױפֿגעקלעטערט אױף נגראַנעק און געזען דאָס אױסגעשניצטע פּנים, אױסמאָלנדיק עס דאָ פֿאַר אַנדערע צו דערזען, אָבער קאַרטער האָט זײער געספֿקנט, װײַל די גרױסע גראָבע שטריכן אױף דער װאַנט זײַנען געװען געכאַפּט און אָפּגעלאָזט, און אין גאַנצן פֿאַרשאָטנט דורך אַ געזעמל קלײנע באַגלײטער־פֿאָרמען אין דעם ערגסטן מעגלעכן טעם, מיט הערנער און פֿליגלען און זיך פֿאַרקרײַזלנדיקע זנבֿים.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶56 At last, having gained all the information he was likely to gain in the taverns and public places of Baharna, Carter hired a zebra and set out one morning on the road by Yath's shore for those inland parts wherein towers stony Ngranek. On his right were rolling hills and pleasant orchards and neat little stone farmhouses, and he was much reminded of those fertile fields that flank the Skai. By evening he was near the nameless ancient ruins on Yath's farther shore, and though old lava-gatherers had warned him not to camp there at night, he tethered his zebra to a curious pillar before a crumbling wall and laid his blanket in a sheltered corner beneath some carvings whose meaning none could decipher. Around him he wrapped another blanket, for the nights are cold in Oriab; and when upon awaking once he thought he felt the wings of some insect brushing his face he covered his head altogether and slept in peace till roused by the magah birds in distant resin groves.
    </span>
   </p>
@@ -892,17 +1148,17 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     די זון איז ערשט אױפֿגעגאַנגען איבערן גרױסן אוקאָס אױף װעלכן סע האָבן זיך אױסגעצױגן לאַנג־אױס מײַלן אַראָפּ צום ברעג יאַת קדמונישע ציגלענע יסודות און צעריבענע װענט און טײלמאָליק צעשפּאָלטענע זײַלן און פּעדעסטאַלן, און קאַרטער האָט אַרומגעזוכט זײַן צוגעשטריקלטע זעברע. גרױס איז געװען זײַן צערודערונג צו זען יענע נאָכגיביקע חיה ליגנדיק אױסגעצױגן לעבן דעם טקישאַװע זײַל אױף װעלכן ר׳האָט זי צוגעבונדן, און נאָך גרעסער איז ער דענערװירט געװאָרן װען ר׳האָט געפונען אַז די רײַט־חיה איז געװען גאַנץ טױט, מיטן בלוט אַװעקגעזױגן בשלמות דורך אַ װוּנד אַן אױסנעמיקער אינעם גאָרגל. עפּעס האָט געטשעפּעט זײַן רענצל, און אַװעקגענומען עטלעכע גלאַנציקע שמאָנצעס, און אומעטום אױף דעם שטױביקן גרונד זײַנען געװען גרױסע הײַטלדיקע פֿוסטריט פֿאַר װעלכע ר'האָט בשום־אופֿן נישט געקענט געבן צו פֿאַרשטײן. עס זײַנען אים אײַנגעפֿאַלן די לעגענדעס און װאָרענונגען פֿון לאַװע־זאַמלערס, און ר׳האָט זיך באַקלערט אין װאָס ס׳האָט אים געטשעפּעט פֿאַרבײַ דעם פּנים אין דער נאַכט. דערנאָכדעם האָט ער געטראָגן זײַן רענצל אױף די פּלײצעס און געשפּאַנט װײַטער צו נגראַנעק צו, כאָטשבע נישט אָן קײן ציטער װען ר׳האָט געזען אים, בעת דער טראַקט איז אַדורכגעגאַנגען דורך די רויִנען, אַ גרױסן צעפּראַלטן בױגן נידריק אין דער װאַנט פֿון אַן אַלטן בית־מיקדש, מיט טרעפּלעך אַראָפּפֿירנדיק אין פֿינצטערניש װײַטער אײדער ר׳האָט געקענט אַראָפּקוקן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶58 His course now lay uphill through wilder and partly wooded country, and he saw only the huts of charcoal-burners and the camp of those who gathered resin from the groves. The whole air was fragrant with balsam, and all the magah birds sang blithely as they flashed their seven colours in the sun. Near sunset he came on a new camp of lava-gatherers returning with laden sacks from Ngranek's lower slopes; and here he also camped, listening to the songs and tales of the men, and overhearing what they whispered about a companion they had lost. He had climbed high to reach a mass of fine lava above him, and at nightfall did not return to his fellows. When they looked for him the next day they found only his turban, nor was there any sign on the crags below that he had fallen. They did not search any more, because the old man among them said it would be of no use.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     זײַן װעג איז איצטער געליגן באַרג־אַרױף דורך װאָס אַ מאָל װילדער אין טײלװײַז װאַלדיק לאַנד, און ר׳האָט געזען נאָר די כאַלופּעס פֿון קױלן־ברענערס און דעם לאַגער פֿון די װאָס האָבן אָנגעזאַמלט סמאָלע פֿון די סעדער. די לופֿט איז געװען אומעטום ריח־ניחוחדיק מיט באַלזאַם, און די מאַגאַ־פֿײגל האָבן פֿרײלעכערהײט געזונגען בעת זײ האָבן אױפֿגעבליצט די זיבן פֿאַרבן זײערע אין דער זון. בײַ זונפֿאַרגאַנג איז ער געקומען אױף אַ נײַעם לאַגער פֿון לאַװע־זאַמלערס צוריקקומענדיק מיט באַלאָדענע זעק פֿון די אונטער־אוקאָסן פֿון נגראַנעק; און דאָ האָט ער אױכעט זיך געלאַגערט, זיך צוהערנדיק צו די לידער און מעשׂיות פֿון די מענטשן, און אונטערהערנדיק װאָס זײ האָבן געשעפּטשעט צוליב אַ באַגלײטער װאָס זײ האָבן אים פֿאַרלױרן. יענער האָט זיך אַרױפֿגעקלעטערט הױך כּדי צו דערגרײכן אַ מאַסע דראָבנע לאַװע אױבן, און בײַ פֿאַרנאַכט איז ער נישט צוריק צו זײַנע חבֿרים. װען זײ האָבן אים דעם צװײטן טאָג געזוכט האָבן זײ געפֿונען נאָר אַ טורבאַן, און ס׳איז נישט געװען קײן צײכן אױף די סקאַלעס אונטן אַז ר׳איז געהאַט געפֿאַלן. זײ האָבן שױן נישט געזוכט װײַטער, װײַל דער זקן זײערער האָט געזאָגט אַז דאָס װאָלט בכלל נישט טױגן.
    </span>
   </p>
@@ -917,17 +1173,20 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶60 The next day he rose with the lava-gatherers and exchanged farewells as they rode west and he rode east on a zebra he bought of them. Their older men gave him blessings and warnings, and told him he had better not climb too high on Ngranek, but while he thanked them heartily he was in no wise dissuaded. For still did he feel that he must find the gods on unknown Kadath; and win from them a way to that haunting and marvellous city in the sunset. By noon, after a long uphill ride, he came upon some abandoned brick villages of the hill-people who had once dwelt thus close to Ngranek and carved images from its smooth lava. Here they had dwelt till the days of the old tavernkeeper's grandfather, but about that time they felt that their presence was disliked. Their homes had crept even up the mountain's slope, and the higher they built the more people they would miss when the sun rose. At last they decided it would be better to leave altogether, since things were sometimes glimpsed in the darkness which no one could interpret favourably; so in the end all of them went down to the sea and dwelt in Baharna, inhabiting a very old quarter and teaching their sons the old art of image-making which to this day they carry on. It was from these children of the exiled hill-people that Carter had heard the best tales about Ngranek when searching through Baharna's ancient taverns.
+    60 The next day he rose with the lava-gatherers and exchanged farewells as they rode west and he rode east on a zebra he bought of them. Their older men gave him blessings and warnings, and told him he had better not climb too high on Ngranek, but while he thanked them heartily he was in no wise dissuaded. For still did he feel that he must find the gods on unknown Kadath; and win from them a way to that haunting and marvellous city in the sunset. By noon, after a long uphill ride, he came upon some abandoned brick villages of the hill-people who had once dwelt thus close to Ngranek and carved images from its smooth lava. Here they had dwelt till the days of the old tavernkeeper's grandfather, but about that time they felt that their presence was disliked. Their homes had crept even up the mountain's slope, and the higher they built the more people they would miss when the sun rose. At last they decided it would be better to leave altogether, since things were sometimes glimpsed in the darkness which no one could interpret favourably; so in the end all of them went down to the sea and dwelt in Baharna, inhabiting a very old quarter and teaching their sons the old art of image-making which to this day they carry on. It was from these children of the exiled hill-people that Carter had heard the best tales about Ngranek when searching through Baharna's ancient taverns.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     דעם צװײטן טאָג האָט ער זיך אױסגעטשוכעט מיט די לאַװע־זאַמלערס און זיך געזעגענט בעת זײ זײַנען געריטן אױף מערבֿ און ער איז געריטן אױף מיזרח אױף אַ זעברע װאָס ער האָט אָפּגעקױפֿט בײַ זײ. די עלטערע זײערע האָבן אים געגעבן ברכות און װאָרענונגען, און אים געזאָגט אַז ס׳איז אים באָדײ בעסער נישט אַרױפֿצוקלעטערן צו הױך אױף נגראַנעק, אָבער כאָטש ר׳האָט זײ האַרציק געדאַנקט, איז ער בשום־אופֿן נישט אָפּגערעדט געװאָרן. װײַל נאָך האָט ער געפֿילט אַז ער מוז געפֿינען די געטער אױף קדת און געװינען פֿון זײ אַ װעג אין יענער נאָגנדיקער און װוּנדערלעכער שטאָט אין דער שקיעה. ביז האַלבן טאָג, נאָך אַ לאַנגער יאַזדע באַרג־אַרױף, איז ער געקומען אױף עטלעכע פֿאַרװאָרלאָזענע ציגלענע דערפֿער פֿון די באַרגסלײַט װאָס האָבן אַ מאָל געװױנט אַזױ נאָענט צו נגראַנעק און אױסגעשניצט געשטאַלטן פֿון זײַן גלאַטיקער לאַװע. דאָ האָבן זײ געװױנט זינט די טעג פֿון דעם אַלטן קרעטשמערס זײדן, אָבער אַרום יענער צײַט האָבן זײ געפֿילט אַז עמעצער האָט נישט ליב זײער פֿאַראַנענקײט. די הײמען זײערע זײַנען אַרױפֿגערקראָכן ממש אױפֿן באַרגאוקאָס, און װאָס העכער האָבן זײ אױפֿגעבױט אַלץ מער מענטשן פֿלעגן זײ אױספֿעלן װען די זון איז אױפֿגעגאַנגען. סוף־כּל־סוף האָבן זײ באַשלאָסן אַז עס װאָלט זײ זײַן בעסער אַװעקצוגײן לחלוטין, װאָרן מע האָט אַ מאָל געכאַפּט אַ גיכן בליק אױף זאַכן אינעם פֿינצטערניש װאָס מע האָט נישט געקענט גוטגינציק אױסטײַטשן; זײַנען זײ אַלע לסוף־מעשה אַראָפּ צום ים צו און געװױנט אין באַהאַרנע, באַװױנענדיק אַ קװאַרטאַל אַ גאָר אַלטן און לערנענדיק די זין די אַלטע קונסט פֿון געשטאַטלט־מאַכן װאָס עד־היום זײַנען זײ זי נאָך ממשיך. ס׳איז געװען פֿון די דאָזיקע קינדער פֿון די פֿאַרטריבענע אין גלות באַרגסלײַט אַז קאַרטער האָט געהערט די בעסטע מעשׂיות בנוגע נגראַנעק בשעת דורכזוכן דורך די פֿאַרצײַטיקע באַהאַרנער שענקען.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶61 All this time the great gaunt side of Ngranek was looming up higher and higher as Carter approached it. There were sparse trees on the lower slopes and feeble shrubs above them, and then the bare hideous rock rose spectral into the sky, to mix with frost and ice and eternal snow. Carter could see the rifts and ruggedness of that sombre stone, and did not welcome the prospect of climbing it. In places there were solid streams of lava, and scoriac heaps that littered slopes and ledges. Ninety aeons ago, before even the gods had danced upon its pointed peak, that mountain had spoken with fire and roared with the voices of the inner thunders. Now it towered all silent and sinister, bearing on the hidden side that secret titan image whereof rumour told. And there were caves in that mountain, which might be empty and alone with elder darkness, or might — if legend spoke truly — hold horrors of a form not to be surmised.
    </span>
   </p>
@@ -937,7 +1196,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶62 The ground sloped upward to the foot of Ngranek, thinly covered with scrub oaks and ash trees, and strewn with bits of rock, lava, and ancient cinder. There were the charred embers of many camps, where the lava-gatherers were wont to stop, and several rude altars which they had built either to propitiate the Great Ones or to ward off what they dreamed of in Ngranek's high passes and labyrinthine caves. At evening Carter reached the farthermost pile of embers and camped for the night, tethering his zebra to a sapling and wrapping himself well in his blankets before going to sleep. And all through the night a voonith howled distantly from the shore of some hidden pool, but Carter felt no fear of that amphibious terror, since he had been told with certainty that not one of them dares even approach the slope of Ngranek.
    </span>
   </p>
@@ -951,7 +1210,7 @@ lang: yi
    <span style="font-weight:700;font-style:italic">
     גרױסע
    </span>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     צי אָפּצוּװערן דאָס װאָס עס האָט זיך זײ געחלומט אין די הױכע דורכגאַנגען פֿון נגראַנעק און די פֿאַרפּלאָנטערטע הײלן. שױן בײַ אָװענט האָט קאַרטער דערגרײכט די װײַטסטן הױפֿן זשאַר און זיך געלאַגערט פֿאַר דער נאַכט, צושטריקנלדיק זײַן זעברע צו אַ שפּראָצל און זיך גוט אַרומװיקלנדיק מיט זײַנע צודקען אײדער ר׳איז אײַנגעשלאָפֿן. און דורך דער גאַנצער נאַכט האָט אַ װוּנית געװױעט אין דער װײַטנס פֿונעם ברעג פֿון עפּעס אַ פֿאַרטײַעטער סאַזשלקע, אָבער קאַרטער האָט נישט געפֿילט מורא פֿון יענעם אַמפֿיביש שרעקעניש, װײַל מע האָט אים געזאָגט אױף זיכער אַז נישט קײנער פֿון זײ דערװעגט זיך דערנעענטערן צו דעם נגראַנעק־אוקאָס.
    </span>
   </p>
@@ -961,12 +1220,12 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     אין דער קלאָרער זונענשײַן פֿון פֿרימאָרגן האָט קאַרטער זיך גענומען צום לאַנגן אױפֿשטײַג, פֿירנדיק זײַן זעברע אַזױ װײַט װי יענע ניצלעכע חיה האָט געקענט גײן, אָבער זי פֿאַרבינדנדיק צו אַ פֿאַרהאַלטענעם יאַסען װען די דיל פֿונעם שיטערן װאַלד איז געװאָרן צו שטאָציק. דערנאָנעם האָט ער זיך קאַראַפּקעט אַלײן; צום ערשטנס דורכן װאַלד מיט זײַנע רויִנען פֿון אַלטע דערפֿער אין פֿאַרװאַקסענע פּאָליאַנעס, און דערנאָך איבער דעם אױסהאַלטעװדיקן גראָז װוּ אַנעמישע קשאַקעס זײַנען דאָ און דאָרט געװאַקסן. דאָס אַװעקגײן פֿון די בײמער האָט אים באַנג געטאָן, װײַל דער אוקאָס איז געװען גאָר אָפּריסיק און דער גאַנצער ענין האָט אים ממש געשװינדלט דעם קאָפּ. מיט דער צײַט האָט ער גענומען דערקענען דאָס גאַנצע לאַנד אױסגעשפּרײט אונטער אים װוּ נאָר ער האָט אַרומגעקוקט; די פֿאַרלאָזענע כאַטעס פֿון די געשטאַלט־מאַכערס, די סעדער פֿון סמאָלעבײמער, און די לאַגערן פֿון יענע װאָס האָבן אױסקגעליבן פֿון די בײמער, די װעלדער װוּ פּריזמאַטישע מאַגאַס נעסטיקן זיך אײַן און זינגען, און אַפֿילו אַ רמז גאָר גאָר װײַט פֿון די באָרטן פֿון יאַת און פֿון יענע אָפּשרעקנדיקע פֿאַרצײַטיקע רויִנען װאָס זײער נאָמען איז שױן פֿאַרגעסן. ער האָט זיך דערװוּסט אַז ס׳איז בעסער נישט אַרומצוקוקן, און האָט געהאַלטן אין אײן קלעטערן און קלעטרן ביז די קשאַקעס האָבן זיך געשיטערט און ס׳איז געװען נישט אױף װאָס צו קלאַמערן אַחוץ דאָס אױסהאַלטעװדיקע גראָז.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶64 Then the soil became meagre, with great patches of bare rock cropping out, and now and then the nest of a condor in a crevice. Finally there was nothing at all but the bare rock, and had it not been very rough and weathered, he could scarcely have ascended farther. Knobs, ledges, and pinnacles, however, helped greatly; and it was cheering to see occasionally the sign of some lava-gatherer scratched clumsily in the friable stone, and know that wholesome human creatures had been there before him. After a certain height the presence of man was further shewn by handholds and footholds hewn where they were needed, and by little quarries and excavations where some choice vein, or stream of lava had been found. In one place a narrow ledge had been chopped artificially to an especially rich deposit far to the right of the main faline of ascent. Once or twice Carter dared to look around, and was almost stunnedֿ by the spread of landscape below. All the island betwixt him and the coast lay open to his sight, with Baharna's stone terraces and the smoke of its chimneys mystical in the distance. And beyond that the illimitable Southern Sea with all its curious secrets.
    </span>
   </p>
@@ -976,18 +1235,29 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶65 Thus far there had been much winding around the mountain, so that the farther and carven side was still hidden. Carter now saw a ledge running upward and to the left which seemed to head the way he wished, and this course he took in the hope that it might prove continuous. After ten minutes he saw it was indeed no cul-de-sac, but that it led steeply on in an arc which would, unless suddenly interrupted or deflected, bring him after a few hours' climbing to that unknown southern slope overlooking the desolate crags and the accursed valley of lava. As new country came into view below him he saw that it was bleaker and wilder than those seaward lands he had traversed. The mountain's side, too, was somewhat different; being here pierced by curious cracks and caves not found on the straighter route he had left. Some of these were above him and some beneath him, all opening on sheerly perpendicular cliffs and wholly unreachable by the feet of man. The air was very cold now, but so hard was the climbing that he did not mind it. Only the increasing rarity bothered him, and he thought that perhaps it was this which had turned the heads of other travellers and excited those absurd tales of night-gaunts whereby they explained the loss of such climbers as fell from these perilous paths. He was not much impressed by travellers' tales, but had a good curved scimitar in case of any trouble. All lesser thoughts were lost in the wish to see that carven face which might set him on the track of the gods atop unknown Kadath.
+   <span>
+    ¶65 Thus far there had been much winding around the mountain, so that the farther and carven side was still hidden. Carter now saw a ledge running upward and to the left which seemed to head the way he wished, and this course he took in the hope that it might prove continuous. After ten minutes he saw it was indeed no cul-de-sac, but that it led steeply on in an arc which would, unless suddenly interrupted or deflected, bring him after a few hours' climbing to that unknown southern slope overlooking the desolate crags and the accursed valley of lava. As new country came into view below him he saw that it was bleaker and wilder than those seaward lands he had traversed. The mountain's side, too, was somewhat different; being here pierced by curious cracks and caves not found on the straighter route he had left. Some of these were above him and some beneath him, all opening on sheerly perpendicular cliffs and wholly unreachable by the feet of man. The air was very cold now, but so hard was the climbing that he did not mind it. Only the increasing rarity bothered him, and he thought that perhaps it was this which had turned the heads of other travellers and excited those absurd tales of night-gaunts whereby they explained the loss of such climbers as fell from these perilous paths. He was not much impressed by travellers' tales, but had a good curved scimitar in case of any trouble. All lesser thoughts were lost in the wish to see that carven face which might set him on the track
+   </span>
+   <span>
+   </span>
+   <span>
+    of the gods atop unknown Kadath.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ביז אַהער האָט די סטעזשקע געהאַלטן אין אײן פֿירן אים אַרומשלענגענדיק אַרום דעם באַרג, אַזױ אַז די װײַטערע און אױסגעשניצטע זײַט איז נאָך געװען פֿאַרטײַעט. קאַרטער האָט איצטער געזען אַ פֿעלדנזראַנד זיך פֿירנדיק אַרױף און אױף לינקס, װאָס האָט זיך אַ פּנים אַװעקגעלאָזט אין דער ריכטונג װאָס ער האָט זי געװאָלט, און אָט די זײַט האָט ער גענומען אין דער האָפֿענונג אַז זי זאָל זיך אַרױסװײַזן פֿאַר המשכדיק. נאָך צען מינוט האָט ער געזען אַז ס׳איז דװקא נישט געװען קײן בלינד געסל, אָבער אַז ס׳האָט אַרומגעפֿירט װײַטער אין אַ בױגן װאָס װאָלט, סײַדן פּלוצעם איבערגעריסן אָדער אָפּגעקערט, אים צוגעברעאַכט נאָך אַ פּאָר שעהען אַרױפֿקלעטערן אין יענעם אומבאַקאַנטן אוקאָס אױף דרום װאָס קוקט אַראָפּ אױף די פֿאַרװיסטע סקאַלעס און דעם פֿאַרשאָלטענעם טאָל פֿון לאַװע. בעת נײַער פּײַסאַזש איז אַרײַנגעקומען אינעם געזיכט אונטער אים האָט ער געזען אַז ס׳איז געװען װיסטער און װילדער אײדער יענע לענדער צום ים צו װאָס ער איז זײ אַדורכגעגאַנגען. די באַרגזײַט, דערצו, איז געװען עפּעס אַנדערש; דאָ אַדורכגעשטאָכן מיט טשיקאַװע שפּאַרונעס און הײלן נישט געפֿונען אױף דער גלײַכערן װעג פֿון װעלכן ר׳איז אַװעק. אַ פּאָר פֿון די אָ זײַנען געװען איבער אים און אַ פּאָר אונטער אים, די אַלע זיך עפֿנענדיק אױף גאָלע פּערפּענדיקולאַרע אָפּהאַנגען און אין גאַנצן נישט צום דערגרײכן דורך מענטשנפֿיס. די לופֿט איז איצטער געװען גאָר קאַלט, אָבער אַזױ שװער איז געװען דאָס אַרױפֿקלעטערן אַז ס׳האָט אים נישט געאַרט. נאָר די אָנװאַקסנידקע שיטערקײט איז אים דערגאַנגען די יאָרן, און ר׳האָט געמײנט אַז אפֿשר איז געװען דאָס װאָס האָט די אַנדערע נוסעים אױסגעדרײט דעם קאָפּ, און אָנגערעגט יענע לעכערלעכע מעשׂיות פֿון נאַכטמאָגערס לױט װעלכע זײ האָבן דערקלערט דעם אָנװער פֿון אַזעלכע קלעטערניקעס װאָס זײַנען געפֿאַלן פֿון די דאָזיקע סכּנדיקע סטעזשקעס. װעגסלײַט־מעשׂיות האָבן נישט געמאַכט אױף אים קײן גרױסן רושם, אָבער ער האָט געהאַט אַ קרומן סצימיטאַר פֿון אַן עת־⁠צרה װעגן. ער האָט פֿאַרגעסן אַלע קלענערע קלערונגען אינעם װוּנשט צו זען יענץ אױסגעשניצט פּנים װאָס קען אים קריקשטעלן אױף דער שפּור פֿון די געטער אױף אומבאַקאַנט קאַדאַט.
+   <span>
+    ביז אַהער האָט די סטעזשקע געהאַלטן אין אײן פֿירן אים אַרומשלענגענדיק אַרום דעם באַרג, אַזױ אַז די װײַטערע און אױסגעשניצטע זײַט איז נאָך געװען פֿאַרטײַעט. קאַרטער האָט איצטער געזען אַ פֿעלדנזראַנד זיך פֿירנדיק אַרױף און אױף לינקס, װאָס האָט זיך אַ פּנים אַװעקגעלאָזט אין דער ריכטונג װאָס ער האָט זי געװאָלט, און אָט די זײַט האָט ער גענומען אין דער האָפֿענונג אַז זי זאָל זיך אַרױסװײַזן פֿאַר המשכדיק. נאָך צען מינוט האָט ער געזען אַז ס׳איז דװקא נישט געװען קײן בלינד געסל, אָבער אַז ס׳האָט אַרומגעפֿיר
+   </span>
+   <span>
+    ט װײַטער אין אַ בױגן װאָס װאָלט, סײַדן פּלוצעם איבערגעריסן אָדער אָפּגעקערט, אים צוגעברעאַכט נאָך אַ פּאָר שעהען אַרױפֿקלעטערן אין יענעם אומבאַקאַנטן אוקאָס אױף דרום װאָס קוקט אַראָפּ אױף די פֿאַרװיסטע סקאַלעס און דעם פֿאַרשאָלטענעם טאָל פֿון לאַװע. בעת נײַער פּײַסאַזש איז אַרײַנגעקומען אינעם געזיכט אונטער אים האָט ער געזען אַז ס׳איז געװען װיסטער און װילדער אײדער יענע לענדער צום ים צו װאָס ער איז זײ אַדורכגעגאַנגען. די באַרגזײַט, דערצו, איז געװען עפּעס אַנדערש; דאָ אַדורכגעשטאָכן מיט טשיקאַװע שפּאַרונעס און הײלן נישט געפֿונען אױף דער גלײַכערן װעג פֿון װעלכן ר׳איז אַװעק. אַ פּאָר פֿון די אָ זײַנען געװען איבער אים און אַ פּאָר אונטער אים, די אַלע זיך עפֿנענדיק אױף גאָלע פּערפּענדיקולאַרע אָפּהאַנגען און אין גאַנצן נישט צום דערגרײכן דורך מענטשנפֿיס. די לופֿט איז איצטער געװען גאָר קאַלט, אָבער אַזױ שװער איז געװען דאָס אַרױפֿקלעטערן אַז ס׳האָט אים נישט געאַרט. נאָר די אָנװאַקסנידקע שיטערקײט איז אים דערגאַנגען די יאָרן, און ר׳האָט געמײנט אַז אפֿשר איז געװען דאָס װאָס האָט די אַנדערע נוסעים אױסגעדרײט דעם קאָפּ, און אָנגערעגט יענע לעכערלעכע מעשׂיות פֿון נאַכטמאָגערס לױט װעלכע זײ האָבן דערקלערט דעם אָנװער פֿון אַזעלכע קלעטערניקעס װאָס זײַנען געפֿאַלן פֿון די דאָזיקע סכּנדיקע סטעזשקעס. װעגסלײַט־מעשׂיות האָבן נישט געמאַכט אױף אים קײן גרױסן רושם, אָבער ער האָט געהאַט אַ קרומן סצימיטאַר פֿון אַן עת־⁠צרה װעגן. ער האָט פֿאַרגעסן אַלע קלענערע קלערונגען אינעם װוּנשט צו זען יענץ אױסגעשניצט פּנים װאָס קען אים קריקשטעלן אױף דער שפּור פֿון די געטער אױף אומבאַקאַנט קאַדאַט.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶66 At last, in the fearsome iciness of upper space, he came round fully to the hidden side of Ngranek and saw in infinite gulfs below him the lesser crags and sterile abysses of lava which marked olden wrath of the Great Ones. There was unfolded, too, a vast expanse of country to the south; but it was a desert land without fair fields or cottage chimneys, and seemed to have no ending. No trace of the sea was visible on this side, for Oriab is a great island. Black caverns and odd crevices were still numerous on the sheer vertical cliffs, but none of them was accessible to a climber. There now loomed aloft a great beetling
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶66 At last, in the fearsome iciness of upper space, he came round fully to the hidden side of Ngranek and saw in infinite gulfs below him the lesser crags and sterile abysses of lava which marked olden wrath of the Great Ones. There was unfolded, too, a vast expanse of country to the south; but it was a desert land without fair fields or cottage chimneys, and seemed to have no ending. No trace of the sea was visible on this side, for Oriab is a great island. Black caverns and odd crevices were still numerous on the sheer vertical cliffs, but none of them was accessible to a climber. There now loomed aloft a great beetling mass which hampered the upward view, and Carter was for a moment shaken with doubt lest it prove impassable. Poised in windy insecurity miles above earth, with only space and death on one side and only slippery walls of rock on the other, he knew for a moment the fear that makes men shun Ngranek's hidden side. He could not turn round, yet the sun was already low. If there were no way aloft the night would find him crouching there still, and the dawn would not find him at all.
+    mass which hampered the upward view, and Carter was for a moment shaken with doubt lest it prove impassable. Poised in windy insecurity miles above earth, with only space and death on one side and only slippery walls of rock on the other, he knew for a moment the fear that makes men shun Ngranek's hidden side. He could not turn round, yet the sun was already low. If there were no way aloft the night would find him crouching there still, and the dawn would not find him at all.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1015,8 +1285,11 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶68 He felt from the chill that he must be near the snow line, and looked up to see what glittering pinnacles might be shining in that late ruddy sunlight. Surely enough, there was the snow uncounted thousands of feet above, and below it a great beetling crag like that he had just climbed;
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶68 He felt from the chill that he must be near the snow line, and looked up to see what glittering pinnacles might be shining in that late ruddy sunlight. Surely enough, there was the snow uncounted thousands of feet above, and below it a great beetling crag like that he had just climbed; hanging there forever in bold outline. And when he saw that crag he gasped and cried out aloud, and clutched at the jagged rock in awe; for the titan bulge had not stayed as earth's dawn had shaped it, but gleamed red and stupendous in the sunset with the carved and polished features of a god.
+    hanging there forever in bold outline. And when he saw that crag he gasped and cried out aloud, and clutched at the jagged rock in awe; for the titan bulge had not stayed as earth's dawn had shaped it, but gleamed red and stupendous in the sunset with the carved and polished features of a god.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1036,7 +1309,7 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc8JfyJMvIJGXfBCj6y2jVKqRPc7G2Fatybuor6rr0VbLl19Cs1VvQVNeEe23YYEFoWf0716IKqLyv8OH-JC4RG5KBwBbvlZ657U2HwhifyAbAlAlQRNPO6W-TvCLxrbtP8Mfq3?key=Md61cfUCxoLOsZM6dcQZBA" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKG_WBdmbXGrOtoRQ9VVi1THLpvGbpc1zk6ox-uvkZXHMtTW1bWXcaQuN-tbR7P_6Kx2lYe2V_iaCb4OuQIq1YUXk_JTVyEbMY6xqDMe7ld0MyM0sUmF2Qc55ow8fx8Au6k5f2eHXGFaBsdJiV1G801ZE-vQ?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1064,23 +1337,38 @@ lang: yi
    <span style="font-weight:700;font-style:italic">
     גרױסע
    </span>
+   <span>
+    . איז ער מוז קײן קעלעפֿאַיִס, װײַט װײַט פֿונעם אינדזל אָריאַב, און אין אַזעלכע קאַנטן אַז װאָלטן אים צוריקברענגען קײן דילאַת־לין און אַרױפֿן סקײַ און צו דער בריק בײַ ניר, און נאָך אַ מאָל אינעם פֿאַרכּישופֿטן װאַלד פֿון די זוגן, פֿון װאַנען װאָלט דער װעג זיך בײגן אױף צפֿון דורך די גאָרטנלענדער בײַ אוקראַנאָס צו די באַגילדעטע טורעמשפּיצן פֿון תּראַן, װוּ ער זאָל קענען געפֿינען אַ גאַליע אױפֿן װעג איבערן צערענאַרער
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    . איז ער מוז קײן קעלעפֿאַיִס, װײַט װײַט פֿונעם אינדזל אָריאַב, און אין אַזעלכע קאַנטן אַז װאָלטן אים צוריקברענגען קײן דילאַת־לין און אַרױפֿן סקײַ און צו דער בריק בײַ ניר, און נאָך אַ מאָל אינעם פֿאַרכּישופֿטן װאַלד פֿון די זוגן, פֿון װאַנען װאָלט דער װעג זיך בײגן אױף צפֿון דורך די גאָרטנלענדער בײַ אוקראַנאָס צו די באַגילדעטע טורעמשפּיצן פֿון תּראַן, װוּ ער זאָל קענען געפֿינען אַ גאַליע אױפֿן װעג איבערן צערענאַרער ים.
+    ים.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶72 But dusk was now thick, and the great carven face looked down even sterner in shadow. Perched on that ledge night found the seeker; and in the blackness he might neither go down nor go up, but only stand and cling and shiver in that narrow place till the day came, praying to keep awake lest sleep loose his hold and send him down the dizzy miles of air to the crags and sharp rocks of the accursed valley. The stars came out, but save for them there was only black nothingness in his eyes; nothingness leagued with death, against whose beckoning
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶72 But dusk was now thick, and the great carven face looked down even sterner in shadow. Perched on that ledge night found the seeker; and in the blackness he might neither go down nor go up, but only stand and cling and shiver in that narrow place till the day came, praying to keep awake lest sleep loose his hold and send him down the dizzy miles of air to the crags and sharp rocks of the accursed valley. The stars came out, but save for them there was only black nothingness in his eyes; nothingness leagued with death, against whose beckoning he might do no more than cling to the rocks and lean back away from an unseen brink. The last thing of earth that he saw in the gloaming was a condor soaring close to the westward precipice beside him, and darting screaming away when it came near the cave whose mouth yawned just out of reach.
+    he might do no more than cling to the rocks and lean back away from an unseen brink. The last thing of earth that he saw in the gloaming was a condor soaring close to the westward precipice beside him, and darting screaming away when it came near the cave whose mouth yawned just out of reach.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    אָבער דאָס בין־⁠השמשות האָט זיך שױן פֿאַרגעדיכטיקט, און דאָס גרױסע אױסגעשניצטע פּנים האָט אַראָפּגעקוקט נאָך שטרענגער אין שאָטן. געזעצט אױף יענעם פֿעלדזנראַנד האָט דעם זוכער געפֿונען נאַכט; און אין דער שװאַרצקײט האָט ער געקענט נישט אַראָפּ און נישט אַרױף, נאָר שטײן און זיך קלאַמערן און ציטערן אין יענעם שמאָלן אָרט ביז דער טאָג זאָל קומען, טוענדיק תּפֿילה צו בלײַבן אױף װאַך כּדי דער שלאָף זאָל נישט לױז מאַכן זײַן אַחיזה און אים אַראָפּשיקן אַראָפּ די קאָפּ־שװינדלנדיקע מײַלן לופֿט אין די סקאַלעס און שאַרפֿע פֿעלדזן פֿונעם פֿאַרשאָלטענעם טאָל. די שטערן זײַנען אַרױסגעקומען, אָבער אַחוץ זײ איז געװען בײַ אים אין די אױגן נאָר שװאַרצער גאָרנישט; גאָרנישט יד־אַחד מיט טױט, װאָס אַקעגן זײַן צוּװינקען האָט ער נישט געקענט טאָן מער װי זיך קלאַמערן צו די פֿעלדזן און זיך אָנלענען אױף צוריק פֿון אַן אומגעזעענעם ראַנד. דער לעצטער בליק פֿון דער ערד װאָס ר׳האָט געזען אינעם דעמערן איז געװען אַ קאָנדאָר אַרױפֿשװעבנדיק נאָענט צו דעם מערבֿדיקן אָפּריס לעבן אים, און זיך אַװעקיאָגנדיק מיט אַ קװיטש װען ר׳איז געקומען נאָענט צו דער הײל װאָס איר מױל האָט געגענעצט אַזש מחוץ דעם גרײך.
+    אָבער דאָס בין־⁠השמשות האָט זיך שױן פֿאַרגעדיכטיקט, און דאָס גרױסע אױסגעשניצטע פּנים האָט אַראָפּגעקוקט נאָך שטרענגער אין שאָטן. געזעצט אױף יענעם פֿעלדזנראַנד האָט דעם זוכער געפֿונען נאַכט; און אין דער שװאַרצקײט האָט ער געקענט נישט אַראָפּ און נישט אַרױף, נאָר שטײן און זיך קלאַמערן און ציטערן אין יענעם שמאָלן אָרט ביז דער טאָג זאָל קומען, טוענדיק תּפֿילה צו בלײַבן אױף װאַך כּדי דער שלאָף זאָל נישט לױז מאַכן זײַן אַחיזה און אים אַראָפּשיקן אַראָפּ די קאָפּ־שװינדלנדיקע מײַלן לופֿט אין די סקאַלעס און שאַרפֿע פֿעלדזן פֿונעם פֿאַרשאָלטענעם טאָל. די שטערן זײַנען אַרױסגעקומען, אָבער אַחוץ זײ איז געװען
+   </span>
+   <span>
+    בײַ אים אין די אױגן
+   </span>
+   <span>
+    נאָר שװאַרצער גאָרנישט; גאָרנישט יד־אַחד מיט טױט, װאָס אַקעגן זײַן צוּװינקען האָט ער נישט געקענט טאָן מער װי זיך קלאַמערן צו די פֿעלדזן און זיך אָנלענען אױף צוריק פֿון אַן אומגעזעענעם ראַנד. דער לעצטער בליק פֿון דער ערד װאָס ר׳האָט געזען אינעם דעמערן איז געװען אַ קאָנדאָר אַרױפֿשװעבנדיק נאָענט צו דעם מערבֿדיקן אָפּריס לעבן אים, און זיך אַװעקיאָגנדיק מיט אַ קװיטש װען ר׳איז געקומען נאָענט צו דער הײל װאָס איר מױל האָט געגענעצט אַזש מחוץ דעם גרײך.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶73 Suddenly, without a warning sound in the dark, Carter felt his curved scimitar drawn stealthily out of his belt by some unseen hand. Then he heard it clatter down over the rocks below. And between him and the Milky Way he thought he saw a
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶73 Suddenly, without a warning sound in the dark, Carter felt his curved scimitar drawn stealthily out of his belt by some unseen hand. Then he heard it clatter down over the rocks below. And between him and the Milky Way he thought he saw a very terrible outline of something noxiously thin and horned and tailed, and bat-winged. Other things, too, had begun to blot out patches of stars west of him, as if a flock of vague entities were flapping thickly and silently out of that inaccessible cave in the face of the precipice. Then a sort of cold rubbery arm seized his neck and something else seized his feet, and he was lifted inconsiderately up and swung about in space. Another minute and the stars were gone, and Carter knew that the night-gaunts had got him.
+    very terrible outline of something noxiously thin and horned and tailed, and bat-winged. Other things, too, had begun to blot out patches of stars west of him, as if a flock of vague entities were flapping thickly and silently out of that inaccessible cave in the face of the precipice. Then a sort of cold rubbery arm seized his neck and something else seized his feet, and he was lifted inconsiderately up and swung about in space. Another minute and the stars were gone, and Carter knew that the night-gaunts had got him.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1094,8 +1382,11 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    זײ האָבן אים דערטראָגן אַ פֿאַרדעכעטן אין יענער פֿאָרבאַרג־הײל אַרײַן, און דורך מאָנסטעריעזע לאַבירינטן הינטער איר. װען ער האָט זיך קלאָפּאָטשעט, װי ר׳האָט צום ערשטנס פֿון אינסטיקט געטאָן, האָבן זײ אים געקיצלט מיט באַטראַכט. האָבן זײ געמאַכט נישט קײן קלאַנג אַלײן, און אַפֿילו זײערע הײַטלדיקע פֿליגלען האָבן געשװיגן. זײ זײַנען געװען מוראדיק קאַלט און נאַסלעך און גליטשיק, און זײערע לאַפּעס האָבן פּאַסקודנע געקנעט. אין גיכן האָבן זײ זיך אַראָפּגעװאַרפֿן גרױלעך אַראָפּ דורך אומבאַנעמלעכע תּהומן אין אַ װירבלענדיק, שװינדלדיק, מיגלדיק געאײַל פֿון פֿײַכטן קבֿרדיקן אַװיר; און קאַרטער האָט געפֿילט אַז זײ שיסן זיך אין דעם לעצטגילטיקן געװירבל פֿון קװיטשענדיק און דעמאָניש משוגעת. ער האָט געקװיטשעט אָבער און װידער, אָבער װען נאָר ער האָט אַזױ געטאָן האָבן די שװאַרצע לאַפּעס אים געקיצלט מיט אַלץ גרעסערער סובטילקײט. דערנאָך האָט ער געזען אַרומעט אַ סאָרט גראָע פֿאָספֿאָרעסצענץ, און האָט געטראָפֿן אַז זײ קומען אָן ממש אין יענער אינעװײניקסטער װעלט פֿון אונטערערדישן שױדער װאָס צוליב איר דערצײלן פֿינצטערלעכע לעגענדעס, און װאָס איז באַלײַכט נאָר מיטן בלאַסן טױט־פֿײַער װאָס פֿון אים סרחענט דער מתים־⁠פֿרעסערישער אַװיר און די קדמונישע טומאַנען פֿון די גריבער בײַם ערדיאָדער.
+   <span>
+    זײ האָבן אים דערטראָגן אַ פֿאַרדעכעטן אין יענער פֿאָרבאַרג־הײל אַרײַן, און דורך מאָנסטעריעזע לאַבירינטן הינטער איר. װען ער האָט זיך קלאָפּאָטשעט, װי ר׳האָט צום ערשטנס פֿון אינסטיקט געטאָן, האָבן זײ אים געקיצלט מיט באַטראַכט. האָבן זײ געמאַכט נישט קײן קלאַנג אַלײן, און אַפֿילו זײערע הײַטלדיקע פֿליגלען האָבן געשװיגן. זײ זײַנען געװען מוראדיק קאַלט און נאַסלעך און גליטשיק, און זײערע לאַפּעס האָבן פּאַסקודנע געקנעט. אין גיכן האָבן זײ זיך אַראָפּגעװאַרפֿן גרױלעך אַראָפּ דורך אומבאַנעמלעכע תּהומן אין אַ װירבלענדיק, שװינדלדיק, מיגלדיק געאײַל פֿון פֿײַכטן קבֿרדיקן אַװיר; און קאַרטער האָט געפֿילט אַז זײ שיסן זיך אין דעם לעצטגילטיקן געװירבל פֿון קװיטשענדיק און דעמאָניש משוגעת. ער האָט געקװיטשעט אָבער און װידער, אָבער װען נאָר ער האָט אַזױ געטאָן האָבן די שװאַרצע לאַפּעס אים געקיצלט מיט אַלץ גרעסערער סובטילקײט. דערנאָך האָט ער געזען אַרומעט אַ סאָרט גראָע פֿאָספֿאָרעסצענץ, און האָט געטראָפֿן אַז זײ קומען אָן ממש אין יענער אינעװײניקסטער װעלט פֿון אונטערערדישן שױדער װאָס צוליב איר דערצײלן פֿינצטערלעכע לעגענדעס, און װאָס איז באַלײַכט נאָר מיטן בלאַסן טױט־פֿײַער װאָס פֿון אים סרחענט דער מתים־⁠פֿרעסערישער אַװיר און די קדמונישע טומאַנען פֿון די גריבער בײַ
+   </span>
+   <span>
+    ם ערדיאָדער.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1109,7 +1400,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶76 As the band flew lower the Peaks of Throk rose grey and towering on all sides, and one saw clearly that nothing lived on that austere and impressive granite of the endless twilight. At still lower levels the death-fires in the air gave out, and one met only the primal blackness of the void save aloft where the thin peaks stood out goblin-like. Soon the peaks were very far away, and nothing about but great rushiƒng winds with the dankness of nethermost grottoes in them. Then in the end the night-gaunts landed on a floor of unseen things which felt like layers of bones, and left Carter all alone in that black valley. To bring him thither was the duty of the night-gaunts that guard Ngranek; and this done, they flapped away silently. When Carter tried to trace their flight he found he could not, since even the Peaks of Throk had faded out of sight. There was nothing anywhere but blackness and horror and silence and bones.
    </span>
   </p>
@@ -1124,18 +1415,24 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     לאָזט זיך אױס אַז קאַרטער האָט דערװוּסט פֿון אַ געװיסן מקור אַז ער איז געװען אין דער דאָלענע פֿון פּנאָת, װוּ קריכן און גראָבן זיך אײַן די ריזיקע דאָלעס; אָבער ר׳האָט נישט געװוּסט אױף װאָס צו רעכענען, װײַל קײנער האָט נישט געזען אַ דאָלע אָדער אַפֿילו געטראָפֿן װאָס אַזאַ זאַך קען זײַן. דאָלעס דערקענט מען נאָר דורך פֿינצטערלעכער שמועה, פֿונעם שאָרעך װאָס זײ מאַכן צװישן בערג בײנער און דורך דעם שלײַמיקן טאַפּ װעלכן זײ האָבן װען זײ שלענגלען זיך פֿאַרבײַ. מ׳קען זײ נישט זען װײַל זײ פּױזען נאָר אינעם פֿינצטערניש. קאַרטער האָט נישט געװאָלט אָנטקומען אַ דאָלע, האָט ער זיך קאָנצענטרירטערהײט צוגעהערט פֿאַר װאָסער נישט איז קלאַנג אין די אומבאַקאַנטע טיפֿן פֿון בײנער אַרומעט. אַפֿילו אינעם דאָזיקן סטראַשנע אָרט האָט ער געהאַט אַ פּלאַן און אַ ציל, װאָרן שעפּטשן פֿון פּנאָת זײַנען נישט געװען אומבאַקאַנט אײנעם מיט װעלכן ער האָט געשמועסט אַ סך אין די אַמאָליקע יאָרן. אַ קיצור, איז געװען עפּעס מעגלעך אַז דאָס איז דער פּלאַץ אין װעלכן אַלע מתים־פֿרעסערס װאָרפֿן אַרײַן דעם אָפּפֿאַל פֿון זײערע סעודות; און אַז טאָמער װאָלט ער האָבן מזל װאָלט ער זיך אפֿשר אָנטרעפֿן אױף יענער מאַכטיקער סקאַלע, נאָך העכער אײדער די שפּיצן פֿון תּראָק, װאָס באַצײכנט דעם ראַנד פֿון זײער געמאַרק. רעגנדלעך בײנער װאָלטן אים זאָגן װוּאַהין צו זוכן; און װי נאָר געפֿונען, װאָלט ער געקענט רופֿן אַ מתים־פֿרעסער אַראָפּצולאָזן אַ לײטער; װײַל, אַן אױסטערלישע מעשׂה, האָט ער געהאַט אַ גאָר יחיד־במינודיק צװישנדל מיט די דאָזיקע געפֿערלעכע באַשעפֿענישן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶78 A man he had known in Boston - a painter of strange pictures with a secret studio in an ancient and unhallowed alley near a graveyard - had actually made friends with the ghouls and had taught him to understand the simpler part of their disgusting meeping and glibbering. This man had vanished at last, and Carter was not sure but that he might find him now, and use for the first time in dreamland that far-away English of his dim waking life. In any case, he felt he could persuade a ghoul to guide him out of Pnoth; and it would be better to meet a ghoul, which one can see, than a Dhole, which one cannot see.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    אַ מענטש װאָס ר׳האָט אים געקענט אין באָסטאָן — אַ מאָלער פֿון אױסטערלישע געמעלן מיט אַ בסודי
+   </span>
+   <span>
+    קן װאַרשטאַט אין אַ פֿאַרצײַטיקן אין או
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    אַ מענטש װאָס ר׳האָט אים געקענט אין באָסטאָן — אַ מאָלער פֿון אױסטערלישע געמעלן מיט אַ בסודיקן װאַרשטאַט אין אַ פֿאַרצײַטיקן אין אומגעהײליקטן ליק לעבן אַ בית־עולם — האָט זיך בפּועל־⁠ממש פֿאַרחבֿרט מיט די מתים־פֿרעסערס, און האָט אים אױסגעלערנט פֿאַרשטײן די פּשוטערן טײל פֿון זײער מיגלדיק מיפּסן און בעבען. דער דאָזיקער מענטש איז סוף־כּל־סןף פֿאַרשװוּנדן געװאָרן, און קאַרטער האָט נישט געװוּסט אױף זיכער אַז ער זאָל אים נישט געפֿינען בקרובֿ, און ניצן אױפֿן ערשטן מאָל אין חלום־לאַנד יענעם װײַט ענגליש פֿון זײַן פֿינצטערלעך װאַך־לעבן. סײַ־װי האָט ער געמײנט אַז ער האָט געקענט איבערצײַגן אַ מתים־פֿרעסער אים צו פֿירן אױס פּנאָת; און באָדײַ אָנטרעפֿן אַ מתים־פֿרעסער, װאָס מ׳קען אים זען, אַבי אַ דאָלע, װאָס מע זעט זי נישט.
+    מגעהײליקטן ליק לעבן אַ בית־עולם — האָט זיך בפּועל־⁠ממש פֿאַרחבֿרט מיט די מתים־פֿרעסערס, און האָט אים אױסגעלערנט פֿאַרשטײן די פּשוטערן טײל פֿון זײער מיגלדיק מיפּסן און בעבען. דער דאָזיקער מענטש איז סוף־כּל־סןף פֿאַרשװוּנדן געװאָרן, און קאַרטער האָט נישט געװוּסט אױף זיכער אַז ער זאָל אים נישט געפֿינען בקרובֿ, און ניצן אױפֿן ערשטן מאָל אין חלום־לאַנד יענעם װײַט ענגליש פֿון זײַן פֿינצטערלעך װאַך־לעבן. סײַ־װי האָט ער געמײנט אַז ער האָט געקענט איבערצײַגן אַ מתים־פֿרעסער אים צו פֿירן אױס פּנאָת; און באָדײַ אָנטרעפֿן אַ מתים־פֿרעסער, װאָס מ׳קען אים זען, אַבי אַ דאָלע, װאָס מע זעט זי נישט.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1149,17 +1446,47 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶80 Sound travels slowly, so it was some time before he heard an answering glibber. But it came at last, and before long he was told that a rope ladder would be lowered. The wait for this was very tense, since there was no telling what might not have been stirred up among those bones by his shouting. Indeed, it was not long before he actually did hear a vague rustling afar off. As this thoughtfully approached, he became more and more uncomfortable; for he did not wish to move away from the spot where the ladder would come. Finally the tension grew almost unbearable, and he was about to flee in panic when the thud of something
+   </span>
+   <span>
+    on the newly heaped bones nearby drew his notice from the other sound. It was the ladder, and after a minute of groping he had it taut in his hands. But the other sound did not cease, and followed him even as he climbed. He had gone fully five feet from the ground when the rattling beneath waxed emphatic, and was a good ten feet up when something swayed the ladder from below. At a height which must have been fifteen or twenty feet he felt his whole side brushed by a great slippery length which grew alternately convex and concave with wriggling; and hereafter he climbed desperately to escape the unendurable nuzzling
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶80 Sound travels slowly, so it was some time before he heard an answering glibber. But it came at last, and before long he was told that a rope ladder would be lowered. The wait for this was very tense, since there was no telling what might not have been stirred up among those bones by his shouting. Indeed, it was not long before he actually did hear a vague rustling afar off. As this thoughtfully approached, he became more and more uncomfortable; for he did not wish to move away from the spot where the ladder would come. Finally the tension grew almost unbearable, and he was about to flee in panic when the thud of something on the newly heaped bones nearby drew his notice from the other sound. It was the ladder, and after a minute of groping he had it taut in his hands. But the other sound did not cease, and followed him even as he climbed. He had gone fully five feet from the ground when the rattling beneath waxed emphatic, and was a good ten feet up when something swayed the ladder from below. At a height which must have been fifteen or twenty feet he felt his whole side brushed by a great slippery length which grew alternately convex and concave with wriggling; and hereafter he climbed desperately to escape the unendurable nuzzling of that loathsome and overfed Dhole whose form no man might see.
+    of that loathsome and overfed Dhole whose form no man might see.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    דער קלאַנג גײט פּאַמעלעך, און דענאָך איז שױן אַריבער אַ שטיק צײַט אײדער ר׳האָט געהערט אַן ענטפֿערנדיק בעבען. אָבער ס׳איז סוף־כּל־סוף געקומען, און אײדער װאָס װען האָט מען אים געזאָגט אַז מ׳װאָלט אים אַראָפּנידערן אַ לײטער. דאָס װאַרטן פֿאַר דעם איז געװען זײער אָנגעשטרענגט, װײַל מ׳האָט נישט געקענט זאָגן מאַלע װאָס צװישן יענע בײנער איז נישט אױפֿגערודערט געװאָרן פֿון דײַן שרײַען. פֿאַר װאָר, איז נישט פֿאַרבײַ קײן לאַנגע צײַט אײדער ר׳האָט לעולם געהערט אַ מטושטש שאָרכען אין דער װײַטנס. בעת דאָס האָט זיך דערנעענטערט מיט אײַנזעעניש, איז ער געװאָרן װאָס אַ מאָל אומבאַקװעמער; װײַל ר׳האָט נישט געװאָלט זיך אַװעקרירן פֿונעם אָרט װוּ דער לײטער װאָלט אָנקומען. סוף־כּל־סוף באָו מים עד נפֿש; ער האָט געהאַלטן בײַם אַנטלױפֿן אין פּאַניק װען דער ליש פֿון עפּעס אױף די נײַ־אָנגעהױפֿנטע בײנער האָט דאָ נישט װײַט אַװעקגעצױגן זײַן אױפֿמערק פֿונעם אַנדערן קלאַנג. ס׳איז געװען אַ לײטער, און נאָך אַ מינוט מאַצען האָט ער אים געהאַלטן שטײַף אין די הענט. אָבער דער אַנדערער קלאַנג האָט זיך נישט אױפֿגעהערט, און איז אים נאָכגעגאַנגען אַפֿילו בעת ר׳איז אַרױפֿגעקראָכן. ער איז געקראָכן גאַנץ פֿינעף פֿיס אַרױף פֿונעם גרונט װען דאָס גראַגערײַ אונטן איז געװאַקסן עמפֿאַטיש; און ר׳איז געװען שיִער נישט צען פֿיס אַרױף װען עפּעס האָט געשאָקלט דעם לײטער פֿון אונטן. בײַ אַ הײך װאָס איז מסתּמא געװען פֿופֿצן אָדער צװאַנציק פֿיס האָט ער געפֿילט אַז עס יאָגט זיך פֿאַרבײַ אַ גרױסע גליטשיקע לענג װאָס איז געװאָרן אײן מאָל איבער אַ מאָל אױסגעפּוקלט און אײַנגעפּוקלט מיט שלענגלעניש; און ער איז אַרױפֿגעקראָכן אַ פֿאַרייִאושטער כּדי צו אַנטלױפֿן פֿונעם נישט נישט אױסצוהאַלטנדיקן דרוק פֿון יענער האַדקע און איבערגעשטאָפּטער דאָלע װאָס איר פֿאָרעם טאָר קײן מענטש נישט זען.
+   <span>
+    דער קלאַנג גײט פּאַמעלעך, און דענאָך איז שױן אַריבער אַ שטיק צײַט אײדער ר׳האָט געהערט אַן ענטפֿערנדיק בעבען. אָבער ס׳איז סוף־כּל־סוף געקומען, און אײדער װאָס װען האָט מען אים געזאָגט אַז מ׳װאָלט אים אַראָפּנידערן אַ לײטער. דאָס װאַרטן פֿאַר דעם איז געװען זײער אָנגעשטרענגט, װײַל
+   </span>
+   <span>
+    מ׳האָט נישט געקענט זאָגן מאַלע װאָס צװישן יענע בײנער איז נישט אױפֿגערודערט געװאָרן פֿון דײַן שרײַען. פֿאַר װאָר, איז נישט פֿאַרבײַ קײן לאַנגע צײַט אײדער ר׳האָט לעולם געהערט אַ מטושטש שאָרכען אין דער װײַטנס. בעת דאָס האָט זיך דערנעענטערט מיט אײַנזעעניש, איז ער געװאָרן װאָס אַ מאָל אומבאַקװעמער
+   </span>
+   <span>
+    ;
+   </span>
+   <span>
+    װײַל ר׳האָט נישט געװאָלט זיך אַװעקריר
+   </span>
+   <span>
+    ן פֿונעם אָרט װוּ דער לײטער װאָלט אָנקומען. ס
+   </span>
+   <span>
+    וף־כּל־סוף באָו מים עד נפֿש; ער האָט געהאַלטן בײַם אַנטלױפֿן אין פּאַניק װען דער ליש
+   </span>
+   <span>
+    פֿון עפּעס אױף די נײַ־אָנגעהױפֿנטע בײנער האָט דאָ נישט װײַט אַװעקגעצױגן זײַן אױפֿמערק פֿונעם אַנדערן קלאַנג. ס׳איז געװען אַ לײטער, און נאָך אַ מינוט מאַצען האָט ער אים געהאַלטן שטײַף אין די הענט. אָבער דער אַנדערער קלאַנג האָט זיך נישט אױפֿגעהערט, און איז אים נאָכגעגאַנגען אַפֿילו בעת ר׳איז אַרױפֿגעקראָכן. ער איז געקראָכן גאַנץ פֿינעף פֿיס אַרױף פֿונעם גרונט װען דאָס גראַגערײַ אונטן איז געװאַקסן עמפֿאַטיש; און ר׳איז געװען שיִער נישט צען פֿיס אַרױף װען עפּעס האָט געשאָקלט דעם לײטער פֿון אונטן. בײַ אַ הײך װאָס איז מסתּמא געװען פֿופֿצן אָדער צװאַנציק פֿיס האָט ער געפֿילט אַז עס יאָגט זיך פֿאַרבײַ אַ גרױסע גליטשיקע לענג װאָ
+   </span>
+   <span>
+    ס איז געװאָרן אײן מאָל איבער אַ מאָל אױסגעפּוקלט
+   </span>
+   <span>
+    און אײַנגעפּוקלט מיט שלענגלעניש; און ער איז אַרױפֿגעקראָכן אַ פֿאַרייִאושטער כּדי צו אַנטלױפֿן פֿונעם נישט נישט אױסצוהאַלטנדיקן דרוק פֿון יענער האַדקע און איבערגעשטאָפּטער דאָלע װאָס איר פֿאָרעם טאָר קײן מענטש נישט זען.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶81 For hours he climbed with aching and blistered hands, seeing again the grey death-fire and Throk's uncomfortable pinnacles. At last he discerned above him the projecting edge of the great crag of the ghouls, whose vertical side he could not glimpse; and hours later he saw a curious face peering over it as a gargoyle peers over a parapet of Notre Dame. This almost made him lose his hold through faintness, but a moment later he was himself again; for his vanished friend Richard Pickman had once introduced him to a ghoul, and he knew well their canine faces and slumping forms and unmentionable idiosyncrasies. So he had himself well under control when that hideous thing pulled him out of the dizzy emptiness over the edge of the crag, and did not scream at the partly consumed refuse heaped at one side or at the squatting circles of ghouls who gnawed and watched curiously.
    </span>
   </p>
@@ -1169,7 +1496,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶82 He was now on a dim-litten plain whose sole topographical features were great boulders and the entrances of burrows. The ghouls were in general respectful, even if one did attempt to pinch him while several others eyed his leanness speculatively. Through patient glibbering he made inquiries regarding his vanished friend, and found he had become a ghoul of some prominence in abysses nearer the waking world. A greenish elderly ghoul offered to conduct him to Pickman's present habitation, so despite a natural loathing he followed the creature into a capacious burrow and crawled after him for hours in the blackness of rank mould. They emerged on a dim plain strewn with singular relics of earth - old gravestones, broken urns, and grotesque fragments of monuments - and Carter realised with some emotion that he was probably nearer the waking world than at any other time since he had gone down the seven hundred steps from the cavern of flame to the Gate of Deeper Slumber.
    </span>
   </p>
@@ -1188,17 +1515,23 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶83 There, on a tombstone of 1768 stolen from the Granary Burying Ground in Boston, sat a ghoul which was once the artist Richard Upton Pickman. It was naked and rubbery, and had acquired so much of the ghoulish physiognomy that its human origin was already obscure. But it still remembered a little English, and was able to converse with Carter in grunts and monosyllables, helped out now and then by the glibbering of ghouls. When it learned that Carter wished to get to the enchanted wood and from there to the city Celephais in Ooth-Nargai beyond the Tanarian Hills, it seemed rather doubtful; for these ghouls of the waking world do no business in the graveyards of upper dreamland (leaving that to the red-footed wamps that are spawned in dead cities), and many things intervene betwixt their gulf and the enchanted wood, including the terrible kingdom of the Gugs.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    דאָרט אױף אַ מצבֿה פֿון יאָר זיבצן אַכט און זעכציק װאָס איז געהאַט אַװעקגעגנבֿעט געװאָרן פֿון דעם שפּײַכלער־בית־עולם אין באָסטאָן, איז געזעסן אַ מתים־פֿרעסער װאָס איז אַ מאָל געװען דער קינסטלער ריטשאַרד אַפּטאָן פּיקמאַן. ר׳איז געװען נאַקעט און גומעדיק, און ס'איז אים צוגעקומען אַזױ פֿיל פֿונעם מתים־פֿריסערישן קלסתּר־⁠פּנים אַז זײַן מענטשלעכער מקור איז שױן געװען פֿאַרנעפּלט. אָבער ער האָט נאָך געדענקט אַ ביסל ענגליש, און איז געװען מסוגל צו שמועסן מיט קאַרטערן מיט כרוקן און אײנטראַפֿן, געהאָלפֿן פֿון צײַט צו צײַט מיטן בעבען פֿון מתים-פֿרעסערס. װען ער האָט זיך דערװוּסט אַז קאַרטער האָט געװאָלט דערגרײכן דעם פֿאַרכּישופֿטן װאַלד און פֿון דאָרטן די שטאָט קעלעפֿאַיִס אין אות־נאַרגײַ הינטער די טאַנאַריש
+   </span>
+   <span>
+    ע בערג, האָט ער זיך אױסגעדאַכט געספֿקענט; װ
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    דאָרט אױף אַ מצבֿה פֿון יאָר זיבצן אַכט און זעכציק װאָס איז געהאַט אַװעקגעגנבֿעט געװאָרן פֿון דעם שפּײַכלער־בית־עולם אין באָסטאָן, איז געזעסן אַ מתים־פֿרעסער װאָס איז אַ מאָל געװען דער קינסטלער ריטשאַרד אַפּטאָן פּיקמאַן. ר׳איז געװען נאַקעט און גומעדיק, און ס'איז אים צוגעקומען אַזױ פֿיל פֿונעם מתים־פֿריסערישן קלסתּר־⁠פּנים אַז זײַן מענטשלעכער מקור איז שױן געװען פֿאַרנעפּלט. אָבער ער האָט נאָך געדענקט אַ ביסל ענגליש, און איז געװען מסוגל צו שמועסן מיט קאַרטערן מיט כרוקן און אײנטראַפֿן, געהאָלפֿן פֿון צײַט צו צײַט מיטן בעבען פֿון מתים-פֿרעסערס. װען ער האָט זיך דערװוּסט אַז קאַרטער האָט געװאָלט דערגרײכן דעם פֿאַרכּישופֿטן װאַלד און פֿון דאָרטן די שטאָט קעלעפֿאַיִס אין אות־נאַרגײַ הינטער די טאַנאַרישע בערג, האָט ער זיך אױסגעדאַכט געספֿקענט; װײַל די אָ מתים־פֿרעסערס פֿון דער װאַכער װעלט פֿירן נישט געשעפֿטן אין די בתּי־עולם פֿון אײבער־חלום־לאַנד (דערלאָזנדיק דאָס צו די רױט־פֿוסיקע װאַמפּן װאָס װערן אױסגעפּלאָדיעט אין טױטע שטעט), און אַ סך זאַכן אינטערװענירן צװישן זײער אָפּגרונט און דעם פֿאַרכּישופֿטן װאַלד, בתוכם דאָס שרעקלעכע מלכות פֿון די גוגן.
+    ײַל די אָ מתים־פֿרעסערס פֿון דער װאַכער װעלט פֿירן נישט געשעפֿטן אין די בתּי־עולם פֿון אײבער־חלום־לאַנד (דערלאָזנדיק דאָס צו די רױט־פֿוסיקע װאַמפּן װאָס װערן אױסגעפּלאָדיעט אין טױטע שטעט), און אַ סך זאַכן אינטערװענירן צװישן זײער אָפּגרונט און דעם פֿאַרכּישופֿטן װאַלד, בתוכם דאָס שרעקלעכע מלכות פֿון די גוגן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶84 The Gugs, hairy and gigantic, once reared stone circles in that wood and made strange sacrifices to the Other Gods and the crawling chaos Nyarlathotep, until one night an abomination of theirs reached the ears of earth's gods and they were banished to caverns below. Only a great trap door of stone with an iron ring connects the abyss of the earth-ghouls with the enchanted wood, and this the Gugs are afraid to open because of a curse. That a mortal dreamer could traverse their cavern realm and leave by that door is inconceivable; for mortal dreamers were their former food, and they have legends of the toothsomeness of such dreamers even though banishment has restricted their diet to the ghasts, those repulsive beings which die in the light, and which live in the vaults of Zin and leap on long hind legs like kangaroos.
    </span>
   </p>
@@ -1220,11 +1553,11 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXenGX5xjQWNtwVa1xrBxe-RkGMkuY6EHF-kJtITQRpwo5N7fuQAXlGh76Xv8zgmIsXPoITJ5gMf_N9yYfXMfuGBrNwD8b0CzRMK5bp-NEVw-yULXqpLC5GvOtqsxUocm3A3G0E?key=Md61cfUCxoLOsZM6dcQZBA" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd-T6W5Baa9Ho-DRI09VLChHDV494t5S_h9cj2zCaRGuHTETvnidGlBqphZcwIqpkIzZdYX_EjxmAwjDlA6vyhjOsKSKsCYRbsqCueqUw8Ere2IpoaDrVOAZtu43xM4x87IIMqUUlmhIuhl_Hod5Zar5vNeLg?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶85 So the ghoul that was Pickman advised Carter either to leave the abyss at Sarkomand, that deserted city in the valley below Leng where black nitrous stairways guarded by winged diarote lions lead down from dreamland to the lower gulfs, or to return through a churchyard to the waking world and begin the quest anew down the seventy steps of light slumber to the cavern of flame and the seven hundred steps to the Gate of Deeper Slumber and the enchanted wood. This, however, did not suit the seeker; for he knew nothing of the way from Leng to Ooth-Nargai, and was likewise reluctant to awake lest he forget all he had so far gained in this dream. It was disastrous to his quest to forget the august and celestial faces of those seamen from the north who traded onyx in Celephais, and who, being the sons of gods, must point the way to the cold waste and Kadath where the Great Ones dwell.
    </span>
   </p>
@@ -1238,7 +1571,13 @@ lang: yi
    <span style="font-style:italic">
    </span>
    <span>
-    און דעם פֿאַרכּישופֿטן װאַלד. דאָס האָט נישמער נישט געטױגט דעם זוכער; װײַל ער האָט נישט געװוּסט גאָרנישט צוליב דעם װעג פֿון לענג קײן אות־נאַרגײַ, און האָט זיך דערצו געשײַעט זיך אױפֿצוּװעקן כּדי ער זאָל נישט פֿאַרגעסן אַלץ װאָס איז אים עד־⁠עתּה צוגקעומען אין דעם אָ חלום. ס׳װאָלט געװען אַן אומגליק פֿאַר זײַן זוכעניש צו פֿאַרגעסן די דערהױבענע און הימלישע פּנימער פֿון יענע מאַטראָסן פֿון צפֿון װאָס האָבן געמיסחרט מיט אָניקס אין קעלעפֿאַיִס, און װאָס, זײַענדיק זין פֿון געטער, באַװײַזן מסתּמא דעם װעג צום קאַלטן װיסטעניש און קדת װוּ סע װױנען
+    און דעם פֿאַרכּישופֿטן װאַלד. דאָס האָט נישמער נישט געטױגט דעם זוכער; װײַל ער האָט נישט געװוּסט גאָרנישט צוליב דעם װעג פֿון לענג קײן אות־נאַרגײַ, און האָט זיך דערצו געשײַעט זיך אױפֿ
+   </span>
+   <span>
+    צוּ
+   </span>
+   <span>
+    װעקן כּדי ער זאָל נישט פֿאַרגעסן אַלץ װאָס איז אים עד־⁠עתּה צוגקעומען אין דעם אָ חלום. ס׳װאָלט געװען אַן אומגליק פֿאַר זײַן זוכעניש צו פֿאַרגעסן די דערהױבענע און הימלישע פּנימער פֿון יענע מאַטראָסן פֿון צפֿון װאָס האָבן געמיסחרט מיט אָניקס אין קעלעפֿאַיִס, און װאָס, זײַענדיק זין פֿון געטער, באַװײַזן מסתּמא דעם װעג צום קאַלטן װיסטעניש און קדת װוּ סע װױנען
    </span>
    <span style="font-style:italic">
     די
@@ -1251,7 +1590,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶86 After much persuasion the ghoul consented to guide his guest inside the great wall of the Gugs' kingdom. There was one chance that Carter might be able to steal through that twilight realm of circular stone towers at an hour when the giants would be all gorged and snoring indoors, and reach the central tower with the sign of Koth upon it, which has the stairs leading up to that stone trap door in the enchanted wood. Pickman even consented to lend three ghouls to help with a tombstone lever in raising the stone door; for of ghouls the Gugs are somewhat afraid, and they often flee from their own colossal graveyards when they see them feasting there.
    </span>
   </p>
@@ -1261,23 +1600,32 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶87 He also advised Carter to disguise as a ghoul himself; shaving the beard he had allowed to grow (for ghouls have none), wallowing naked in the mould to get the correct surface, and loping in the usual slumping way, with his clothing carried in a bundle as if it were a choice morsel from a tomb. They would reach the city of Gugs - which is coterminous with the whole kingdom - through the proper burrows, emerging in a cemetery not far from the stair-containing Tower of Koth. They must beware, however, of a large cave near the cemetery; for this is the mouth of the vaults of Zin, and the vindictive ghasts are always on watch there murderously for those denizens of the upper abyss who hunt and prey on them. The ghasts try to come out when the Gugs sleep and they attack ghouls as readily as Gugs, for they cannot discriminate. They are very primitive, and eat one another. The Gugs have a sentry at a narrow in the vaults of Zin, but he is often drowsy and is sometimes surprised by a party of ghasts. Though ghasts cannot live in real light, they can endure the grey twilight of the abyss for hours.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ע
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ער האָט אױך געעצהט קאַרטערן זיך פֿאַרשטעלן װי אַ מתים־פֿרעסער; גאָלן די באָרד װאָס ר'האָט זי דערלאָזט װאַקסן (װײַל מתים־פֿרעסערס האָבן קײן באָרד נישט), זיך טאָפּטשען אינעם שימל כּדי צו באַקומען די פּאַסיקע אײבערפֿלאַך, און לױפֿן אונטערשפּרינגענדיק אינעם געװײנטלעכן אײַנגעבױגענעם אופֿן, מיטן אָנטועכץ אין אַ בינטל עלעהײ עס װאָלט זײַן אַ פֿעטער ביסן פֿון אַ קבֿר.; זײ װאָלטן דערגרײכן די גוגן־שטאָט — װאָס האָט דעם אידענטישן פֿאַרנעם מיטן גאַנצן מלכות — דורך די געהעריקע נאָרעס, אַרױסקומענדיק אין אַ צװינטער נישט װײַט פֿון דעם טרעפּ־האַלטנדיקן טורעם פֿון קאָת.; זײ מוזן זיך נישמער היטן פֿאַר אַ גרױסער הײל לעבן דעם בית־קבֿרות; װײַל דאָס איז ס'מױל פֿון די געװעלבן פֿון זין, און די נקמה־⁠דאָרשטיקע שפּרינגגײַסטער װעכטעװען רציחהדיק דאָרטן פֿאַר יענע תּושבֿים פֿונעם אײבער־תּהום װאָס יאָגן זיך נאָך זײ. די שפּרינגגײַסטער פּרוּװן אַרױסקומען װען די גוגן שלאָפֿן און זײ פֿאַלן גערן אָן אױף מתים־פֿרעסערס װי אױף גוגן, װײַל זײ קענען נישט מבֿחין זײַן. זײ זײַנען זײער פּרימיטיװ, און עסן אײנער דעם אַנדערן. די גוגן האָבן אַ שומר אױף אַ שמאָלע אָרט אין די געװעלבן פֿון זין, אָבער ר׳איז אָפֿט שלעפֿעריק און װערט אַ מאָל איבערגעראַשט דורך אַ פּאַרטיע שפּרינגגײַסטער. כאָטש שפּרינגגײַסטער קענען נישט לעבן אין װאָר ליכט, קענען זײ פֿאַרטראָגן דאָס גראָע בין־השמשות פֿונעם תּהום שעהען לאַנג.
+    ר האָט אױך געעצהט קאַרטערן זיך פֿאַרשטעלן װי אַ מתים־פֿרעסער; גאָלן די באָרד װאָס ר'האָט זי דערלאָזט װאַקסן (װײַל מתים־פֿרעסערס האָבן קײן באָרד נישט), זיך טאָפּטשען אינעם שימל כּדי צו באַקומען די פּאַסיקע אײבערפֿלאַך, און לױפֿן אונטערשפּרינגענדיק אינעם געװײנטלעכן אײַנגעבױגענעם אופֿן, מיטן אָנטועכץ אין אַ בינטל עלעהײ עס װאָלט זײַן אַ פֿעטער ביסן פֿון אַ קבֿר.; זײ װאָלטן דערגרײכן די גוגן־שטאָט — װאָס האָט דעם אידענטישן פֿאַרנעם מיטן גאַנצן מלכות — דורך די געהעריקע נאָרעס, אַרױסקומענדיק אין אַ צװינטער נישט װײַט פֿון דעם טרעפּ־האַלטנדיקן טורעם פֿון קאָת.; זײ מוזן זיך נישמער היטן פֿאַר אַ גרױסער הײל לעבן דעם בית־קבֿרות; װײַל דאָס איז ס'מױל פֿון די געװעלבן פֿון זין, און די נקמה־⁠דאָרשטיקע שפּרינגגײַסטער װעכטעװען רציחהדיק דאָרטן פֿאַר יענע תּושבֿים פֿונעם אײבער־תּהום װאָס יאָגן זיך נאָך זײ. די שפּרינגגײַסטער פּרוּװן אַרױסקומען װען די גוגן שלאָפֿן און זײ פֿאַלן גערן אָן אױף מתים־פֿרעסערס װי אױף גוגן, װײַל זײ קענען נישט מבֿחין זײַן. זײ זײַנען זײער פּרימיטיװ, און עסן אײנער דעם אַנדערן. די גוגן האָבן אַ שומר אױף אַ שמאָלע אָרט אין די געװעלבן פֿון זין, אָבער ר׳איז אָפֿט שלעפֿעריק און װערט אַ מאָל איבערגעראַשט דורך אַ פּאַרטיע שפּרינגגײַסטער. כאָטש שפּרינגגײַסטער קענען נישט לעבן אין װאָר ליכט, קענען זײ פֿאַרטראָגן דאָס גראָע בין־השמשות פֿונעם תּהום שעהען לאַנג.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶88 So at length Carter crawled through endless burrows with three helpful ghouls bearing the slate gravestone of Col. Nepemiah Derby, obit 1719, from the Charter Street Burying Ground in Salem. When they came again into open twilight they were in a forest of vast lichened monoliths reaching nearly as high as the eye could see and forming the modest gravestones of the Gugs. On the right of the hole out of which they wriggled, and seen through aisles of monoliths, was a stupendous vista of cyclopean round towers mounting up illimitable into the grey air of inner earth. This was the great city of the Gugs, whose doorways are thirty feet high. Ghouls come here often, for a buried Gug will feed a community for almost a year, and even with the added peril it is better to burrow for Gugs than to bother with the graves of men. Carter now understood the occasional titan bones he had felt beneath him in the vale of Pnoth.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    א
+   </span>
+   <span>
+    יז מיט דער צײַט איז קאַרטער געקראָכן דורך אָנסופֿיקע נאָרעס מיט דרײַ בײַהילפֿיקע מתים־פֿרעסערס טראָגנדיק דעם שיװער־שטײנערנער מצבֿה פֿון קאָלאָנעל נְפֶּמיה דערבין, ניפֿטר 1719, פֿון דעם טשאַרטער־גאַס־פֿעלד אין סײלעם. װען זײ זײַנען נאָך אַ מאָל אױסגעקומען אין אָפֿן בין־השמשות, זײַנען זײ געװען אין אַ װאַלד פֿון אומגעהײַערע לישײַ־פֿאַרװאַקסענע מאָנאָליטן װאָס דערגרײכן כּמעט אַזש דעם סוף אױגנגרײך און פֿורעמען די עניװתדיקע מצבֿות פֿון די גוגן.
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    איז מיט דער צײַט איז קאַרטער געקראָכן דורך אָנסופֿיקע נאָרעס מיט דרײַ בײַהילפֿיקע מתים־פֿרעסערס טראָגנדיק דעם שיװער־שטײנערנער מצבֿה פֿון קאָלאָנעל נְפֶּמיה דערבין, ניפֿטר 1719, פֿון דעם טשאַרטער־גאַס־פֿעלד אין סײלעם. װען זײ זײַנען נאָך אַ מאָל אױסגעקומען אין אָפֿן בין־השמשות, זײַנען זײ געװען אין אַ װאַלד פֿון אומגעהײַערע לישײַ־פֿאַרװאַקסענע מאָנאָליטן װאָס דערגרײכן כּמעט אַזש דעם סוף אױגנגרײך און פֿורעמען די עניװתדיקע מצבֿות פֿון די גוגן. אױף רעכטס פֿון דער לאָך אױס װעלכער זײ האָבן זיך געשלענגלט, און געזען דורך דורכגאַנגען פֿון מאָנאָליטן, איז געװען אַ נשתּוממדיקע װיסטע פֿון קיקלאָפּישע קרײַזטורעמס זיך דראַפּנדיק אומבאַגרענעצט אין דער גראָער לופֿט פֿון אינעװײניקסטער ערד. דאָס איז געװען די גרױסע שטאָט פֿון די גוגן, װאָס זײערע טירן זײַנען דרײַסיק פֿיס די הײך. מתים־פֿרעסערס קומען אָפֿט אַהער, װײַל אַ באַגראָבענער גוג קאָרמענט אַ קהילה במשך כּמעט אַ יאָר, און אַפֿילו מיט דער צוגעגעבענער סכּנה איז זײ בעסער ריִען פֿאַר גוגן אײדער זיך צו פּאָרען מיט מענטשן־קבֿרים. קאַרטער האָט איצטער פֿאַרשטאַנען די צומאָליקע טיטאַן־בײנער װאָס ער האָט געפֿילט אונטער אים אינעם טאָל פֿון פּנאָת.
+    אױף רעכטס פֿון דער לאָך אױס װעלכער זײ האָבן זיך געשלענגלט, און געזען דורך דורכגאַנגען פֿון מאָנאָליטן, איז געװען אַ נשתּוממדיקע װיסטע פֿון קיקלאָפּישע קרײַזטורעמס זיך דראַפּנדיק אומבאַגרענעצט אין דער גראָער לופֿט פֿון אינעװײניקסטער ערד. דאָס איז געװען די גרױסע שטאָט פֿון די גוגן, װאָס זײערע טירן זײַנען דרײַסיק פֿיס די הײך. מתים־פֿרעסערס קומען אָפֿט אַהער, װײַל אַ באַגראָבענער גוג קאָרמענט אַ קהילה במשך כּמעט אַ יאָר, און אַפֿילו מיט דער צוגעגעבענער סכּנה איז זײ בעסער ריִען פֿאַר גוגן אײדער זיך צו פּאָרען מיט מענטשן־קבֿרים. קאַרטער האָט איצטער פֿאַרשטאַנען די צומאָליקע טיטאַן־בײנער װאָס ער האָט געפֿילט אונטער אים אינעם טאָל פֿון פּנאָת.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1291,13 +1639,16 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶90 Presently three other ghasts hopped out to join their fellow, and a ghoul glibbered softly at Carter that their absence of battle-scars was a bad sign. It proved that they had not fought the Gug sentry at all, but had merely slipped past him as he slept, so that their strength and savagery were still unimpaired and would remain so till they had found and disposed of a victim. It was very unpleasant to see those filthy and disproportioned animals which soon numbered about fifteen, grubbing about and making their kangaroo leaps in the grey twilight where titan towers and monoliths arose, but it was still more unpleasant when they spoke among themselves in the coughing gutturals of ghasts. And yet, horrible as they were, they were not so horrible as what presently came out of the cave after them with disconcerting suddenness.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    אָט־⁠אָט האָבן נאָך דרײַ שפּרינגגײַסטער אַרױסגעהאָפּקעט זיך צו פֿאַראײניקן מיט זײער חבֿר, און אַ מתים־פֿרעסער האָט געבעבעט קאַרטערן אַז זײער פֿעלן פֿון קאַמפֿסשראַמען איז געװען אַ בײזער סימן. ס׳האָט אױפֿגעװיזן אַז זײ האָבן נישט באַקעמפֿט דעם גוג־שומר בכלל, אלא װאָס דען האָבן זיך בלױז פֿאַרבײַגעשמוגלט בײַ אים בשעת ער איז געשלאָפֿן, אַזױ אַז זײער כּוח און אַכזריות זײַנען נאָך געבליבן נישט־געניזוקט און װאָלטן בלײַבן אַזױ ביז זײ װאָלטן געפֿינען און פּטור װערן פֿון אַ קרבן. ס׳איז געװען זײער אומאײַנגענעם צו זען יענע ברודיקע און שלעכט־געפֿורעמטע בעלי־⁠חײם װאָס האָבן באַלד באַטראָפֿן פֿופֿצן, אַרומקאָרטשעװענדיק און טוענדיק זײערע קענגורו־שפּרונגען אינעם גראָען בין־השמשות װוּ טיטאַן־טורעמס און מאָנאָליטן האָבן זיך אױפֿגעשטעלט, אָבער ס׳איז געװען נאָך אומאײַנגענעמער װען זײ האָבן געשמועסט צװישן זיך אין די הוסטנדיקע געגאָרגלטע קלאַנג⁠ען פֿון שפּרינגגײַסטער. און נאָך, אַזױ שױדערלעך װי זײ זײַנען געװען, זײַנען זײ נישט אַזױ שױדערלעך װי װאָס איז אין קורצן אַרױסגעקומען פֿון דער הײל נאָך זײ מיט צעמישנדיקער פּלוצעמדיקײט.
+   <span>
+    אָט־⁠אָט האָבן נאָך דרײַ שפּרינגגײַסטער אַרױסגעהאָפּקעט זיך צו פֿאַראײניקן מיט זײער חבֿר, און אַ מתים־פֿרעסער האָט געבעבעט קאַרטערן אַז זײער פֿעלן פֿון קאַמפֿסשראַמען איז געװען אַ בײזער סימן. ס׳האָט אױפֿגעװיזן אַז זײ האָבן נישט באַקעמפֿט דעם גוג־שומר בכלל, אלא װאָס דען האָבן זיך בלױז פֿאַרבײַגעשמוגלט בײַ אים בשעת ער איז געשלאָפֿן, אַזױ אַז זײער כּוח און אַכזריות זײַנען נאָך געבליבן נישט־געניזוקט און װאָלטן בלײַבן אַזױ ביז זײ װאָלטן געפֿינען און פּטור װערן פֿון אַ קרבן. ס׳איז געװען זײער אומאײַנגענעם צו זען יענע ברודיקע און שלעכט־געפֿורעמטע בעלי־⁠חײם װאָס האָבן באַלד באַטראָפֿן פֿופֿצן, אַרומקאָרטשעװענדיק און טוענדיק זײערע קענגורו־שפּרונגען אינעם גראָען בין־השמשות װוּ טיטאַן־טורעמס און מאָנאָליטן האָבן זיך אױפֿגעשטעלט, אָבער ס׳איז געװען נאָך אומאײַנגענעמ
+   </span>
+   <span>
+    ער װען זײ האָבן געשמועסט צװישן זיך אין די הוסטנדיקע געגאָרגלטע קלאַנג⁠ען פֿון שפּרינגגײַסטער. און נאָך, אַזױ שױדערלעך װי זײ זײַנען געװען, זײַנען זײ נישט אַזױ שױדערלעך װי װאָס איז אין קורצן אַרױסגעקומען פֿון דער הײל נאָך זײ מיט צעמישנדיקער פּלוצעמדיקײט.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1311,7 +1662,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶92 But before that unfortunate Gug could emerge from the cave and rise to his full twenty feet, the vindictive ghasts were upon him. Carter feared for a moment that he would give an alarm and arouse all his kin, till a ghoul softly glibbered that Gugs have no voice but talk by means of facial expression. The battle which then ensued was truly a frightful one. From all sides the venomous ghasts rushed feverishly at the creeping Gug, nipping and tearing with their muzzles, and mauling murderously with their hard pointed hooves. All the time they coughed excitedly, screaming when the great vertical mouth of the Gug would occasionally bite into one of their number, so that the noise of the combat would surely have aroused the sleeping city had not the weakening of the sentry begun to transfer the action farther and farther within the cavern. As it was, the tumult soon receded altogether from sight in the blackness, with only occasional evil echoes to mark its continuance.
    </span>
   </p>
@@ -1321,17 +1672,20 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶93 Then the most alert of the ghouls gave the signal for all to advance, and Carter followed the loping three out of the forest of monoliths and into the dark noisome streets of that awful city whose rounded towers of cyclopean stone soared up beyond the sight. Silently they shambled over that rough rock pavement, hearing with disgust the abominable muffled snortings from great black doorways which marked the slumber of the Gugs. Apprehensive of the ending of the rest hour, the ghouls set a somewhat rapid pace; but even so the journey was no brief one, for distances in that town of giants are on a great scale. At last, however, they came to a somewhat open space before a tower even vaster than the rest; above whose colossal doorway was fixed a monstrous symbol in bas-relief which made one shudder without knowing its meaning. This was the central tower with the sign of Koth, and those huge stone steps just visible through the dusk within were the beginning of the great flight leading to upper dreamland and the enchanted wood.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    איז דער שמײַדיקסטער פֿון די מתים־פֿרעסערס האָט געגעבן דעם סיגנאַל אַז אַלע זאָלן גײען פֿאָרױס, און קאַרטער איז נאָכגעגאַנגען נאָך די אונטערשפּרינגענדיקע דרײַ, אױסן װאַלד פֿון מאָנאָליטן און אין די פֿינצטערע געסרחהדיקע גאַסן פֿון יענער שרעקלעכער שטאָט, װאָס איר פֿאַרקײַלעכדיקטע טורעמס פֿון קיקלאָפּישען שטײן האָבן אַרױפֿגעשװעבט אױסן געזיכט. שטילערהײט האָבן זײ זיך געשאַרט איבער יענעם ראַציקן שטײנערנעם טראַטואַר, הערנדיק מיט מיגל דאָס גרױליקע פֿאַרדומפּענע שמאָרען פֿון גרױסע שװאַרצע טירן װאָס האָט באַצײכנט דעם דרעמל פֿון די גוגן. פֿאַרזאָרגט צוליב דעם סוף פֿון דער שלאָף־שעה האָבן די מתים־פֿרעסערס אָנגענומען עפּעס אַ גיכן טראָט; אָבער פֿונדעסטװעגן איז די נסיעה געװען נישט קײן קורצע
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    איז דער שמײַדיקסטער פֿון די מתים־פֿרעסערס האָט געגעבן דעם סיגנאַל אַז אַלע זאָלן גײען פֿאָרױס, און קאַרטער איז נאָכגעגאַנגען נאָך די אונטערשפּרינגענדיקע דרײַ, אױסן װאַלד פֿון מאָנאָליטן און אין די פֿינצטערע געסרחהדיקע גאַסן פֿון יענער שרעקלעכער שטאָט, װאָס איר פֿאַרקײַלעכדיקטע טורעמס פֿון קיקלאָפּישען שטײן האָבן אַרױפֿגעשװעבט אױסן געזיכט. שטילערהײט האָבן זײ זיך געשאַרט איבער יענעם ראַציקן שטײנערנעם טראַטואַר, הערנדיק מיט מיגל דאָס גרױליקע פֿאַרדומפּענע שמאָרען פֿון גרױסע שװאַרצע טירן װאָס האָט באַצײכנט דעם דרעמל פֿון די גוגן. פֿאַרזאָרגט צוליב דעם סוף פֿון דער שלאָף־שעה האָבן די מתים־פֿרעסערס אָנגענומען עפּעס אַ גיכן טראָט; אָבער פֿונדעסטװעגן איז די נסיעה געװען נישט קײן קורצע, װײַל מהלכן אין יענעם שטעטל פֿון ריזן האָבן אַ גרױסן מאַשטאַב. סוף־כּל־סוף זײַנען זײ נישמער געקומען צו עפּעס אַן אָפֿן אָרט פֿאַר אַ טורעם נאָך אומגעהײַערער װי דער רעשט; װאָס איבער זײַן קאָלאָסאַלער טיר איז געװען פֿאַרפֿעסטיקט אַ מאָנסטעריעזער סימבאָל אין באַרעליע װאָס צוליב אים שױדערט מען אָן װיסן זײַן באַטײַט. דאָס איז געװען דער צענטראַלער טורעם מיטן סימן פֿון קאָת, און יענע ריזיקע שטײנערנע טרעפּן װאָס מע האָט אַזש געקענט זען אינעװײניק דורכן בין־השמשות זײַנען געװען דער אָנהײב פֿונעם גרױסן גאָרן פֿירנדיק אין אײבער־חלום־לאַנד און דעם פֿאַרכּישופֿטן װאַלד.
+    , װײַל מהלכן אין יענעם שטעטל פֿון ריזן האָבן אַ גרױסן מאַשטאַב. סוף־כּל־סוף זײַנען זײ נישמער געקומען צו עפּעס אַן אָפֿן אָרט פֿאַר אַ טורעם נאָך אומגעהײַערער װי דער רעשט; װאָס איבער זײַן קאָלאָסאַלער טיר איז געװען פֿאַרפֿעסטיקט אַ מאָנסטעריעזער סימבאָל אין באַרעליע װאָס צוליב אים שױדערט מען אָן װיסן זײַן באַטײַט. דאָס איז געװען דער צענטראַלער טורעם מיטן סימן פֿון קאָת, און יענע ריזיקע שטײנערנע טרעפּן װאָס מע האָט אַזש געקענט זען אינעװײניק דורכן בין־השמשות זײַנען געװען דער אָנהײב פֿונעם גרױסן גאָרן פֿירנדיק אין אײבער־חלום־לאַנד און דעם פֿאַרכּישופֿטן װאַלד.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶94 There now began a climb of interminable length in utter blackness: made almost impossible by the monstrous size of the steps, which were fashioned for Gugs, and were therefore nearly a yard high. Of their number Carter could form no just estimate, for he soon became so worn out that the tireless and elastic ghouls were forced to aid him. All through the endless climb there lurked the peril of detection and pursuit; for though no Gug dares lift the stone door to the forest because of the Great One's curse, there are no such restraints concerning the tower and the steps, and escaped ghasts are often chased, even to the very top. So sharp are the ears of Gugs, that the bare feet and hands of the climbers might readily be heard when the city awoke; and it would of course take but little time for the striding giants, accustomed from their ghast-hunts in the vaults of Zin to seeing without light, to overtake their smaller and slower quarry on those cyclopean steps. It was very depressing to reflect that the silent pursuing Gugs would not be heard at all, but would come very suddenly and shockingly in the dark upon the climbers. Nor could the traditional fear of Gugs for ghouls be depended upon in that peculiar place where the advantages lay so heavily with the Gugs. There was also some peril from the furtive and venomous ghasts, which frequently hopped up onto the tower during the sleep hour of the Gugs. If the Gugs slept long, and the ghasts returned soon from their deed in the cavern, the scent of the climbers might easily be picked up by those loathsome and ill-disposed things; in which case it would almost be better to be eaten by a Gug.
    </span>
   </p>
@@ -1347,7 +1701,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶95 Then, after aeons of climbing, there came a cough from the darkness above; and matters assumed a very grave and unexpected turn.
    </span>
   </p>
@@ -1357,7 +1711,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶96 It was clear that a ghast, or perhaps even more, had strayed into that tower before the coming of Carter and his guides; and it was equally clear that this peril was very close. After a breathless second the leading ghoul pushed Carter to the wall and arranged his kinfolk in the best possible way, with the old slate tombstone raised for a crushing blow whenever the enemy might come in sight. Ghouls can see in the dark, so the party was not as badly off as Carter would have been alone. In another moment the clatter of hooves revealed the downward hopping of at least one beast, and the slab-bearing ghouls poised their weapon for a desperate blow. Presently two yellowish-red eyes flashed into view, and the panting of the ghast became audible above its clattering. As it hopped down to the step above the ghouls, they wielded the ancient gravestone with prodigious force, so that there was only a wheeze and a choking before the victim collapsed in a noxious heap. There seemed to be only this one animal, and after a moment of listening the ghouls tapped Carter as a signal to proceed again. As before, they were obliged to aid him; and he was glad to leave that place of carnage where the ghast's uncouth remains sprawled invisible in the blackness.
    </span>
   </p>
@@ -1368,8 +1722,14 @@ lang: yi
    <span style="background-color:#d0e0e3">
     ן
    </span>
+   <span>
+    אופֿן, מיט דער אַלטער שיװער־שטײנערנער מצבֿה אױפֿגעהױבן פֿאַר אַ צעשמעטערנדיקן שלאָג װען דער שׂונא זאָל זיך נישט פּאָיאַװען. מתים־פֿרעסערס קענען זען אינעם פֿינצטערניש, איז די פּאַרטיע איז נישט געװען אַזױ פֿיל אין צרות װי קאַרטער װאָלט זײַן אַלײן
+   </span>
+   <span>
+    . אין נאָך אַ רגע האָט דער בראַזג פֿון קאָפּעטעס אַנטדעקט דאָס
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    אופֿן, מיט דער אַלטער שיװער־שטײנערנער מצבֿה אױפֿגעהױבן פֿאַר אַ צעשמעטערנדיקן שלאָג װען דער שׂונא זאָל זיך נישט פּאָיאַװען. מתים־פֿרעסערס קענען זען אינעם פֿינצטערניש, איז די פּאַרטיע איז נישט געװען אַזױ פֿיל אין צרות װי קאַרטער װאָלט זײַן אַלײן. אין נאָך אַ רגע האָט דער בראַזג פֿון קאָפּעטעס אַנטדעקט דאָס אַראָפּהאָפּקען פֿון כאָטש אײן חיה, און דער טאַפֿליע־טראָגנדיקע מתים־פֿרעסערס האָבן אױפֿגעהױבן זײער געװער פֿאַר אַ פֿאַרייִאושטן שלאָג. אין קורצן האָבן צװײ געלבלעכע־רױטע אױגן אױפֿגעבליצט אינעם געזיכט, און דאָס פּירכען פֿונעם שפּרינגגײַסט איז געװאָרן הערעװדיק איבער זײַן בראַזג. בעת ער האָט אַראָפּגעהאָפּקעט אַראָפּ צום טרעפּל איבער די מתים־פֿרעסערס, זײַנען זײ זיך באַגאַנגען מיט דער פֿאַרצײַטיקער מצבֿה מיט אומגעהײַערער מאַכט, אַזױ אַז ס׳איז געבליבן נאָר אַ כאָרכל און אַ דערשטיקונג אײדער דער קרבן האָט זיך אײַנגעבראָכן אין אַ סמיקער הורבע. ס׳האָט זיך געדאַכט אַז ס׳איז געװען דאָ נאָר די אָ אײנציקע חיה, און נאָך אַ רגע זיך צוהערן האָבן די מתים־פֿרעסערס געגעבן קאַרטערן אַ טאַפּ בתּורת אַ סיגנאַל נאָך אַ מאָל ממשיך צו זײַן. װי פֿריִער, האָבן זײ געמוזט אים העלפֿן; און ער האָט גערן פֿאַרלאָזט יענץ אָרט פֿון שטיחה װוּ דאָס אומאײדלע געבײן פֿונעם שפּרינגגײַסט האָט זיך צעשפּרײט אינו־⁠ניראהדיק אינעם שװאַרצקײט.
+    אַראָפּהאָפּקען פֿון כאָטש אײן חיה, און דער טאַפֿליע־טראָגנדיקע מתים־פֿרעסערס האָבן אױפֿגעהױבן זײער געװער פֿאַר אַ פֿאַרייִאושטן שלאָג. אין קורצן האָבן צװײ געלבלעכע־רױטע אױגן אױפֿגעבליצט אינעם געזיכט, און דאָס פּירכען פֿונעם שפּרינגגײַסט איז געװאָרן הערעװדיק איבער זײַן בראַזג. בעת ער האָט אַראָפּגעהאָפּקעט אַראָפּ צום טרעפּל איבער די מתים־פֿרעסערס, זײַנען זײ זיך באַגאַנגען מיט דער פֿאַרצײַטיקער מצבֿה מיט אומגעהײַערער מאַכט, אַזױ אַז ס׳איז געבליבן נאָר אַ כאָרכל און אַ דערשטיקונג אײדער דער קרבן האָט זיך אײַנגעבראָכן אין אַ סמיקער הורבע. ס׳האָט זיך געדאַכט אַז ס׳איז געװען דאָ נאָר די אָ אײנציקע חיה, און נאָך אַ רגע זיך צוהערן האָבן די מתים־פֿרעסערס געגעבן קאַרטערן אַ טאַפּ בתּורת אַ סיגנאַל נאָך אַ מאָל ממשיך צו זײַן. װי פֿריִער, האָבן זײ געמוזט אים העלפֿן; און ער האָט גערן פֿאַרלאָזט יענץ אָרט פֿון שטיחה װוּ דאָס אומאײדלע געבײן פֿונעם שפּרינגגײַסט האָט זיך צעשפּרײט אינו־⁠ניראהדיק אינעם שװאַרצקײט.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1383,13 +1743,16 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶98 Mighty was the straining of those three ghouls at the stone of the door above them, and Carter helped push with as much strength as he had. They judged the edge next the top of the staircase to be the right one, and to this they bent all the force of their disreputably nourished muscles. Alter a few moments a crack of light appeared; and Carter, to whom that task had been entrusted, slipped the end of the old gravestone in the aperture. There now ensued a mighty heaving; but progress was very slow, and they had of course to return to their first position every time they failed to turn the slab and prop the portal open.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ג
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    געװאַלדיק איז געװען דער אָנשטרענג פֿון יענע דרײַ מתים־פֿרעסערס אױפֿן שטײן פֿון דער טיר איבער זײ, און קאַרטער האָט זײ געהאָלפֿן שטופּן מיט אַזש כּוח װי ער האָט געהאַט. זײ האָבן אָפּגעשאַצט דעם עק לעבן אױבן פֿונעם שטיגן זײַן דער ריכטיקער, און אױף דעם האָבן זײ אָנגעבױגן די אַלע קראַפֿט פֿון זײער שענדלעך גענערט מוסקלען. נאָך אַ פּאָר רגעים האָט אַ שפּאַרונע ליכט זיך באַװיזן; און קאַרטער, װעמען מע האָט אָנגעטרױט יענע עובֿדא, האָט אַרײַנגערוקט דעם עק פֿון דער אַלטער מצבֿה אין דער עפֿענונג. ס׳האָט איצטנס געקומען אַ געװאַלדיק הײבן; אָבער דער גאַנג איז געװען גאָר פּאַמעלעך, און זײ האָבן געװײנטלעך געמוזט צוריקגײן צו דער ערשטער פּאָזיציע יעדעס מאָל אַז ס׳איז זײ נישט געגאַנגען אױסצודרײען די טאַפֿליע און האַלטן דעם פּאָרטאַל אָפֿן.
+    עװאַלדיק איז געװען דער אָנשטרענג פֿון יענע דרײַ מתים־פֿרעסערס אױפֿן שטײן פֿון דער טיר איבער זײ, און קאַרטער האָט זײ געהאָלפֿן שטופּן מיט אַזש כּוח װי ער האָט געהאַט. זײ האָבן אָפּגעשאַצט דעם עק לעבן אױבן פֿונעם שטיגן זײַן דער ריכטיקער, און אױף דעם האָבן זײ אָנגעבױגן די אַלע קראַפֿט פֿון זײער שענדלעך גענערט מוסקלען. נאָך אַ פּאָר רגעים האָט אַ שפּאַרונע ליכט זיך באַװיזן; און קאַרטער, װעמען מע האָט אָנגעטרױט יענע עובֿדא, האָט אַרײַנגערוקט דעם עק פֿון דער אַלטער מצבֿה אין דער עפֿענונג. ס׳האָט איצטנס געקומען אַ געװאַלדיק הײבן; אָבער דער גאַנג איז געװען גאָר פּאַמעלעך, און זײ האָבן געװײנטלעך געמוזט צוריקגײן צו דער ערשטער פּאָזיציע יעדעס מאָל אַז ס׳איז זײ נישט געגאַנגען אױסצודרײען די טאַפֿליע און האַלטן דעם פּאָרטאַל אָפֿן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1412,12 +1775,12 @@ lang: yi
    </span>
    <span style="font-style:italic">
    </span>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     טאָר נישט קײן גוג אַרױסקומען פֿון יענעם פּאָרטאַל, איז מיט אַ גרױסן פֿאַרגרינגערונג און געפֿיל פֿון רו איז קאַרטער געליגן שטיל אױפֿן געדיכטן גראָטעסקן שװעמל־⁠געװיקס פֿונעם פֿאַרכּישופֿטן װאַלד בעת זײַנע פֿירערס זײַנען געזעצן אױף די פּיאַטעס אינעם שטײגער אין װעכלן ראַסן מתים־פֿרעסערס.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶100 Weird as was that enchanted wood through which he had fared so long ago, it was verily a haven and a delight after those gulfs he had now left behind. There was no living denizen about, for Zoogs shun the mysterious door in fear and Carter at once consulted with his ghouls about their future course. To return through the tower they no longer dared, and the waking world did not appeal to them when they learned that they must pass the priests Nasht and Kaman-Thah in the cavern of flame. So at length they decided to return through Sarkomand and its gate of the abyss, though of how to get there they knew nothing. Carter recalled that it lies in the valley below Leng, and recalled likewise that he had seen in Dylath-Leen a sinister, slant-eyed old merchant reputed to trade on Leng, therefore he advised the ghouls to seek out Dylath-Leen, crossing the fields to Nir and the Skai and following the river to its mouth. This they at once resolved to do, and lost no time in loping off, since the thickening of the dusk promised a full night ahead for travel. And Carter shook the paws of those repulsive beasts, thanking them for their help and sending his gratitude to the beast which once was Pickman; but could not help sighing with pleasure when they left. For a ghoul is a ghoul, and at best an unpleasant companion for man. After that Carter sought a forest pool and cleansed himself of the mud of nether earth, thereupon reassuming the clothes he had so carefully carried.
    </span>
   </p>
@@ -1442,8 +1805,17 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    אָבער אָט־⁠אָט איז זײַן פּראָגרעס אָפּגעשטעלט געװאָרן דורך אַ קלאַנג פֿון אַ גאָר גרױסן חללדיקן בױם. ער האָט אױסגעמיטן דעם גרױסן קרײַז שטײנער, װײַל ער האָט נישט ליב געהאַט צו שמועסן מיט זוגן פּונקט איצט; אָבער עס האָט זיך געדאַכט פֿונעם אױסערגעװײנטלעכן פֿלאַטערן אין יענעם ריזיקן בױם אַז סע זײַנען געזעסן װיכטיקע ראָטן אַנדערשװוּ. אין זיך דערנעענטערן האָט ער דערקענט די טענער פֿון אַן אָנגעשפּאַנטן און באַהײצטן שמועס; און אײדער װאָס װען האָט ער באַמערקט ענינים װאָס ער האָט געקוקט מיטן גרעסטן זאָ
+   </span>
+   <span>
+    רג.
+   </span>
+   <span>
+    װײַל מע האָט זיך מתװכּח געװען אין יענעם סוּװערענעם אַסיפֿה זוגן װעגן אַ קריג אױף די קעץ
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    אָבער אָט־⁠אָט איז זײַן פּראָגרעס אָפּגעשטעלט געװאָרן דורך אַ קלאַנג פֿון אַ גאָר גרױסן חללדיקן בױם. ער האָט אױסגעמיטן דעם גרױסן קרײַז שטײנער, װײַל ער האָט נישט ליב געהאַט צו שמועסן מיט זוגן פּונקט איצט; אָבער עס האָט זיך געדאַכט פֿונעם אױסערגעװײנטלעכן פֿלאַטערן אין יענעם ריזיקן בױם אַז סע זײַנען געזעסן װיכטיקע ראָטן אַנדערשװוּ. אין זיך דערנעענטערן האָט ער דערקענט די טענער פֿון אַן אָנגעשפּאַנטן און באַהײצטן שמועס; און אײדער װאָס װען האָט ער באַמערקט ענינים װאָס ער האָט געקוקט מיטן גרעסטן זאָרג. װײַל מע האָט זיך מתװכּח געװען אין יענעם סוּװערענעם אַסיפֿה זוגן װעגן אַ קריג אױף די קעץ. ס׳איז אין גאַנצן אױפֿגעקומען צוליב דער אַבֿדה פֿון דער פּאַרטיע װאָס זי האָט זיך אַרײַנגעגנבֿענעט נאָך קאַרטערן קײן אולתּאַר, און װאָס די קעץ האָבן זי מיט רעכט געשטראָפֿט פֿאַר אומפּאַסיקע כּװנות. דער ענין האָט לאַנג גערופּעט, און איצט, אָדער כיבע מיט אַ חודש אַרום, האָבן די צונױפֿגעזאַמלטע זוגן געהאַלטן בײַ אַ זעץ טאָן דעם גאַנצן קעציקין שבֿט אין אַ סעריע סורפּריז־אָנפֿאַלן, כאַפּנדיק אינדיװידועלע קעץ אָדער גרופּעס קעץ אומגעריכט, און נישט געבנדיק אַפֿילו די מיריאַד קעץ פֿון אולתּאַר קײן פּאַסיקע געלעגנהײט זיך מושטרעװען און מאָביליזירן. דאָס איז געװען דער פּלאַן פֿון די זוגן, און קאַרטער האָט געזען אַז ער מוז אים פֿאַרשטערן אײדער ער װאָלט אַװעקגײן אױף זײַן מאַכטיק זוכעניש.
+    . ס׳איז אין גאַנצן אױפֿגעקומען צוליב דער אַבֿדה פֿון דער פּאַרטיע װאָס זי האָט זיך אַרײַנגעגנבֿענעט נאָך קאַרטערן קײן אולתּאַר, און װאָס די קעץ האָבן זי מיט רעכט געשטראָפֿט פֿאַר אומפּאַסיקע כּװנות. דער ענין האָט לאַנג גערופּעט, און איצט, אָדער כיבע מיט אַ חודש אַרום, האָבן די צונױפֿגעזאַמלטע זוגן געהאַלטן בײַ אַ זעץ טאָן דעם גאַנצן קעציקין שבֿט אין אַ סעריע סורפּריז־אָנפֿאַלן, כאַפּנדיק אינדיװידועלע קעץ אָדער גרופּעס קעץ אומגעריכט, און נישט געבנדיק אַפֿילו די מיריאַד קעץ פֿון אולתּאַר קײן פּאַסיקע געלעגנהײט זיך מושטרעװען און מאָביליזירן. דאָס איז געװען דער פּלאַן פֿון די זוגן, און קאַרטער האָט געזען אַז ער מוז אים פֿאַרשטערן אײדער ער װאָלט אַװעקגײן אױף זײַן מאַכטיק זוכעניש.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1512,18 +1884,24 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span style='background-color:#fff2cc;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
     ביז האַלבן טאָג האָט קאַרטער דערגרײכט די יאָשפּיזענע טעראַסעס פֿון קיראַן װאָס לאָזן זיך אַראָפּ צום ברעג טײַך און טראָגן יענעם בית־מיקדש פֿון שײנקײט װוּהין דער קיניג פֿון אילעק־װאַד קומט פֿון זײַן װײַטן געגבֿול אױף דעם בין־השמשות ים אײן מאָל אַ יאָר אין אַ גאָלדענעם פּאַלאַנקין כּדי תּפֿילה צו טאָן דעם גאָט פֿון אוקיאַנאָס, װאָס האָט אים געזונגען אין זײַנע יונגע יאָרן װען ער האָט געװױנט אין אַ כאַטע לעבן די ברעגן פֿון אוקיאַנאָס. אין גאַנצן יאָשפּיזן איז יענער בית־מיקדש, און ער דעקט צו אַ מאָרג באָדן מיט זײַנע מױערן און הױפֿן, זײַנע זיבן טורעמס מיט די הױכע שפּיצן, און זײַן אינעװײניקסט היכלע װוּ דער טײַך גײט אַרײַן דורך פֿאַרבאָרגענע דורכפֿירװעגן און דער גאָט זינגט רויִק אין דער נאַכט. אָפֿט הערט די לבֿנה פֿרעמדע מוזיק בעת זי שײַנט אױף יענע הױפֿן און טעראַסעס און טורמעשפּיצן, אָבער צי יענע מוזיק זאָל זײַן דאָס ליד פֿונעם גאָט אָדער דאָס געזאַנג פֿון די קריפּטישע פּריסטערס, װײסט קײנער אַחוץ דער קיניג פֿון אילעק־װאַד; װײַל נאָר ער איז אַרײַנגעגאַנגען אינעם בית־מיקדש אַרײַן אָדער געזען די פּריסטערס. איז, אינעם שלעפֿעריקײט פֿון טאָג, איז דער אױסגעשניצטער און צאַרטער טעמפּל געליגן שטיל, און קאַרטער האָט געהערט נאָר דאָס געמורמל פֿונעם גרױסן שטראָם און דאָס זשומזשען פֿון די פֿײגל און די בינען בעת ר׳האָט ווײַטערגעשפּאַנט אונטער דער פֿאַרכּישופֿטער זון.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶110 All that afternoon the pilgrim wandered on through perfumed meadows and in the lee of gentle riverward hills bearing peaceful thatched cottages and the shrines of amiable gods carven from jasper or chrysoberyl. Sometimes he walked close to the bank of Oukianos and whistled to the sprightly and iridescent fish of that crystal stream, and at other times he paused amidst the whispering rushes and gazed at the great dark wood on the farther side, whose trees came down clear to the water's edge. In former dreams he had seen quaint lumbering buopoths come shyly out of that wood to drink, but now he could not glimpse any. Once in a while he paused to watch a carnivorous fish catch a fishing bird, which it lured to the water by showing its tempting scales in the sun, and grasped by the beak with its enormous mouth as the winged hunter sought to dart down upon it.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span style="background-color:#fff2cc">
+    דעם גאַנצן נאָכמיטאָג האָט דער עולה־⁠רגל זיך װײַטערגעװאַלגערט דורך פּאַרפֿומירטע טאָלעקעס און אין דער נישט־⁠װינטיקע זײַט פֿון צאַרטע בערג צום ט
+   </span>
    <span>
-    דעם גאַנצן נאָכמיטאָג האָט דער עולה־⁠רגל זיך װײַטערגעװאַלגערט דורך פּאַרפֿומירטע טאָלעקעס און אין דער נישט־⁠װינטיקע זײַט פֿון צאַרטע בערג צום טײַך, מיט פֿרידלעכע כאַטעס באַדעקט מיט דאַכשטרױ און די היכלעך פֿון פֿרײַנדלעכע געטער װאָס זײַנען אױסגעשניצט פֿון יאָשפּיז אָדער כריזאָבעריל. אַ מאָל האָט ער שפּאַצירט נאָענט צום ברעג אוקיאַנאָס און געסװישטשעט צו די באַלעבטע און מינעדיקע פֿיש פֿון יענעם קרישטאָלענעם שטראָם, און אַנדערע צײַטן האָט ער זיך אָפּגעשטעלט צװישן די שושקענדיקע קאַמיש⁠ן און אָנגעקוקט דעם גרױסן פֿינצטערן װאַלד אױף דער װײַטערער זײַט, װאָס זײַן בײמער האָבן דערגרײכט אַראָפּ גאָר ביזן װאַסערראַנד. אין פֿריִערדיקע חלומות האָט ער געזען אַלט־פֿעטערישע לעפּישע בואָפּאָטן װאָס קומען שעמעװדיקערהײט  צו טרינקען אױס יענעם װאַלד אַרױס, אָבער איצט האָט ער נישט געקענט כאַפּן אַ בליק אױף זײ. פֿון מאָל צו מאָל האָט ער זיך אָפּגעשטעלט צו קוקן אַ פֿלײשפֿרעסער־פֿיש כאַפּן אַ פֿליִענדיקן פֿױגל, װאָס ער האָט פֿאַרמאַניעט צום װאַסער דורך באַװײַזן די פֿאַרשמעקנדיקע שופּן אין דער זון, און געכאַפּט בײַם שנאָבל מיטן ריזיקן פּיסק בעת דער באַפֿליגלטער יעגער האָט געפּרוּװט זיך אַראָפּיאָגן אױף אים.
+    ײַך, מיט פֿרידלעכע כ
+   </span>
+   <span style='background-color:#fff2cc;color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+    אַטעס באַדעקט מיט דאַכשטרױ און די היכלעך פֿון פֿרײַנדלעכע געטער װאָס זײַנען אױסגעשניצט פֿון יאָשפּיז אָדער כריזאָבעריל. אַ מאָל האָט ער שפּאַצירט נאָענט צום ברעג אוקיאַנאָס און געסװישטשעט צו די באַלעבטע און מינעדיקע פֿיש פֿון יענעם קרישטאָלענעם שטראָם, און אַנדערע צײַטן האָט ער זיך אָפּגעשטעלט צװישן די שושקענדיקע קאַמיש⁠ן און אָנגעקוקט דעם גרױסן פֿינצטערן װאַלד אױף דער װײַטערער זײַט, װאָס זײַן בײמער האָבן דערגרײכט אַראָפּ גאָר ביזן װאַסערראַנד. אין פֿריִערדיקע חלומות האָט ער געזען אַלט־פֿעטערישע לעפּישע בואָפּאָטן װאָס קומען  שעמעװדיקערהײט אַרױס אױס יענעם װאַלד צו טרינקען, אָבער איצט האָט ער נישט געקענט כאַפּן אַ בליק אױף זײ. פֿון מאָל צו מאָל האָט ער זיך אָפּגעשטעלט צו קוקן אַ פֿלײשפֿרעסער־פֿיש כאַפּן אַ פֿליִענדיקן פֿױגל, װאָס ער האָט פֿאַרמאַניעט צום װאַסער דורך באַװײַזן די פֿאַרשמעקנדיקע שופּן אין דער זון, און געכאַפּט בײַם שנאָבל מיטן ריזיקן פּיסק בעת דער באַפֿליגלטער יעגער האָט געפּרוּװט זיך אַראָפּיאָגן אױף אים.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;font-family:"Times New Roman";orphans:2;widows:2;height:15pt;padding-right:0'>
@@ -1544,7 +1922,7 @@ lang: yi
      </p>
      <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
       <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:17pt;font-family:"Times New Roman";font-style:normal'>
-       מיר היפּערן דאָ איבער אַ ביסל װײניקער פֿון אַ ⁠דריטל פֿון דער מעשׂה.
+       מיר היפּערן דאָ איבער 65 פּראָצענט פֿון דער מעשׂה.
       </span>
      </p>
      <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1552,7 +1930,7 @@ lang: yi
        אױב איר װילט נישט צעשטערן דעם חידוש פֿון קאַרטערס לאַנגער און געשלענגטער נסיעה, לײענט־זשע ערשטנס דורך די נאָכקומענדיקע חלקים פֿון דער מעשה אין
       </span>
       <span style="text-decoration-skip-ink:none;font-size:17pt;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline">
-       <a href="https://www.google.com/url?q=https://docs.google.com/document/d/1_JtJDZ-FJeaGAPJSfdU20BOAuExX-WV7erwiuckm2yY/edit%23heading%3Dh.izg077gxokxs&amp;sa=D&amp;source=editors&amp;ust=1758538965698433&amp;usg=AOvVaw34KPtH2FAd7ZVesbLFpcWQ" style="color:inherit;text-decoration:inherit">
+       <a href="https://www.google.com/url?q=https://docs.google.com/document/d/1_JtJDZ-FJeaGAPJSfdU20BOAuExX-WV7erwiuckm2yY/edit%23heading%3Dh.izg077gxokxs&amp;sa=D&amp;source=editors&amp;ust=1758538968080818&amp;usg=AOvVaw0cs3AlFxKi59x7BPf0zUuG" style="color:inherit;text-decoration:inherit">
         ענגליש, דאָ
        </a>
       </span>
@@ -1595,7 +1973,10 @@ lang: yi
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    ¶197 Meanwhile the frightful detachments of the moonbeasts and almost-humans had lumbered up to the top of the headlands and were shockingly silhouetted on either side against the grey twilight sky. The thin hellish flutes of the invaders had now begun to whine, and the general effect of those hybrid, half-amorphous processions was as nauseating as the actual odour given off by the toadlike lunar blasphemies. Then the two parties of the ghouls swarmed into sight and joined the silhouetted panorama. Javelins began to fly from both sides, and the swelling meeps of the ghouls and the bestial howls of the almost-humans gradually joined the hellish whine of the flutes to form a frantick and indescribable chaos of daemon cacophony. Now and then bodies fell from the narrow ridges of the headlands into the sea outside or the harbour inside, in the latter case being sucked quickly under by certain submarine lurkers whose presence was indicated only by prodigious bubbles.
+    ¶197 Meanwhile the frightful detachments of the moonbeasts and almost-humans had lumbered up to the t
+   </span>
+   <span>
+    op of the headlands and were shockingly silhouetted on either side against the grey twilight sky. The thin hellish flutes of the invaders had now begun to whine, and the general effect of those hybrid, half-amorphous processions was as nauseating as the actual odour given off by the toadlike lunar blasphemies. Then the two parties of the ghouls swarmed into sight and joined the silhouetted panorama. Javelins began to fly from both sides, and the swelling meeps of the ghouls and the bestial howls of the almost-humans gradually joined the hellish whine of the flutes to form a frantick and indescribable chaos of daemon cacophony. Now and then bodies fell from the narrow ridges of the headlands into the sea outside or the harbour inside, in the latter case being sucked quickly under by certain submarine lurkers whose presence was indicated only by prodigious bubbles.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1615,7 +1996,10 @@ lang: yi
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    ¶199 As fury and recklessness increased, the number falling into the sea became very great. Those striking the harbour met nameless extinction from the unseen bubblers, but of those striking the open sea some were able to swim to the foot of the cliffs and land on tidal rocks, while the hovering galley of the enemy rescued several moonbeasts. The cliffs were unscalable except where the monsters had debarked, so that none of the ghouls on the rocks could rejoin their battle-line. Some were killed by javelins from the hostile galley or from the moonbeasts above, but a few survived to be rescued. When the security of the land parties seemed assured, Carter's galley sallied forth between the headlands and drove the hostile ship far out to sea; pausing to rescue such ghouls as were on the rocks or still swimming in the ocean. Several moonbeasts washed on rocks or reefs were speedily put out of the way.
+    ¶199 As fury and recklessness increased, the number falling into the sea became very gre
+   </span>
+   <span>
+    at. Those striking the harbour met nameless extinction from the unseen bubblers, but of those striking the open sea some were able to swim to the foot of the cliffs and land on tidal rocks, while the hovering galley of the enemy rescued several moonbeasts. The cliffs were unscalable except where the monsters had debarked, so that none of the ghouls on the rocks could rejoin their battle-line. Some were killed by javelins from the hostile galley or from the moonbeasts above, but a few survived to be rescued. When the security of the land parties seemed assured, Carter's galley sallied forth between the headlands and drove the hostile ship far out to sea; pausing to rescue such ghouls as were on the rocks or still swimming in the ocean. Several moonbeasts washed on rocks or reefs were speedily put out of the way.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1624,7 +2008,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶200 Finally, the moonbeast galley being safely in the distance and the invading land army concentrated in one place, Carter landed a considerable force on the eastern headland in the enemy's rear; after which the fight was short-lived indeed. Attacked from both sides, the noisome flounderers were rapidly cut to pieces or pushed into the sea, till by evening the ghoulish chiefs agreed that the island was again clear of them. The hostile galley, meanwhile, had disappeared; and it was decided that the evil jagged rock had better be evacuated before any overwhelming horde of lunar horrors might be assembled and brought against the victors.
    </span>
   </p>
@@ -1644,8 +2028,11 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶202 The ghouls made camp amongst the fallen stones of Sarkomand, despatching a messenger for enough night-gaunts to serve them as steeds. Pickman and the other chiefs were effusive in their gratitude for the aid Carter had lent them. Carter now began to feel that his plans were indeed maturing well, and that he would be able to command the help of these fearsome allies not only in quitting this part of dreamland, but in pursuing his ultimate quest for the gods atop unknown Kadath, and the marvellous sunset city they so strangely withheld from his slumbers. Accordingly he spoke of these things to the ghoulish leaders; telling what he knew of the cold waste wherein Kadath stands and of the monstrous Shantaks and the mountains carven into double-headed images
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶202 The ghouls made camp amongst the fallen stones of Sarkomand, despatching a messenger for enough night-gaunts to serve them as steeds. Pickman and the other chiefs were effusive in their gratitude for the aid Carter had lent them. Carter now began to feel that his plans were indeed maturing well, and that he would be able to command the help of these fearsome allies not only in quitting this part of dreamland, but in pursuing his ultimate quest for the gods atop unknown Kadath, and the marvellous sunset city they so strangely withheld from his slumbers. Accordingly he spoke of these things to the ghoulish leaders; telling what he knew of the cold waste wherein Kadath stands and of the monstrous Shantaks and the mountains carven into double-headed images which guard it. He spoke of the fear of Shantaks for night-gaunts, and of how the vast hippocephalic birds fly screaming from the black burrows high up on the gaunt grey peaks that divide Inquanok from hateful Leng. He spoke, too, of the things he had learned concerning night-gaunts from the frescoes in the windowless monastery of the High-Priest Not To Be Described; how even the Great Ones fear them, and how their ruler is not the crawling chaos Nyarlathotep at all, but hoary and immemorial Nodens, Lord of the Great Abyss.
+    which guard it. He spoke of the fear of Shantaks for night-gaunts, and of how the vast hippocephalic birds fly screaming from the black burrows high up on the gaunt grey peaks that divide Inquanok from hateful Leng. He spoke, too, of the things he had learned concerning night-gaunts from the frescoes in the windowless monastery of the High-Priest Not To Be Described; how even the Great Ones fear them, and how their ruler is not the crawling chaos Nyarlathotep at all, but hoary and immemorial Nodens, Lord of the Great Abyss.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1669,17 +2056,23 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 527.47px; height: 526.72px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcf9baBr_oniysRs7defbCCA4BJU7Oq4O6v6ykKRa_jlCF0wMMEtRCrhzWf6qP7jUibY9xG5wZ2dsT2nJwTnhnYFtVq8p8kCRsNFmLd1ZxEWkwMRZlXWCX2ZEPczbVMg8Cg13QL?key=Md61cfUCxoLOsZM6dcQZBA" style="width: 527.47px; height: 526.72px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXehb3YG1nN0r0e6J20fHSeZ-vdvXlxvweC5-ifMLxmVtTnIEBhlR_I5C8eo7pTaESDHJDOZZ3bhHIwBKMkXPwwHri3IHTzd-PusYLdTkLMapzCdzVhspPrKuBXNszQTbOtFwH6BMApfZmbAAxeZudtFxT5bIg?key=UHQdr6-2erJts_Om_QEUOw" style="width: 527.47px; height: 526.72px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    ¶203 All these things Carter glibbered to the assembled ghouls, and presently outlined that request which he had in mind and which he did not think extravagant considering the services he had so lately rendered the rubbery doglike lopers. He wished very much, he said, for the services of enough night-gaunts to bear him safely through the aft past the realm of Shantaks and carven mountains, and up into the old waste beyond the returning tracks of any other mortal. He desired to fly to the onyx castle atop unknown Kadath in the cold waste to plead with the Great Ones for the sunset city they denied him, and felt sure that the night-gaunts could take him thither without trouble; high above the perils of the plain, and over the hideous double heads of those carven sentinel mountains that squat eternally in the grey dusk. For the horned and faceless creatures there could be no danger from aught of earth since the Great Ones themselves dread them. And even were unexpected things to come from the Other Gods, who are prone to oversee the affairs of earth's milder gods, the night-gaunts need not fear; for the outer hells are indifferent matters to such silent and slippery flyers as own not Nyarlathotep for their master, but bow only to potent and archaic Nodens.
+    ¶203 All these things Carter glibbered to the assembled ghouls, and presently outlined that request which he had in mind and which he did not think extravagant considering the services he had so lately rendered the rubbery doglike lopers. He wished very much, he said, for the services of enough night-gaunts to bear him safely through the aft past the realm of Sh
+   </span>
+   <span>
+    antaks and carven mountains, and up into the old waste beyond the returning tracks of any other mortal. He desired to fly to the onyx castle atop unknown Kadath in the cold waste to plead with the Great Ones for the sunset city they denied him, and felt sure that the night-gaunts could take him thither without trouble; high above the perils of the plain, and over the hideous double heads of those carven sentinel mountains that squat eternally in the grey dusk. For the horned and faceless creatures there could be no danger from aught of earth since the Great Ones themselves dread them. And even were unexpected things to come from the Other Gods, who are prone to oversee the affairs of earth's milder gods, the night-gaunts need not fear; for the outer hells are indifferent matters to such silent and slippery flyers as own not Nyarlathotep for their master, but bow only to potent and archaic Nodens.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    צוליב די אַלע האָט קאַרטער געבעבעט צו די צונױפֿגעזאַמלטע מתים־פֿרעסערס, און האָט אין גיך קאָנספּעקטירט דעם פֿאַרלאַנג װאָס ר׳האָט געהאַט אין זינען, און װאָס ער האָט נישט געהאַלטן פֿאַר איבערגעטריבן װען מע נעמט אין באַטראַכט די דינסטן װאָס ר׳האָט אָקערשט אױפֿגעפֿירט פֿאַר די גומעדיקע הינטישע אונטערשפּרינגערס. ער האָט זיך געװוּנטשן זײער, האָט ער געזאָגט, באַקומען די דינסטן פֿון גענוג נאַכט־מאָגערס אים צו טראָגן בשלום דורך דער לופֿטן פֿאַרבײַ דעם געגבֿול פֿון שאַנטאַקן און אױסגעשניטצע בערג, און אַרױף אין דעם אַלטן װיסטעניש װוּ קײן אַנדער בשׂר־ודם האָט זיך אומגעקערט. ס׳האָט זיך אים געװאָלט פֿליִען אַרױף צום אָניקסענעם שלאָס אױף אומבאַקאַנט קדת אינעם קאַלטן װיסטעניש כּדי זיך צו בעטן בײַ
+    צוליב
+   </span>
+   <span>
+    די אַלע האָט קאַרטער געבעבעט צו די צונױפֿגעזאַמלטע מתים־פֿרעסערס, און האָט אין גיך קאָנספּעקטירט דעם פֿאַרלאַנג װאָס ר׳האָט געהאַט אין זינען, און װאָס ער האָט נישט געהאַלטן פֿאַר איבערגעטריבן װען מע נעמט אין באַטראַכט די דינסטן װאָס ר׳האָט אָקערשט אױפֿגעפֿירט פֿאַר די גומעדיקע הינטישע אונטערשפּרינגערס. ער האָט זיך געװוּנטשן זײער, האָט ער געזאָגט, באַקומען די דינסטן פֿון גענוג נאַכט־מאָגערס אים צו טראָגן בשלום דורך דער לופֿטן פֿאַרבײַ דעם געגבֿול פֿון שאַנטאַקן און אױסגעשניטצע בערג, און אַרױף אין דעם אַלטן װיסטעניש װוּ קײן אַנדער בשׂר־ודם האָט זיך אומגעקערט. ס׳האָט זיך אים געװאָלט פֿליִען אַרױף צום אָניקסענעם שלאָס אױף אומבאַקאַנט קדת אינעם קאַלטן װיסטעניש כּדי זיך צו בעטן בײַ
    </span>
    <span style="font-style:italic">
     די
@@ -1709,18 +2102,24 @@ lang: yi
    <span style="font-weight:700;font-style:italic">
     אַנדערע געטער
    </span>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     , װאָס האָבן אַ נטיה אױפֿצוזען די ענינים פֿון די מילדערע געטער פֿון דער ערד, שיקן אומגעריכטע זאַכן, מוזן די נאַכט־מאָגערס נישט מורא האָבן; װײַל די דרױסנדיקע גיהנומס זײַנען בטל־⁠בשישים פֿאַר אַזעלכע שװײַגנדיקע און גליטשיקע פֿליִערס װאָס האַלטן נישט ניאַרלאַתאָטעפּן פֿאַר זײער בעל־⁠הבית, אָבער פֿאַרנײגן זיך נאָר צו פּאָטענטן און אַרכאַיִשן נאָדענסן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶204 A flock of ten or fifteen night-gaunts, Carter glibbered, would surely be enough to keep any combination of Shantaks at a distance, though perhaps it might be well to have some ghouls in the party to manage the creatures, their ways being better known to their ghoulish allies than to men. The party could land him at some convenient point within whatever walls that fab
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶204 A flock of ten or fifteen night-gaunts, Carter glibbered, would surely be enough to keep any combination of Shantaks at a distance, though perhaps it might be well to have some ghouls in the party to manage the creatures, their ways being better known to their ghoulish allies than to men. The party could land him at some convenient point within whatever walls that fabulous onyx citadel might have, waiting in the shadows for his return or his signal whilst he ventured inside the castle to give prayer to the gods of earth. If any ghouls chose to escort him into the throne-room of the Great Ones, he would be thankful, for their presence would add weight and importance to his plea. He would not, however, insist upon this but merely wished transportation to and from the castle atop unknown Kadath; the final journey being either to the marvellous sunset city itself, in case of gods proved favourable, or back to the earthward Gate of Deeper Slumber in the Enchanted Wood in case his prayers were fruitless.
+    ulous onyx citadel might have, waiting in the shadows for his return or his signal whilst he ventured inside the castle to give prayer to the gods of earth. If any ghouls chose to escort him into the throne-room of the Great Ones, he would be thankful, for their presence would add weight and importance to his plea. He would not, however, insist upon this but merely wished transportation to and from the castle atop unknown Kadath; the final journey being either to the marvellous sunset city itself, in case of gods proved favourable, or back to the earthward Gate of Deeper Slumber in the Enchanted Wood in case his prayers were fruitless.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    אַ טשאַטע צען־פֿופֿצן נאַכט־מאָגערס, האָט קאַרטער געבעבעט, װאָלט אױף זיכער זײַן גענוג צו האַלטן אַבי װאָסער קאָמבינאַציע שאַנטאַקן פֿון דער װײַטן,כאָטש ס׳װאָלט אפֿשר זײַן גוט צו האָבן עטלעכע מתים־פֿרעסערס אין דער פּאַרטיע אָנצופֿירן די באַשעפֿענישן, װײַל זײערע מתים־פֿרעסערישע אַליאַנטן האָבן בעסער געװוּסט אײדער מענטשן זײערע שטײגערס. די פּאַרטיע האָט געקענט אים אַראָפּלאָזן אױף עפּעס אַ באַקװעמן פּונקט אין װאָסערע װענט זאָל יענער פֿאַנטאַסטישער אָניקסענער שלאָס נישט האָבן, און װאָרטן אין די שאָטנס פֿאַר זײַן אומקער אָדער זײַן סיגנאַל בשעת ער װאָלט דרײסט אַרײַנטרעטן אין דעם שלאָס אַרײַן אָפּצוגעבן די געטער פֿון ערד תּפֿילה. אױב אַבי װאָסער מתים־פֿרעסערס זאָלן נישט באַשליסן אים צו באַגלײטן אין דער טראָן־קאַמער פֿון
+    אַ טשאַטע צען־פֿופֿצן נאַכט־מאָגערס, האָט קאַרטער געבעבעט, װאָלט אױף זיכער זײַן גענוג צו האַלטן אַבי װאָסער קאָמבינאַציע שאַנטאַקן פֿון דער װײַטן,כאָטש ס׳װאָלט אפֿשר זײַן גוט צו האָבן עטלעכע מתים־פֿרעסערס אין דער פּאַרטיע אָנצופֿירן די באַשעפֿענישן, װײַל זײערע מתים־פֿרעסערישע אַליאַנטן האָבן בעסער געװוּסט אײדער מענטשן זײערע שטײגערס. די פּאַרטיע האָט געקענט אים אַראָפּלאָזן אױף עפּעס אַ באַקװעמן פּונקט אין װאָסערע װענט זאָל יענער פֿאַנטאַסטישער אָניקסענער שלאָס נישט האָבן, און װאָרטן אין די שאָטנס פֿ
+   </span>
+   <span>
+    אַר זײַן אומקער אָדער זײַן סיגנאַל בשעת ער װאָלט דרײסט אַרײַנטרעטן אין דעם שלאָס אַרײַן אָפּצוגעבן די געטער פֿון ערד תּפֿילה. אױב אַבי װאָסער מתים־פֿרעסערס זאָלן נישט באַשליסן אים צו באַגלײטן אין דער טראָן־קאַמער פֿון
    </span>
    <span style="font-style:italic">
     די
@@ -1732,7 +2131,7 @@ lang: yi
     , װאָלט ער קומען
    </span>
    <span>
-    <a href="https://www.google.com/url?q=https://englishyiddishdictionary.com/ceyd?page%3Dabbrev;eq%3D%25D7%2593%25D7%2590%25D6%25B7%25D7%2598%25D7%25B3&amp;sa=D&amp;source=editors&amp;ust=1758538965718110&amp;usg=AOvVaw2aev2jbrwWS1kkUxLvZ5N-" style="color:inherit;text-decoration:inherit">
+    <a href="https://www.google.com/url?q=https://englishyiddishdictionary.com/ceyd?page%3Dabbrev;eq%3D%25D7%2593%25D7%2590%25D6%25B7%25D7%2598%25D7%25B3&amp;sa=D&amp;source=editors&amp;ust=1758538968133054&amp;usg=AOvVaw0M5OJFFzFJbkVBd_eswizG" style="color:inherit;text-decoration:inherit">
     </a>
    </span>
    <span>
@@ -1746,13 +2145,22 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶205 Whilst Carter was speaking all the ghouls listened with great attention, and as the moments advanced the sky became black with clouds of those night-gaunts for which messengers had been sent. The winged steeds settled in a semicircle around the ghoulish army, waiting respectfully as the doglike chieftains considered the wish of the earthly traveller. The ghoul that was Pickman glibbered gravely with his fellows and in the end Carter was offered far more than he had at most expected. As he had aided the ghouls in their conquest of
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶205 Whilst Carter was speaking all the ghouls listened with great attention, and as the moments advanced the sky became black with clouds of those night-gaunts for which messengers had been sent. The winged steeds settled in a semicircle around the ghoulish army, waiting respectfully as the doglike chieftains considered the wish of the earthly traveller. The ghoul that was Pickman glibbered gravely with his fellows and in the end Carter was offered far more than he had at most expected. As he had aided the ghouls in their conquest of the moonbeasts, so would they aid him in his daring voyage to realms whence none had ever returned; lending him not merely a few of their allied night-gaunts, but their entire army as then encamped, veteran fighting ghouls and newly assembled night-gaunts alike, save only a small garrison for the captured black galley and such spoils as had come from the jagged rock in the sea. They would set out through the aft whenever he might wish, and once arrived on Kadath a suitable train of ghouls would attend him in state as he placed his petition before earth's gods in their onyx castle.
+    the moonbeasts, so would they aid him in his daring voyage to realms whence none had ever returned; lending him not merely a few of their allied night-gaunts, but their entire army as then encamped, veteran fighting ghouls and newly assembled night-gaunts alike, save only a small garrison for the captured black galley and such spoils as had come from the jagged rock in the sea. They would set out through the aft whenever he might wish, and once arrived on Kadath a suitable train of ghouls would attend him in state as he placed his petition before earth's gods in their onyx castle.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    בשעת קאַרטער האָט גערעדט האָבן די אַלע מתים־פֿרעסערס זיך צוגעהערט מיט גרױסער אַכט, און במשך דער צײַט איז דער הימל געװאָרן שװאַרץ מיט כמאַרעס פֿון יענע נאַכט־מאָגערס פֿאַר װעמען מ׳האָט געשיקט שטאַפֿעטן. די באַפֿליגלטע רײַט־חיות האָבן זיך אַװעקגעזעצט אין אַ האַלבקרײַז אַרום דעם חייל מתים־פֿרעסערס, װאַרטנדיק מיט דרך־ארץ בעת די הינטישע ראָשי־שבֿט האָבן גענומען אין באַטראַכט די װינטשונג פֿונעם ערדישן נוסע. דער מתים־פֿרעסער װאָס איז געװען פּיקמאַן האָט געבעבעט גאָר ערנצט מיט זײַנע חבֿרים, און סוף־כּל־סוף האָט מען אָנגעבאָטן קאַרטערן אַ סך מער װי װאָס ער האָט זיך געריכט קען זײַן מעגלעך. װאָרן ער האָט געהאָלפֿן די מתים־פֿרעסערס אין זײער נצחון איבער די לבֿנה־חיות, אַזױ װאָלטן זײ אים העלפֿן אין זײַן דערװעגטער נסיעה קײן געגבֿולן פֿון װאַנעט קײנער איז קײן מאָל נישט צוריק; זײ װאָלטן אים פֿאַרלײַען נישט נאָר אַ פּאָר פֿון זײערע אַליִיִרטע נאַכט־מאָגערס, נאָר אױך זײער גאַנץ חייל װי זיך געלאַגערט דאָרטן, סײַ קאַמפֿנדיקע װעטעראַן מתים־פֿרעסער, סײַ נײַ־צונױפֿגעזאַמעלטע נאַכט־מאָגערס, אַחוץ נאָר אַ קלײנעם גאַרניזאָן פֿאַר דער פֿאַרכאַפּטער שװאַרצער גאַליע און אַזאַ זאַקרױב װאָס איז געקומען פֿונעם שטשערבאַטע פֿעלדז אינעם ים. זײ װאָלטן זיך אַרױסלאָזן דורך דער לופֿט װען ער זאָל נישט װילן, און װי נאָר ער װאָלט אָנגעקומען אױף קדת װאָלט אַ טױגעװדיקע סװיטע מתים־פֿרעסערס באַגלײטן אים שטאַלטיקערהײט בעת ער װאָלט געלײגן זײַן פּעטיציע פֿאַר די געטער פֿון דער ערד אין זײער אָניקסענעם שלאָס.
+    בשעת קאַרטער האָט גערעדט האָבן די אַלע מתים־פֿרעסערס זיך צוגעהערט מיט גרױסער אַכט, און במשך דער צײַט איז דער הימל געװאָרן שװאַרץ מיט כמאַרעס פֿון יענע נאַכט־מאָגערס פֿאַר װעמען מ׳האָט געשיקט שטאַפֿעטן. די באַפֿליגלטע רײַט־חיות האָבן זיך אַװעקגעזעצט אין אַ האַלבקרײַז אַרום דעם חייל מתים־פֿרעסערס, װאַרטנדיק מיט דרך־ארץ בעת די הינטישע ראָשי־שבֿט האָבן גענומען אין באַטראַכט די װינטשונג פֿונעם ערדישן נוסע. דער מתים־פֿרעסער װאָס איז געװען פּיקמאַן האָט געבעבעט גאָר ערנצט מיט זײַנע חבֿרים, און סוף־כּל־סוף האָט מען אָנגעבאָטן קאַרטערן אַ סך מער װי װאָס ער האָט זיך געריכט קען זײַן מעגלעך. װאָרן ער האָט געהאָלפֿן די מתים־פֿרעסערס אין זײער נצחון איבער די לבֿנה־חיות, אַזױ װאָלטן זײ אים העלפֿן אין זײַן דערװעגטער נסיעה קײן געגבֿולן פֿון װאַנעט קײנער איז קײן מאָל נישט צוריק; זײ װאָלטן אים פֿאַרלײַען נישט נאָר אַ פּאָר פֿון זײערע אַליִיִרטע נאַכט־מאָגערס, נאָר אױך זײער גאַנץ חייל װי זיך געלאַגערט דאָרטן, סײַ קאַמפֿנדיקע װעטעראַן מתים־פֿרעסער, סײַ נײַ־צונױפֿגעזאַמעלטע נאַכט־מאָגערס, אַחוץ נאָר אַ קלײנעם גאַרניזאָן פֿאַר דער פֿאַרכאַפּטער שװאַרצער גאַליע און אַזאַ זאַקרױב װאָס איז געקומען פֿונעם שטשערבאַטע פֿעלדז אינעם ים. זײ װאָלטן זיך אַרױסלאָזן דורך דער לופֿט װען ער זאָל נישט װילן, און װי נאָר ער
+   </span>
+   <span>
+    װאָלט
+   </span>
+   <span>
+    אָנגעקומען אױף קדת װאָלט אַ טױגעװדיקע סװיטע מתים־פֿרעסערס באַגלײטן אים שטאַלטיקערהײט בעת ער װאָלט געלײגן זײַן פּעטיציע פֿאַר די געטער פֿון דער ערד אין זײער אָניקסענעם שלאָס.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1761,8 +2169,20 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    אָנגערירט מיט הכּרת־⁠טובֿה און נחת מחוצן כּוח פֿון װערטער, האָט קאַרטער געפּלאַנעװעט מיט די מתים־פֿרעסער אָנפֿירערס פֿאַר זײַן דרײסטער נסיעה. דאָס חייל װאָלט פֿליִען הױך, האָבן זײ באַשלאָסן, איבער מיאוס לענג מיט זײַן נאָמענלאָזן מאָנאַסטיר און בײזע שטײנערנע דערפֿעלעך; מיט אַן אָפּשטעל נאָר בײַ די אומגעהײַערע גראָע שפּיצן כּדי זיך צו האַלטן אַן עצה מיט די נאַכט־מאָגערס װאָס שרעקן שאַנטאַקן אָן און װאָס זײערע נאָרעס לעכערן די באַרגשפּיצן דורך. זײ װאָלטן דערנאָכדעם גומר דעם לעצטגילטיקע מאַרשרוטע לױט װאָסרערע עצות זײ זאָלן נישט באַקומען פֿון די תּושבֿים; זיך צו דערנעענטערן צו אומבאַקאַנט קדת, צי דורך דער מידבר פֿון אױסגעשניצטע בערג אױף צפֿון פֿון אינקואַנאָק, צי דורך די צפֿונדיקערע אױסשפּרײטן פֿון דערװידערקדיק לענג אַלײן. הגם זײ זײַנען הינטיש און נשמהלאָז, האָבן די מתים־פֿרעסערס און נאַכט־מאָגערס געהאַט נישט קײן שרעק פֿון װאָס יענע אומגעטראָטענע מידבר⁠יות זאָלן אַנטפּלעקן; און זײ האָבן נישט דערשפּירט אַבי װאָסער אָפּשרעקנדיקן אָפּשײ פֿונעם רעיון פֿון קדת װאָס טורעמט זיך אַלײן מיט זײַן אָניקסענעם שלאָס פֿון מיסטעריע.
+   <span>
+    אָנגערירט מיט הכּ
+   </span>
+   <span>
+    רת־⁠טובֿה און נחת מחוצן כּוח פֿון װערטער, האָט קאַרטער געפּלאַנעװעט מיט די מתים־פֿרעסער אָנפֿירערס פֿאַר זײַן דרײסטער נסיעה. דאָס חייל װאָלט פֿליִען הױך, האָבן זײ באַשלאָסן, איבער מיאוס לענג מיט זײַן נאָמע
+   </span>
+   <span>
+    נלאָזן מאָנאַסטיר און בײזע שטײנערנע דערפֿעלעך; מיט אַן אָפּשטעל נאָר בײַ די אומגעהײַערע
+   </span>
+   <span>
+    גראָע שפּיצן כּדי זיך צ
+   </span>
+   <span>
+    ו האַלטן אַן עצה מיט די נאַכט־מאָגערס װאָס שרעקן שאַנטאַקן אָן און װאָס זײערע נאָרעס לעכערן די באַרגשפּיצן דורך. זײ װאָלטן דערנאָכדעם גומר דעם לעצטגילטיקע מאַרשרוטע לױט װאָסרערע עצות זײ זאָלן נישט באַקומען פֿון די תּושבֿים; זיך צו דערנעענטערן צו אומבאַקאַנט קדת, צי דורך דער מידבר פֿון אױסגעשניצטע בערג אױף צפֿון פֿון אינקואַנאָק, צי דורך די צפֿונדיקערע אױסשפּרײטן פֿון דערװידערקדיק לענג אַלײן. הגם זײ זײַנען הינטיש און נשמהלאָז, האָבן די מתים־פֿרעסערס און נאַכט־מאָגערס געהאַט נישט קײן שרעק פֿון װאָס יענע אומגעטראָטענע מידבר⁠יות זאָלן אַנטפּלעקן; און זײ האָבן נישט דערשפּירט אַבי װאָסער אָפּשרעקנדיקן אָפּשײ פֿונעם רעיון פֿון קדת װאָס טורעמט זיך אַלײן מיט זײַן אָניקסענעם שלאָס פֿון מיסטעריע.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1782,7 +2202,13 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    בײַם זונפֿאַרגאַנג האָבן זײ דערגרײכט די שטשערבאַטע גראָע שפּיצן װאָס פֿורעמען דעם באַריער פֿון אינקואַנאָק. האָבן זײ געהױערט בײַ די דאָזיקע אױסטערלישע הײלן לעבן די שפּיצן װעלכע קאַרטער האָט זיך דערמאָנט אין דעם אַז זײ זײַנען די שאַנטאַקן אַזױ שרעקעדיק. אױף די צושטײיִקע מיפּסן פֿון די מתים־פֿרעסערישע אָנפֿירערס האָט אַרױסגעשטראָמט פֿון יעדער געהױבענער נאָרע אַ שטראָם באַהערנערטע שװאַרצע פֿליִערס װאָס מיט זײ האָבן די מתים־פֿרעסערס און די נאַכט־מאָגערס פֿון זײער פּאַרטיע מישבֿ זיך געװען באַריכות מיט זײ מיט מיאוסע העװיות. מע האָט זיך דערװוּסט אַז די בעסטע מאַרשרוטע װאָלט זײַן די אָ װאָס גײט איבער דעם קאַלטן װיסטעניש אױף צפֿון פֿון אינקואַנאָק, װײַל די צפֿונדיקע אױסשפּרײטן פֿון לענג זײַנען פֿול מיט אומגעזעענע פֿאַלגריבער װאָס אַפֿילו די נאַכט־מאָגערס האָבן זײ פֿײַנט; תּהומישע השפּעות װאָס קאָנצענטרירן זיך אױף האַלבקײַלעכדיקע בנינים אױף טשיקאַװע בערטעס, װאָס עם־הארציש פֿאָלקלאָר אַסאָציִיִרט אומאײַנגענעם מיט
+    בײַם זונפֿאַרגאַנג האָבן זײ דערגרײכט די שטשערבאַטע גראָע שפּיצן װאָס פֿורעמען דעם באַריער פֿון אינקואַנאָק. האָבן זײ געהױערט בײַ די דאָזיקע אױסטערלישע הײלן לעבן די שפּיצן װעלכע קאַרטער האָט זיך דערמאָנט אין דעם אַז זײ זײַנען די שאַנטאַקן אַזױ שרעקעדיק. אױף די צושטײיִקע מיפּסן פֿון די מתים־פֿרעסערישע אָנפֿירערס האָט אַרױסגעשטראָמט פֿון יעדער געהױבענער נאָרע אַ שטראָם באַהערנערטע שװאַרצע פֿליִערס װאָס מיט זײ האָבן די מתים־פֿרעסערס און די נאַכט־מאָגערס פֿון זײער פּאַרטיע מישבֿ זיך געװען באַריכות מיט זײ מיט מיאוסע העװיות. מע האָט זיך דערװוּסט אַז די בעסטע מאַרשרוטע װאָלט זײַן די אָ װאָס גײט איבער דעם קאַלטן װיסטעניש אױף צפֿון פֿון אינקואַנאָק, װײַל די צפֿונדיקע אױסשפּרײטן פֿון לענג זײַנען פֿול מיט אומגעזעענע פֿאַלגריבער װאָס אַפֿילו די נאַכט־מאָגערס האָבן זײ
+   </span>
+   <span>
+    פֿײַנט
+   </span>
+   <span>
+    ; תּהומישע השפּעות װאָס קאָנצענטרירן זיך אױף האַלבקײַלעכדיקע בנינים אױף טשיקאַװע בערטעס, װאָס עם־הארציש פֿאָלקלאָר אַסאָציִיִרט אומאײַנגענעם מיט
    </span>
    <span style="font-style:italic">
     די
@@ -1817,12 +2243,15 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶211 Then suddenly the clouds thinned and the stars shone spectrally above. All below was still black, but those pallid beacons in the sky seemed alive with a meaning and directiveness they had never possessed elsewhere. It was not that the figures of the constellations were different, but that the same familiar shapes now revealed a significance they had formerly failed to make plain. Everything focussed toward the north; every curve and asterism of the glittering sky became part of a vast design whose function was to hurry first the eye and then the whole observer onward to some secret and terrible goal of convergence beyond the frozen waste that stretched endlessly ahead. Carte
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶211 Then suddenly the clouds thinned and the stars shone spectrally above. All below was still black, but those pallid beacons in the sky seemed alive with a meaning and directiveness they had never possessed elsewhere. It was not that the figures of the constellations were different, but that the same familiar shapes now revealed a significance they had formerly failed to make plain. Everything focussed toward the north; every curve and asterism of the glittering sky became part of a vast design whose function was to hurry first the eye and then the whole observer onward to some secret and terrible goal of convergence beyond the frozen waste that stretched endlessly ahead. Carter looked toward the east where the great ridge of barrier peaks had towered along all the length of Inquanok and saw against the stars a jagged silhouette which told of its continued presence. It was more broken now, with yawning clefts and fantastically erratic pinnacles; and Carter studied closely the suggestive turnings and inclinations of that grotesque outline, which seemed to share with the stars some subtle northward urge.
+    r looked toward the east where the great ridge of barrier peaks had towered along all the length of Inquanok and saw against the stars a jagged silhouette which told of its continued presence. It was more broken now, with yawning clefts and fantastically erratic pinnacles; and Carter studied closely the suggestive turnings and inclinations of that grotesque outline, which seemed to share with the stars some subtle northward urge.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     דערנאָך האָבן די װאָלקנס זיך פּלוצעם אױסגעשיטערט און די שטערן האָבן אױבן געשײַנט װי אַ  דערזעעניש. אומעטום אונטן איז נאָך געװען שװאַרץ, אָבער יענע בלאַסע שײַנטורעמס אינעם הימל האָבן אױסגעזען לעבנדיק מיט אַ באַטײַט און אַן אָנװײַזונג װאָס זײ האָבן קײן מאָל נישט פֿאַרמאָגט אַנדערשװוּ. ס׳איז נישט געװען טאַקע אַז די פֿיגורן פֿון די מזלות זײַנען געװען אַנדערש, נאָר אַז די זעלביקע באַקאַנטע געשטאַלטן האָבן איצטער אַנטפּלעקט אַ װאָגיקײט װאָס זײ האָבן פֿריִער נישט געקענט אױסקלאָרן. אַלצדינג האָט זיך פֿאָקוסירט אױף צפֿון; יעדער בײג און געשטערן פֿון די גלאַנצנדיקן הימל איז געװאָרן אַ טײל פֿון אַ אומגעהײַערן דעסן װאָס זײַן צװעק איז געװען צוצואײַלן ערשטנס דאָס אױג און דערנאָכדעם דעם גאַנצן צוקוקער װײַטער פֿאָרױס צו עפּעס אַ בסודיקן און מוראדיקן ציל פֿון צונױפֿקום הינטער דעם געפֿרױרענעם װיסטעניש װאָס האָט זיך אױסגעצױגן אָן־סופֿיק פֿאָרױס. קאַרטער האָט געגעבן אַ קוק אױף מיזרח װוּ דער גרױסער קאַם פֿון באַריער־שפּיצן האָט זיך געטורעמט פּאַזע דער לענג פֿון אינקואַנאָק, און האָט געזען קעגן די שטערן אַ שטשערבאַטע סילועט װאָס האָט געװיזן אַז עס איז נאָך פֿאַראַן. ס׳איז געװען איצטער נאָך צעבראָכענער, מיט צעפּראַלטענע שפּאַלטן און פֿאַנטאַסטיש אומרעגולערע הױכפּונקטן; און קאַרטער האָט זאָרגעװדיק בודק געװען די סוגעסטיװע קער⁠ן און שיפּועים פֿון יענעם גראָטעסקן קאָנטור װאָס האָט אױסגעזען זיך צו טײלן מיט די שטערן מיט עפּעס אַ צװאַנג אױף צפֿון.
    </span>
   </p>
@@ -1832,7 +2261,7 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     זײ זײַנען פּאַרבײַגעפֿלױגן גאָר גאָר גיך, אַזױ אַז דער אָנקוקער װאָלט געמוזט זיך שטאַרק אָנשטרענגען כּדי צו כאַפּן דעטאַלן; װען מיט אײן קלאַפּ האָט ער דערזען איבער דער ליניע פֿון די אײבערשטע שפּיצן אַ טונקעלן חפֿץ זיך באַװעגנדיק אַקעגן די שטערן, װאָס זײַן מאַרשרוטע איז געגאַנגען גענױ פּאַראַלעל מיט זײַן אײגענער ביזאַרער פּאַרטיע. די מתים־פֿרעסערס האָבן דעסט גלײַכן אים אײַנגעבליקט װײַל ער האָט געהערט זײער נידריק בעבען אומעטום אַרום אים, און אױף אַ רגע האָט ער זיך פֿאָרגעשטעלט אַז דער חפּץ איז געװען אַ ריזיקער שאַנטאַק, מיט אַ גרײס גאָר גרעסער פֿון יענער פֿון דעם דורכשניטלעכן עקזעמפּלאַר. באַלד האָט ער פֿון דעסט װעגן געזען אַז די דאָזיקע סבֿרא װאָלט נישט שטײן; װײַל דאָס געשטאַלט פֿון דער זאַך איבער די בערג איז נישט געװען פֿון קײן שום פֿערדקעפּיקן פֿױגל. זײַן קאָנטור קעגן די שטערן, ממילא אַ מטושטשער, האָט געהאַט דעם אָנבליק פֿון עפּעס אַ מיטרע־באַקרײנטן קאָפּ, אָדער פּאָר קעפּ אין־⁠סופֿיק פֿאַרגרעסערט; און זײַן געשװינד װאַקלען אַרױף און אַראָפּ דורכן הימל האָט אױסגעזען משונהדיק אַן אומגעפֿליגלט. קאַרטער האָט נישט געקענט דערזען אױף װעלכער זײַט באַרג איז עס געװען, אָבער האָט אין קורצן באַנומען אַז ס׳האָט געהאַט טײלן אונטער די טײלן װאָס ער האָט צום ערשטן געזען, װײַל עס האָט פֿאַרדעקט די שטערן אין ערטער װוּ דער באַרגקאַם איז געװען טיף געשפּאָלטן.
    </span>
   </p>
@@ -1872,13 +2301,28 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    דעמאָלט האָט ער באַמערקט מיט שרעקעניש אַז די פֿליגלען פֿון די נאַכט־מאָגערס האָבן שױן נישט געפֿלאַטערט. די באַהערנערטע און פּנימלאָזע רײַט־חיות האָ
+   </span>
+   <span>
+    בן צונױפֿגעלײגט זײַ
+   </span>
+   <span>
+    ערע הײַטלדיקע אבֿרים און האָבן זיך אָפּגערוט גאָר פּאַסיװ אינעם כאַאָס פֿון װינט װאָס האָט געװירבט און אונטערגעלאַכט בשעת זײ װײַטערטראָגן. אַ כּוח נישט פֿון דער ערד האָט זיך אָנגעכאַפּט אינעם חײל, און סײַ מתים־פֿרעסערס סײַ נאַכט־מאָגערס זײַנען געבליבן אָן כּוח פֿאַר אַ שטראָם װאָס האָט געטערעפּעט משוגענערװײַז און אומדערבאַרעמדיק אױף צפֿון פֿון װאַנעט איז נישט קײן בשׂר־ודם קײן מאָל נישט צוריק. סוף־כּל־סוף האָט מען געזען אַן אײנציק בלאַס ליכט אױף דער הימל־⁠ליניע פֿאָרױס, װאָס ס׳האָט זיך דערנאָכדעם כּסדרדיק אױפֿגעהױבן בעת זײ האָבן זיך דערנעענטערט, און אונטער אים אַ שװאַרצע מאַסע װאָס האָט פֿאַרדעקט די שטערן. קאַרטער האָט געזען אַז עס מוז זײַן עפּעס אַ שײַנטורעם אױף אַ באַרג, װײַל נאָר אַ באַרג האָט געקענט זיך אױפֿהײבן אַזױ אומגעהײַער אַז מען זעט אים פֿון אַזױ ריזיק אַ הײך אין דער לופֿטן
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    דעמאָלט האָט ער באַמערקט מיט שרעקעניש אַז די פֿליגלען פֿון די נאַכט־מאָגערס האָבן שױן נישט געפֿלאַטערט. די באַהערנערטע און פּנימלאָזע רײַט־חיות האָבן צונױפֿגעלײגט זײַערע הײַטלדיקע אבֿרים און האָבן זיך אָפּגערוט גאָר פּאַסיװ אינעם כאַאָס פֿון װינט װאָס האָט געװירבט און אונטערגעלאַכט בשעת זײ װײַטערטראָגן. אַ כּוח נישט פֿון דער ערד האָט זיך אָנגעכאַפּט אינעם חײל, און סײַ מתים־פֿרעסערס סײַ נאַכט־מאָגערס זײַנען געבליבן אָן כּוח פֿאַר אַ שטראָם װאָס האָט געטערעפּעט משוגענערװײַז און אומדערבאַרעמדיק אױף צפֿון פֿון װאַנעט איז נישט קײן בשׂר־ודם קײן מאָל נישט צוריק. סוף־כּל־סוף האָט מען געזען אַן אײנציק בלאַס ליכט אױף דער הימל־⁠ליניע פֿאָרױס, װאָס ס׳האָט זיך דערנאָכדעם כּסדרדיק אױפֿגעהױבן בעת זײ האָבן זיך דערנעענטערט, און אונטער אים אַ שװאַרצע מאַסע װאָס האָט פֿאַרדעקט די שטערן. קאַרטער האָט געזען אַז עס מוז זײַן עפּעס אַ שײַנטורעם אױף אַ באַרג, װײַל נאָר אַ באַרג האָט געקענט זיך אױפֿהײבן אַזױ אומגעהײַער אַז מען זעט אים פֿון אַזױ ריזיק אַ הײך אין דער לופֿטן.
+    .
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶217 Higher and higher rose the light and the blackness beneath it, till all the northern sky was obscured by the rugged conical mass. Lofty as the army was, that pale and sinister beacon rose above it, towering monstrous over all peaks and concernments of earth, and tasting the atomless aether where the cryptical moon and the mad planets reel. No mountain known of man was that which loomed before them. The high clouds far below were but a fringe for its foothills. The groping dizziness of topmost air was but a girdle for its loins. Scornful and spectral climbed that bridge betwixt earth and heaven, black in eternal night, and crowned with a pshent of unknown stars whose awful and significant outline
+   </span>
+   <span>
+    grew e
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶217 Higher and higher rose the light and the blackness beneath it, till all the northern sky was obscured by the rugged conical mass. Lofty as the army was, that pale and sinister beacon rose above it, towering monstrous over all peaks and concernments of earth, and tasting the atomless aether where the cryptical moon and the mad planets reel. No mountain known of man was that which loomed before them. The high clouds far below were but a fringe for its foothills. The groping dizziness of topmost air was but a girdle for its loins. Scornful and spectral climbed that bridge betwixt earth and heaven, black in eternal night, and crowned with a pshent of unknown stars whose awful and significant outline grew every moment clearer. Ghouls meeped in wonder as they saw it, and Carter shivered in fear lest all the hurtling army be dashed to pieces on the unyielding onyx of that cyclopean cliff.
+    very moment clearer. Ghouls meeped in wonder as they saw it, and Carter shivered in fear lest all the hurtling army be dashed to pieces on the unyielding onyx of that cyclopean cliff.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1907,7 +2351,16 @@ lang: yi
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    ¶219 Even as he realised this thing, Carter noticed a change in the course of the helplessly wind-sucked party. They were rising abruptly now, and it was plain that the focus of their flight was the onyx castle where the pale light shone. So close was the great black mountain that its sides sped by them dizzily as they shot upward, and in the darkness they could discern nothing upon it. Vaster and vaster loomed the tenebrous towers of the nighted castle above, and Carter could see that it was well-nigh blasphemous in its immensity. Well might its stones have been quarried by nameless workmen in that horrible gulf rent out of the rock in the hill pass north of Inquanok, for such was its size that a man on its threshold stood even as air out on the steps of earth's loftiest fortress. The pshent of unknown stars above the myriad domed turrets glowed with a sallow, sickly flare, so that a kind of twilight hung about the murky walls of slippery onyx. The pallid beacon was now seen to be a single shining window high up in one of the loftiest towers, and as the helpless army neared the top of the mountain Carter thought he detected unpleasant shadows flitting across the feebly luminous expanse. It was a strangely arched window, of a design wholly alien to earth.
+    ¶219 Even as he realised this thing, Carter noticed a change in the course of the helplessly wind-sucked party. They were rising abruptly now, and it was plain that the focus of their flight was the onyx castle where the pale light shone. So close was the great bla
+   </span>
+   <span>
+    ck mountain that its sides sped by them dizzily as they shot upward, and in the darkness they could discern nothing upon it. Vaster and vaster loomed the tenebrous towers of the nighted castle above, and Carter could see that it was well-nigh blasphemous in its immensity. Well might its stones have been quarried by nameless workmen in that horrible gulf rent out of the rock in the hill pass north of Inquanok, for such was its size that a man on its threshold stood even as air out on the steps of earth's loftiest fortress. The pshent of unknown stars above the myriad domed turrets glowed with a sallow, sickly flare, so that a kind of twilight hung about the murky walls of slippery onyx. The pallid beacon was now seen to be a single shining window high up in one of the loftiest tower
+   </span>
+   <span>
+    s, and as the helpless army neared the top of the mountain Carter thought he detected unpleasant shadows
+   </span>
+   <span>
+    flitting across the feebly luminous expanse. It was a strangely arched window, of a design wholly alien to earth.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1915,7 +2368,28 @@ lang: yi
     ממש בשעת ר׳האָט זיך דאָס געכאַפּט, האָט קאַרטער באַמערקט אַ שינױ אין דער ריכטונג פֿון דער פּאַרטיע, הילפֿלאָזערהײט געזױגן פֿונעם װינט. זײ האָבן איצט געהאַלטן אין שאַרף אַרױפֿשװעבן, און ס׳איז געװען קלאָר אַז דער פֿאָקוס פֿון זײער פֿלי איז דער אָניקסענער שלאָס װוּ דאָס בלאַסע ליכט האָט געשײַנט. אַזױ נאָענט איז געװען דער גרױסער שװאַרצער באַרג אַז זײַנע זײַטן האָבן זיך פֿאַרבײַגעאײַלט קאָפּשװינדלדיק בעת זײ האָבן זיך אַרױפֿגעשאָסן, און אינעם פֿינצטערניש האָבן זײ נישט געקענט דערקענען גאָרנישט אױף אים
    </span>
    <span>
-    . ס׳האָבן אָנגענומען אַ גרעסערן פֿאַרנעם די חושכדיקע טורעמס פֿונעם נאַכטשלאָס אױבן, און קאַרטער האָט געקענט זען אַז דער שלאָס איז כּמעט אַ לעסטערונג מיט זײַן פֿאַרשפּרײטקײט. מסתּמא זײַנען זײַנע שטײנער אַרױסבאַקומען געװאָרן דורך נאָמענלאָזע אַרבעטערס אין יענעם שױדערלעכן אָפּגרונט װאָס איז אָפּגעריסן געװאָרן פֿונעם פֿעלדז אױף צפֿון פֿון אינקואַנאָק, װאָרן אַזױ איז געװען זײַן גרײס אַז אַ מענטש אױף זײַן שװעל איז געשטאַנען הױך װי אױף די טרעפּן פֿון די דערהױבענסטער פֿעסטונג פֿון ערד. דער פּסכענט פֿון אומבאַקאַנטע שטערן איבער די מיריאַד קופּאָל־טורעמלעך האָט זיך געטליט מיט אַ חולהװאַטע, געלבלעך אױפֿפֿלאַקערן, אַזױ אַז אַ סאָרט בין־השמשות איז אַרומגעהאָנגען אַרום די פֿאַרנעפּלטע װענט פֿון גליטשיקן אָניקס. האָט מען איצטער געזען אַז דער בלײכער שײַנטורעם איז געװען אַן אײנציקער שײַנענדיקער פֿענצטער הױך אין אײנעם פֿון די דערהױבענסטע טורעמס, און בעת דאָס הילפֿלאָזע חײל האָט זיך דערנעענטערט דעם שפּיץ פֿונעם באַרג האָט קאַרטער געמײנט אַז ער האָט אָפּשגעפּירט אומאײַנגענעמע שאָטנס װאָס פֿלאַטערן אַריבער דעם שװאַך באַלױכטענעם אױסשפּרײט. ס׳איז געװען אַ פֿענצטער, אױסטערליש געבױגן, פֿון אַ דעסן אין גאַנצן פֿרעמד צו ערד.
+    . ס׳האָבן אָנגענומען אַ גרעסערן פֿאַרנעם די חושכדיקע טורעמס פֿונעם נאַכטשלאָס אױבן, און קאַרטער האָ
+   </span>
+   <span>
+    ט געקענט זען אַז דער שלאָס איז כּמעט אַ לעסטערונג מיט זײַן
+   </span>
+   <span>
+    פֿאַרשפּרײטקײט
+   </span>
+   <span>
+    . מסתּמא זײַנען זײַנע שטײנער אַרױסבאַקומען געװאָרן דורך נאָמענלאָזע אַרבעטערס אין יענעם שױדערלעכן אָפּגרונט װאָס איז אָפּגעריסן געװאָרן פֿונעם פֿעלדז אױף צפֿון פֿון אינקואַנאָק, װאָרן אַזױ איז געװען זײַן גרײס אַז אַ מענטש אױף זײַן שװעל איז געשטאַנען הױך װי אױף די טרעפּן פֿון די דערהױבענסטער פֿעסטונג פֿון ערד. דער פּסכענט פֿון אומבאַקאַנטע שטערן איבער די מיריאַד קופּאָל־טורעמלעך האָט זיך געטליט מיט אַ חולהװאַטע, געלבלעך
+   </span>
+   <span>
+    אױפֿפֿלאַקערן
+   </span>
+   <span>
+    , אַזױ אַז אַ סאָרט בין־השמשות איז אַרומגעהאָנגען אַרום די פֿאַרנעפּלטע װענט פֿון גליטשיקן אָניקס. האָט מען איצטער געזען אַז דער בלײכער שײַנטורעם
+   </span>
+   <span>
+    איז געװען אַן אײנציקער שײַנענדיקער פֿענצטער הױך אין אײנעם פֿון די דערהױבענסטע טורעמס, און בעת דאָס הילפֿלאָזע חײל האָט זיך דערנעענטערט דעם שפּיץ פֿונעם באַרג האָט קאַרטער געמײנט אַז ער
+   </span>
+   <span>
+    האָט אָפּשגעפּירט אומאײַנגענעמע שאָטנס װאָס פֿלאַטערן אַריבער דעם שװאַך באַלױכטענעם אױסשפּרײט. ס׳איז געװען אַ פֿענצטער, אױסטערליש געבױגן, פֿון אַ דעסן אין גאַנצן פֿרעמד צו ערד.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1925,7 +2399,13 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    ס'האָבן פֿאַרנומען דאָס אָרט פֿונעם סאָלידענעם פֿעלדז די ריזיקע יסודות פֿונעם מאָנסטעריעזן שלאָס, און ס׳האָט זיך געדאַכט אַז די גיכקײט פֿון דער פּאַרטיע האָט זיך עפּעס פֿאַרמינערט. ברײט־פֿאַרנעמיקע מױערן האָבן זיך אַרױפֿגעשאָסן, און מ׳האָט געכאַפּט אַ גיכן בליק אױף אַ גרױסן טױער דורך װעלכן זײַנען די נוסעים אַראָפּגעשװענקט געװאָרן. אַלצדינג איז געװען נאַכט אינעם טיטאַנישן הױף און דערנאָך איז געקומען די טיפֿערע שװאַרצקײט פֿון אינעװײניקסטע זאַכן בעת אַ געװאַלדיקער אױסגעבױגענער פּאָרטאַל האָט פֿאַרשלונגען די קאָלאָנע. געװירבל⁠ען פֿון קאַלטן װינט האָבן געכװאַליעט װילגאָטנע דורך נישט־⁠זעעװדיקע אָניקסענע לאַבירינטן, און קאַרטער האָט קײן מאָל נישט געקענט דערקענען װעלכע קיקלאָפּישע טרעפּלעך און קאָרידאָרן זײַנען שטיל געליגן פּאַזע דער רוטע פֿון זײַן אָנסופֿיקן זיך שלענגלען דורך דער לופֿטן. תּמיד אױף אױבן האָט געפֿירט די מוראדיקע אַרײַנשפּרונג אין פֿינצטערניש אַרײַן און קײן מאָל האָט נישט קײן קלאַנג צי באַריר צי אײַנבליק צעבראָכן דעם געדיכטן שלײער פֿון מיסטעריע. אַזױ גרױס אַז דאָס חייל פֿון מתים־פֿרעסערס און נאַכט־מאָגערס זאָל נישט זײַן, איז ער פֿאָרט פֿאַרלױרן געװאָרן אין די אומגעהײַערע בלױזן פֿון יענעם מער־װי־ערדישן שלאָס. און אַז סוף־כּל־סוף האָט מיט אַ מאָל געשאַריִעט אױף אים דאָס גרױליקע ליכט פֿון יענעם אײנצלדיקן טױער־צימער װאָס זײַן דערהױבענער פֿענצטער האָט געדינט פֿאַר אַ שײַנטורעם, האָט גענומען קאַרטערן אַ היפּש ביסל צײַט צו דערקענען די װײַטע װענט און הױכע, װײַטע סטעליע און זיך צו כאַפּן אַז ער איז טאַקע נישט נאָך אַ מאָל אין דער אָנגבֿוליקער לופֿט אין דרױסן.
+    ס'האָבן פֿאַרנומען דאָס אָרט פֿונעם סאָלידענעם פֿעלדז די ריזיקע יסודות פֿונעם מאָנסטעריעזן שלאָס, און ס׳האָט זיך געדאַכט אַז די גיכקײט פֿון דער פּאַרטיע האָט זיך עפּעס פֿאַרמינערט. ברײט־פֿאַרנעמיקע מױערן האָבן זיך אַרױפֿגעשאָסן, און מ׳האָט געכאַפּט אַ גיכן בליק אױף אַ גרױסן טױער דורך װעלכן זײַנען די נוסעים אַראָפּגעשװענקט געװאָרן. אַלצדינג איז געװען נאַכט אינעם טיטאַנישן הױף און דערנאָך איז געקומען די טיפֿערע שװאַרצקײט פֿון אינעװײניקסטע זאַכן בעת אַ געװאַלדיקער אױסגעבױגענער פּאָרטאַל האָט פֿאַרשלונגען די קאָלאָנע. געװירבל⁠ען פֿון קאַלטן װינט האָבן געכװאַליעט
+   </span>
+   <span>
+    װילגאָטנע
+   </span>
+   <span>
+    דורך נישט־⁠זעעװדיקע אָניקסענע לאַבירינטן, און קאַרטער האָט קײן מאָל נישט געקענט דערקענען װעלכע קיקלאָפּישע טרעפּלעך און קאָרידאָרן זײַנען שטיל געליגן פּאַזע דער רוטע פֿון זײַן אָנסופֿיקן זיך שלענגלען דורך דער לופֿטן. תּמיד אױף אױבן האָט געפֿירט די מוראדיקע אַרײַנשפּרונג אין פֿינצטערניש אַרײַן און קײן מאָל האָט נישט קײן קלאַנג צי באַריר צי אײַנבליק צעבראָכן דעם געדיכטן שלײער פֿון מיסטעריע. אַזױ גרױס אַז דאָס חייל פֿון מתים־פֿרעסערס און נאַכט־מאָגערס זאָל נישט זײַן, איז ער פֿאָרט פֿאַרלױרן געװאָרן אין די אומגעהײַערע בלױזן פֿון יענעם מער־װי־ערדישן שלאָס. און אַז סוף־כּל־סוף האָט מיט אַ מאָל געשאַריִעט אױף אים דאָס גרױליקע ליכט פֿון יענעם אײנצלדיקן טױער־צימער װאָס זײַן דערהױבענער פֿענצטער האָט געדינט פֿאַר אַ שײַנטורעם, האָט גענומען קאַרטערן אַ היפּש ביסל צײַט צו דערקענען די װײַטע װענט און הױכע, װײַטע סטעליע און זיך צו כאַפּן אַז ער איז טאַקע נישט נאָך אַ מאָל אין דער אָנגבֿוליקער לופֿט אין דרױסן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1944,6 +2424,8 @@ lang: yi
     גרױסע
    </span>
    <span>
+   </span>
+   <span>
     מיט װערדע און כּבֿוד, פֿלאַנקירט און נאָכגעגאַנגען דורך רושמדיקע שורות מתים־פֿרעסערס אין צערעמאָניאַלער אָדדנונג, און אָנבאָטנדיק זײַן תּפֿילה בתּורת אַ פֿרײַער און פּאָטענטער בעל־הבית צװישן בעלי־חלומות. ער האָט געװוּסט אַז
    </span>
    <span style="font-style:italic">
@@ -1957,6 +2439,8 @@ lang: yi
    </span>
    <span style="font-style:italic">
     די
+   </span>
+   <span style="font-style:italic">
    </span>
    <span style="font-weight:700;font-style:italic">
     אַנדערע געטער
@@ -1983,7 +2467,7 @@ lang: yi
    </span>
    <span style="font-style:italic">
    </span>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     זײַנען אױף זיכער אױף דער װאַך אין װעכטעװען אױף די מילדע, שװאַקינקע געטער פֿון ערד. כאָטש זײ זײַנען לײדיק פֿון האַרשאַפֿט איבער מתים־פֿרעסערס און נאַכט־מאָגערס, קענען די שׂכללאָזע פֿאָרעמלאָזע לעסטערונגען פֿונעם קאָסמאָס נאָך האָבן שליטה איבער זײ װען זײ מוזן; און איז ס׳איז נישט געװען בתּורת אַ שטאַלטיקער, אַ פֿרײַער און פּאָטענטער בעל־הבית פֿון בעלי־חלומות, אַז ראַנדאָלף קאַרטער איז געקומען אינעם טראָן־צימער מיט זײַנע מתים־פֿרעסערס. אַראָפּגעשװענקט און געטריבן װי שאָף פֿון קאָמשמאַר־בורעס פֿון די שטערן, און גערודפּט פֿון אומגעזעענע שױדערס פֿונעם צפֿונדיקן װיסטעניש, האָט יענץ גאַנץ חייל געשװעבט, אַ געפֿאַנגענער און אַ הילפֿלאָזער, אינעם גרױליקן ליכט, פֿאַנלדיק פֿאַרטױבט צו דער אָניקסענער דיל װען דורך עפּעס אַ שטימלאָזן באַפֿעל האָבן די מורא־װינטן זיך צעלאָזן.
    </span>
   </p>
@@ -1994,7 +2478,10 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    פֿאַר נישט קײן גאָלדענער טריבונע איז ראַנדאָלף קאַרטער צוגעקומען, און ס׳איז נישט געװען קײן דערהױבענער קרײַז פֿון באַקרױנטע און באַאָרעאָלטע ישן מיט שמאָלע אױגן, דינער נאָז, לאַנג־לעפּלדיקע אױערן, און פֿאַרשפּיצטער גאָמבע, װאָס זײער קרובֿישאַפֿט צום אױסגעשניצטן פּנים אױף נגראַנעק קען זײ באַצײכנען װי יענע װאָס אַ בעל־חלומות קען זײ טאָן תּפֿילה. אַחוץ דער אײנער טורעם־צימער איז דער אָניקסענער שלאָס אױף קדת געװען פֿינצטער, און די בעלי־בתים זײַנען נישט געװען דאָרטן. קאַרטער איז געקומען קײן אומבאַקאַנט קדת אינעם קאַלטן װיסטעניש, אָבער ר׳האָט נישט געפֿונען די געטער. נישמער האָט דאָס גרױליקע ליכט געגליט אין יענעם אײנעם טורעם־צימער װאָס זײַן גרײס איז געװען נאָר אַ ביסל װײניקער װי די פֿונעם גאַנצן אינדרױסן, און װאָס זײַנע װײַטע װענט און דאַך זײַנען כּמעט פֿאַרלױרן געװאָרן צום געזיכט אין שיטערע, זיך קנױלנדיקע טומאַנען. די געטער פֿון די ערד זײַנען נישט געװען דאָרטן, דעם אמת געזאָגט, אָבער פֿון סובטילערע און װײניקער זעעװדיקע פֿאַראַנענקײטן האָט געקענט זײַן נישט קײן דוחק. װוּ די מילדע געטער זײַנען נישטאָ, פֿעלן נישט
+    פֿאַר נישט קײן גאָלדענער טריבונע איז ראַנדאָלף קאַרטער צוגעקומען, און ס׳איז נישט געװען קײן דערהױבענער קרײַז פֿון באַקרױנטע און באַאָרעאָלטע ישן מיט שמאָלע אױגן, דינער נאָז, לאַנג־לעפּלדיקע אױערן, און פֿאַרשפּיצטער גאָמבע, װאָס זײער קרובֿישאַפֿט צום אױסגעשניצטן פּנים אױף נגראַנעק קען זײ באַצײכנען װי יענע װאָס אַ בעל־חלומות קען זײ טאָן תּפֿילה. אַחוץ דער אײנער טורעם־צימער איז דער אָניקסענער שלאָס אױף קדת געװען פֿינצטער, און די בעלי־בתים זײַנען נישט געװען דאָרטן. קאַרטער איז געקומען קײן אומבאַקאַנט קדת אינעם קאַלטן װיסטעניש, אָבער ר׳האָט נישט געפֿונען די געטער. נישמער האָט דאָס גרױליקע ליכט געגליט אין יענעם אײנעם טורעם־צימער װאָס זײַן גרײס איז געװען נאָר אַ ביסל װײניקער װי די פֿונעם גאַנצן אינדרױסן, און װאָס זײַנע װײַטע װענט און דאַך זײַנען כּמעט פֿאַרלױרן געװאָרן צום געזיכט אין שיטערע, זיך קנױלנדיקע טומאַנען. די געטער פֿון די ערד זײַנען נישט געװען דאָרטן, דעם אמת געזאָגט, אָבער פֿון סובטילערע און װײניקער זעעװדיקע פֿאַראַנענקײטן האָט געקענט זײַן נישט קײן דוחק. װוּ די מילדע געטער זײַנען נישטאָ,
+   </span>
+   <span>
+    פֿעלן נישט
    </span>
    <span style="font-style:italic">
     די
@@ -2011,7 +2498,7 @@ lang: yi
    <span style="font-weight:700;font-style:italic">
     אַנדערע געטער
    </span>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     , װאָס די שװאָמדיקע לבֿנה־חיות אים דינען; און קאַרטער האָט געקלערט צוליב דער שװאַרצער גאַליע װאָס איז נעלם געװאָרן װען דאָס געפֿלײץ פֿון שלאַכט האָט זיך געדרײט אַקעגן די ראַפּוכעדיקע אומנאָרמאַלקײטן אױפֿן שטשערבאַטע פֿעלדז אינעם ים.
    </span>
   </p>
@@ -2022,7 +2509,10 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;margin-right:9pt;margin-left:0;font-family:"Times New Roman";margin-top:0;orphans:2;margin-bottom:0;widows:2;padding-right:0'>
    <span style="background-color:#ffffff">
-    זיך פֿאַרקלערנדיק װעגן די אָ, האָט ער געטאַמלט צו די פֿיס אין מיטן זײַן קאָשמאַר־קאָמפּאַניע אַז ס׳האָט געקלונגען אָן װאָרענונג דורך יענער בלאַס־באַלױכטענער און אומבאַגרענעצטער קאַמער דער מיאוסער אױסשאַל פֿון אַ דעמאָן־טרומײט. דרײַ מאָל האָט געקלונגען יענץ שרעקלעך מעשן געשרײ, און װען די עכאָס פֿונעם דריטן אױסשאַל זײַנען אונטערלאַכנדיק אַװעקגעשטאָרבן, האָט ראַנדאָלף קאַרטער געזען אַז ר׳איז אַלײן. װוּאַהין, פֿאַר װאָס און װי אַרומערט זײַנען די מתים־פֿרעסערס און נאַכט־מאָגערס אַרױסגעכאַפּט געװאָרן אױס געזיכט אַרױס איז נישט געװען זײַנס צו טרעפֿן. ער האָט געװוּסט נאָר אַז ר׳איז געװען פּלוצעם אַלײן, און אַז װאָסערע אומגעזעענע כּוחות זאָלן נישט לאָקערן מיט שפּאָט אַרום אים זײַנען געװען נישט קײן כּוחות פֿונעם פֿרײַנדלעכן חלום־לאַנד פֿון ערד. אָט־⁠אָט איז געקומען פֿון די סאַמע װײַטסטע גרענעצן פֿון דער קאַמער אַ נײַער קלאַנג. דאָס איז אױך געװען אַ ריטמיש טרומײטערײַ, אָבער פֿון אַ סאָרט גאָר דערװײַטערט פֿון די דרײַ רעשיקע אױסשאַלן װאָס האָבן פֿונאַנדערלאָזן זײַנע
+    זיך פֿאַרקלערנדיק װעגן די אָ, האָט ער געטאַמלט צו די פֿיס אין מיטן זײַן קאָשמאַר־קאָמפּאַניע אַז ס׳האָט געקלונגען אָן װאָרענונג דורך יענער בלאַס־באַלױכטענער און אומבאַגרענעצטער קאַמער דער מיאוסער אױסשאַל פֿון אַ דעמאָן־טרומײט. דרײַ מאָל האָט געקלונגען יענץ שרעקלעך מעשן געשרײ,
+   </span>
+   <span style="background-color:#ffffff">
+    און װען די עכאָס פֿונעם דריטן אױסשאַל זײַנען אונטערלאַכנדיק אַװעקגעשטאָרבן, האָט ראַנדאָלף קאַרטער געזען אַז ר׳איז אַלײן. װוּאַהין, פֿאַר װאָס און װי אַרומערט זײַנען די מתים־פֿרעסערס און נאַכט־מאָגערס אַרױסגעכאַפּט געװאָרן אױס געזיכט אַרױס איז נישט געװען זײַנס צו טרעפֿן. ער האָט געװוּסט נאָר אַז ר׳איז געװען פּלוצעם אַלײן, און אַז װאָסערע אומגעזעענע כּוחות זאָלן נישט לאָקערן מיט שפּאָט אַרום אים זײַנען געװען נישט קײן כּוחות פֿונעם פֿרײַנדלעכן חלום־לאַנד פֿון ערד. אָט־⁠אָט איז געקומען פֿון די סאַמע װײַטסטע גרענעצן פֿון דער קאַמער אַ נײַער קלאַנג. דאָס איז אױך געװען אַ ריטמיש טרומײטערײַ, אָבער פֿון אַ סאָרט גאָר דערװײַטערט פֿון די דרײַ רעשיקע אױסשאַלן װאָס האָבן פֿונאַנדערלאָזן זײַנע
    </span>
    <span>
     גוטע קאָהאָרטעס. אין דער שטילער תּרועה האָט אָפּגעהילכ
@@ -2032,8 +2522,11 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶224 Out of the thinning mists and the cloud of strange incenses filed twin columns of giant black slaves with loin-cloths of iridescent silk. Upon their heads were strapped vast helmet-like torches of glittering metal, from which the fragrance of obscure balsams spread in fumous spirals. In their right hands were crystal wands whose tips were carven into leering chimaeras, while their left hands grasped long thin silver trumpets which they blew in turn. Armlets and anklets of gold they had, and between each pair of anklets stretched a golden chain that held its wearer to a sober gait. That they were true black men of earth's dreamland was at once apparent, but it seemed less likely that their rites and costumes were wholly things of our earth. Ten feet from Carter the columns stopped, and as they did so each trumpet flew abruptly to its bearer's thick lips. Wild and ecstatic was the blast that followed, and wilder still the cry that chorused just after from dark throats somehow made shrill by strange artifice.
+    224 Out of the thinning mists and the cloud of strange incenses filed twin columns of giant black slaves with loin-cloths of iridescent silk. Upon their heads were strapped vast helmet-like torches of glittering metal, from which the fragrance of obscure balsams spread in fumous spirals. In their right hands were crystal wands whose tips were carven into leering chimaeras, while their left hands grasped long thin silver trumpets which they blew in turn. Armlets and anklets of gold they had, and between each pair of anklets stretched a golden chain that held its wearer to a sober gait. That they were true black men of earth's dreamland was at once apparent, but it seemed less likely that their rites and costumes were wholly things of our earth. Ten feet from Carter the columns stopped, and as they did so each trumpet flew abruptly to its bearer's thick lips. Wild and ecstatic was the blast that followed, and wilder still the cry that chorused just after from dark throats somehow made shrill by strange artifice.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -2052,7 +2545,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶226 "Randolph Carter," said the voice, "you have come to see the Great Ones whom it is unlawful for men to see. Watchers have spoken of this thing, and the Other Gods have grunted as they rolled and tumbled mindlessly to the sound of thin flutes in the black ultimate void where broods the daemon-sultan whose name no lips dare speak aloud.
    </span>
   </p>
@@ -2082,7 +2575,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶227 "When Barzai the Wise climbed Hatheg-Kia to see the Greater Ones dance and howl above the clouds in the moonlight he never returned. The Other Gods were there, and they did what was expected. Zenig of Aphorat sought to reach unknown Kadath in the cold waste, and his skull is now set in a ring on the little finger of one whom I need not name.
    </span>
   </p>
@@ -2109,13 +2602,19 @@ lang: yi
    </span>
    <span style="font-style:italic">
    </span>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     זײַנען געװען דאָרטן, און זײ האָבן געטאָן װאָס מ׳קען דערװאַרטן. זעניג דער אַפֿאָראַטער האָט געפּרוּװט דערגרײכן אומבאַקאַנט קדת אינעם קאַלטן װיסטעניש, און זײַן שאַרבן איז איצט אַװעקגעשטעלט אין אַ רינג אױפֿן מינדסטן פֿינגער פֿון אײנעם װאָס איז מיר נישט נײטיק אים נישט אָנרופֿן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶228 "But you, Randolph Carter, have braved all things of earth's dreamland, and burn still with the flame of quest. You came not as one curious, but as one seeking his due, nor have you failed ever in reverence toward the mild gods of earth. Yet have these gods kept you from the marvellous sunset city of your dreams, and wholly through their own small covetousness; for verily, they craved the weird loveliness of that which your fancy had fashioned, and vowed that henceforward no other spot should be their abode.
+   <span>
+    ¶228 "But you, Randolph Carter, have braved all things of earth's dreamland, and burn still with the flame of quest. You came not as one curious, but as one seeking his due, nor have you failed ever in reverence toward the m
+   </span>
+   <span>
+    ild gods of earth. Yet have these gods kept you from the marvellous sunset city of your dreams, and wholly through their own small covetousness; for verily, they craved the weird loveliness of that which your fancy had fashioned, and vowed that hencefo
+   </span>
+   <span>
+    rward no other spot should be their abode.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -2124,7 +2623,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶229 "They are gone from their castle on unknown Kadath to dwell in your marvellous city. All through its palaces of veined marble they revel by day, and when the sun sets they go out in the perfumed gardens and watch the golden glory on temples and colonnades, arched bridges and silver-basined fountains, and wide streets with blossom-laden urns and ivory statues in gleaming rows. And when night comes they climb tall terraces in the dew, and sit on carved benches of porphyry scanning the stars, or lean over pale balustrades to gaze at the town's steep northward slopes, where one by one the little windows in old peaked gables shine softly out with the calm yellow light of homely candles.
    </span>
   </p>
@@ -2134,7 +2633,7 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶230 "The gods love your marvellous city, and walk no more in the ways of the gods. They have forgotten the high places of earth, and the mountains that knew their youth. The earth has no longer any gods that are gods, and only the Other Ones from outer space hold sway on unremembered Kadath. Far away in a valley of your own childhood, Randolph Carter, play the heedless Great Ones. You have dreamed too well, O wise arch-dreamer, for you have drawn dream's gods away from the world of all men's visions to that which is wholly yours; having builded out of your boyhood's small fancies a city more lovely than all the phantoms that have gone before.
    </span>
   </p>
@@ -2159,12 +2658,12 @@ lang: yi
    <span style="font-style:italic">
     .
    </span>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ס׳האָט דיר צו גוט געחלומט, אָ חכם דער הױכער בעל־חלומות, װאָרן דו האָסט געצױגן די חלום־געטער אַװעק פֿון דער װעלט פֿון די חזיונות פֿון אַלע מענטשן אין יענער װאָס איז אין גאַנצן דײַנער אַרײַן; אױסגעבױט פֿון די פּרימכעלעך פֿון דײַן ייִנגלשאַפֿט אַ שטאָט שענער אײדער װאָסער זאָל נישט זײַן פֿון די אַלע אָפּדוכטן װאָס זײַנען פֿריִער איבערגעגאַנגען.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶231 "It is not well that earth's gods leave their thrones for the spider to spin on, and their realm for the Others to sway in the dark manner of Others. Fain would the powers from outside bring chaos and horror to you, Randolph Carter, who are the cause of their upsetting, but that they know it is by you alone that the gods may be sent back to their world. In that half-waking dreamland which is yours, no power of uttermost night may pursue; and only you can send the selfish Great Ones gently out of your marvellous sunset city, back through the northern twilight to their wonted place atop unknown Kadath in the cold waste.
    </span>
   </p>
@@ -2192,18 +2691,21 @@ lang: yi
    </span>
    <span style="font-style:italic">
    </span>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     צאַרטערהײט אױס דײַן װוּנדערלעכער שקיעה־שטאָט, צוריק דורכן צפֿונדיקן בין־השמשות צום אָרט װוּ זײ זײַנען נוהג זיך צו זײַן, אױף קדת אינעם קאַלטן װיסטעניש.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶232 "So. Randolph Carter, in the name of the Other Gods I spare you and charge you to seek that sunset city which is yours, and to send thence the drowsy truant gods for whom the dream world waits. Not hard to find is that roseal fever of the gods, that fanfare of supernal trumpets and clash of immortal cymbals, that mystery whose place and meaning have haunted you through the halls of waking and the gulfs of dreaming, and tormented you with hints of vanished memory and the pain of lost things awesome and momentous. Not hard to find is that symbol and relic of your days of wonder, for truly, it is but the stable and eternal gem wherein all that wonder sparkles crystallised to light your evening path. Behold! It is not over unknown seas but back over well-known years that your quest must go; back to the bright strange things of infancy and the quick sun-drenched glimpses of magic that old scenes brought to wide young eyes.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    „איז ראַנדאָלף קאַרטער, שאַנעװע איך דיך און גיב דיר אױף אינעם נאָמען פֿ
+    „
+   </span>
+   <span>
+    איז ראַנדאָלף קאַרטער, שאַנעװע איך דיך און גיב דיר אױף אינעם נאָמען פֿ
    </span>
    <span style="font-style:italic">
     ון די
@@ -2213,27 +2715,33 @@ lang: yi
    </span>
    <span style="font-style:italic">
    </span>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    צו זוכן יענע שקיעה־שטאָט דײַנע, און אַװעקצושיקן פֿון דאָרטן די שלעפֿעריקע אָפּציִער־געטער װאָס אױף זײ װאַרט די חלום־װעלט. דו װעסט נישקשה געפֿינען יענעם ראָזעװע פֿיבער פֿון די געטער, יענע תּרועה פֿון הימלישע טרומײטן און טראַסק פֿון אומשטאַרביקע טאַצן, יענע מיסטעריע װאָס איר אָרט און באַטײַט האָבן דיר נישט געגעבן קײן מנוחה דורך די זאַלן פֿון װאַכן און די אָפּגרונטן פֿון חלומען, און דיך געפּלאָגט מיט רמזים פֿון פֿאַרשװוּנדענעם זכר און דעם װײטיק פֿון די פֿאַרלױרענע זאַכן די געװאַלדיקע און די ברומו־⁠של־⁠עולמדיקע. דו װעסט נישקשה געפֿינען יענעם סימבאָל און רעליקװיע פֿון דײַנע טעג פֿון װוּנדער, װײַל אױף אַן אמת, איז דאָרט נאָר דער אבֿן־⁠טובֿ דער געזעצטער און דער אײביקער װאָס אין אים פֿינקלט קריסטאַליזירט יענער גאַנצער װוּנדער צו באַלײַכטן דײַן אָװנט־סטעזשקע. זע נאָר! ס׳איז נישט איבער אומבאַקאַנטע ימען אלא װאָס צוריק איבער גוט־באַקאַנטע יאָרן אַז דײַן זוכעניש מוז גײן; צוריק צו די העלע פֿרעמדע זאַכן פֿון עופֿלשאַפֿט און די געכאַפּטע זון־דורכגעװײקטע בליקן פֿון כּישוף װאָס אַלטע סצענעס האָבן געבראַכט צו צעפּראַלטע יונגע אױגן.
+   <span>
+    צו זוכן
+   </span>
+   <span>
+    יענע שקיעה־שטאָט דײַנע, און אַװעקצושיקן פֿון דאָרטן די שלעפֿעריקע אָפּציִער־געטער װאָס אױף זײ װאַרט די חלום־װעלט. דו װעסט נישקשה געפֿינען יענעם ראָזעװע פֿיבער פֿון די געטער, יענע תּרועה פֿון הימלישע טרומײטן און טראַסק פֿון אומשטאַרביקע טאַצן, יענע מיסטעריע װאָס איר אָרט און באַטײַט האָבן דיר נישט געגעבן קײן מנוחה דורך די זאַלן פֿון װאַכן און די אָפּגרונטן פֿון חלומען, און דיך געפּלאָגט מיט רמזים פֿון פֿאַרשװוּנדענעם זכר און דעם װײטיק פֿון די פֿאַרלױרענע זאַכן די געװאַלדיקע און די ברומו־⁠של־⁠עולמדיקע. דו װעסט נישקשה געפֿינען יענעם סימבאָל און רעליקװיע פֿון דײַנע טעג פֿון װוּנדער, װײַל אױף אַן אמת, איז דאָרט נאָר דער אבֿן־⁠טובֿ דער געזעצטער און דער אײביקער װאָס אין אים פֿינקלט קריסטאַליזירט יענער גאַנצער װוּנדער צו באַלײַכטן דײַן אָװנט־סטעזשקע. זע נאָר! ס׳איז נישט איבער אומבאַקאַנטע ימען אלא װאָס צוריק איבער גוט־באַקאַנטע יאָרן אַז דײַן זוכעניש מוז גײן; צוריק צו די העלע פֿרעמדע זאַכן פֿון עופֿלשאַפֿט און די געכאַפּטע זון־דורכגעװײקטע בליקן פֿון כּישוף װאָס אַלטע סצענעס האָבן געבראַכט צו צעפּראַלטע יונגע אױגן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     ¶233 "For know you, that your gold and marble city of wonder is only the sum of what you have seen and loved in youth. It is the glory of Boston's hillside roofs and western windows aflame with sunset, of the flower-fragrant Common and the great dome on the hill and the tangle of gables and chimneys in the violet valley where the many-bridged Charles flows drowsily. These things you saw, Randolph Carter, when your nurse first wheeled you out in the springtime, and they will be the last things you will ever see with eyes of memory and of love. And there is antique Salem with its brooding years, and spectral Marblehead scaling its rocky precipices into past centuries! And the glory of Salem's towers and spires seen afar from Marblehead's pastures across the harbour against the setting sun.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     „װאָרן זײַ װיסן, אַז דײַן גאָלדענע און מירמלענע שטאָט פֿון װוּנדער איז נאָר דער סך־הכּל פֿון װאָס דו האָסט קינדװײַז געזען און ליב געהאַט. ס׳איז דער כּבֿוד פֿון די באָסטאָנער באַרגנײג־דעכער און מערבֿדיקע פֿענצטער פֿלאַמנדיק מיט זונפֿאַרגאַנג, פֿון דער כּלל־לאָנקע, ריח־ניחוחדיק מיט בלומען, און דעם גרױסן קופּאָל אױפֿן באַרג און דער פּלאָנטער פֿון דאַכשפּיצן און קױמנס אינעם לילאָװע טאָל װוּ דער פֿיל־בריקיקער טשאַרלס שטראָמט פֿאַרשלאָפֿענערהײט. די דאָזיקע זאַכן האָסטו, ראַנדאָלף קאַרטער, געזען װען דײַן ניאַנקע האָט דיך צום ערשטן אַרױסגעפֿירט אינעם פֿרילינג, און זײ װעלן זײַן די לעצטע זאַכן װאָס דו װעסט אַ מאָל זען אין די אױגן פֿון זיכּרון און ליבע. און ס׳איז דאָ אַנטיק סײלעם מיט זײַנע דומענדיקע יאָרן, און מאַרבלהעד דאָס דערזעעעיש װאָס דראַפּעט זיך אױף זײַנע פֿעלדזיקע אָפּריסן אין פֿאַרגאַנגענע יאָרהונדערטער! און דער כּבֿוד פֿון די סײלעמער טורעמס און טורעמשפּיצן געזען פֿון די װײַטע מאַרבלהעדער פּאַשעפֿעלדן איבערן האַװן אַקעגן דער אונטערגײענדיקער זון.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶234 "There is Providence quaint and lordly on its seven hills over the blue harbour, with terraces of green leading up to steeples and citadels of living antiquity, and Newport climbing wraithlike from its dreaming breakwater. Arkham is there, with its moss-grown gambrel roofs and the rocky rolling meadows behind it; and antediluvian Kingsport hoary with stacked chimneys and deserted quays and overhanging gables, and the marvel of high cliffs and the milky-misted ocean with tolling buoys beyond.
+   <span>
+    ¶234 "There is Providence quaint and lordly on its seven hills over the blue harbour, with terraces of green leading up to steeples and citadels of living antiquity, and Newport climbing wraithlike from its dreaming breakwater. Arkham is there, with its moss-grown gambrel roofs and the rocky rolling meadows behind it; and antediluvian Kingsport hoary with stacked chimneys and deserted quays and overhanging gables, and the marvel of high cliffs and the milky-misted ocean with tolling buoys beyond
+   </span>
+   <span>
+    .
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     „אָט דאָרט שטײט פּראָװידענס אַלט־⁠פֿעטעריש און פּריציש אױף זײַנע זיבן בערג איבערן בלאָען האַװן, מיט טעראַסעס פֿון גרין אַרױפֿפֿירנדיק צו קלױסטער־⁠טורעמס און ציטאַדעלן פֿון לעבנדיקער קדמונים־⁠צײַט, און ניופּאָרט װאָס דראַפּעט װי אַ רוח פֿון זײַן חלומענדיקן כװאַליע־⁠ברעכער. אַרקהאַם איז דאָ, מיט זײַנע מאָך־פֿאַרװאַקסענע הױך־שיפּועדיקע דעכער און די פֿעלדזיקע קױלערנדיקע טאָלעקעס הינטער אים; און פֿאַרמבולדיק קינגספּאָרט גרײַז גראָ מיט אױסגעשטאַפּלטע קױמנס און פאַרלאָזענע צושטײפּונקטן און אַריבערהענגנדיקע דאַכשפּיצן, און דעם װוּנדער פֿון הױכע אָפּהאַנגען און דעם מילכיק־פֿאַרנעפּלטען אָקעאַן מיט קלינגנדיקע בױעס װײַטער.
    </span>
   </p>
@@ -2243,18 +2751,27 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    „
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    „קילע דאָלענעס אין קאָנקאָרד, ברוקירטע לענדער אין פּאָרטסמוט, בין־השמשותדיקע װעג־⁠געשלענגלעך פֿון דאָרפֿישע נײַ־העמפּשערער שליאַכן װוּ ס׳האַלב פֿאַרטײַען ריזיקע קנופּבײמער װײַסע כוטערװענט און סקריפּענדיקע װאַסער־הײבערס בײַ די ברינעמער. די זאַלצענע װערפֿן פֿון גלאַסטער און די װינטיקע װערבעס פֿון טרוראָ. װיסטעס פֿון װײַטע שטעטלעך מיט קלױסטער־⁠טורעמס און בערגלעך הינטער בערגלעך פּאַזע דעם צפֿון־באָרטן, פֿאַרשטילטע שטײנערדיקע שיפּועים און נידריקע פּליושטש־פֿאַרװאַקסטנע כאַטעס אין דער נישט־⁠װינטיקער זײַט פֿון ריזעדיקע פֿעלדשטײנער אינעם ראָד־אײַלענדער הינטערלאַנד. שמוכט פֿונעם ים און ריח־⁠ניחוח פֿון די פֿעלדער; כּישוף פֿון די פֿינצטערע װעלדער און נחת־⁠רוח פֿון די סעדער און גערטנער בײַם קאַיאָר. די אָ, ראַנדאָלף קאַרטער, זײַנען דײַן שטאָט; װײַל זײ זײַנען דו אַלײן. נײַ־ענגלאַנד האָט דיך געבױרן, און אין דײַן נשמה האָט זי אַרײַנגעגאָסן אַ פֿליסיקע שײנקײט װאָס קען נישט שטאַרבן. די דאָזיקע שײנקײט, אױסגעפֿורעמט, אױסקריסטאַליזירט, און אָפּפּאָלירט דורך יאָרן זיכּרון און חלומען, איז דײַן באַטעראַסטער װוּנדער פֿון גליטשיקע שקיעות; און צו געפֿינען יענץ מירמעלן געלענדער מיט טשיקאַװע אורנעס און אױסגעשניצטער פּאַרענטשע, און סוף־כּל־סוף אַראָפּגײן די אָ אָנסופֿיקע טרעפּן מיט באַלוסטראַדעס אין דער שטאָט פֿון ברײטע פּלעצער און פּריזמאַטישע פֿאָנטאַנען, דאַרפֿסטו זיך נאָר אומקערן צו די געדאַנקען און חזיונות פֿון דײַן פֿאַרבענקטער ייִנגלשאַפֿט.
+    קילע דאָלענעס אין קאָנקאָרד, ברוקירטע לענדער אין פּאָרטסמוט, בין־השמשותדיקע װעג־⁠געשלענגלעך פֿון דאָרפֿישע נײַ־העמפּשערער שליאַכן װוּ ס׳האַלב פֿאַרטײַען ריזיקע קנופּבײמער װײַסע כוטערװענט און סקריפּענדיקע װאַסער־הײבערס בײַ די ברינעמער. די זאַלצענע װערפֿן פֿון גלאַסטער און די װינטיקע װערבעס פֿון טרוראָ. װיסטעס פֿון װײַטע שטעטלעך מיט קלױסטער־⁠טורעמס און בערגלעך הינטער בערגלעך פּאַזע דעם צפֿון־באָרטן, פֿאַרשטילטע שטײנערדיקע שיפּועים און נידריקע פּליושטש־פֿאַרװאַקסטנע כאַטעס אין דער נישט־⁠װינטיקער זײַט פֿון ריזעדיקע פֿעלדשטײנער אינעם ראָד־אײַלענדער הינטערלאַנד. שמוכט פֿונעם ים און ריח־⁠ניחוח פֿון די פֿעלדער; כּישוף פֿון די פֿינצטערע װעלדער און נחת־⁠רוח פֿון די סעדער און גערטנער בײַם קאַיאָר. די אָ, ראַנדאָלף קאַרטער, זײַנען דײַן שטאָט; װײַל זײ זײַנען דו אַלײן. נײַ־ענגלאַנד האָט דיך געבױרן, און אין דײַן נשמה האָט זי אַרײַנגעגאָסן אַ פֿליסיקע שײנקײט װאָס קען נישט שטאַרבן. די דאָזיקע שײנקײט, אױסגעפֿורעמט, אױסקריסטאַליזירט, און אָפּפּאָלירט דורך יאָרן זיכּרון און חלומען, איז דײַן באַטעראַסטער װוּנדער פֿון גליטשיקע שקיעות; און צו געפֿינען יענץ מירמעלן געלענדער מיט טשיקאַװע אורנעס און אױסגעשניצטער פּאַרענטשע, און סוף־כּל־סוף אַראָפּגײן די אָ אָנסופֿיקע טרעפּן מיט באַלוסטראַדעס אין דער שטאָט פֿון ברײטע פּלעצער און פּריזמאַטישע פֿאָנטאַנען, דאַרפֿסטו זיך נאָר אומקערן צו די געדאַנקען און חזיונות פֿון דײַן פֿאַרבענקטער ייִנגלשאַפֿט.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶236 "Look! through th
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶236 "Look! through that window shine the stars of eternal night. Even now they are shining above the scenes you have known and cherished, drinking of their charm that they may shine more lovely over the gardens of dream. There is Antares-he is winking at this moment over the roofs of Tremont Street, and you could see him from your window on Beacon Hill. Out beyond those stars yawn the gulfs from whence my mindless masters have sent me. Some day you too may traverse them, but if you are wise you will beware such folly; for of those mortals who have been and returned, only one preserves a mind unshattered by the pounding, clawing horrors of the void. Terrors and blasphemies gnaw at one another for space, and there is more evil in the lesser ones than in the greater; even as you know from the deeds of those who sought to deliver you into my hands, whilst I myself harboured no wish to shatter you, and would indeed have helped you hither long ago had I not been elsewhere busy, and certain that you would yourself find the way. Shun then, the outer hells, and stick to the calm, lovely things of your youth. Seek out your marvellous city and drive thence the recreant Great Ones, sending them back gently to those scenes which are of their own youth, and which wait uneasy for their return.
+    at window shine the stars of eternal night. Even now they are shining above the scenes you have known and cherished, drinking of their charm that they may shine more lovely over the gardens of dream. There is Antares-he is winking at this moment over the roofs of Tremont Street, and you could see him from your window on Beacon Hill. Out beyond those stars yawn the gulfs from whence my mindless masters have sent me. Some day you too may traverse them, but if you are wise you will beware such folly; for of those mortals who have been and returned, only one preserves a mind unshattered by the pounding, clawing horrors of the void. Terrors and blasphemies gnaw at one another for space, and there is more evil in the lesser ones than in the greater; even as you know from the deeds of those who sought to deliver you into my hands, whilst I myself harboured no wish to shatter you, and would indeed have helped you hither long ago had I not been elsewhere busy, and certain that you would yourself find the way. Shun then, the outer hells, and stick to the calm, lovely things of your youth. Seek out your marvellous city and drive thence the recreant Great Ones, sending them back gently to those scenes which are of their own youth, and which wait uneasy for their return.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    „זע נאָר! דורך יענעם פֿענצטער שײַנען די שטערן פֿון אײביקער נאַכט. ממש איצטער שײַנען זײ איבער די סעצנעס װאָס דו האָסט געקענט און געהאַלטן טײַער, טרינקענדיק פֿון זײער חן כּדי זײ זאָלן שײַנען נאָך שענער איבער די גערטנער פֿון חלום. דאָרטן איז אַנטאַרעס—ער װוּנקט אין איצטיקן מאָמענט איבער די דעכער פֿון טרעמאָנט־גאַס, און דו האָסט געקענט אים זען פֿון דײַן פֿענצטער אױף שײַנטורעם־בערגל. דאָרטן אַװעק גענעצן היטער יענע שטערן די אָפּגרונטן פֿון װאַנעט ס׳האָבן מײַנע שׂכללאָזע בעלי־בתּים מיך געשיקט. אַ מאָל װעסטו אפֿשר זײ אַדורכפֿאָרן, אָבער אַז דו ביסט אַ חכם װעסטו זיך היטן פֿאַר אַזאַ שטותערײַ; װײַל פֿון יענע בשׂר־⁠ודמס װאָס זײַנען אַריבער און צוריק, האַלט בײַ זיך נאָר אײנער אַ שׂכל נישט צעשמעטערט פֿון די האַמערנדיקע, צעדראַפּענדיקע גרױלן פֿונעם בלױז. שרעקענישן און לעסטערונגען גריזשען אײנס אױפֿן אַנדערן פֿאַר שטח, און ס׳איז דאָ מער רישעות אין די קלענערע װי אין די גרעסערע; װי דו װײסט פֿון די טוּונגען פֿון יענע װאָס זײ האָבן געשטרעבט מיר דיך איבערצוגעבן אין די הענט, בעת איך אַלײן האָב געהאַט אין האַרצן נישט קײן רצון דיך צעשמעטערן, און װאָלט טאַקע געהאַט דיך אַהער געהאָלפֿן לאַנג צוריק, בין איך נישט געװען אַנדערשװוּ פֿאַרנומען, און זיכער אַז דו װאָלסט געפֿינען דעם װעג. טאָ קער זיך אָפּ פֿון די דרױסנדיקע גיהנומס, און האַלט זיך בײַ די רױיִקע שײנע זאַכן פֿון דײַן יוגנט. זוך אױס דײַן װוּנדערלעכע שטאָט און טרײַב אױס פֿון דאַנעט די אומגעטרײַע
+    „זע נאָר! דורך יענעם פֿענצטער שײַנען די שטערן פֿון אײביקער נאַכט. ממש איצטער שײַנען זײ איבער די סעצנעס װאָס דו האָסט געקענט און געהאַלטן טײַער, טרינקענדיק פֿון זײער חן כּדי זײ זאָלן שײַנען נאָך שענער איבער די גערטנער פֿון חלום. דאָרטן איז אַנטאַרעס—ער װוּנקט אין איצטיקן מאָמענט איבער די דעכער פֿון טרעמאָנט־גאַס, און דו האָסט געקענט אים זען פֿון דײַן פֿענצטער אױף שײַנטורעם־בערגל. דאָרטן אַװעק גענעצן היטער יענע שטערן די אָפּגרונטן פֿון װאַנעט ס׳האָבן מײַנע שׂכללאָזע בעלי־בתּים מיך געשיקט. אַ מאָל װעסטו אפֿשר זײ אַדורכפֿאָרן, אָבער אַז דו ביסט אַ חכם װעסטו זיך היטן פֿאַר אַזאַ שטותערײַ;
+   </span>
+   <span>
+    װײַל פֿון יענע בשׂר־⁠ודמס װאָס זײַנען אַריבער און צוריק, האַלט בײַ זיך נאָר אײנער אַ שׂכל נישט צעשמעטערט פֿון די האַמערנדיקע, צעדראַפּענדיקע גרױלן פֿונעם בלױז. שרעקענישן און לעסטערונגען גריזשען אײנס אױפֿן אַנדערן פֿאַר שטח, און ס׳איז דאָ מער רישעות אין די קלענערע װי אין די גרעסערע; װי דו װײסט פֿון די טוּונגען פֿון יענע װאָס זײ האָבן געשטרעבט מיר דיך איבערצוגעבן אין די הענט, בעת איך אַלײן האָב געהאַט אין האַרצן נישט קײן רצון דיך צעשמעטערן, און װאָלט טאַקע געהאַט דיך אַהער געהאָלפֿן לאַנג צוריק, בין איך נישט געװען אַנדערשװוּ פֿאַרנומען, און זיכער אַז דו װאָלסט געפֿינען דעם װעג. טאָ קער זיך אָפּ פֿון די דרױסנדיקע גיהנומס, און האַלט זיך בײַ די רױיִקע שײנע זאַכן פֿון דײַן יוגנט. זוך אױס דײַן װוּנדערלעכע שטאָט און טרײַב אױס פֿון דאַנעט די אומגעטרײַע
    </span>
    <span style="font-weight:700;font-style:italic">
     גרױסע
@@ -2264,18 +2781,36 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span style='font-size:15pt;font-weight:400;font-family:"Times New Roman"'>
+    ¶237 "Easier even
+   </span>
+   <span>
+    than
+   </span>
+   <span style='font-size:15pt;font-weight:400;font-family:"Times New Roman"'>
+    the way of dim memory is the way I will prepare for you.
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶237 "Easier even than the way of dim memory is the way I will prepare for you. See! There comes hither a monstrous Shantak, led by a slave who for your peace of mind had best keep invisible. Mount and be ready - there! Yogash the Black will help you on the scaly horror. Steer for that brightest star just south of the zenith - it is Vega, and in two hours will be just above the terrace of your sunset city. Steer for it only till you hear a far-off singing in the high aether. Higher than that lurks madness, so rein your Shantak when the first note lures. Look then back to earth, and you will see shining the deathless altar-flame of Ired-Naa from the sacred roof of a temple. That temple is in your desiderate sunset city, so steer for it before you heed the singing and are lost.
+    See! There comes hither a monstrous Shantak, led by a slave who for your peace of mind had best keep invisible. Mount and be ready - there! Yogash the Black will help you on the scaly horror. Steer for that brightest star just south of the zenith - it is Vega, and in two hours will be just above the terrace of your sunset city. Steer for it only till you hear a far-off singing in the high aether. Higher than that lurks madness, so rein your Shantak when the first note lures. Look then back to earth, and you will see shining the deathless altar-flame of Ired-Naa from the sacred roof of a temple. That temple is in your desiderate sunset city, so steer for it before you heed the singing and are lost.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    „
+   </span>
+   <span>
+    גרינגער אַפֿילו פֿאַרן דרך פֿון פֿינצטערן זיכּרון איז דער דרך װאָס איכ'ל דיר צוגרײטן. זע! אָט קומט צו אַהער אַ שאַנטאַק אַ מאָנסטעריעזער, געפֿירט פֿון אַ קנעכט װאָס פֿאַר דײַן נשמה־רויִקײט דאַרף ער העלטער זיך האַלטן רואה־ואינו־ניראה. גײ אױף און גרײט זיך — אָט דאָרטן! יאָגאַש דער שװאַרצער װעט דיר העלפֿן אַרױף אױפֿן שופּעװדיקן שױדער.
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    „גרינגער אַפֿילו פֿאַרן דרך פֿון פֿינצטערן זיכּרון איז דער דרך װאָס איכ'ל דיר צוגרײטן. זע! אָט קומט צו אַהער אַ שאַנטאַק אַ מאָנסטעריעזער, געפֿירט פֿון אַ קנעכט װאָס פֿאַר דײַן נשמה־רויִקײט דאַרף ער העלטער זיך האַלטן רואה־ואינו־ניראה. גײ אױף און גרײט זיך — אָט דאָרטן! יאָגאַש דער שװאַרצער װעט דיר העלפֿן אַרױף אױפֿן שופּעװדיקן שױדער. ריכטעװע אױף יענעם ליכקטיקסטן שטערן באַלד אױף דרום פֿונעם זעניט — ער איז װעגע, און אין צװײ שעהען אַרום װעט ער זײַן פּונקט איבער דער טעראַסע פֿון דײַן שקיעה־שטאָט. ריכטעװע אױף איר נאָר ביז דו הערסט אַ װײַט זינגען אינעם הױכן עטער. העכער װי דאָס לאָקערט שיגעון, טאָ צױם אײַן דײַן שאַנטאַק װען דער ערשטער טאָן פֿאַרנאַדיעט. קוק דען צוריק אױף דער ערד, און װעסט זען שײַנענדיק אױפֿן הײליקן דאַך פֿון אַ בית־מיקדש דעם אומשטאַרבלעכן מיזבח־פֿלאַם פֿון אירעד־נאַאַ. יענער בית־מיקדש איז אין דײַן געװוּנטשטער שקיעה־שטאָט, טאָ ריכטעװע אױף אים אײדער דו זאָלסט האָרכן דאָס זינגען און פֿאַרפֿאַלן װערן.
+    ריכטעװע אױף יענעם ליכקטיקסטן שטערן באַלד אױף דרום פֿונעם זעניט — ער איז װעגע, און אין צװײ שעהען אַרום װעט ער זײַן פּונקט איבער דער טעראַסע פֿון דײַן שקיעה־שטאָט. ריכטעװע אױף איר נאָר ביז דו הערסט אַ װײַט זינגען אינעם הױכן עטער. העכער װי דאָס לאָקערט שיגעון, טאָ צױם אײַן דײַן שאַנטאַק װען דער ערשטער טאָן פֿאַרנאַדיעט. קוק דען צוריק אױף דער ערד, און װעסט זען שײַנענדיק אױפֿן הײליקן דאַך פֿון אַ בית־מיקדש דעם אומשטאַרבלעכן מיזבח־פֿלאַם פֿון אירעד־נאַאַ. יענער בית־מיקדש איז אין דײַן געװוּנטשטער שקיעה־שטאָט, טאָ ריכטעװע אױף אים אײדער דו זאָלסט האָרכן דאָס זינגען און פֿאַרפֿאַלן װערן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶238 "When you draw nigh the city steer for the same high parapet whence of old you scanned the outspread glory, prodding the Shantak till he cry aloud. That cry the Great Ones will hear and know as they sit on their perfumed terraces, and there will come upon them such a homesickness that all of your city's wonders will not console them for the absence of Kadath's grim castle and the pshent of eternal stars that crowns it.
+   <span style='font-size:15pt;font-weight:400;font-family:"Times New Roman"'>
+    ¶238 "When you draw nigh the city steer for the same high parapet whence of old you scanned the outspread glory, prodding the Shantak till he cry aloud.
+   </span>
+   <span>
+    That cry the Great Ones will hear and know as they sit on their perfumed terraces, and there will come upon them such a homesickness that all of your city's wonders will not console them for the absence of Kadath's grim castle and the pshent of eternal stars that crowns it.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -2327,6 +2862,8 @@ lang: yi
    <span style="font-weight:700;font-style:italic">
     גרױסע
    </span>
+   <span>
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
     אונטערטאַנצן און שפּרינגען מיט אַנטיקער הילולא, און תּיכּף־⁠ומיד שפּאַנען נאָכן דערװידערדיקן פֿױגל אינעם שטײגער פֿון געטער, דורך די טיפֿע אָפּגרונטן פֿון הימל צו די באַקאַנטע טורעמס און קופּאָלן פֿון קדת.
    </span>
@@ -2338,7 +2875,13 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span>
-    „דעמאָלט װעט די װוּנדערלעכע שקיעה־שטאָט זײַן דײַנע צו האַלטן זי טײַער און באַװױנען אױף אײביק, און נאָך אײן מאָל װעלן די געטער פֿון דער ערד געװעלטיקן מענטשן־חלומות פֿון זײער צוגעװױנט זיצאָרט. גײ איצטנס — דער אײבער־פֿענצטער איז אָפֿן און די שטערן װאָרטן אין דרױסן. שױן כאָרכלט דײַן שאַנטאַק און כיכיקעט מיט אומגעדולד. ריכטעװע אױף װעגע אין דער נאַכט, אָבער דרײ זיך אַװעק װען דאָס זינגען קלינגט. פֿאַרגעס נישט אָט די װאָרנונג, כּדי גרױלן װאָס מ׳טאָר זײ נישט איבערקלערן זאָלן דיך נישט אַרײַנזױגן אינעם אײַנגאָס פֿון קװיטשענדיקן און יאָמערנדיקן שיגעון. טאָ דערמאָן זיך אין
+    „דעמאָלט װעט די װוּנדערלעכע שקיעה־שטאָט זײַן דײַנע צו האַלטן זי טײַער און באַװױנען אױף אײביק, און נאָך אײן מאָל װעלן די געטער פֿון דער ערד געװעלטיקן מענטשן־חלומות פֿון זײער צוגעװױנט זיצאָרט. גײ איצטנס — דער אײבער־פֿענצטער איז אָפֿן און די שטערן װאָרטן אין דרױסן. שױן כאָרכלט דײַן שאַנטאַק און כיכיקעט מיט אומגעדולד. ריכטעװע אױף װעגע אין דער נאַכט, אָבער דרײ זיך אַװעק װען דאָס זינגען קלינגט. פֿאַרגעס נישט אָט די װאָרנונג, כּדי גרױל
+   </span>
+   <span>
+    ן װאָס מ׳טאָר זײ נישט איבערקלערן זאָלן דיך נ
+   </span>
+   <span>
+    ישט אַרײַנזױגן אינעם אײַנגאָס פֿון קװיטשענדיקן און יאָמערנדיקן שיגעון. טאָ דערמאָן זיך אין
    </span>
    <span style="font-style:italic">
     די
@@ -2351,8 +2894,11 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶242 "Hei! Aa-shanta 'nygh! You are off! Send back earth's gods to their haunts on unknown Kadath, and pray to all space that you may never meet me in my thousand other forms. Farewell, Randolph Carter, and beware; for I am Nyarlathotep, the Crawling Chaos
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶242 "Hei! Aa-shanta 'nygh! You are off! Send back earth's gods to their haunts on unknown Kadath, and pray to all space that you may never meet me in my thousand other forms. Farewell, Randolph Carter, and beware; for I am Nyarlathotep, the Crawling Chaos."
+    ."
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -2400,13 +2946,22 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    װאָס װײַטער אַלץ גיכער איז געפֿלױגן דער שאַנטאַק, און נידריקער האָט דער רײַטער זיך גענײגט, שיכּור מיט דער פּלא פֿון אױסטערלישע אָפּגרונטן, און זיך װירבלענדיק אין די קריסטאַלענע שפּולן פֿון דרױסנדיקן כּישוף. דערנאָך איז געקומען צו שפּעט די װאָרענונג פֿונעם בײזן, די סאַרדאָנישע התראה פֿונעם דעמאָן־לעגאַט װאָס ער האָט געבאָטן דעם זוכער זיך צו היטן פֿונעם משוגעת פֿון יענעם ליד. נאָר צו פֿאַרשפּעטן האָט ניאַרלאַתאָטעפּ אָפּגעצײכענט דעם װעג צו זיכערקײט, און אין דער װוּנדערלעכער שקיעה־שטאָט; נאָר אױף צו להכעיס האָט יענער שװאַרצער שטאַפֿעט מגלה געװען דעם סוד פֿון די דאָזיקע אָפּציִער־געטער װאָס זײערע טריט האָט ער געקענט אַזױ גרינג צוריקפֿירן װען אים גלוסט זיך. װאָרן משוגעת און די װילדע נקמה פֿונעם בלױז זײַנען ניאַרלאַתאָטעפּס אײנציקע געשאַנקען צו די העזהדיקע; און הגם דער רײַטער האָט מטורפֿדיק געפּרװוּט אױסדרײען זײַן מיגלדיקע רײַט־חיה, איז יענער כיכענדיקער שאַנטאַק, קוקנדיק
+   </span>
+   <span>
+    מיט תּאװה, פֿאָרױסגעפֿלאָסן האַסטיק און אומפֿאַרמאַטערלעך, פֿלאַטערנדיק מיט די גרױסע גלי
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    װאָס װײַטער אַלץ גיכער איז געפֿלױגן דער שאַנטאַק, און נידריקער האָט דער רײַטער זיך גענײגט, שיכּור מיט דער פּלא פֿון אױסטערלישע אָפּגרונטן, און זיך װירבלענדיק אין די קריסטאַלענע שפּולן פֿון דרױסנדיקן כּישוף. דערנאָך איז געקומען צו שפּעט די װאָרענונג פֿונעם בײזן, די סאַרדאָנישע התראה פֿונעם דעמאָן־לעגאַט װאָס ער האָט געבאָטן דעם זוכער זיך צו היטן פֿונעם משוגעת פֿון יענעם ליד. נאָר צו פֿאַרשפּעטן האָט ניאַרלאַתאָטעפּ אָפּגעצײכענט דעם װעג צו זיכערקײט, און אין דער װוּנדערלעכער שקיעה־שטאָט; נאָר אױף צו להכעיס האָט יענער שװאַרצער שטאַפֿעט מגלה געװען דעם סוד פֿון די דאָזיקע אָפּציִער־געטער װאָס זײערע טריט האָט ער געקענט אַזױ גרינג צוריקפֿירן װען אים גלוסט זיך. װאָרן משוגעת און די װילדע נקמה פֿונעם בלױז זײַנען ניאַרלאַתאָטעפּס אײנציקע געשאַנקען צו די העזהדיקע; און הגם דער רײַטער האָט מטורפֿדיק געפּרװוּט אױסדרײען זײַן מיגלדיקע רײַט־חיה, איז יענער כיכענדיקער שאַנטאַק, קוקנדיק מיט תּאװה, פֿאָרױסגעפֿלאָסן האַסטיק און אומפֿאַרמאַטערלעך, פֿלאַטערנדיק מיט די גרױסע גליטשיקע פֿליגלען אין בײזװוּקסיקער פֿרײד, און זיך געלאָזט אַװעק אין יענע אומגעהײליקטע גריבער װוּאַהין נישט קײן חלומות דערגרײכן; יענער לעצטער אַמאָרפֿישער פֿאַרפֿאַלב פֿון סאַמע נידעריקסטער בהלה װוּ בולבלעט און לעסטערט בײַם צענטער פֿון אינסוף דער שׂכללאָזער דעמאָן־סולטאַן עזתות, װאָס זײַן נאָמען דערװעגן זיך נישט קײן לעפֿצן רעדן בקול־⁠רם.
+    טשיקע פֿליגלען אין בײזװוּקסיקער פֿרײד, און זיך געלאָזט אַװעק אין יענע אומגעהײליקטע גריבער װוּאַהין נישט קײן חלומות דערגרײכן; יענער לעצטער אַמאָרפֿישער פֿאַרפֿאַלב פֿון סאַמע נידעריקסטער בהלה װוּ בולבלעט און לעסטערט בײַם צענטער פֿון אינסוף דער שׂכללאָזער דעמאָן־סולטאַן עזתות, װאָס זײַן נאָמען דערװעגן זיך נישט קײן לעפֿצן רעדן בקול־⁠רם.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶246 Unswerving and obedient to the foul legate's orders, that hellish bird plunged onward through shoals of shapeless lurkers and caperers in darkness, and vacuous herds of drifting entities that pawed and groped and groped and pawed; the nameless larvae of the Other Gods, that are like them blind and without mind, and possessed of singular hungers and thirsts.
+   <span style='font-size:15pt;font-weight:400;font-family:"Times New Roman"'>
+    ¶246 Unswerving and obedient to the foul legate's orders, that hellish bird plunged onward through shoals of shapeless lurkers and caperers in darkness, and vacuous herds of drifting entities that pawed and groped and groped and pawed; the nameless larvae of the Other Gods, that are like them blind and without mind, and possessed of singular hungers and thirsts
+   </span>
+   <span>
+    .
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -2461,13 +3016,16 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     פֿאָרױס — װײַטער פֿאָרױס — קאָפּשװינדלדיק פֿאָרױס צו לעצטגילטיקער דאָליע דורכן פֿינצטערניש װוּ ראיה־לאָזע טאַפּערלעך האָבן אָנגערירט מיט דער לאַפּע און שלײַמיקע פּיסקן האָבן זיך געבוצקעט און נאָמענלאָזע זאַכן האָבן געכיכקעט און געכיכקעט און געכיכקעט. אָבער דאָס געשטאַלט און דער געדאַנק זײַנען געהאַט געקומען, און ראַנדאָלף קאַרטער האָט קלאָר געװוּסט אַז ער האָט געחלומט און נאָר געחלומט, און אַז ערגעצװוּ אינעם הינטערגרונט איז נאָך געליגן די װעלט פֿון װאַך און די שטאָט פֿון זײַן עופֿלשאַפֿט. װערטער זײַנען נאָך אַ מאָל געקומען: „דאַרפֿסטו זיך נאָר אומקערן צו די געדאַנקען און חזיונות פֿון דײַן פֿאַרבענקטער ייִנגלשאַפֿט“. זיך קערן — קערן — קערן — פֿינצטערניש אױף יעדער זײַט, אָבער ראַנדאָלף קאַרטער האָט געקענט זיך קערן.
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶251 Thick though the rushing nightmare that clutched his senses, Randolph Carter could turn and move. He could move, and if he chose he could leap off the evil Shantak that bore him hurtlingly doomward at the orders of Nyarlathotep. He could leap off and dare those depths of night that yawned interminably down, those depths of fear whose terrors yet could not exceed the nameless doom that lurked waiting at chaos' core. He could turn and move and leap - he could - he would - he would - he would.
+    251 Thick though the rushing nightmare that clutched his senses, Randolph Carter could turn and move. He could move, and if he chose he could leap off the evil Shantak that bore him hurtlingly doomward at the orders of Nyarlathotep. He could leap off and dare those depths of night that yawned interminably down, those depths of fear whose terrors yet could not exceed the nameless doom that lurked waiting at chaos' core. He could turn and move and leap - he could - he would - he would - he would.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -2516,8 +3074,11 @@ lang: yi
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ¶
+   </span>
    <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
-    ¶256 So to the organ chords of morning's myriad whistles, and dawn's blaze thrown dazzling through purple panes by the great gold dome of the State House on the hill, Randolph Carter leaped shoutingly awake within his Boston room. Birds sang in hidden gardens and the perfume of trellised vines came wistful from arbours his grandfather had reared. Beauty and light glowed from classic mantel and carven cornice and walls grotesquely figured, while a sleek black cat rose yawning from hearthside sleep that his master's start and shriek had disturbed. And vast infinities away, past the Gate of Deeper Slumber and the enchanted wood and the garden lands and the Cerenarian Sea and the twilight reaches of Inquanok, the crawling chaos Nyarlathotep strode brooding into the onyx castle atop unknown Kadath in the cold waste, and taunted insolently the mild gods of earth whom he had snatched abruptly from their scented revels in the marvellous sunset city.
+    256 So to the organ chords of morning's myriad whistles, and dawn's blaze thrown dazzling through purple panes by the great gold dome of the State House on the hill, Randolph Carter leaped shoutingly awake within his Boston room. Birds sang in hidden gardens and the perfume of trellised vines came wistful from arbours his grandfather had reared. Beauty and light glowed from classic mantel and carven cornice and walls grotesquely figured, while a sleek black cat rose yawning from hearthside sleep that his master's start and shriek had disturbed. And vast infinities away, past the Gate of Deeper Slumber and the enchanted wood and the garden lands and the Cerenarian Sea and the twilight reaches of Inquanok, the crawling chaos Nyarlathotep strode brooding into the onyx castle atop unknown Kadath in the cold waste, and taunted insolently the mild gods of earth whom he had snatched abruptly from their scented revels in the marvellous sunset city.
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -2529,12 +3090,8 @@ lang: yi
    <span style="font-weight:700;font-style:italic">
     טױער פֿון טיפֿערן דרעמל
    </span>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
+   <span>
     און דעם פֿאַרכּישופֿטן װאַלד און די גאָרטן־לענדער און דעם צערענאַרער ים און די בין־השמשותדיקע קאַנטן פֿון אינקואַנאָק, האָט דער קריכענדיקער כאַאָס ניאַרלאַתאָטעפּ געשפּאַנט דומענדיק אין דעם אָניקסענעם שלאָס אַרײַן אױף אומבאַקאַנטן קדת אינעם קאַלטן װיסטעניש, און פֿאַרשפּעטיקט חוצפּהדיק די מילדע געטער פֿון ערד װאָס ער האָט אָנגעכאַפּט פּלוצעמדיק פֿון זײערע פּאַרפֿומירטע הילולא־⁠וחינגאס אין דער װוּנדערלעכער שקיעה־שטאָט.
-   </span>
-  </p>
-  <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;font-family:"Times New Roman";orphans:2;widows:2;height:15pt;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:"Times New Roman";font-style:normal'>
    </span>
   </p>
   <div>
