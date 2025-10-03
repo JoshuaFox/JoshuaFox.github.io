@@ -36,7 +36,7 @@ lang: yi
     דירעקטע פֿאַרבינדונג:
    </span>
    <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline">
-    <a href="https://www.google.com/url?q=https://bit.ly/umbakant-kadath&amp;sa=D&amp;source=editors&amp;ust=1758538967650590&amp;usg=AOvVaw1H0sbPWypyaxK-bDSpe2Wo" style="color:inherit;text-decoration:inherit">
+    <a href="https://www.google.com/url?q=https://bit.ly/umbakant-kadath&amp;sa=D&amp;source=editors&amp;ust=1759507425640347&amp;usg=AOvVaw1dlFSqrhgUhBTf48R7p9Nv" style="color:inherit;text-decoration:inherit">
      https://bit.ly/umbakant-kadath
     </a>
    </span>
@@ -51,28 +51,28 @@ lang: yi
   <ul class="lst-kix_yl05jzduly0l-0 start" style="padding:0;margin:0">
    <li dir="rtl" style='padding-top:0pt;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;margin-right:36pt;margin-left:0;font-family:"Times New Roman";margin-top:0;orphans:2;margin-bottom:0;widows:2;padding-right:0pt'>
     <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline">
-     <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish/%25D7%2594%25D7%2590%25D6%25B7%25D7%25B0%25D7%25A2%25D7%25A8%25D7%2593%2520%25D7%25A4%25D6%25BF%25D7%2599%25D7%259C%25D7%2599%25D7%25A4%25D6%25BC%25D7%25A1%2520%25D7%259C%25D7%2590%25D6%25B7%25D7%25B0%25D7%25A7%25D7%25A8%25D7%2590%25D6%25B7%25D7%25A4%25D6%25BF%25D7%2598/&amp;sa=D&amp;source=editors&amp;ust=1758538967651093&amp;usg=AOvVaw2ukj3OuuDcl4j2TIugbTCX" style="color:inherit;text-decoration:inherit">
+     <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish/%25D7%2594%25D7%2590%25D6%25B7%25D7%25B0%25D7%25A2%25D7%25A8%25D7%2593%2520%25D7%25A4%25D6%25BF%25D7%2599%25D7%259C%25D7%2599%25D7%25A4%25D6%25BC%25D7%25A1%2520%25D7%259C%25D7%2590%25D6%25B7%25D7%25B0%25D7%25A7%25D7%25A8%25D7%2590%25D6%25B7%25D7%25A4%25D6%25BF%25D7%2598/&amp;sa=D&amp;source=editors&amp;ust=1759507425641097&amp;usg=AOvVaw27JwLPEv8MkNm-n6jiPGWR" style="color:inherit;text-decoration:inherit">
       װעגן בעל־מחבר, ה.פֿ. לאַװקרעפֿטן
      </a>
     </span>
    </li>
    <li dir="rtl" style='padding-top:0pt;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;margin-right:36pt;margin-left:0;font-family:"Times New Roman";margin-top:0;orphans:2;margin-bottom:0;widows:2;padding-right:0pt'>
     <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline">
-     <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish-sections/%25D7%25A4%25D6%25BF%25D7%2590%25D6%25B7%25D7%25A0%25D7%2598%25D7%2590%25D6%25B7%25D7%2596%25D7%2599%25D7%25A2/&amp;sa=D&amp;source=editors&amp;ust=1758538967651366&amp;usg=AOvVaw170ox3kTMB69wga1bm84lR" style="color:inherit;text-decoration:inherit">
+     <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish-sections/%25D7%25A4%25D6%25BF%25D7%2590%25D6%25B7%25D7%25A0%25D7%2598%25D7%2590%25D6%25B7%25D7%2596%25D7%2599%25D7%25A2/&amp;sa=D&amp;source=editors&amp;ust=1759507425641478&amp;usg=AOvVaw0XFzGP3EM6msgxuOSKUcF6" style="color:inherit;text-decoration:inherit">
       אַנדערע מעשׂיות אין ייִדיש פֿון לאַװקרעפֿטן און זײַן חבֿרה
      </a>
     </span>
    </li>
    <li dir="rtl" style='padding-top:0pt;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;margin-right:36pt;margin-left:0;font-family:"Times New Roman";margin-top:0;orphans:2;margin-bottom:0;widows:2;padding-right:0pt'>
     <span style="text-decoration-skip-ink:none;font-size:14pt;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline">
-     <a href="https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1Inv49GnM2XVEI2NJPso_bVd17qUvpLklMVy5G-7GArc/edit?usp%3Dsharing&amp;sa=D&amp;source=editors&amp;ust=1758538967651591&amp;usg=AOvVaw1yBBQh_IUS1KLNvlqKPFB6" style="color:inherit;text-decoration:inherit">
+     <a href="https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1Inv49GnM2XVEI2NJPso_bVd17qUvpLklMVy5G-7GArc/edit?usp%3Dsharing&amp;sa=D&amp;source=editors&amp;ust=1759507425641785&amp;usg=AOvVaw2IUcyNoqDFZA2W45qPCN6y" style="color:inherit;text-decoration:inherit">
       לאַװקרעפֿטישער װערטער־אוצר: דאָ
      </a>
     </span>
    </li>
    <li dir="rtl" style='padding-top:0pt;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;margin-right:36pt;margin-left:0;font-family:"Times New Roman";margin-top:0;orphans:2;margin-bottom:0;widows:2;padding-right:0pt'>
     <span style="text-decoration-skip-ink:none;font-size:14pt;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline">
-     <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish/%25D7%25A7%25D7%2599%25D7%25A0%25D7%25A1%25D7%2598%25D7%259C%25D7%25A2%25D7%259B%25D7%25A2%25D6%25BE%25D7%2590%25D7%2599%25D7%25A0%25D7%2598%25D7%25A2%25D7%259C%25D7%2599%25D7%2592%25D7%25A2%25D7%25A0%25D7%25A5%25D6%25BE%25D7%25A7%25D7%2595%25D7%25A0%25D7%25A1%25D7%2598%2520%25D7%2590%25D7%2595%25D7%259F%2520%25D7%259C%25D7%2590%25D6%25B7%25D7%25B0%25D7%25A7%25D7%25A8%25D7%25A2%25D7%25A4%25D6%25BF%25D7%2598&amp;sa=D&amp;source=editors&amp;ust=1758538967652050&amp;usg=AOvVaw3Bw6Rr_IFAiOfh1c_Tr2KH" style="color:inherit;text-decoration:inherit">
+     <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish/%25D7%25A7%25D7%2599%25D7%25A0%25D7%25A1%25D7%2598%25D7%259C%25D7%25A2%25D7%259B%25D7%25A2%25D6%25BE%25D7%2590%25D7%2599%25D7%25A0%25D7%2598%25D7%25A2%25D7%259C%25D7%2599%25D7%2592%25D7%25A2%25D7%25A0%25D7%25A5%25D6%25BE%25D7%25A7%25D7%2595%25D7%25A0%25D7%25A1%25D7%2598%2520%25D7%2590%25D7%2595%25D7%259F%2520%25D7%259C%25D7%2590%25D6%25B7%25D7%25B0%25D7%25A7%25D7%25A8%25D7%25A2%25D7%25A4%25D6%25BF%25D7%2598&amp;sa=D&amp;source=editors&amp;ust=1759507425642206&amp;usg=AOvVaw36BnWsX1YmqKuUkRPRk4Eb" style="color:inherit;text-decoration:inherit">
       װעגן די טױגעװדיקײט פֿון קינסטלעכע־אינטעליגענץ־קונסט צו דער אָ מעשׂה
      </a>
     </span>
@@ -85,7 +85,7 @@ lang: yi
    <span>
    </span>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfg7UinkV5EqJCM8yq8l5VfHEkmK1GaaIj4SKGNj-a-eQgMPZ00AlSUhUEnoHNL_o5Okz_wJ6FOXsrZZMu3_BHwX9iPajHzMXDXLx4_D7g7uyPtxKRnwt5pehdXVXI9q7tmqTQhVAc4iQCIGkWbUQSDgvKT?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdm3f7mSvYrfzNMxsAbR0G-asfgodDKyhB9rXbfbiNQKHj5gbuT0lutx7higMMXz8ooZj2ZYV65TdCFk4amtL8ZcXQTkmXFZpk7X_hUk458fWCw3Jr8qFpMCtS7-FIQLihuauh2Jy0a3bi1MA3oRUM_3mq8?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -128,7 +128,7 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeABl2bifrvPG05A1B3qBOsRzgmHwSseTPxFaAWavXHYqMpJrbXH0ABsQuJz2blEYOzc4Whr2Lmxrk5gdLy72JUji_Exb_oAKP5PjgIIbhl-6rz7kl6lDgh3tvA0tVTjTF7HqWdh8JrNNMVVE41ymRnZwEXig?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfB4zi5NjNeSJC-V7g_St53ntQQJrDU81tKPCt3_u3gFw6K_qM_zdo9dJwAEUaSwichSdT3JOY6koVzyO1T2SyAkYMIdMrstxj1szUvdS0zj23OtErzRDYHUDVbToY3C8wmqH-rT9n7yXsfXnArvDXULSVO6w?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -240,7 +240,7 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcrph-9yWzNfrb3GFOjoLbBwePnXgebbAJ3sRb_FU17ZeRc2AzX6g99bMkrJOdihqKS0pqGF9Y8tSpfLDcNlc3v1Hle2cq-nlHC2C5tn1V01ZlhLKPrmsIQAEi9hB9N3KQHnh6P1-Lyn_l_rsXSK6aUiBkWSw?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd6TMFGUrkjve-uaN2HslEGUVXe6rafkv68Y05utMPiHWxsRknHfyXlCyZodIcC5UJzVL-0d3fM8ljRudxYHUOXDoNZBmXgjRzK_rHA5vbj7tFsPJh82m_dNuVreJAXbl3QhwFS3v345cNfr7T7FdsQJChA6g?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -292,7 +292,7 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 681.20px; height: 681.20px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe25mfK_46AXXiHUFHY54GYmejq8GAgxwoL2QvW5tuW0xtQV0EG7IBlPChl4oTUdz8NGdUpnzjYw0-03uojq5gp3FBQz1zKYMuIB1t_7fQX7-RmiUc-tlKrM67At9k1DF3UquEod5fPISKmjEWnu5IlZ2R4Tw?key=UHQdr6-2erJts_Om_QEUOw" style="width: 681.20px; height: 681.20px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdB12NoxT5xooQc-T2hgnCWCUP-iTxlxA4yy6Is5APsNta_fw7t9L6ipONu_VUlDWpnZhQY22mnVRmT1H8ztYA7GPmJqfX11D8oqWAFuHUWgrLgaKKsicHDcbSF9snJcDfNOGPWgyoVZ-_PL2Hqwl__5ZonhQ?key=UHQdr6-2erJts_Om_QEUOw" style="width: 681.20px; height: 681.20px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;line-height:1.15;font-family:"Times New Roman";orphans:2;widows:2;height:15pt;padding-right:0'>
@@ -317,7 +317,7 @@ lang: yi
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdZ5kxTNRdVv3ieHAhhQUYNDfOGilxA6mv6iRu-QGT1ozUVKqkiwz9f9kkPkrWIrXp0slefsrqbZGUpSS4vxw-ewd3HIuEs2zJ4uKnCW1RHYLQpSPBzg3EKPbI8tpBEOb8OI4tTrwXYnidkllrxdXRvn22lSQ?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfyceicshhnw9x_K-bdunNJtQAuDEeVBturA21vRfRvIbtm9DupQrydLth0OIn5ii49-_zbkd1m620ES0QdpqttY_gB0PucPt619ponAQiu69HhpKP5h-TbiNh0dGD980bWxQ425dI_UAAxKO-A9gh3I13G4A?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -409,7 +409,7 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdXdT9Rz072t37yQ9qmccz5JMj2MLZFw9K1iu83AL5k1Lsf54XtZQUBH_XfrAl_VDcC0qai7xNJVgy4UZufRPXJWZNQDs7gyrWvMceBgtypE-6VknWnQQRV91vrHJtBwOrvJd847vUKRiQ7jfBm6IeEyCKl?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe2X4gT-doSHq7z3ub7F0QBP3jRkC_crsvM8_WmNNzUtjZOMwDE_hb5D-o0czMP6WEKaWf-e6R6QlApoMqs5zFbexKfjiY5SkfFO8AgLW1BDSj3kq-VdxxMbbgUxFoHPPK3MJYE1zQsqRVa6xru0GmeveOb?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -452,7 +452,7 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOIUEDx1HdnFyFmu7oSyvlKQBJC0xowx8oJ68R9480nQWV6ZbOiVjXqn6B0J1DfwvHJFkps7VFILinTi41TBF4iBfhYE3vH3gdxqh5eEWGBP2lsSJhFdXKByGqDIdJbQsnv711if1wsgpKE-wjLYUF5flu?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdCm5Y7PDIGG9UoDMvhbLGw81bbaTPIwKAPG0LBeaob51R_RlBKd__wx5YUk1AmT9IObIPGciH9tKbbeHjqRrCG5FxSakMLwBT0ahhVfJvDkNwGs7rdX0EowuC6VthywNXw7mON6Y4RyhtlfLS5Q5EHqHTA?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -594,7 +594,7 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfCd2yA7hwSV7Q5QJ-dKuyJa11ZiM3sRa351bn_5ySCR6IsL4hOoBkwCWsZVQPtrfhBvcf87YBO5IVl_JfYnOHN5MX6-n35vk2qtnmd7yLtqbtAZTFbHCagu43FnB7RO0orqKbvVd55lpg_tb91dW83zty88w?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeL8Cvfzh88VDpMaNsEMuzZx0DXjmg-VVuo4XpBP5ib0J2Q7I4sKlyrKTv_DG9QkFPA3moetFQKfIVL1BjWCQ4aVjDTcAOPTliAJRs2LgOJqcgKHH7dzwKTmCvIxqSVA2PxI9roFmclTDpmwQp--3Tjktr-mA?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1309,7 +1309,7 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKG_WBdmbXGrOtoRQ9VVi1THLpvGbpc1zk6ox-uvkZXHMtTW1bWXcaQuN-tbR7P_6Kx2lYe2V_iaCb4OuQIq1YUXk_JTVyEbMY6xqDMe7ld0MyM0sUmF2Qc55ow8fx8Au6k5f2eHXGFaBsdJiV1G801ZE-vQ?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeu2xhJs4sngt0NrnxOsXjwL6KD1XtUryhj3rMZLur6fwi98niWnEVR6VuJMmn5Mt_EBnyVr1pAPpfnqC1SoUSZYcD6154Ne68XviwZzIBqO1K624c1FTVR81La8tcaw-XwQETVVId9tZpGKgMmz5Pw4Kn9fA?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1553,7 +1553,7 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 697.70px; height: 697.33px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd-T6W5Baa9Ho-DRI09VLChHDV494t5S_h9cj2zCaRGuHTETvnidGlBqphZcwIqpkIzZdYX_EjxmAwjDlA6vyhjOsKSKsCYRbsqCueqUw8Ere2IpoaDrVOAZtu43xM4x87IIMqUUlmhIuhl_Hod5Zar5vNeLg?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYAPPNY9GPP7ajm8ruSyhzrNHEKToc8FGOIzbQF4y8XSW5jnYoKsaBauGl2vPZfsE-1bbdE8HcXdxAhQPwg9zcyR8KAEiik72Nutt0Hxt3l8eMOodAPACtFeYlEyevwNyI5KT0WRwE9xnSmsjZPddt7QBhLA?key=UHQdr6-2erJts_Om_QEUOw" style="width: 697.70px; height: 697.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -1930,7 +1930,7 @@ lang: yi
        אױב איר װילט נישט צעשטערן דעם חידוש פֿון קאַרטערס לאַנגער און געשלענגטער נסיעה, לײענט־זשע ערשטנס דורך די נאָכקומענדיקע חלקים פֿון דער מעשה אין
       </span>
       <span style="text-decoration-skip-ink:none;font-size:17pt;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline">
-       <a href="https://www.google.com/url?q=https://docs.google.com/document/d/1_JtJDZ-FJeaGAPJSfdU20BOAuExX-WV7erwiuckm2yY/edit%23heading%3Dh.izg077gxokxs&amp;sa=D&amp;source=editors&amp;ust=1758538968080818&amp;usg=AOvVaw0cs3AlFxKi59x7BPf0zUuG" style="color:inherit;text-decoration:inherit">
+       <a href="https://www.google.com/url?q=https://docs.google.com/document/d/1_JtJDZ-FJeaGAPJSfdU20BOAuExX-WV7erwiuckm2yY/edit%23heading%3Dh.izg077gxokxs&amp;sa=D&amp;source=editors&amp;ust=1759507426001479&amp;usg=AOvVaw0VCQZQVYZ2IBSzjFaPzi53" style="color:inherit;text-decoration:inherit">
         ענגליש, דאָ
        </a>
       </span>
@@ -2056,7 +2056,7 @@ lang: yi
   </p>
   <p dir="rtl" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
    <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 527.47px; height: 526.72px;">
-    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXehb3YG1nN0r0e6J20fHSeZ-vdvXlxvweC5-ifMLxmVtTnIEBhlR_I5C8eo7pTaESDHJDOZZ3bhHIwBKMkXPwwHri3IHTzd-PusYLdTkLMapzCdzVhspPrKuBXNszQTbOtFwH6BMApfZmbAAxeZudtFxT5bIg?key=UHQdr6-2erJts_Om_QEUOw" style="width: 527.47px; height: 526.72px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+    <img alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1csF5OgHpK47km13iL1_VLqXZP2WAdLph7AkuexxzBraAoZUoFTto22iq9e7mZbjwiRQXJ3KOaoovdgkgBrmxLjHejCJYlIZMegNh2ulY-2jVYjcw5isM86Zom4daQajZ-HjRxw1eCIk512Y2Lt2S5bVhWQ?key=UHQdr6-2erJts_Om_QEUOw" style="width: 527.47px; height: 526.72px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
    </span>
   </p>
   <p dir="ltr" style='padding-top:0pt;margin:0;color:#000000;padding-left:0;font-size:15pt;padding-bottom:10pt;font-family:"Times New Roman";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -2131,7 +2131,7 @@ lang: yi
     , װאָלט ער קומען
    </span>
    <span>
-    <a href="https://www.google.com/url?q=https://englishyiddishdictionary.com/ceyd?page%3Dabbrev;eq%3D%25D7%2593%25D7%2590%25D6%25B7%25D7%2598%25D7%25B3&amp;sa=D&amp;source=editors&amp;ust=1758538968133054&amp;usg=AOvVaw0M5OJFFzFJbkVBd_eswizG" style="color:inherit;text-decoration:inherit">
+    <a href="https://www.google.com/url?q=https://englishyiddishdictionary.com/ceyd?page%3Dabbrev;eq%3D%25D7%2593%25D7%2590%25D6%25B7%25D7%2598%25D7%25B3&amp;sa=D&amp;source=editors&amp;ust=1759507426044833&amp;usg=AOvVaw2NsAE1Dk0kFXokAaVDX9Lv" style="color:inherit;text-decoration:inherit">
     </a>
    </span>
    <span>
