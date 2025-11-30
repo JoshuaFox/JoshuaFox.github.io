@@ -93,7 +93,7 @@ Like the word חק can also mean “staff”, the wicked wizard's staff of bread
 Pity the פתי _peti_, who says “I will eat my piece of bread,” פתי _piti_! As it is written מי פתי לחמו בלחמי “whoever is a fool, let him eat bread” (Mishlei 9:6). Indeed, as Shlomo Hamelech said, wise people abstain from bread לא לחכמים לחם (Kohelet 9:11). Did you ever notice that חלם Chelm, the legendary town of fools, is an anagram of לחם, “bread”? Wisdom speaks thus to the פתי, the fool: פתי! מים גנובים ימתקו “O fool, stolen waters are sweet”—robbery and sugar, side by side.
 
 # Yosef the anti-breader
-When Yosef interpreted the Butler's and the Baker's dreams (Breishit 30), was there any doubt which dream meant life and which meant death! If one man dreams of red wine and the other of baskets of bread, must you think twice of which is fated to live and which to die?!
+When Yosef interpreted the Butler's and the Baker's dreams (Breishit 40), was there any doubt which dream meant life and which meant death! The *only* birthday in Tanakh is characterized by honors to the red-wine guy (fixes cholesterol levels) and death to the carb guy. What a celebration!
 
 When you think of Yosef in prison, shed a tear for that other prisoner, the righteous prophet Mikhaiah, the one true prophet among four hundred frauds, whom the wicked king Achav punished by giving him לחם לחץ “bread under pressure” (I Melakhim 22:27). A cruel doom, like that of Yirmiyahu, taken unjustly into captivity and made to eat bread (Yirmiyahu 37:21)! Not for nothing does Scripture call Achav the most wicked king that the Kingdom of Yisrael had ever known ויעש אחאב הרע מכל אשר לפניו (ibid. 16:30)!
 
@@ -102,7 +102,7 @@ Yosef, the epitome of the wise man, foresaw the seven fattening years in which t
 From the story of Yosef we learn that bread is as the same as adultery. Rashi's bases this comparison on the verse ויעזב כל אשר לו ביד יוסף ולא ידע אתו מאומה כי אם הלחם ...ויאמר אל אשת אדניו הן אדני לא ידע אתי מה בבית וכל אשר יש לו נתן בידי ולא חשך ממני מאומה כי אם אותך באשר את אשתו. “Potiphar left all that he had in Yosef's charge, and had no concern for anything but the bread that he ate.... Yosef said unto his master's wife: ‘My master knows not what is in the house and has put all that he has into my charge; neither has he kept back any thing from me but you, because you are his wife’” (Bereshit 39:6-9).
 
 # What's on that wagon?
-When Amos condemns the people, he mentions one sin after another — and then come the consequences: Israel's sins weigh them down, burden them like כאשר תעיק העגלה המלאה לה עמיר “the creaking of a wagon filled with ....” Guess what comes next, what symbolizes the sin: Yes, that's right, עמיר “sheaves of grain!” (Amos 2:13).
+  Amos condemns the sins of the people, and the symbol is a wagon heavily burdened as with obesity.  כאשר תעיק העגלה המלאה לה עמיר “the creaking of a wagon filled with ....” not sausages, it's  עמיר “sheaves of grain” (Amos 2:13). What a perfect compbination of the symbols of both obesity and of sin (same thing)! 
 
 And what of the other wagon, that which carried the Ark of G-d: ויבאו עד גרן ויחר אף יהוה בעזה ויכהו שם, “And it came to a granary, and the L-rd grew wroth with Uzzah, and struck him there dead” (II Shmuel 6:6-7) Rightly did Uzzah deserve death for leading the wagon too close to that place of wickedness.
 

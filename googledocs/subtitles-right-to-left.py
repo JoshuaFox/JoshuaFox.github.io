@@ -12,7 +12,9 @@ from typing import ClassVar, List
 def replace_argspec_in_parsimonous():
     """This fix is necessary to get ke to work, as ke depends on Parsimonious"""
     ver = sys.version[: sys.version.find(".", sys.version.find(".") + 1)]
-    fix_this = f"googledocs/.venv/lib/python{ver}/site-packages/parsimonious/expressions.py"
+    fix_this = (
+        f"googledocs/.venv/lib/python{ver}/site-packages/parsimonious/expressions.py"
+    )
     txt = Path(fix_this).read_text()
     if "from inspect import getargspec" in txt:
         txt2 = txt.replace(
@@ -72,7 +74,7 @@ def rtl_ke():
     for c in range(ord("א"), ord("ת")):
         s += '"' + chr(c) + '"|'
     for c in range(
-        ord("\u0600"), ord("\u06FF")
+        ord("\u0600"), ord("\u06ff")
     ):  # Arabic range by unicode because it is not just arranged as alphabet
         s += '"' + chr(c) + '"|'
     s = s[:-1]

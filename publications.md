@@ -19,7 +19,6 @@ Here are my technical articles and talks over the years. At the bottom are some 
 https://engineering.doit.com/optimizing-ml-costs-with-azure-machine-learning-1811dc36905d). 
 > Machine Learning gets expensive, fast. I will explain how to optimize costs; Azure provides examples of how cloud services can help you reduce costs.
 
-
 • [“Unlocking Broader Cloud Insights with Cost Analytics”](
 https://engineering.doit.com/unlocking-broader-cloud-insights-with-cost-analytics-d21f267229f2). 
 
@@ -29,14 +28,16 @@ https://engineering.doit.com/unlocking-broader-cloud-insights-with-cost-analytic
 
 > Cloud waste often hides in inefficient code, creating an “illusion of efficiency.” This article gives a systematic approach to finding cost issues that come from the code rather than cloud infrastructure.
 
-• “Outside Advisors: Empowering your team while retaining ownership,” L8 Conference. 
+• “Outside Advisors: Empowering your team while retaining ownership,” L8 Conference Warsaw and the Isle of Man Google Dev Group.
+
 >  This talk, for an audience of Staff Engineers, introduces a pragmatic approach to incorporating external Cloud Reliability Engineering (CRE) advisors while keeping your team firmly in control of their technical destiny.
 
 • [“Taking Machine Learning to production: Cloud MLOps for speed and efficiency”](https://engineering.doit.com/taking-machine-learning-to-production-4b6c99383762). 
 
 > The article version of my talk from DevFest and SRE Day (see below)
 
-• “Cloud MLOps for speed and efficiency”,  DevFest Bucharest and SRE Day London; earlier multicloud version given to the Israel NLP Meetup at Microsoft.  [Video of the DevFest talk](https://youtu.be/bvZThtEJhYs) and of the [SRE Day talk](https://www.youtube.com/watch?v=jmjOHOeK0MA&list=PL2CAJ_jforK6Pp2BUGfwKKlBCHRWnsmgk&index=12&ab_channel=SREday).
+• “Cloud MLOps for speed and efficiency”,  DevFest Bucharest, SRE Day London, and SRE Day Paris; earlier multicloud version given to the Israel NLP Meetup at Microsoft.  [Video of the DevFest talk](https://youtu.be/bvZThtEJhYs) and of the [SRE Day talk](https://www.youtube.com/watch?v=jmjOHOeK0MA&list=PL2CAJ_jforK6Pp2BUGfwKKlBCHRWnsmgk&index=12&ab_channel=SREday).
+
 > I work with startups that build on an algorithm that they innovated, but hit a scaling wall as they succeed. I show how cloud MLOps platforms like Vertex provide a full spectrum of MLOps services, and services, and how to decide when to leverage each.
 
 • ["DoiT-Easily: Simplifying your Google Marketplace Vendor Development"](https://engineering.doit.com/doit-easily-7bd8b75207a9)
@@ -44,7 +45,6 @@ https://engineering.doit.com/unlocking-broader-cloud-insights-with-cost-analytic
 
 • ["Sell your SaaS on Google Marketplace"](https://engineering.doit.com/sell-your-saas-on-google-marketplace-43b5d10ec15e)
 > How to integrate your solution into Google Marketplace.
-
 
 • "Defining the boundaries in your cloud infrastructure", DevOpsDays Tel Aviv
 > How do you divide up virtual machines, databases, and other services into logical groups? Lumping all your resources together makes management, security, and cost analysis far too complicated. When one part of your infrastructure changes, you have a hard time identifying what others might be impacted.
