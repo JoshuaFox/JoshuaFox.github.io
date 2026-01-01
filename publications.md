@@ -24,7 +24,7 @@ https://engineering.doit.com/unlocking-broader-cloud-insights-with-cost-analytic
 
 >  Cost analytics tools are in many ways better that cloud admin tools for understanding your cloud deployment.
 
-• [“Hidden Cloud Waste in Your Code”.](https://engineering.doit.com/identifying-hidden-cloud-waste-in-your-code-37e32fc8e11f). 
+• [“Hidden Cloud Waste in Your Code”](https://engineering.doit.com/identifying-hidden-cloud-waste-in-your-code-37e32fc8e11f). 
 
 > Cloud waste often hides in inefficient code, creating an “illusion of efficiency.” This article gives a systematic approach to finding cost issues that come from the code rather than cloud infrastructure.
 
