@@ -27,7 +27,9 @@ Bread is a deadly weapon, as Shelomo Ha-Melekh tells us שנאך—האכלהו 
 
 As it is written: לא על הלחם יחיה האדם “Not by bread may a man live” (Dvarim 8:3). That is why in Yiddish, a dead person is described euphemistically but accurately with ער באַקט ברױט or ער באַקט בײגעלעך — "He is baking bread" or "baking bagels."
 
-The word חטּה, “wheat” has a dagesh in the ט, indicating an assimilated נ: the root is חנט. The verb from that root means “embalm” (Breishit 50:2-3). Death, and what a goyishe way to deal with it — that's wheat for you! (Nice item on death-and-carbs [here](https://www.haaretz.com/weekend/magazine/in-the-mourners-tent-1.226332).)
+The word חטּה, “wheat” has a dagesh in the ט, indicating an assimilated נ: the root is חנט. The verb חנט means “embalm” (Breishit 50:2-3). Death, and what a goyishe way to deal with it — that's wheat for you! (Nice item on death-and-carbs [here](https://www.haaretz.com/weekend/magazine/in-the-mourners-tent-1.226332).)
+
+בטנך ערמת חטים “Your belly is a heap of wheat” (Shir Hashirim 7:2). Now *that's* is a nasty dig! No more degenerate image of a bloated belly could be imagined than to call it “wheat”! Yuck!
 
 
 Osama Bin Laden raised and laundered money through a network of — you guessed it — [honey shops](https://news.bbc.co.uk/1/hi/business/1594143.stm)! Twenty years later, [candy shops](https://www.glasgowtimes.co.uk/news/13308928.crooks-using-sweetie-shops-to-launder-money/) in the UK are opened to [launder Afghan terror money](https://www.reddit.com/r/london/comments/m3lh95/those_american_candy_shops_on_oxford_streets) — nothing changes!. Speaking of terrorists, wheat, too, is terror: _chitta_ means “wheat” and “terror” in Hebrew (See Breshit 35:5). And did you know that right after 9/11, some enterprising businesspeople named a product after Bin Laden — a very successful product. What product do you think it was? [Yes, indeed!](https://edition.cnn.com/2011/11/30/world/africa/bin-laden-bread/index.html?hpt=hp_c2).
