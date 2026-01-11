@@ -10,7 +10,7 @@ Book: Semitic Noun Patterns
 
 <img src="https://static.hwpi.harvard.edu/files/styles/book_cover/public/semitic/files/foxsemiti.jpg" width='200' height='320' alt='Semitic Noun Patterns, cover' align='right' /> 
 
-[Book available at Amazon](https://www.amazon.com/Semitic-Noun-Patterns-Harvard-Studies/dp/1575069091) and [online](https://bit.ly/semitic-noun-patterns)
+[Book available at Amazon](https://www.amazon.com/Semitic-Noun-Patterns-Harvard-Studies/dp/1575069091) and [online](https://bit.ly/semitic-noun-patterns-book)
 
 **_Semitic Noun Patterns_**, Harvard Semitic Studies – HSS 52,  
 Harvard Semitic Museum / Eisenbrauns, 2003.
