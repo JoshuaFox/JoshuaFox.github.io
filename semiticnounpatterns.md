@@ -39,7 +39,7 @@ Alan S. Kaye, _Journal of the American Oriental Society_ 123.4 (2003), p. 885(3)
 
 **Errata:**
 
-Page 38, line 17 For "these example" read "these examples".
+Page 38, line 17: For "these example," read "these examples."
 
 **See also:**
 
