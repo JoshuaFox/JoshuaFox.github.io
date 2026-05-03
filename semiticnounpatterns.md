@@ -41,6 +41,7 @@ Alan S. Kaye, _Journal of the American Oriental Society_ 123.4 (2003), p. 885(3)
 
 * Page 38, line 17: For "these example," read "these examples."
 * Page 40, line 12: For "when same ," read "when the same."
+* Page 43, line 20: For "the patterns much have," read "the patterns must have."
 
 **See also:**
 
