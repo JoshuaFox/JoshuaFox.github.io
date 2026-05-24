@@ -1,22 +1,27 @@
 ---
-title: "Publications &#038; Talks"
-author: Joshua Fox
+title: "Publications & Talks"
+author: "Joshua Fox"
 layout: page
 ---
 
-Here are my technical articles and talks over the years. At the bottom are some about recruiting. Google Scholar [shows citations](https://scholar.google.com/citations?hl=en&user=d0FLp-q9vFEC&view_op=list_works&pagesize=100).
+Here are my technical articles and talks over the years, recently about cloud and AI, earlier about software and semantic modeling. At the bottom are some about recruiting. Google Scholar [shows citations](https://scholar.google.com/citations?hl=en&user=d0FLp-q9vFEC&view_op=list_works&pagesize=100).
 
 ---
 
-<br>
-
 # On Software and the Cloud
-<br>
+
+## 2026
+
+* ["The Gemini Ecosystem: A Guide to Google’s AI Naming"](https://www.doit.com/blog/the-gemini-ecosystem-a-guide-to-googles-ai-naming)
+> AI is changing rapidly, and so are Google’s AI cloud products. The brand-name element “Gemini” is spreading too, into the names of completely different products. I sort out the confusion and explain why you should *not use the Gemini API*, but can use similar, related services.
+
+* ["Who Foots the Bill? Untangling Google Cloud's API Billing Assignment"](https://www.doit.com/blog/who-foots-the-bill-untangling-google-clouds-api-billing-assignment)
+> Google Cloud bills most cloud expenses to projects. But which project? When you call an API for a Google Cloud SaaS, some or all charges are tied to a specified project. I explain how this works.
 
 ## 2025
 
 * ["Optimizing ML Costs with Azure Machine Learning: A FinOps Methodology"](https://engineering.doit.com/optimizing-ml-costs-with-azure-machine-learning-1811dc36905d)
-> Machine learning gets expensive, fast. I will explain how to optimize costs; Azure provides examples of how cloud services can help you reduce costs.
+> Machine learning gets expensive, fast. I explain how to optimize costs; Azure provides examples of how cloud services can help you reduce costs.
 
 * ["Unlocking Broader Cloud Insights with Cost Analytics"](https://engineering.doit.com/unlocking-broader-cloud-insights-with-cost-analytics-d21f267229f2)
 > Cost analytics tools are in many ways better than cloud admin tools for understanding your cloud deployment.
@@ -24,13 +29,13 @@ Here are my technical articles and talks over the years. At the bottom are some 
 * ["Hidden Cloud Waste in Your Code"](https://engineering.doit.com/identifying-hidden-cloud-waste-in-your-code-37e32fc8e11f)
 > Cloud waste often hides in inefficient code, creating an "illusion of efficiency." This article gives a systematic approach to finding cost issues that come from the code rather than cloud infrastructure.
 
-* "Outside Advisors: Empowering Your Team While Retaining Ownership," L8 Conference Warsaw and the Isle of Man Google Dev Group.
+* "Outside Advisors: Empowering Your Team While Retaining Ownership", L8 Conference Warsaw and the Isle of Man Google Dev Group.
 > This talk, for an audience of Staff Engineers, introduces a pragmatic approach to incorporating external Cloud Reliability Engineering (CRE) advisors while keeping your team firmly in control of their technical destiny.
 
 * ["Taking Machine Learning to Production: Cloud MLOps for Speed and Efficiency"](https://engineering.doit.com/taking-machine-learning-to-production-4b6c99383762)
 > The article version of my talk from DevFest and SRE Day (see below).
 
-* "Cloud MLOps for Speed and Efficiency," DevFest Bucharest, SRE Day London, and SRE Day Paris; earlier multicloud version given to the Israel NLP Meetup at Microsoft. [Video of the DevFest talk](https://youtu.be/bvZThtEJhYs) and of the [SRE Day talk](https://www.youtube.com/watch?v=jmjOHOeK0MA&list=PL2CAJ_jforK6Pp2BUGfwKKlBCHRWnsmgk&index=12&ab_channel=SREday).
+* "Cloud MLOps for Speed and Efficiency", DevFest Bucharest, SRE Day London, and SRE Day Paris; earlier multicloud version given to the Israel NLP Meetup at Microsoft. [Video of the DevFest talk](https://youtu.be/bvZThtEJhYs) and of the [SRE Day talk](https://www.youtube.com/watch?v=jmjOHOeK0MA&list=PL2CAJ_jforK6Pp2BUGfwKKlBCHRWnsmgk&index=12&ab_channel=SREday).
 > I work with startups that build on an algorithm that they innovated, but hit a scaling wall as they succeed. I show how cloud MLOps platforms like Vertex provide a full spectrum of MLOps services, and how to decide when to leverage each.
 
 * ["DoiT-Easily: Simplifying Your Google Marketplace Vendor Development"](https://engineering.doit.com/doit-easily-7bd8b75207a9)
@@ -39,42 +44,42 @@ Here are my technical articles and talks over the years. At the bottom are some 
 * ["Sell Your SaaS on Google Marketplace"](https://engineering.doit.com/sell-your-saas-on-google-marketplace-43b5d10ec15e)
 > How to integrate your solution into Google Marketplace.
 
-* "Defining the Boundaries in Your Cloud Infrastructure," DevOpsDays Tel Aviv.
+* "Defining the Boundaries in Your Cloud Infrastructure", DevOpsDays Tel Aviv.
 > How do you divide up virtual machines, databases, and other services into logical groups? Lumping all your resources together makes management, security, and cost analysis far too complicated. When one part of your infrastructure changes, you have a hard time identifying what others might be impacted.
 
 ## 2024
 
-* "No WAFs: Don’t Use a Web Application Firewall, and When You Should, Anyway," BSides Strasbourg; also at Conf42. [Video (BSides)](https://www.youtube.com/watch?v=0Rk7koWsX4I&list=PLMM5_63TOT9BZZ5HCeTTg_GVJFny3jwBw&index=13) | [Video (Conf42)](https://www.youtube.com/watch?v=XQywClfDEJw)
+* "No WAFs: Don’t Use a Web Application Firewall, and When You Should, Anyway", BSides Strasbourg; also at Conf42. [Video (BSides)](https://www.youtube.com/watch?v=0Rk7koWsX4I&list=PLMM5_63TOT9BZZ5HCeTTg_GVJFny3jwBw&index=13) | [Video (Conf42)](https://www.youtube.com/watch?v=XQywClfDEJw)
 > WAFs look like a quick fix for security problems, but generally lead to worse security. Yet sometimes they are needed. This article sorts that out.
 
 * ["No WAFs: Don’t Use a Web Application Firewall, and When You Should, Anyway"](https://engineering.doit.com/no-wafs-26c7a977db7b/)
 > WAFs look like a quick fix for security problems, but generally lead to worse security. Yet sometimes they are needed. This article sorts that out.
 
-* ["Controlling Cloud Costs: Where to Start, and Where to Go from There"](https://stackoverflow.blog/2024/03/27/controlling-cloud-costs-where-to-start-and-where-to-go-from-there/), StackExchange Podcast.
+* ["Controlling Cloud Costs: Where to Start, and Where to Go from There"](https://stackoverflow.blog/2024/03/27/controlling-cloud-costs-where-to-start-and-where-to-go-from-there/), *Stack Overflow Podcast*.
 > We explored the importance of controlling and understanding cloud costs, the role of good architecture in cost optimization, and strategies for dealing with surprise costs.
 
 ## 2023 
 
-* "Level 7 Egress Control: Just Now Emerging in Kubernetes," SREcon Dublin ([Video](https://www.youtube.com/watch?v=WnELOww56nM&t=2s)); and various short versions at DevOpsDays Vilna, DevOpsDays Ukraine, and Kubernasties Tel Aviv. See videos of the short talks in [English](https://www.youtube.com/watch?v=hZmkZvT4BH4&list=PL_O8YSX8ckfcW4hfVQexlTsKFoM_Vb8S5&index=8); Yiddish ["װי מען רעגולירט אַרױסגאַנג לױטן ראַיאָן: כטולהון אַרט עס נישט"](https://www.youtube.com/watch?v=89eZIFkktRg); and Hebrew ["שליטה על יציאה מאשכול על פי מתחם"](https://www.youtube.com/watch?v=UEsx6hKC6sU).
-> Controlling outgoing traffic from a VPN or a K8s cluster based on Level 7 Domain address. 
+* "Level 7 Egress Control: Just Now Emerging in Kubernetes", SREcon Dublin ([Video](https://www.youtube.com/watch?v=WnELOww56nM&t=2s)); and various short versions at DevOpsDays Vilna, DevOpsDays Ukraine, and Kubernasties Tel Aviv. See videos of the short talks in [English](https://www.youtube.com/watch?v=hZmkZvT4BH4&list=PL_O8YSX8ckfcW4hfVQexlTsKFoM_Vb8S5&index=8); Yiddish ["װי מען רעגולירט אַרױסגאַנג לױטן ראַיאָן: כטולהון אַרט עס נישט"](https://www.youtube.com/watch?v=89eZIFkktRg); and Hebrew ["שליטה על יציאה מאשכול על פי מתחם"](https://www.youtube.com/watch?v=UEsx6hKC6sU).
+> Controlling outgoing traffic from a VPN or a K8s cluster based on Level 7 Domain address.
 
-* "Outside Advisors: A Counter-Intuitive Approach to Customer Reliability Engineering," DevOpsDays Vilna, Lithuania; Kubernetes Users Group, Singapore. [Video recording](https://www.youtube.com/watch?v=ayh22hDd-eU)
-> How does SRE work with outside advisors? If outsiders run DevOps, costs mount quickly. There is a better way. I will show how strictly defined limits on what outside CRE does lower cost, build in-house skills, and leverage outside expertise for both architecture and urgent response.  
+* "Outside Advisors: A Counter-Intuitive Approach to Customer Reliability Engineering", DevOpsDays Vilnius, Lithuania; Kubernetes Users Group, Singapore. [Video recording](https://www.youtube.com/watch?v=ayh22hDd-eU)
+> How does SRE work with outside advisors? If outsiders run DevOps, costs mount quickly. There is a better way. I show how strictly defined limits on what outside CRE does lower cost, build in-house skills, and leverage outside expertise for both architecture and urgent response.
 
-* ["Flexibility in Vizier’s Black-Box Optimization"](https://engineering.doit.com/flexibility-in-viziers-black-box-optimization-b4caff09af0c) 
+* ["Flexibility in Vizier’s Black-Box Optimization"](https://engineering.doit.com/flexibility-in-viziers-black-box-optimization-b4caff09af0c)
 > Further abilities of Vertex AI Vizier.
- 
-* ["The Advantages of Vizier’s Black-Box Approach"](https://engineering.doit.com/the-advantages-of-the-viziers-black-box-approach-b73f32723c9f) 
+
+* ["The Advantages of Vizier’s Black-Box Approach"](https://engineering.doit.com/the-advantages-of-the-viziers-black-box-approach-b73f32723c9f)
 > Comparing Vizier to other hyperoptimizers.
  
-* ["Vertex AI Vizier for Fewer Repetitions of Costly ML Training"](https://engineering.doit.com/the-advantages-of-the-viziers-black-box-approach-b73f32723c9f) 
+* ["Vertex AI Vizier for Fewer Repetitions of Costly ML Training"](https://engineering.doit.com/the-advantages-of-the-viziers-black-box-approach-b73f32723c9f)
 > Introducing Vizier and black-box optimization.
 
 * "Untangling the Tangled Cloud" ([Video](https://www.youtube.com/watch?v=zJCP_MTncVk)), USENIX SREcon Singapore.
 > How do you arrange virtual machines, databases, and other services into logical groups? Whether with Google Cloud projects, AWS accounts, or Azure resource groups, my consulting customers find that either lumping all the resources together or parceling them out into tiny groups makes management, security, and cost analysis too difficult: It’s tough predicting the impact of a change. In this talk, related to my article at USENIX ;login:, I explain how I advise architects to make their infrastructure follow the logical boundaries of microservices and the organization.
  
 * ["FQDN Egress Control in Kubernetes"](https://www.tfir.io/fqdn-egress-control-in-kubernetes), *TFiR*.
-> Allowing access only to specific domains from your Kubernetes application; limiting this access to pods in certain namespaces or with certain labels. 
+> Allowing access only to specific domains from your Kubernetes application; limiting this access to pods in certain namespaces or with certain labels.
 
 * ["Allow Outgoing Traffic by Domain: FQDN Egress Control"](https://engineering.doit.com/allow-outgoing-traffic-by-domain-813407d67717)
 > When you block your applications in a VPC from outbound connections but want to allow access to just one domain, a regular firewall won't do. This article describes various approaches, including old standbys, two Preview services in Google Cloud, and AWS services. It also discusses Kubernetes-aware solutions and mentions an upcoming Kubernetes standard.
@@ -82,7 +87,7 @@ Here are my technical articles and talks over the years. At the bottom are some 
 * ["Untangling the Cloud: A Principled Method for Grouping Cloud Resources"](https://www.usenix.org/publications/loginonline/untangling-cloud), *;login:*, the USENIX technical journal.
 > How to draw technical borders to divide your cloud resources into groupings, such as Google Cloud projects, AWS accounts, or Azure resource groups.
 
-* "Black-Box Optimization with Vertex AI Vizier," at multiple conferences including Google DevZone Day at Google Tel Aviv; Google Atlantis Summit; GeeCON Prague; DevFest Zagreb; Google Israel Cloud Summit; Osijek GDG. [Video](https://www.youtube.com/watch?v=2RbTIcv3ChU)
+* "Black-Box Optimization with Vertex AI Vizier", at multiple conferences including Google DevZone Day at Google Tel Aviv; Google Atlantis Summit; GeeCON Prague; DevFest Zagreb; Google Israel Cloud Summit; Osijek GDG. [Video](https://www.youtube.com/watch?v=2RbTIcv3ChU)
 > The first-ever talk or article about the new black-box optimization interaction pattern of Vertex Vizier, a new way to optimize across slow and expensive iterations.
 
 ## 2022
@@ -113,7 +118,7 @@ Here are my technical articles and talks over the years. At the bottom are some 
 ## 2020 and Earlier
 
 * ["AWS Firewalls: How and When to Use Each One"](https://engineering.doit.com/aws-firewalls-101-how-and-when-to-use-each-one-d4ad8087a6b3?source=friends_link&sk=bf365adf9fba5a4119a72cd026faf1c4)
-> When I saw that AWS had a new firewall with the uninformative name “Network Firewall,” I thought “not another one.” This is my attempt to sort them all out. Then Jeff Barr, AWS Chief Evangelist, tweeted it! 
+> When I saw that AWS had a new firewall with the uninformative name “Network Firewall,” I thought “not another one.” This is my attempt to sort them all out. Then Jeff Barr, AWS Chief Evangelist, tweeted it!
 
 * ["Kotlin, Gradle, and the Cloud"](https://engineering.doit.com/kotlin-gradle-and-the-cloud-4b454701e4b9?source=friends_link&sk=0de9f40992a744bc636b0bd1acc9dc71)
 > How to build Kotlin apps in the cloud with Gradle.
@@ -154,7 +159,7 @@ Here are my technical articles and talks over the years. At the bottom are some 
 * ["Breaking Boundaries: How Freightos Achieved High-Speed Graph Search in the Cloud"](https://www.cloudcomputing-news.net/news/2016/oct/06/breaking-boundaries-how-freightos-achieved-high-speed-graph-search-cloud/), *CloudTech*.
 > Running heavy-duty graph algorithms against a very large dataset requires some unusual design principles. Freightos may not be the only company doing it, but no cloud platform today is optimized for this; in fact, the usual design assumptions in cloud platforms are quite the opposite of what we needed. Here is how we did it.
 
-* "Modeling Retail Products: A Big Data Approach," *The Software Generalist*.
+* "Modeling Retail Products: A Big Data Approach", *The Software Generalist*.
 
 * ["Search and You Shall Find"](https://medium.com/@Twiggle/search-and-you-shall-find-c2d2c3c43cf2), *Medium*.
 > Today’s e-tail search engines return inaccurate results; merchants stuff all product information into long titles. To optimize revenue, online retailers need a search engine that *understands* the product selection.
@@ -162,42 +167,42 @@ Here are my technical articles and talks over the years. At the bottom are some 
 * ["Apache Spark and Java 8: The Big Data Team"](https://www.datanami.com/2014/12/11/apache-spark-java-8-big-data-team-2015/), *Datanami*.
 > Apache Spark with Java 8 is proving to be the perfect match for Big Data. In this article, I show an example of collaborative filtering using Spark on Cassandra data, and explain how much easier this is to do with the lambdas of Java 8. Code to accompany it is [here at GitHub](https://github.com/JoshuaFox/spark-cassandra-collabfiltering).
 
-* "Documents in the Cloud: Dynamic, Privacy-Customized Views," *Cloudbook*.
+* "Documents in the Cloud: Dynamic, Privacy-Customized Views", *Cloudbook*.
 > As documents move to the cloud, it becomes harder to protect the private information in them, but on the other hand, it becomes easier to control distribution of specific private information to exactly the people who are authorized to see it.
 
-* "Flexible, Dynamic Redaction," *MasterDataManagement.com*.
+* "Flexible, Dynamic Redaction", *MasterDataManagement.com*.
 > Complying with privacy regulations used to mean “redaction,” blacking out words with a pen, slowly and expensively. But natural language processing techniques can protect exactly the information regulated by law while giving convenient access to authorized users.
 
-* "Breaking Walls: How to Get Departments to Share Information," with Michael Pelts, *Technology and Humans*.
+* "Breaking Walls: How to Get Departments to Share Information", with Michael Pelts, *Technology and Humans*.
 
 * ["People Who Live in Glass Houses Should Put Up Some Shades"](https://www.infosecurity-magazine.com/opinions/comment-some-documents-require-fine-grained/), *InfoSecurity*.
 > Too much openness, as well as too little, both pose risks. Document viewing with automated privacy control is one part of the balance. Allowing authorized users to retrieve the redacted information is another.
 
-* "Privacy for the Deeper Web," with Michael Pelts, *Technology and Humans*.
+* "Privacy for the Deeper Web", with Michael Pelts, *Technology and Humans*.
 
-* "Openness and Privacy for Regulatory Compliance," with Michael Pelts, *Information on Demand Europe*.
+* "Openness and Privacy for Regulatory Compliance", with Michael Pelts, *Information on Demand Europe*.
 
 * ["IBM Optim Data Redaction: Reconciling Openness with Privacy"](/wp-content/uploads/2019/10/IMW14307USEN.PDF), IBM White Paper.
 > The white paper for the product which I launched in IBM.
 
-* "Openness and Privacy," with Michael Pelts, *Security and Privacy Symposium*.
+* "Openness and Privacy", with Michael Pelts, *Security and Privacy Symposium*.
 
 * ["Clojure: Challenge Your Java Assumptions"](https://web.archive.org/web/20231001000000*/https://www.javaworld.com/article/2078043/clojure--challenge-your-java-assumptions.amp.html), *JavaWorld*.
 > The article is aimed at senior Java developers, encouraging them to learn more about this exciting language. A dialect of Lisp, Clojure runs on the JVM with excellent integration with Java, and provides new, improved solutions for the biggest challenge to programming languages today: concurrency.
 
-* "Mining Meaning from Java Code with Java Data Mining API," JavaOne, San Francisco.
+* "Mining Meaning from Java Code with Java Data Mining API", JavaOne, San Francisco.
 > As with the earlier talk, the JavaOne committee gave this presentation the “Cool Stuff” award.
 
-* "Mining for Services: Discovering Business Realities in Mainframe Metadata," IMPACT, Las Vegas.
+* "Mining for Services: Discovering Business Realities in Mainframe Metadata", IMPACT, Las Vegas.
 
-* "Finding Mashup Ingredients," Web 2.0 and Beyond Summit.
+* "Finding Mashup Ingredients", Web 2.0 and Beyond Summit.
 
 * ["Mining for Meaning: Discovering Business Realities in Mainframe Metadata"](/wp-content/uploads/2014/10/Fox_MainframeExec_SEP-OCT2008.pdf), *Mainframe Executive*.
 > To expose siloed mainframe functionality now locked up in siloed systems, it is essential to understand its business value. Automated classification technologies help make this happen.
 
-* "Metadata Mining: Automated Semantic Classification for Service Repositories," XML Conference, Boston.
+* "Metadata Mining: Automated Semantic Classification for Service Repositories", XML Conference, Boston.
 
-* "Approaches for Modeling Metadata in XML," industry experts panel, XML Conference, Boston.
+* "Approaches for Modeling Metadata in XML", industry experts panel, XML Conference, Boston.
 
 * ["The Portal as People-Centric SOA"](/wp-content/uploads/2017/05/ThePortalAsPeopleCentricSOA.pdf), MainSoft Corporation White Paper.
 > As a consultant for a leading provider of Java-.NET interoperability software, I wrote a white paper evangelizing the company’s IBM WebSphere Portal product, showing how it functions as a user-facing on-ramp to SOA.
@@ -211,61 +216,61 @@ Here are my technical articles and talks over the years. At the bottom are some 
 * ["Ruby for the Java World"](https://web.archive.org/web/20230325135244/https://www.javaworld.com/article/2071794/ruby-for-the-java-world.amp.html), *JavaWorld*.
 > Dynamic languages are rapidly gaining in popularity. Ruby in particular has attracted attention, with a big boost from the Ruby on Rails web framework. In this article, I introduce Java programmers to Ruby, focusing on the similarities, differences, and connectivity between the two languages, and describing the value of JRuby on the Java platform. The article got some [buzz](https://www.google.com/search?q=%22joshua+fox%22+ruby+java) on the net, including from Frank Sommers at [Artima](https://www.artima.com/forums/flat.jsp?forum=276&thread=168997).
 
-* "Enterprise Semantics: Aligning Service-Oriented Architecture with the Business," with Joram Borenstein, *Web Services Journal*.
+* "Enterprise Semantics: Aligning Service-Oriented Architecture with the Business", with Joram Borenstein, *Web Services Journal*.
 > A business-focused overview of the value that semantics bring to Service-Oriented Architectures.
 
-* "Business Processes: Connecting the Design-Time to the Run-Time," Programming Languages and Development Environments Seminar, Haifa.
+* "Business Processes: Connecting the Design-Time to the Run-Time", Programming Languages and Development Environments Seminar, Haifa.
 
-* "XMI and the Many Metamodels of Enterprise Metadata," with Joram Borenstein, XML Conference, Atlanta.
+* "XMI and the Many Metamodels of Enterprise Metadata", with Joram Borenstein, XML Conference, Atlanta.
 
-* "Semantic Enterprise Systems Management for Program Trading," with Simon de M. Walker, Securities Industry Middleware Council, New York.
+* "Semantic Enterprise Systems Management for Program Trading", with Simon de M. Walker, Securities Industry Middleware Council, New York.
 
-* "Java Metadata and the Semantic Web," JavaOne, San Francisco.
+* "Java Metadata and the Semantic Web", JavaOne, San Francisco.
 > Awarded “Intriguing and Unexpected: New and Cool” by the conference committee.
 
-* "Aligning Business Process and Business Information Models: A Semantic Approach," with Zvi Schreiber, Global Business Process Forum, London.
+* "Aligning Business Process and Business Information Models: A Semantic Approach", with Zvi Schreiber, Global Business Process Forum, London.
 
-* "Metadata Management Converges with Business Modeling," DAMA Symposium and Wilshire Meta-Data Conference, Los Angeles.
+* "Metadata Management Converges with Business Modeling", DAMA Symposium and Wilshire Meta-Data Conference, Los Angeles.
 
-* "Semantic Information Management for Data Integration in the Enterprise," *TechTarget*.
+* "Semantic Information Management for Data Integration in the Enterprise", *TechTarget*.
 
-* "Semantic Information Management: Controlling Complexity with a Central Information Hub," Securities Industry Middleware Council, New York.
+* "Semantic Information Management: Controlling Complexity with a Central Information Hub", Securities Industry Middleware Council, New York.
 
-* "Web Services: Trends Toward Adoption," invited appearance at industry experts panel, EIDX/CompTIA, San Diego.
+* "Web Services: Trends Toward Adoption", invited appearance at industry experts panel, EIDX/CompTIA, San Diego.
 
-* "Know What Your Schemas Mean: Semantic Information Management for XML Assets," XML Conference.
+* "Know What Your Schemas Mean: Semantic Information Management for XML Assets", XML Conference.
 > Schemas control the structure of information, but they don’t specify what a field means. Is that “salary” field monthly or annual? Semantic data management helps you keep track and avoid expensive mistakes.
 
 * ["Active Information Models for Data Transformation"](/wp-content/uploads/2014/10/Active_Information_Models_for_Data_Transformation_-_May_2003_-_Joshua_Fox.pdf), *eAI Journal* (later renamed to *Business Integration Journal* and *Align Journal*).
 > EAI gives *O(n)* complexity for connecting *n* applications on the network, but there remains an *O(n^2)* complexity for integrating the message formats that the applications use as input and output. With an ontology-based approach, however, this too can be reduced to *O(n)*.
 
-* "Semantic Discovery for Web Services," with Joram Borenstein, *Web Services Journal*.
+* "Semantic Discovery for Web Services", with Joram Borenstein, *Web Services Journal*.
 > Web services lookup with UDDI requires client and server to agree on the exact syntax of the interaction. Using the principles of ontology, providers can publish and clients can discover services based on the desired functionality rather than the syntactic details.
 
 * ["Generating XSLT with a Semantic Hub"](/wp-content/uploads/2014/10/Generating-XSLT-with-a-Semantic-Hub.pdf), XML Conference.
 > XSLT was a promising XML technology that never fulfilled its promise because it was so hard to write and maintain. But when generated automatically from semantic information about what data is used for, XSLT becomes an automated information interchange language.
 
-* "Information Quality Through Semantic Models," Enterprise Data Forum, Pittsburgh.
+* "Information Quality Through Semantic Models", Enterprise Data Forum, Pittsburgh.
 
 * ["Deploying Jini: HTTP Servers for the Dynamic Download of Code"](https://web.archive.org/web/20230325130712/https://www.javaworld.com/article/2075942/deploy-code-servers-in-jini-systems.amp.html), *JavaWorld*.
 > I’ve found that once new Jini developers learn about the exciting distributed architecture, they often get bogged down by the challenge of simply configuring their system for development. They encounter a yet greater challenge in moving from the development configuration to deployment. Even experienced developers can get confused by the variety of components involved.
 >
 > In the article, I review a number of solutions and explain the advantages of various solutions such as ease of development, ease of migration from development to deployment, low memory and CPU burden, portability, compatibility with RMI Activation, security, and enterprise-class web-app features.
 
-* "Ontology: Automated Integration of Enterprise XML," Web Services Edge, Santa Clara.
+* "Ontology: Automated Integration of Enterprise XML", Web Services Edge, Santa Clara.
 
-* "Building a Successful Wireless Web Site," *Wireless Business and Technology*.
+* "Building a Successful Wireless Web Site", *Wireless Business and Technology*.
 > If you’re a software development manager with experience leading the development of a three-tier distributed application for the World Wide Web, perhaps you’re about to move on to spearhead the construction of a WAP-site. This article has reuse as its theme: I explain when you can reuse skillsets, infrastructure, and software components from the WWW site, and when you’re better off developing new skills, buying new infrastructure, or building new software.
 
 * ["When Is a Singleton Not a Singleton?"](https://www.infoworld.com/article/2074897/when-is-a-singleton-not-a-singleton-.html), *JavaWorld* (republished in *InfoWorld* and Sun/Oracle; appeared on the Java Developer Connection front page).
 > Sometimes you implement the Singleton Design Pattern, but mysteriously find that more than one object of the class is instantiated. This article explains how that can happen and how to avoid it.
 
-* "Distributed Garbage Collection and Socket Option Keep-Alive," JavaOne, San Francisco.
+* "Distributed Garbage Collection and Socket Option Keep-Alive", JavaOne, San Francisco.
 
 * ["Opaque Bodies, Transparent Envelopes"](/wp-content/uploads/2014/10/XML_OpaqueTransparent.pdf), *XML-Journal*.
 > Separating layers of abstraction by packaging a body of one layer in an envelope of another layer is one of the fundamental design principles in data transfer. This principle holds for XML just as for any data transfer format, but implementing a system that observes layer separation can be difficult. This article describes how to do it.
 
-* "Developing Java Servlets," Software Productivity Center, Vancouver, Canada.
+* "Developing Java Servlets", Software Productivity Center, Vancouver, Canada.
 
 * ["So What Is SO_KEEPALIVE?"](https://drdobbs.com/java/184404250#), *Dr. Dobb’s Journal*.
 > Garbage collecting distributed leases requires mechanisms such as keep-alives, heartbeats, leases, and Are-You-There/I-Hear-You protocols. Interestingly, the keep-alive mechanism built into TCP/IP sockets is not really practical; for this reason, the JDK didn't allow access to Socket Option Keep-Alive until the recent release of JDK 1.3. I explain the problems with SO_KEEPALIVE and how to implement your own garbage collection mechanism for distributed resources.
@@ -279,15 +284,32 @@ Here are my technical articles and talks over the years. At the bottom are some 
 
 # Recruiting and Career
 
-<br>
+* ["Working as a Cloud Consultant at DoiT International"](https://engineering.doit.com/why-i-work-at-doit-as-a-cloud-infrastructure-consultant/)
+> About our unique work style: I have never seen anything like this.
 
-* [Working as a Cloud Consultant at DoiT International](https://engineering.doit.com/why-i-work-at-doit-as-a-cloud-infrastructure-consultant/): About our unique work style: I have never seen anything like this.
-* [On Informational Interviews](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/), from the employer’s perspective, at *ERE*, the leading site for tech recruiters. 
-* It [also appeared](http://www.gius.co.il/איך-זה-לעבוד-שם/) at Israel’s top news site for recruiters, gius.co.il.
-* On the game-theoretical perspective on [kegerators](https://web.archive.org/web/20210416193222/https://pando.com/2013/12/21/in-praise-of-the-office-kegerator-the-future-of-better-jobs) at *Pando*.
-* On building [open-source communities](https://opensource.com/business/13/7/four-tips-project-to-business) by recruiting top tech talent from among the members, at *OpenSource.com*.
-* Career tips [for Generation Y professionals](https://web.archive.org/web/20141002070155/https://blog.brazencareerist.com/author/joshfox/) at *Brazen Careerist*.
-* [The Rise of the Anti-Recruiter](https://readwrite.com/2013/08/23/recruiters-jobs-matchmakers-developers) at *ReadWrite*.
-* On a new approach to recruiting at *InformationWeek*, with Jack Perkins.
-* On effective [employer branding](https://web.archive.org/web/20140624045748/https://www.ere.net/2014/06/18/not-too-expensive-employer-branding/) at *ERE*.
-* [On Informational Interviews](https://www.businessinsider.com/a-networking-trick-that-could-help-you-find-your-next-job-2014-2), from the professional’s perspective, at *Business Insider*.
+* ["On Informational Interviews"](https://web.archive.org/web/20140702154344/https://www.ere.net/2014/02/26/informational-interviews-for-people-who-dont-need-them/)
+> From the employer’s perspective, at *ERE*, the leading site for tech recruiters.
+
+* ["It Also Appeared Here"](http://www.gius.co.il/איך-זה-לעבוד-שם/)
+> At Israel’s top news site for recruiters, gius.co.il.
+
+* ["On the Game-Theoretical Perspective on Kegerators"](https://web.archive.org/web/20210416193222/https://pando.com/2013/12/21/in-praise-of-the-office-kegerator-the-future-of-better-jobs)
+> At *Pando*.
+
+* ["On Building Open-Source Communities"](https://opensource.com/business/13/7/four-tips-project-to-business)
+> By recruiting top tech talent from among the members, at *OpenSource.com*.
+
+* ["Career Tips for Generation Y Professionals"](https://web.archive.org/web/20141002070155/https://blog.brazencareerist.com/author/joshfox/)
+> At *Brazen Careerist*.
+
+* ["The Rise of the Anti-Recruiter"](https://readwrite.com/2013/08/23/recruiters-jobs-matchmakers-developers)
+> At *ReadWrite*.
+
+* "On a New Approach to Recruiting"
+> At *InformationWeek*, with Jack Perkins.
+
+* ["On Effective Employer Branding"](https://web.archive.org/web/20140624045748/https://www.ere.net/2014/06/18/not-too-expensive-employer-branding/)
+> At *ERE*.
+
+* ["On Informational Interviews"](https://www.businessinsider.com/a-networking-trick-that-could-help-you-find-your-next-job-2014-2)
+> From the professional’s perspective, at *Business Insider*.
