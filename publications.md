@@ -15,7 +15,7 @@ Here are my technical articles and talks over the years, recently about cloud an
 * ["The Gemini Ecosystem: A Guide to Google’s AI Naming"](https://www.doit.com/blog/the-gemini-ecosystem-a-guide-to-googles-ai-naming)
 > AI is changing rapidly, and so are Google’s AI cloud products. The brand-name element “Gemini” is spreading too, into the names of completely different products. I sort out the confusion and explain why you should *not use the Gemini API*, but can use similar, related services.
 
-* ["Who Foots the Bill? Untangling Google Cloud's API Billing Assignment"](https://www.doit.com/blog/who-foots-the-bill-untangling-google-clouds-api-billing-assignment)
+* ["Who Foots the Bill? Untangling Google Cloud's API Billing Assignment"](https://www.doit.com/blog/google-cloud-api-billing-who-pays-for-your-api-calls)
 > Google Cloud bills most cloud expenses to projects. But which project? When you call an API for a Google Cloud SaaS, some or all charges are tied to a specified project. I explain how this works.
 
 ## 2025
