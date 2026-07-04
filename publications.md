@@ -12,6 +12,9 @@ Here are my technical articles and talks over the years, recently about cloud an
 
 ## 2026
 
+* ["Fine-Grained Pod-Scaling in Kubernetes: Beyond HPA and VPA"](https://c.perfectscale.io/blog/fine-grained-pod-scaling-in-kubernetes-beyond-hpa-and-vpa)
+> Standard HPA and VPA fall short for complex workloads. Discover how multi-layered telemetry and in-place pod resizing enable precise, workload-aware Kubernetes autoscaling.
+
 * ["The Gemini Ecosystem: A Guide to Google’s AI Naming"](https://www.doit.com/blog/the-gemini-ecosystem-a-guide-to-googles-ai-naming)
 > AI is changing rapidly, and so are Google’s AI cloud products. The brand-name element “Gemini” is spreading too, into the names of completely different products. I sort out the confusion and explain why you should *not use the Gemini API*, but can use similar, related services.
 
