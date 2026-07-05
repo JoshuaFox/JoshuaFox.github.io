@@ -4,6 +4,8 @@ yiddish/where-no-man-yiddish.srt
 # project
 _site
 .sass-cache
+.bundle/
+vendor/
 .vagrant
 
 # general
