@@ -55,7 +55,7 @@ Contrast the sad, sad time during the Three Weeks before Tisha B'Av, filled with
 
 # Sin
 
-Is not חטה *chittah*, “wheat,” like unto חטא *chatta*, “sin”, and so also like unto the wicked Chitti whom we are commanded to exterminate (Devarim 7:1)? Just as the word for “sin” comes from the word for “wheat,” so too the word for “transgression,” עבירה comes from the word for “grain,” עבור. That's why, when a poetic metaphor for wickedness is needed, grain is so useful: “Those who plow iniquity and sow trouble reap it” חרשי און וזרעי עמל יקצרהו (Iyov 4:8). Is it really a metaphor when they're really the same thing?
+Is not חטה *chittah*, “wheat,” like unto חטא *chatta*, “sin”, and so also like unto the Chitti whom we are commanded to exterminate (Devarim 7:1)? Just as the word for “sin” comes from the word for “wheat,” so too does the word for “transgression” עבירה comes from the word for “grain” עבור (Yehoshua 5:11-12) That's why, when a poetic metaphor for wickedness is needed, grain is so useful: “Those who plow iniquity and sow trouble reap it” חרשי און וזרעי עמל יקצרהו (Iyov 4:8). Is it really a metaphor when they're really the same thing?
 
 On Rosh Hashanah, we symbolize throwing away our sin by throwing away our bread. [Full sin-to-bread mapping](https://www.pass.to/tgmegillah/thisnthat1TV.asp?id=105).) How different from the Kapparot, rich in protein, which do not symbolize sin but rather remove it — not thrown out, but rather eaten. 
 
