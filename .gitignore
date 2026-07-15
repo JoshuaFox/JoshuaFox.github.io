@@ -13,6 +13,7 @@ vendor/
 Thumbs.db
 thumbs.db
 
+#.Gemfile.lock
 .jekyll-metadata
 
 temp*.py
