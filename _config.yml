@@ -179,6 +179,7 @@ exclude:
   - Vagrantfile
   - code/
   - "**/*.py"
+  - vendor
 
 # prose.io config
 prose:
