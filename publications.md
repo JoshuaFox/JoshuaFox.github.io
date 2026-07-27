@@ -12,6 +12,9 @@ Here are my technical articles and talks over the years, recently about cloud an
 
 ## 2026
 
+* ["Optimizing ML costs with Gemini Enterprise Agent Platform: A FinOps methodology "](https://cloudonair.withgoogle.com/events/summit-tel-aviv-2026), Google Cloud Summit Tel Aviv.
+> Present practical strategies for optimizing artificial intelligence and machine learning (AI/ML) spending on Google Cloud using Vertex AI.
+
 * ["Fine-Grained Pod-Scaling in Kubernetes: Beyond HPA and VPA"](https://c.perfectscale.io/blog/fine-grained-pod-scaling-in-kubernetes-beyond-hpa-and-vpa)
 > Standard HPA and VPA fall short for complex workloads. Discover how multi-layered telemetry and in-place pod resizing enable precise, workload-aware Kubernetes autoscaling.
 
