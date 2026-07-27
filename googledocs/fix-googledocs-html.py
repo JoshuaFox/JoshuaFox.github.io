@@ -25,8 +25,8 @@ def insert_videoembed(html_filepath):
                 r'<iframe src="\1" width="640" height="480" allow="autoplay"></iframe>',
                 data1,
             )
-        with open(html_filepath, "wt") as fout:
-            if data1 != data2:
+        if data1 != data2:
+            with open(html_filepath, "wt") as fout:
                 fout.write(data2)
                 print("insert_videoembed wrote", html_filepath)
 
@@ -195,7 +195,7 @@ def add_rtl(filename):
 
 def generate_md(html_filepath, folder_out):
     title = os.path.basename(html_filepath).split(".")[:-1][0]
-    if not re.match(r".*[א-ת]+.*", title):
+    if not (re.match(r".*[א-ת]+.*", title) or title.startswith("Dus")):
         print("Not making markdown from", html_filepath)
     else:
         md_filepath = folder_out + "/" + title + ".md"
