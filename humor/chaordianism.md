@@ -4,7 +4,7 @@ title: "Chaordianism"
 subtitle:
 ---
 ---
-Gotta love Steve Jackson Games' _Illuminati_. In this rollicking adventure of conspiracy, secret groups maneuver to control, neutralize, and destroy each other. The Republican Party controls the Boy Sprouts; or is it the other way around?
+Gotta love Steve Jackson Games' _Illuminati_. In this rollicking adventure of conspiracy, secret groups maneuver to control, neutralize, and destroy each other. The RepublicanParty controls the Boy Sprouts; or is it the other way around?
 
 <img style="padding: 30px; align: left" src="https://www.metabunk.org/attachments/3342/" alt="" width="300"   />
 <img class="img-inset-left" src="https://www.metabunk.org/attachments/3342/" alt="" width="300"   />
