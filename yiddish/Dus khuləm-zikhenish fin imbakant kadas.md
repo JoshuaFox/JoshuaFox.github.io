@@ -27,7 +27,7 @@ lang: yi
     אָט אַן איבערשרײַבונג אין דער פֿאָנעטיק פֿון דרומדיק ייִדיש.
    </span>
    <span style='-webkit-text-decoration-skip:none;color:#1155cc;font-weight:400;text-decoration:underline;text-decoration-skip-ink:none;font-size:14pt;font-family:"Times New Roman";font-style:italic'>
-    <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish/%25D7%2593%25D7%2590%25D6%25B8%25D7%25A1%2520%25D7%2597%25D7%259C%25D7%2595%25D7%259D%25D6%25BE%25D7%2596%25D7%2595%25D7%259B%25D7%25A2%25D7%25A0%25D7%2599%25D7%25A9%2520%25D7%25A4%25D6%25BF%25D7%2595%25D7%259F%2520%25D7%2590%25D7%2595%25D7%259E%25D7%2591%25D7%2590%25D6%25B7%25D7%25A7%25D7%2590%25D6%25B7%25D7%25A0%25D7%2598%2520%25D7%25A7%25D7%2593%25D7%25AA/&amp;sa=D&amp;source=editors&amp;ust=1786881753613480&amp;usg=AOvVaw3so4IIvmwIfZczKarL3_MS" style="color:inherit;text-decoration:inherit">
+    <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish/%25D7%2593%25D7%2590%25D6%25B8%25D7%25A1%2520%25D7%2597%25D7%259C%25D7%2595%25D7%259D%25D6%25BE%25D7%2596%25D7%2595%25D7%259B%25D7%25A2%25D7%25A0%25D7%2599%25D7%25A9%2520%25D7%25A4%25D6%25BF%25D7%2595%25D7%259F%2520%25D7%2590%25D7%2595%25D7%259E%25D7%2591%25D7%2590%25D6%25B7%25D7%25A7%25D7%2590%25D6%25B7%25D7%25A0%25D7%2598%2520%25D7%25A7%25D7%2593%25D7%25AA/&amp;sa=D&amp;source=editors&amp;ust=1786882397427831&amp;usg=AOvVaw3IB_8YxvnQPuN4M4CtIb4a" style="color:inherit;text-decoration:inherit">
      דאָס גאַנצע בוך אין ייִדיש איז דאָ
     </a>
    </span>
