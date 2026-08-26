@@ -31,8 +31,24 @@ lang: yi
    </span>
   </p>
   <p dir="rtl" style='padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:14pt;padding-bottom:12pt;font-family:"Raleway";line-height:1.15;orphans:2;widows:2;padding-right:0'>
-   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:"Times New Roman";font-style:italic'>
-    דאר דואָלינגאָ־ייִדיש פּרםיעקט האָט געקליבן אַ ייִדיש מיט „חסידיש“ אַרױסרעד און כּלל־ייִדיש  דיקדוק. דאָס לגיט אױפֿן שׂכל װײַל
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:"Raleway";font-style:normal'>
+    דער דואָלינגאָ־ייִדיש פּראָיעקט האָט געקליבן אַ ייִדיש מיט „חסידישן“ אַרױסרעד און כּלל־ייִדיש דיקדוק. דאָס ליגט אױפֿן שׂכל װײַל דאָס לעבנדיקע ייִדיש װאָס מיר װילן לעבט טאַקע צװישן חסידים, אָבער מאידך גיסא, זענען מיר די ייִדישיסטן מדקדק מיטן דיקדוק און װילן עס נישט איבערלאָזן. אײן קשיא מיטן דאָזיקן צוגאַנג איז אַ דוחק פֿון לערנ־ און אײַנקוקביכער. און דערפֿאַר, צװישן אַנדערע סיבות, האָט מען אױסגעטראַכט כּלל־ייִדיש.
+   </span>
+  </p>
+  <p dir="rtl" style='padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:14pt;padding-bottom:12pt;font-family:"Raleway";line-height:1.15;orphans:2;widows:2;padding-right:0'>
+   <span>
+    ס׳איז נישטאָ קײן סטאַנדאַרדער דיאַלעקט פֿון חסידיש יִידיש— נאָך אַ מעלה פֿון כּלל־ייִדיש, אָבער אונטן קומט אַ שטיקל טעקסט אױף „דרומדיק־ייִדיש“, לױט דער שיטה פֿון פּראָפֿעסאָר דוד כּץ אין זײַן „ווילנער ווערטערבוך“,
+   </span>
+   <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline">
+    <a href="https://www.google.com/url?q=https://www.yiddishculturaldictionary.com/&amp;sa=D&amp;source=editors&amp;ust=1787775427474563&amp;usg=AOvVaw0VkCLNMycpSPvCMnHDcn-l" style="color:inherit;text-decoration:inherit">
+     דאָס ייִדיש קולטורעלע װערטערבוך
+    </a>
+   </span>
+   <span>
+    .
+   </span>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:"Raleway";font-style:normal'>
+    לײענט עס אױף אַ קול אַ סך מאָל און איר װעט שױן װערן גרײט צו רעדן חסידיש ייִדיש, כאָטשבע גענוג גוט כּדי נישט אין גאַנצן צו קלינגען װי אַ ייִדישיסט.
    </span>
   </p>
   <p dir="rtl" style='padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:14pt;padding-bottom:12pt;font-family:"Raleway";line-height:1.15;orphans:2;widows:2;padding-right:0'>
@@ -40,7 +56,7 @@ lang: yi
     אָט אַן איבערשרײַבונג אין דער פֿאָנעטיק פֿון דרומדיק ייִדיש.
    </span>
    <span style='-webkit-text-decoration-skip:none;color:#1155cc;font-weight:400;text-decoration:underline;text-decoration-skip-ink:none;font-size:14pt;font-family:"Times New Roman";font-style:italic'>
-    <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish/%25D7%2593%25D7%2590%25D6%25B8%25D7%25A1%2520%25D7%2597%25D7%259C%25D7%2595%25D7%259D%25D6%25BE%25D7%2596%25D7%2595%25D7%259B%25D7%25A2%25D7%25A0%25D7%2599%25D7%25A9%2520%25D7%25A4%25D6%25BF%25D7%2595%25D7%259F%2520%25D7%2590%25D7%2595%25D7%259E%25D7%2591%25D7%2590%25D6%25B7%25D7%25A7%25D7%2590%25D6%25B7%25D7%25A0%25D7%2598%2520%25D7%25A7%25D7%2593%25D7%25AA/&amp;sa=D&amp;source=editors&amp;ust=1787768402895166&amp;usg=AOvVaw3cWzmblqv3IpxD533GBo6_" style="color:inherit;text-decoration:inherit">
+    <a href="https://www.google.com/url?q=https://joshuafox.com/yiddish/%25D7%2593%25D7%2590%25D6%25B8%25D7%25A1%2520%25D7%2597%25D7%259C%25D7%2595%25D7%259D%25D6%25BE%25D7%2596%25D7%2595%25D7%259B%25D7%25A2%25D7%25A0%25D7%2599%25D7%25A9%2520%25D7%25A4%25D6%25BF%25D7%2595%25D7%259F%2520%25D7%2590%25D7%2595%25D7%259E%25D7%2591%25D7%2590%25D6%25B7%25D7%25A7%25D7%2590%25D6%25B7%25D7%25A0%25D7%2598%2520%25D7%25A7%25D7%2593%25D7%25AA/&amp;sa=D&amp;source=editors&amp;ust=1787775427475010&amp;usg=AOvVaw3co61ktNmb6xXFhRmbs1J8" style="color:inherit;text-decoration:inherit">
      דאָס גאַנצע בוך אין ייִדיש איז דאָ
     </a>
    </span>
@@ -57,8 +73,13 @@ lang: yi
      בײַם סוף
     </a>
    </span>
-   <span style='font-weight:400;font-family:"Times New Roman";font-style:italic'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:"Times New Roman";font-style:italic'>
     .
+   </span>
+  </p>
+  <p dir="rtl" style='padding-top:12pt;color:#000000;padding-left:0;font-size:14pt;padding-bottom:12pt;line-height:1.15;margin-right:0;margin-left:30pt;font-family:"Raleway";margin-top:0;orphans:2;margin-bottom:0;widows:2;padding-right:0'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:"Times New Roman";font-style:italic'>
+    כּצס נאָטאַציע איז קלאָר: ə באַטײַט דעם שװאַ־נע קלאַנג, און דאָס צװײפּינטל באַטײַט אַ לאַנגען װאָקאַל. דער אַקוט און גראַװיס באַטײַטן טראָפּ און צװײטיקן טראָפּ.
    </span>
   </p>
   <p dir="ltr" style='padding-top:12pt;margin:0;color:#000000;padding-left:0;font-size:14pt;padding-bottom:12pt;font-family:"Raleway";line-height:1.15;orphans:2;widows:2;padding-right:0'>
