@@ -11,8 +11,12 @@ Here are my technical articles and talks over the years, recently about cloud an
 # On Software and the Cloud
 
 ## 2026
-* ["Kubernetes Scaling for Savings and Stability: Beyond HPA and VPA](https://youtu.be/me6U2iMklVw?si=AIvKwSmcQB-SiuSC) Conf42 Observability.
-> Learn how to unify the different types of scalars across multiple dimensions of metrics.
+
+* "Optimizing AI Costs with SageMaker and Bedrock: A FinOps Methodology", AWS CEE Budapest.
+> Techniques and principles for coat optimization in AI and ML, including cost attribution on the level of the task, not the token; and eBPF inspection for no-tagging allocation. 
+
+* ["Kubernetes Scaling for Savings and Stability: Beyond HPA and VPA"](https://youtu.be/me6U2iMklVw?si=AIvKwSmcQB-SiuSC), Conf42 Observability.
+> Learn how to unify the different types of autoscalers across multiple dimensions of metrics.
 
 * ["Optimizing ML costs with Gemini Enterprise Agent Platform: A FinOps methodology "](https://cloudonair.withgoogle.com/events/summit-tel-aviv-2026), Google Cloud Summit Tel Aviv.
 > Present practical strategies for optimizing artificial intelligence and machine learning (AI/ML) spending on Google Cloud using Vertex AI.
