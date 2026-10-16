@@ -12,6 +12,12 @@ Here are my technical articles and talks over the years, recently about cloud an
 
 ## 2026
 
+
+* ["Don’t Lose Your GPUs During Maintenance on Google Cloud: Secure Capacity with GCP Reservations
+"](https://www.doit.com/blog/dont-lose-your-gpus-during-maintenance-on-google-cloud)
+> Yet you can lose your GPUs on  maintenance of underlying hardware, or when you manually stop your instance to perform routine tasks. Here is how to avoid that.
+
+
 * "Optimizing AI Costs with SageMaker and Bedrock: A FinOps Methodology", AWS CEE Budapest.
 > Techniques and principles for coat optimization in AI and ML, including cost attribution on the level of the task, not the token; and eBPF inspection for no-tagging allocation. 
 
