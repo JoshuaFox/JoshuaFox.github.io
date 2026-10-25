@@ -53,8 +53,8 @@ Here are my technical articles and talks over the years, recently about cloud an
 * ["Taking Machine Learning to Production: Cloud MLOps for Speed and Efficiency"](https://engineering.doit.com/taking-machine-learning-to-production-4b6c99383762)
 > The article version of my talk from DevFest and SRE Day (see below).
 
-* "Cloud MLOps for Speed and Efficiency", DevFest Bucharest, SRE Day London, and SRE Day Paris; earlier multicloud version given to the Israel NLP Meetup at Microsoft. [Video of the DevFest talk](https://youtu.be/bvZThtEJhYs) and of the [SRE Day talk](https://www.youtube.com/watch?v=jmjOHOeK0MA&list=PL2CAJ_jforK6Pp2BUGfwKKlBCHRWnsmgk&index=12&ab_channel=SREday).
-> I work with startups that build on an algorithm that they innovated, but hit a scaling wall as they succeed. I show how cloud MLOps platforms like Vertex provide a full spectrum of MLOps services, and how to decide when to leverage each.
+* "Cloud MLOps for Speed and Efficiency", DevFest Bucharest, SRE Day London, and SRE Day Paris; earlier multicloud version given to the Israel NLP Meetup at Microsoft. Video of the [SRE Day talk](https://www.youtube.com/watch?v=jmjOHOeK0MA&list=PL2CAJ_jforK6Pp2BUGfwKKlBCHRWnsmgk&index=12&ab_channel=SREday).
+> I work with many startups that are building on an algorithm that they innovated, but hit a scaling wall as they succeed. I show how cloud MLOps platforms like Vertex provide a full spectrum of MLOps services, and how to decide when to leverage each.
 
 * ["DoiT-Easily: Simplifying Your Google Marketplace Vendor Development"](https://engineering.doit.com/doit-easily-7bd8b75207a9)
 > How to use the DoiT-Easily open-source project as a basis for developing your Google Marketplace offerings.
