@@ -13,6 +13,9 @@ Here are my technical articles and talks over the years, recently about cloud an
 ## 2026
 
 
+* ["Optimizing ML costs with Gemini Enterprise Agent Platform: A FinOps methodology "](https://cloudonair.withgoogle.com/events/summit-tel-aviv-2026), ever-updated versions: Google Cloud Summit Tel Aviv; Google Dev Group Gothenburg Sweden
+> A practical GenAI FinOps methodology specifically tailored for Google Cloud's Gemini Enterprise Agent Platform. We will cover how to achieve precise cost attribution using native Vertex AI tags, and how to utilize eBPF for deep, kernel-level network tracking when shared LLM gateways or Kubernetes clusters obscure traffic sources.  
+
 * ["Don’t Lose Your GPUs During Maintenance on Google Cloud: Secure Capacity with GCP Reservations
 "](https://www.doit.com/blog/dont-lose-your-gpus-during-maintenance-on-google-cloud)
 > Yet you can lose your GPUs on  maintenance of underlying hardware, or when you manually stop your instance to perform routine tasks. Here is how to avoid that.
@@ -23,9 +26,6 @@ Here are my technical articles and talks over the years, recently about cloud an
 
 * ["Kubernetes Scaling for Savings and Stability: Beyond HPA and VPA"](https://youtu.be/me6U2iMklVw?si=AIvKwSmcQB-SiuSC), Conf42 Observability.
 > Learn how to unify the different types of autoscalers across multiple dimensions of metrics.
-
-* ["Optimizing ML costs with Gemini Enterprise Agent Platform: A FinOps methodology "](https://cloudonair.withgoogle.com/events/summit-tel-aviv-2026), Google Cloud Summit Tel Aviv.
-> Present practical strategies for optimizing artificial intelligence and machine learning (AI/ML) spending on Google Cloud using Vertex AI.
 
 * ["Fine-Grained Pod-Scaling in Kubernetes: Beyond HPA and VPA"](https://c.perfectscale.io/blog/fine-grained-pod-scaling-in-kubernetes-beyond-hpa-and-vpa)
 > Standard HPA and VPA fall short for complex workloads. Discover how multi-layered telemetry and in-place pod resizing enable precise, workload-aware Kubernetes autoscaling.
