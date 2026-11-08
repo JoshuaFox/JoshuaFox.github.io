@@ -1,11 +1,11 @@
 ---
 layout: page
 title:  Hashgocha Protis
-subtitle: Is _your_ kitchen kosher?
+subtitle: Do you really keep kosher?
 tags: [humor]
 ---
 
-Is your kitchen kosher? Show it proudly with a Kashrus certificate from Hashgocha Protis.™
+Is _your_ kitchen kosher? Show it proudly with a Kashrus certificate from Hashgocha Protis.™
 
 Of course you wouldn’t eat at a neighbor’s house without a Kashrus certificate. Would your neighbor eat at yours?
 
@@ -21,4 +21,4 @@ Don’t be left behind! You wouldn’t want to be the last family in the neighbo
 
 Shuls can sign up as partners. Today, when people try to bring food for Kiddush or a simcha, anyone can bring the bacon right in — to a shul, no less. So shuls rely on “who you know” — favoritism! Is that a way for Jews to treat each other? Instead, shuls join with Hashgocha Protis to offer an objective, neutral way to distinguish the Jews you trust.
 
-It’s tradition! Two hundred years ago, there was no Ⓤ or flowery Haredi symbols. Jews knew which businesses they trusted in their communities. Starting with butchers in large cities, official Hashgocha gradually became a must. Now, Hashgocha Protis extends the opportunity to all Am Yisroel.
+It’s tradition! Two hundred years ago, there was no Ⓤ or flowery Haredi symbols. Jews knew which businesses they trusted in their communities. Starting with butchers in large cities, official Hashgocha gradually became a must. Now, Hashgocha Protis extends the opportunity to Klal Yisroel.
